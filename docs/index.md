@@ -1,4 +1,4 @@
-# Method to the Madness of DynastyFF
+## Finding method in the madness of DynastyFF
 
 Hi, I'm Tan. I currently run [DynastyDashboard.com](http://www.dynastydashboard.com) and publish Excel tools and value charts for DynastyFF. 
 
