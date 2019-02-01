@@ -40,3 +40,27 @@ $header-bg-color-secondary: #4286f4;
     font-size: 1rem;
   }
 }
+.main-content {
+  word-wrap: break-word;
+
+  :first-child {
+    margin-top: 0;
+  }
+
+  @include large {
+    max-width: 64rem;
+    padding: 0.5rem 6rem;
+    margin: 0 auto;
+    font-size: 1.1rem;
+  }
+
+  @include medium {
+    padding: 0.5rem 4rem;
+    font-size: 1.1rem;
+  }
+
+  @include small {
+    padding: 0.25rem 1rem;
+    font-size: 1rem;
+  }
+} 

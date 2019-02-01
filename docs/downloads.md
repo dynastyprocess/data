@@ -1,6 +1,6 @@
 # Links and Downloads
 
-**Database** - [CSV format](https://github.com/tanho63/dynastyprocess/blob/master/files/database.csv) and [Excel workbook format](https://github.com/tanho63/dynastyprocess/blob/master/files/database-excel-macro.xlsm). 
+**Database** - [CSV format](https://github.com/tanho63/dynastyprocess/blob/master/files/database.csv), [Google Sheets web app](https://docs.google.com/spreadsheets/d/1akIogYK9vXDcJQH440LCIJU_2ExKiB4MPfODVIM-0ZE/copy) and [Excel workbook format](https://github.com/tanho63/dynastyprocess/blob/master/files/database-excel-macro.xlsm). 
 
 My ongoing project for the last little while - this database aggregates a ton of data, including:
 
