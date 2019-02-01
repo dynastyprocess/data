@@ -1,7 +1,10 @@
-Hi, I'm Tan. You might know me as the person behind [DynastyDashboard.com](http://www.dynastydashboard.com) where I publish Excel tools and value charts for DynastyFF. 
+---
+layout: default
+title: DynastyProcess.com
+---
+Hi, I'm Tan. You might know me as the person behind [DynastyDashboard.com](http://www.dynastydashboard.com), where I published Excel tools and value charts for DynastyFF. 
 
-
-DynastyProcess.com will be the future home of all of those tools as well as being a home for my writing and analysis as well. I think the name change is symbolic of some of the directional changes I'd like to make to my work - it's no longer only about providing customized information and tools but instead also incorporating thoughts on strategy, game theory, data, rules, and more. 
+DynastyProcess.com is the new home of my work: containing of all of those tools as well as being a home for my writing and analysis. The name change is symbolic of some of the directional changes I'd like to make - expanding from a focus on customized information and tools to also incorporating thoughts on strategy, game theory, data, rules, and more. 
 
 # Links and Downloads
 
@@ -16,7 +19,7 @@ My ongoing project for the last little while - this database aggregates a ton of
 - Draft athletic data from RAS (shoutout to Kent Lee Platte [@MathBomb](https://twitter.com/MathBomb))
 - MFL/Sleeper/nflGSIS/Rotoworld/ESPN/PFR IDs for easy extensions to other things! 
 
-You can connect to the raw CSV posted on GitHub via a Google Sheet or any other data-import tool and it'll automatically update when I update the data :) Future extensions: college market share/statistics, some kind of prospect film grade, expected fantasy points, and more.
+You can connect to the raw CSV posted on GitHub via a Google Sheet or any other data-import tool and it'll automatically update when I update the data :smiley: Future extensions: college market share/statistics, some kind of prospect film grade, expected fantasy points, and more.
 
 [**FantasyPros Weekly Scrapes**](https://github.com/tanho63/dynastyprocess/tree/master/files/fantasypros%20weekly%20scrapes) - this is a weekly scrape of FantasyPros ECR pages - eventually to be used for tracking risers and fallers!
 
