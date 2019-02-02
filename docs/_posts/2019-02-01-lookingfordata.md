@@ -42,7 +42,7 @@ These CSVs give you access to ~45000 plays and 100 columns of data for the NFL r
 
 I realized after this that you could probably get to very similar efficiency calculations simply by accessing the FFStatistics database and using a few filters. 
 
-1. https://www.ffstatistics.com/tools-and-data/
+1. [https://www.ffstatistics.com/tools-and-data/](https://www.ffstatistics.com/tools-and-data/)
 
 2. FFStatistics Database (hover) -> Running Back. Select Columns:
 
@@ -50,8 +50,10 @@ I realized after this that you could probably get to very similar efficiency cal
 
 3. and sort/filter to your heart's content!
 
-(There used to be a "download data" option but I'm wondering if that's been removed... :thinking-face:)
+(There used to be a "download data" option but I'm wondering if that's been removed... :thinking:)
 
 ## Conclusion
 
-At the end of the day, NFL data is much more available than it used to be - so all we need to do is find out how to get at it! PowerQuery is my favourite language/program to use, but there are certainly other ways to get after it (R, Python, or even just web-based access like FFStatistics). Hope you enjoyed my inaugural blog post and I'm happy to answer any questions on Twitter [@_TanHo](https://www.twitter.com/_TanHo). 
+At the end of the day, NFL data is much more available than it used to be - so all we need to do is find out how to get at it! PowerQuery is my favourite language/program to use, but there are certainly other ways (R, Python, or even just web-based access like FFStatistics). I'm not quite sure why I leapt to play-by-play data this time (it may be because I was just modifying the code that [generated this tweet](https://twitter.com/_TanHo/status/1088520821109338114?s=20)) - hindsight me says that ffstatistics would have been much easier.
+
+Hope you enjoyed my inaugural blog post and I'm happy to answer any questions on Twitter [@_TanHo](https://www.twitter.com/_TanHo). 
