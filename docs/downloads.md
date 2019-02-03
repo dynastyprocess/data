@@ -21,9 +21,9 @@
 **[Rookie Auction Helper](/downloads/rookieauctionhelper)**
 
 ### League Analysis Tools
-**[Potential Points Calculators](/downloads/potentialpoints)**
+**[Potential Points Calculators](/downloads/potentialpoints)** - Excel sheets I built to help calculate Potential Points for ESPN and Yahoo leagues. Requires Excel for Windows and PowerQuery. 
 
-**[Win Probability Tools](/downloads/winprobability)**
+**[Win Probability Tools](/downloads/winprobability)** - an Excel sheet I built as a fun experiment to help guess at expected regular-season finishes in MFL leagues. Uses All-Play Win Percentage as an estimate of team strength. 
 
 ### News
 **[Slack Aggregator](/downloads/slack)** - a Slack Channel I made that aggregates RSS feeds for NFL news, draft/film prospects, stats/data analytics, and more.
