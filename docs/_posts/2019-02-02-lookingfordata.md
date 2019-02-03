@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Learning Where To Look For NFL Data
+author: tan
 category: Data
 ---
 

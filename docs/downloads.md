@@ -1,14 +1,31 @@
-# Links and Downloads
+# Downloads
 
-[**DynastyProcess.com Database**](/downloads/database) - an attempt to aggregate all of the possible sources of player-data. Also good for linking to player IDs! 
+### Databases
 
-[**FantasyPros Weekly Scrapes**](https://github.com/tanho63/dynastyprocess/tree/master/files/fantasypros%20weekly%20scrapes) - this is a weekly scrape of FantasyPros ECR pages - eventually to be used for tracking risers and fallers!
+[**DynastyProcess.com Database**](/downloads/database) - an attempt to aggregate all possible sources of dynasty-relevant player-data. Also good for linking player IDs! 
 
-[**Player Market Values**](https://dynastydashboard.tanho.ca/downloads/values) - this is the classic set of DynastyDashboard values posted as a Google Sheet. Assumes standard dynasty formats. 
+[**FantasyPros Weekly Scrapes**](/downloads/fpscrapes) - this is a weekly scrape of FantasyPros ECR pages - eventually to be used for tracking risers and fallers!
 
-[**Trade Calculator**](https://dynastydashboard.tanho.ca/downloads/calculator) - this is a trade calculator based on the Player Market Values sheet. 
+### Player Values
 
-The downloads page at [**DynastyDashboard.com**](http://www.dynastydashboard.com/downloads) still has the same tools as before (I'll write up descriptions and move more links over here later.)
+[**Market Values**](/downloads/values) - this is the classic set of DynastyDashboard values posted as a Google Sheet. Assumes standard dynasty formats. Algorithm is given so that you can tweak it to your liking - although no promises that your liking will match your leaguemates. Can be linked to other Google Sheets via IMPORTRANGE. 
 
+[**Trade Calculator**](/downloads/calculator) - this is a simple Google Sheets-based trade calculator based on the Market Values sheet. 
+
+### Draft/Auction Tools
+
+**[Startup Auction Helper](/downloads/startupauction)**
+
+**[Rookie Draft Tracker](/downloads/rookiedrafttracker)**
+
+**[Rookie Auction Helper](/downloads/rookieauctionhelper)**
+
+### League Analysis Tools
+**[Potential Points Calculators](/downloads/potentialpoints)**
+
+**[Win Probability Tools](/downloads/winprobability)**
+
+### News
+**[Slack Aggregator](/downloads/slack)** - a Slack Channel I made that aggregates RSS feeds for NFL news, draft/film prospects, stats/data analytics, and more.
 
 More to come!
