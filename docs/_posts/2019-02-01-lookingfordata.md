@@ -22,7 +22,7 @@ No, I didn't time myself (I just checked the timestamps between my Reddit commen
 
 The gold standard of free NFL data sources is the [JSON data feed](http://www.nfl.com/liveupdate/game-center/2012010101/2012010101_gtd.json) that powers the [NFL.com GameCenter feed you're probably familiar with](https://www.nfl.com/gamecenter/2019020300/2018/POST22/patriots@rams?icampaign=scoreStrip-globalNav-2019020300). I like to reference Ron Yurko's [nflscrapR.csv play-by-play data files](https://github.com/ryurko/nflscrapR-data), which is essentially a cleaned up CSV version of that data. (Sidenote while I'm discussing this - the [actual nflscrapR R package](https://github.com/maksimhorowitz/nflscrapR) lets you access the data live/real-time, but that's usually overkill for my purposes + I don't have a background in R programming. I'll happily just pull from the CSV's). 
 
-These CSVs give you access to ~45000 plays and 100 columns of data for the NFL regular season. This would be incredibly daunting if you were to use Excel formulas to do your analysis - but I have better tools at my disposal like PowerQuery, so I shall wander in with no fear! Here's a video for you to follow along with: 
+These CSVs give you access to ~ 45000 plays and 100 columns of data for the NFL regular season. This would be incredibly daunting if you were to use Excel formulas to do your analysis - but I have better tools at my disposal like PowerQuery, so I shall wander in with no fear! Here's a video for you to follow along with:
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.327%;"><iframe src="https://streamja.com/embed/EmAb" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;"></iframe></div>
 
