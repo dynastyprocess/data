@@ -20,4 +20,7 @@ title: Writing
     {% endfor %}
   </div>
 {% endfor %}
+
 </div>
+
+[*RSS feed here.*](http://dynastyprocess.com/feed.xml)
