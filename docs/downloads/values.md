@@ -36,7 +36,18 @@ Unfortunately for the 2QB contingent of dynasty fantasy owners, FantasyPros does
 I've written a number of Google Sheets that reference these values, including a Trade Calculator, that automatically update to the latest version of these values as they are updated. You can build your own Google Sheets that reference these values by using the IMPORTRANGE function built into Google Sheets.  
 
 #### Can you give us the specific algorithm you use?
-Sure! It's `Value = 10500 * e^(FP ECR*-0.0235)`. If customizing for yourself, you can modify the valuation factor (i.e. -0.0235) to be higher or lower depending on how your league values depth (e.g. -0.0225 would value depth more highly and -0.0245 values studs more highly).
+Sure! It's `Value = 10500 * e^(FP ECR*-0.0235)`. If customizing for yourself, you can modify the valuation factor (i.e. -0.0235) to be higher or lower depending on how your league values depth (e.g. -0.0225 would value depth more highly and -0.0245 values studs more highly). Be careful with big adjustments - exponential decay functions make fractions of decimals have a large impact! 
+
+The regression calculations (created on a whim in 2017 and not since adjusted) are:
+
+	`QB = 0.0122*([1QB ECR]^1.7139)`
+
+	`RB = 1.539*([1QB ECR]^0.9626)`
+
+	`WR = 1.4948*([1QB ECR]^0.9689)`
+	
+	`TE = 1.6367*([1QB ECR]^0.9498)`
+
 
 #### Where are some of the weak spots of this kind of value system?
 This valuation system relies on some bedrock resources and assumptions. 

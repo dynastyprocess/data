@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: Downloads
+  link: /downloads
+- name: Writing
+  link: /writing
+- name: Support Me!
+  link: /support

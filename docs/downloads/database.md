@@ -7,7 +7,7 @@ title: DynastyProcess.com Database
 
 ## Download
 
-[Web App](https://dynastyprocess.shinyapps.io/dynastyprocess) > a web app created by Joe Sydlowski! 
+[Web App](https://dynastyprocess.shinyapps.io/dynastyprocess) > a web app created by [Joe Sydlowski](http://twitter.com/JoeSydlowskiFF)! 
 
 [CSV format](https://github.com/tanho63/dynastyprocess/blob/master/files/database.csv) > can be linked to by any data import tool (make sure you link to the raw data!)
 
@@ -15,7 +15,7 @@ title: DynastyProcess.com Database
 
 ## About 
 
-I've seen a lot of fantasy statistical databases ([FFStatistics.com](http://ffstatistics.com) is a great free one) but none tailored specifically to dynasty. This database is an attempt to aggregate the wide variety of information dynasty owners should have easy access to. 
+I've seen a lot of fantasy statistical databases ([FFStatistics.com](https://ffstatistics.com) is a great free one) but none tailored specifically to dynasty. This database is an attempt to aggregate the wide variety of information dynasty owners should have easy access to. 
 
 #### Already Connected 
 - FantasyPros ECR for dynasty and redraft

@@ -10,11 +10,6 @@ plugins:
   - jemoji
   - jekyll-feed
 authors:
-  tan:
+  tan: 
     name: Tan Ho
-    display_name: Tan Ho
-    gravatar: 6683ca789ddebb86db7de22acba54094
-    email: tan@dynastyprocess.com
-    web: http://www.twitter.com/_TanHo
-    twitter: _TanHo
-    github: tanho63
+    url: http://www.twitter.com/_TanHo
