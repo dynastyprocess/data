@@ -8,7 +8,7 @@ permalink: /apps
 
 #### *[aka "LOOK AT THE SHINY!"]*
 
-Joe Sydlowski ()[@JoeSydlowskiFF](http://twitter.com/JoeSydlowskiFF)), a great friend of mine, has done some incredible work building web apps using DynastyProcess data.
+Joe Sydlowski ([@JoeSydlowskiFF](http://twitter.com/JoeSydlowskiFF)), a great friend of mine, has done some incredible work building web apps using DynastyProcess data.
 
 ### Database
 
@@ -26,4 +26,4 @@ Web App: [apps.dynastyprocess.com/arbitrage](http://apps.dynastyprocess.com/arbi
 
 Details: [main Arbitrage App info page](/downloads/arbitrage)
 
-This app uses a Euclidean distance algorithm to help find the most comparable players based on criteria selected from the DynastyProcess database. 
+This app uses a Euclidean distance algorithm to help find the most comparable players based on criteria selected from the DynastyProcess database.
