@@ -7,24 +7,24 @@ title: DynastyProcess.com Database
 
 ## Download
 
-[Web App](https://dynastyprocess.shinyapps.io/dynastyprocess) > a web app created by [Joe Sydlowski](http://twitter.com/JoeSydlowskiFF)! 
+[Web App](http://apps.dynastyprocess.com/database) > a web app created by [Joe Sydlowski](http://twitter.com/JoeSydlowskiFF)!
 
 [CSV format](https://github.com/tanho63/dynastyprocess/blob/master/files/database.csv) > can be linked to by any data import tool (make sure you link to the raw data!)
 
 [Excel workbook format](https://github.com/tanho63/dynastyprocess/blob/master/files/database-excel-macro.xlsm) > has all of the API connections, so you can refresh the data for yourself if you're feeling impatient!
 
-## About 
+## About
 
 I've seen a lot of fantasy statistical databases ([FFStatistics.com](https://ffstatistics.com) is a great free one) but none tailored specifically to dynasty. This database is an attempt to aggregate the wide variety of information dynasty owners should have easy access to. 
 
-#### Already Connected 
+#### Already Connected
 - FantasyPros ECR for dynasty and redraft
 - 2018 AirYards.com data
 - Spotrac contract data
 - 2018 Snap Counts from Pro-Football-Reference
 - Draft athletic data from RelativeAthleticScores.com (shoutout to Kent Lee Platte [@MathBomb](https://twitter.com/MathBomb))
 
-...and because this database can't always aggregate every last source of data, it also includes playerIDs for MFL/Sleeper/nflGSIS/Rotoworld/ESPN/PFR IDs for easy extensions and additions! 
+...and because this database can't always aggregate every last source of data, it also includes playerIDs for MFL/Sleeper/nflGSIS/Rotoworld/ESPN/PFR IDs for easy extensions and additions!
 
 #### Possible Extensions
 - College Production Statistics (Dominator Ratings, Breakout Ages, Market Shares)
