@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Potential Points Calculators
+permalink: /potentialpoints
 ---
 
 # Potential Points Calculators
@@ -11,6 +12,6 @@ title: Potential Points Calculators
 
 If you haven't heard me wax poetic about using potential points as being the best way to determine draft order, you're probably lucky :smirk:
 
-In any case, these Excel sheets are made to help you calculate potential points for ESPN and Yahoo leagues (tested for 2018). 
+In any case, these Excel sheets are made to help you calculate potential points for ESPN and Yahoo leagues (tested for 2018).
 
 **They require Excel for Windows and the PowerQuery plugin**. If you're not sure what that is, check out [ExcelCampus's guide here](https://www.excelcampus.com/install-power-query/). 									

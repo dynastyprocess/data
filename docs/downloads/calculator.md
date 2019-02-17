@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Trade Calculator
+permalink: /calculator
 ---
 
 # Trade Calculator
@@ -19,5 +20,5 @@ A "Fudge Factor" is used to help create a window where the trade is essentially 
 
 #### What is the Trade Wizard?
 
-I originally created the Trade Wizard to help identify targets for package deals (many-to-one). It'll identify potential trade targets that are up to [Variance Factor]% more or less than the package total. 
+I originally created the Trade Wizard to help identify targets for package deals (many-to-one). It'll identify potential trade targets that are up to [Variance Factor]% more or less than the package total.
 A popular axiom for dynasty owners is that a dollar is worth more than five quarters, which is to say that one elite player is worth more than five role players that theoretically add up to the same value. To account for this, there is a [Package Penalty]% that reduces the upper and lower limits of player targets based on the number of players in a package.

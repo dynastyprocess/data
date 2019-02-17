@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Arbitrage App
+permalink: /arbitrage
 ---
 # Arbitrage App
 
@@ -11,7 +12,7 @@ title: Arbitrage App
 > *Which players are similar to X player, and are they cheaper or more expensive?*
 
 ### About
-Inspired by similar projects found at [RotoViz](https://www.rotoviz.com), this app uses Euclidean distance-minimization to find the most similar five (or ten) players based on selected criteria from the [DynastyProcess database](/downloads/database). This, coupled with the FantasyPros consensus ranks, helps gives some objective data as to a) whether you should buy/sell a certain player and b) what alternatives you might have to them.
+Inspired by similar projects found at [RotoViz](https://www.rotoviz.com), this app uses Euclidean distance-minimization to find the most similar five (or ten) players based on selected criteria from the [DynastyProcess database](/database). This, coupled with the FantasyPros consensus ranks, helps gives some objective data as to a) whether you should buy/sell a certain player and b) what alternatives you might have to them.
 
 ### Some Suggested Combinations
 

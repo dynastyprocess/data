@@ -1,10 +1,11 @@
 ---
 layout: default
 title: MFL Win Probability Calculator
+permalink: /winprobability
 ---
 # MFL Win Probability Calculator
 
-### [Download here](https://github.com/tanho63/dynastyprocess/blob/master/files/winprobability-mfl.xlsx)
+### [Download here](https://github.com/tanho63/dynastyprocess/blob/master/files/workbooks/winprobability-mfl.xlsx)
 
 ## About
 
@@ -16,6 +17,6 @@ So I was bored one day at work and decided that it'd be fun to build a tool to e
 
 `Team All Play Win % / (Team AP% + Opponent AP%) = Win Probability %`
 
-Summing this up for the remainder of the season and added to the existing win totals gives us the win projection. 
+Summing this up for the remainder of the season and added to the existing win totals gives us the win projection.
 
 I thought this was a useful way to give some insight into the playoff picture at midseason in a somewhat systematic way. It also gave me some opportunity to shit-talk my leaguemates. :smirk:
