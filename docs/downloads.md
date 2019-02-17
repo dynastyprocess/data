@@ -2,17 +2,17 @@
 
 ## Databases
 
-[**DynastyProcess.com Database**](/downloads/database) - an attempt to aggregate all possible sources of dynasty-relevant player-data. Also good for linking player IDs!
+[**DynastyProcess.com Database**](/database) - an attempt to aggregate all possible sources of dynasty-relevant player-data. Also good for linking player IDs!
 
-[**Arbitrage App**](/downloads/arbitrage) - an app built to help find comparable players based on any criteria in the DynastyProcess database.
+[**Arbitrage App**](/arbitrage) - an app built to help find comparable players based on any criteria in the DynastyProcess database.
 
-[**FantasyPros Weekly Scrapes**](/downloads/fpscrapes) - this is a weekly scrape of FantasyPros ECR pages - eventually to be used for tracking risers and fallers!
+[**FantasyPros Weekly Scrapes**](/fpscrapes) - this is a weekly scrape of FantasyPros ECR pages - eventually to be used for tracking risers and fallers!
 
 ## Player Values
 
-[**Market Values**](/downloads/values) - this is the classic set of DynastyDashboard values posted as a Google Sheet. Assumes standard dynasty formats. Algorithm is given so that you can tweak it to your liking - although no promises that your liking will match your leaguemates. Can be linked to other Google Sheets via IMPORTRANGE.
+[**Market Values**](/values) - this is the classic set of DynastyDashboard values posted as a Google Sheet. Assumes standard dynasty formats. Algorithm is given so that you can tweak it to your liking - although no promises that your liking will match your leaguemates. Can be linked to other Google Sheets via IMPORTRANGE.
 
-[**Trade Calculator**](/downloads/calculator) - this is a simple Google Sheets-based trade calculator based on the Market Values sheet.
+[**Trade Calculator**](/calculator) - this is a simple Google Sheets-based trade calculator based on the Market Values sheet.
 
 ## Draft/Auction Tools
 
@@ -23,11 +23,11 @@
 **[Rookie Auction Tracker](https://docs.google.com/spreadsheets/d/1TqGKcoJHTQqtC6pBBlKsDd8g24BVBkpsfug6z0QyK10/copy)** - similar to Rookie Draft Tracker but for rookie auctions held on a chat server. Keeps track of budget and players taken, set to view-only and share with league. No timer function is included - not a lot of great ways to do that cleanly, but I can work on it if someone really needs help.
 
 ## League Analysis Tools
-**[Potential Points Calculators](/downloads/potentialpoints)** - Excel sheets I built to help calculate Potential Points for ESPN and Yahoo leagues. Requires Excel for Windows and PowerQuery.
+**[Potential Points Calculators](/potentialpoints)** - Excel sheets I built to help calculate Potential Points for ESPN and Yahoo leagues. Requires Excel for Windows and PowerQuery.
 
-**[Win Probability Tools](/downloads/winprobability)** - an Excel sheet I built as a fun experiment to help guess at expected regular-season finishes in MFL leagues. Uses All-Play Win Percentage as an estimate of team strength.
+**[Win Probability Tools](/winprobability)** - an Excel sheet I built as a fun experiment to help guess at expected regular-season finishes in MFL leagues. Uses All-Play Win Percentage as an estimate of team strength.
 
 ## News
-**[Slack Aggregator](/downloads/slack)** - a Slack Channel I made that aggregates RSS feeds for NFL news, draft/film prospects, stats/data analytics, and more.
+**[Slack Aggregator](/slack)** - a Slack Channel I made that aggregates RSS feeds for NFL news, draft/film prospects, stats/data analytics, and more.
 
 More to come!
