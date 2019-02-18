@@ -14,11 +14,12 @@ permalink: /tools
 
 [**FantasyPros Weekly Scrapes**](/fpscrapes) - this is a weekly scrape of FantasyPros ECR pages - eventually to be used for tracking risers and fallers!
 
+## Trade Calculators
+[**Trade Calculator**](/calculator) - this is a simple Google Sheets-based trade calculator based on the Market Values sheet.
+
 ## Player Values
 
 [**Market Values**](/values) - this is the classic set of DynastyDashboard values posted as a Google Sheet. Assumes standard dynasty formats. Algorithm is given so that you can tweak it to your liking - although no promises that your liking will match your leaguemates. Can be linked to other Google Sheets via IMPORTRANGE.
-
-[**Trade Calculator**](/calculator) - this is a simple Google Sheets-based trade calculator based on the Market Values sheet.
 
 ## Draft/Auction Tools
 
