@@ -11,7 +11,7 @@ February 18, 2019
 
 ![Leader of the PAC logo](/assets/images/pac.jpg)
 
-In August 2018 [Justin Freeman](http://www.twitter.com/JustinFreeman18) ran an open projections contest called Leader of the PAC, attracting some amazing fantasy professionals including. Tempted by the thought of putting my projections to the test, I also entered ... and finished **9th out of 31** - ahead of all three of them!  This post is an accounting of exactly how I came up with the projections - the method may surprise you! (shameless Buzzfeed moment :smirk:)
+In August 2018 [Justin Freeman](http://www.twitter.com/JustinFreeman18) ran an open projections contest called Leader of the PAC, attracting amazing fantasy professionals including some personal idols like Mike Clay, Anthony Amico, and Peter Howard. Tempted by the thought of putting my projections to the test, I also entered ... and finished **9th out of 31** - ahead of all three of them!  This post is an accounting of exactly how I came up with the projections - the method may surprise you! (shameless Buzzfeed moment :smirk:)
 
 
 ## The Usual Process of Projections
