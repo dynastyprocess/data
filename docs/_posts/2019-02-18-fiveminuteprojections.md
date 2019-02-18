@@ -7,6 +7,7 @@ category: Projections
 
 # Five Minute Projections: the Wisdom of Crowds at Work
 [*alternative title: How I Once Beat Mike Clay in a Projections Contest With* ***~Zero Research***]
+
 February 18, 2019
 
 ![Leader of the PAC logo](/assets/images/pac.jpg)
