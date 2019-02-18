@@ -23,7 +23,7 @@ Despite this being an open contest against fantasy professionals, it doesn't sur
 - Coach abilities, tendencies, and player-ability-opinions (run/pass ratio, overall play volume, blocking schemes, unexplainable reasons as to why Baker Mayfield and Nick Chubb sat on the bench for as long as they did!),
 - Injury risk
 - Same-team defensive player/coaching ability
-- Strength-of-opponent offense and defense
+- Strength-of-opponent offense
 - Strength-of-opponent defense
 - and more.
 
