@@ -8,9 +8,9 @@ Hi, I'm Tan. You might know me as the person behind DynastyDashboard.com, where 
 
 I'm also super stoked to include some fantastic web-apps built by Joe Sydlowski ([@JoeSydlowskiFF](http://twitter.com/JoeSydlowskiFF)) based on the data!
 
-#### Quick Links: [Database](/database/) | [Values](/values) | [Calculator](/calculator/)
+#### Quick Links: [Database](/database) | [Values](/values) | [Calculator](/calculator)
 
-# Featured Project: [Database](/database/)
+# Featured Project: [Database](/database)
 #### > [Web App](http://apps.dynastyprocess.com/database), [CSV](https://github.com/tanho63/dynastyprocess/blob/master/files/database.csv), [Excel workbook](https://github.com/tanho63/dynastyprocess/blob/master/files/database-excel-macro.xlsm)
 
 My ongoing project for the last little while - this database aggregates a ton of data, including:
