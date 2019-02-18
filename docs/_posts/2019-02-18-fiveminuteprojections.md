@@ -36,15 +36,15 @@ If you're doing the full dive into these factors, you might end up with a detail
 
 1) I downloaded a database of recent player fantasy seasons and drilled it down to just the data I wanted: 2013-2017 PPR points-per-game for each position. It looked a bit like this:
 
-![RawData](/assets/images/projections1.png)
+![RawData](/assets/images/projections1.PNG)
 
 2) From there, I ranked each season by PPG for each position and averaged that rank across the five years of data.
 
-![CleanedUp](/assets/images/projections2.png)
+![CleanedUp](/assets/images/projections2.PNG)
 
 3) I interpolated the averages so that I could have a number for each decimal point - and that was it, as far as data-prep goes!
 
-![Interpolated](/assets/images/projections3.png)
+![Interpolated](/assets/images/projections3.PNG)
 
 My actual projections workflow then looked like this: 1) Wait for the very last possible day to submit projections. 2) Scrape the FantasyPros ranks. 3) Match the ECR average to the corresponding spot on the table. 4) Copy that number to the submission sheet. No agonizing, no thinking, no actual analysis - just plug and play.
 
