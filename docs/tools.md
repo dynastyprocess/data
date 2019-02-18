@@ -1,4 +1,10 @@
-# Downloads
+---
+layout: default
+title: Tools: Apps and Downloads
+permalink: /tools
+---
+
+# Tools: Apps and Downloads
 
 ## Databases
 
