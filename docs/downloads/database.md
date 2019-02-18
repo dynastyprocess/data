@@ -16,7 +16,7 @@ permalink: /database
 
 ## About
 
-I've seen a lot of fantasy statistical databases ([FFStatistics.com](https://ffstatistics.com) is a great free one) but none tailored specifically to dynasty. This database is an attempt to aggregate the wide variety of information dynasty owners should have easy access to.
+There are a lot of fantasy statistical databases available now, but very few (if any) are tailored to DynastyFF. This database is an attempt to aggregate the wide variety of information dynasty owners should have easy access to.
 
 #### Already Connected
 - FantasyPros ECR for dynasty and redraft
