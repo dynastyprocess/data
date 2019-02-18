@@ -32,4 +32,4 @@ Web App: [apps.dynastyprocess.com/calculator](http://apps.dynastyprocess.com/cal
 
 Details: [main Calculator info page](/calculator)
 
-A new web-app version of the previous "Google Sheet" calculator, it features sliders to adjust depth weight and rookie values. 
+A new web-app version of the previous "Google Sheet" calculator, it features sliders to adjust depth weight and rookie values.
