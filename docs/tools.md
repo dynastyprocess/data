@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tools: Apps and Downloads
+title: Tools
 permalink: /tools
 ---
 

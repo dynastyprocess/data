@@ -8,7 +8,7 @@ Hi, I'm Tan. You might know me as the person behind DynastyDashboard.com, where 
 
 I'm also super stoked to include some fantastic web-apps built by Joe Sydlowski ([@JoeSydlowskiFF](http://twitter.com/JoeSydlowskiFF)) based on the data!
 
-#### Quick Links: [Database](/database) | [Values](/values) | [Calculator](/calculator)
+### Quick Links: [Database](/database) | [Values](/values) | [Calculator](/calculator)
 
 # Featured Project: [Database](/database)
 #### > [Web App](http://apps.dynastyprocess.com/database), [CSV](https://github.com/tanho63/dynastyprocess/blob/master/files/database.csv), [Excel workbook](https://github.com/tanho63/dynastyprocess/blob/master/files/database-excel-macro.xlsm)
@@ -16,7 +16,7 @@ I'm also super stoked to include some fantastic web-apps built by Joe Sydlowski 
 My ongoing project for the last little while - this database aggregates a ton of data, including:
 
 - FantasyPros ECR for dynasty and redraft
-- 2018 AirYards.com data
+- 2018 fantasy data (including AirYards!)
 - Spotrac contract data
 - Snap Counts from Pro-Football-Reference
 - Draft athletic data from RAS (shoutout to Kent Lee Platte [@MathBomb](https://twitter.com/MathBomb))

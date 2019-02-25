@@ -22,14 +22,16 @@ If you're not sure which sets of data to start with, here are a few that Joe and
 
 Position | Comparison Type | Variables
 :---|:---:|:---
-QB | general |  age, draftround, tm_paATTs, tm_airYDs, PACR, AYA, EP
-RB| opportunity | draftround, tgtshare, carries, expected points, snappct
-RB | efficiency | YPC, abswopr, ruTDs, reTDs, ppr/g
-RB| athletic/metric| age, height, weight, forty,
-WR|opportunity| wopr, adot, tm_paATTs, tm_airYDs
-WR|efficiency|racr,reTDs,ppr/g
-WR|athletic/metric|age, height, forty, weight,
-TE|
+QB | general |  age, draftround, paATTs, AYA, ppr/g
+RB| opportunity | draftround, ms_tgts, ruATTs, offSnapsPct
+RB | efficiency | ruTDs, reTDs, ppr/g, adot
+RB| athletic| age, height, forty, cone
+WR| opportunity | draftround, wopr, adot, offSnapsPct
+WR| efficiency | racr, reTDs ,ppr/g, adot
+WR| athletic | age, height, forty, cone, shuttle
+TE| opportunity | draftround, wopr, adot, offSnapsPct
+TE| efficiency | racr, reTDs ,ppr/g, adot
+TE | athletic | age, forty, cone, height, broad
 
 Feel free to include any statistics that you might feel are relevant or predictive - and share any interesting comparisons with us!
 
