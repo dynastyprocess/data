@@ -39,7 +39,7 @@ I've written a number of Google Sheets that reference these values, including a 
 #### Can you give us the specific algorithm you use?
 Sure! It's `Value = 10500 * e^(FP ECR*-0.0235)`. If customizing for yourself, you can modify the valuation factor (i.e. -0.0235) to be higher or lower depending on how your league values depth (e.g. -0.0225 would value depth more highly and -0.0245 values studs more highly). Be careful with big adjustments - exponential decay functions make fractions of decimals have a large impact!
 
-The regression calculations (created on a whim in 2017 and not since adjusted) are:
+The 2QB regression calculations (created on a whim in 2017 and not since adjusted/re-tested) are:
 
 	`QB = 0.0122*([1QB ECR]^1.7139)`
 
