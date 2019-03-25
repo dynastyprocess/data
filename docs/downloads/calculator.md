@@ -6,7 +6,8 @@ permalink: /calculator
 
 # Trade Calculator
 
-### [Click here to jump to the Google Sheet](https://docs.google.com/spreadsheets/d/1mmv1h5kDseejWSHx7BVlwY91gReONfbakeqYisAmLyY/copy)
+### [Try the new web app!](https://apps.dynastyprocess.com/calculator)
+### [Click here to jump to the original Google Sheet](https://docs.google.com/spreadsheets/d/1mmv1h5kDseejWSHx7BVlwY91gReONfbakeqYisAmLyY/copy)
 
 # Frequently Asked Questions
 
