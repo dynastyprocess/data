@@ -1,0 +1,1343 @@
+﻿Trade#,Date,Team,Received,playerID,pick,pick-value,pick-value-premium,pick-value-received,pick-value-paid,games,snaps_off,snaps_def,snaps_offpct,snaps_defpct,snaps_maxpct
+1,2019-04-27,Cincinnati Bengals,"2019 4th round pick (104th overall, Ryan Finley)",F/FinlRy00,104,5,6.1,5,6.1,,,,,,
+1,2019-04-27,San Francisco 49ers,"2019 4th round pick (110th overall, Mitch Wishnowsky)",W/WishMi00,110,4.7,4.7,6.1,5,,,,,,
+1,2019-04-27,San Francisco 49ers,"2019 6th round pick (183rd overall, Justin Skule)",S/SkulJu00,183,1.4,1.4,6.1,5,,,,,,
+2,2019-04-26,Cleveland Browns,"2019 2nd round pick (46th overall, Greedy Williams)",W/WillGr00,46,10.2,12.8,10.2,12.8,,,,,,
+2,2019-04-26,Indianapolis Colts,"2019 5th round pick (144th overall, Marvell Tell III)",T/TellMa00,144,3,3,12.8,10.2,,,,,,
+2,2019-04-26,Indianapolis Colts,"2019 2nd round pick (49th overall, Ben Banogu)",B/BanoBe00,49,9.8,9.8,12.8,10.2,,,,,,
+3,2019-04-26,Arizona Cardinals,a 2020 5th round pick ~(144 overall),,144,3,3,11.3,,,,,,,
+3,2019-04-26,Arizona Cardinals,"2019 2nd round pick (62nd overall, Andy Isabella)",I/IsabAn00,62,8.3,8.3,11.3,,,,,,,
+4,2019-04-26,Detroit Lions,"2019 3rd round pick (81st overall, Will Harris)",H/HarrWi02,81,6.6,6.8,6.6,6.8,,,,,,
+4,2019-04-26,Minnesota Vikings,"2019 6th round pick (204th overall subsequently traded, Travis Homer)",,204,0.7,0.7,6.8,6.6,,,,,,
+4,2019-04-26,Minnesota Vikings,"2019 3rd round pick (88th overall subsequently traded, Cody Barton)",,88,6.1,6.1,6.8,6.6,,,,,,
+5,2019-04-26,Baltimore Ravens,"2019 3rd round pick (93rd overall, Miles Boykin)",B/BoykMi00,93,5.7,7.4,5.7,7.4,,,,,,
+5,2019-04-26,Minnesota Vikings,"2019 3rd round pick (102nd overall, Alexander Mattison)",M/MattAl01,102,5.1,5.1,7.4,5.7,,,,,,
+5,2019-04-26,Minnesota Vikings,"2019 6th round pick (193rd overall, Oli Udoh)",U/UdohOl00,193,1.1,1.1,7.4,5.7,,,,,,
+5,2019-04-26,Minnesota Vikings,"2019 6th round pick (191st overall, Marcus Epps)",E/EppsMa00,191,1.2,1.2,7.4,5.7,,,,,,
+6,2019-04-26,New Orleans Saints,"2019 4th round pick (105th overall subsequently traded, Chauncey Gardner-Johnson)",,105,5,6.3,5,6.3,,,,,,
+6,2019-04-26,New York Jets,"2019 5th round pick (168th overall subsequently traded, D'Andre Walker)",,168,2,2,6.3,5,,,,,,
+6,2019-04-26,New York Jets,"2019 4th round pick (116th overall subsequently traded, Amani Hooker)",,116,4.3,4.3,6.3,5,,,,,,
+7,2019-04-26,Minnesota Vikings,"2019 4th round pick (114th overall, Dru Samia)",S/SamiDr00,114,4.4,4.8,4.4,4.8,,,,,,
+7,2019-04-26,Seattle Seahawks,"2019 4th round pick (120th overall, Gary Jennings Jr.)",J/JennGa00,120,4.1,4.1,4.8,4.4,,,,,,
+7,2019-04-26,Seattle Seahawks,"2019 6th round pick (204th overall, Travis Homer)",H/HomeTr00,204,0.7,0.7,4.8,4.4,,,,,,
+8,2019-04-26,Los Angeles Rams,"2019 7th round pick (243rd overall, Nick Scott)",S/ScotNi01,243,0.1,0.1,11.2,12.9,,,,,,
+8,2019-04-26,Los Angeles Rams,"2019 3rd round pick (97th overall, Bobby Evans)",E/EvanBo00,97,5.5,6.3,11.2,12.9,,,,,,
+8,2019-04-26,Los Angeles Rams,"2019 4th round pick (134th overall, Greg Gaines)",G/GainGr00,134,3.4,3.9,11.2,12.9,,,,,,
+8,2019-04-26,Los Angeles Rams,"2019 5th round pick (162nd overall subsequently traded, Cameron Smith)",,162,2.2,2.5,11.2,12.9,,,,,,
+8,2019-04-26,New England Patriots,"2019 5th round pick (167th overall subsequently traded, Clayton Thorson)",,167,2,2,12.9,11.2,,,,,,
+8,2019-04-26,New England Patriots,"2019 4th round pick (133rd overall, Jarrett Stidham)",S/StidJa00,133,3.5,3.5,12.9,11.2,,,,,,
+8,2019-04-26,New England Patriots,"2019 3rd round pick (101st overall, Yodny Cajuste)",C/CajuYo00,101,5.2,5.2,12.9,11.2,,,,,,
+8,2019-04-26,New England Patriots,"2019 5th round pick (162nd overall subsequently traded, Cameron Smith)",,162,2.2,2.2,12.9,11.2,,,,,,
+9,2019-04-26,Dallas Cowboys,"2019 5th round pick (158th overall, Michael Jackson)",J/JackMi01,158,2.4,2.4,2.7,2.7,,,,,,
+9,2019-04-26,Dallas Cowboys,"2019 7th round pick (218th overall, Mike Weber)",W/WebeMi00,218,0.3,0.3,2.7,2.7,,,,,,
+9,2019-04-26,Oakland Raiders,"2019 5th round pick (149th overall, Hunter Renfrow)",R/RenfHu00,149,2.7,2.7,2.7,2.7,,,,,,
+10,2019-04-26,Carolina Panthers,"2019 7th round pick (237th overall, Terry Godwin)",G/GodwTe00,237,0.1,0.2,0.6,1.3,,,,,,
+10,2019-04-26,Carolina Panthers,"2019 6th round pick (212th overall, Dennis Daley)",D/DaleDe00,212,0.5,1.1,0.6,1.3,,,,,,
+10,2019-04-26,Denver Broncos,"2019 6th round pick (187th overall, Juwann Winfree)",W/WinfJu00,187,1.3,1.3,1.3,0.6,,,,,,
+11,2019-04-26,Jacksonville Jaguars,"2019 2nd round pick (35th overall, Jawaan Taylor)",T/TaylJa02,35,12,12.7,15.2,16.1,,,,,,
+11,2019-04-26,Jacksonville Jaguars,"2019 5th round pick (140th overall, Ryquell Armstead)",A/ArmsRy00,140,3.1,3.3,15.2,16.1,,,,,,
+11,2019-04-26,Jacksonville Jaguars,"2019 7th round pick (235th overall, Dontavius Russell)",R/RussDo00,235,0.1,0.1,15.2,16.1,,,,,,
+11,2019-04-26,Oakland Raiders,"2019 2nd round pick (38th overall subsequently traded, Cody Ford)",,38,11.4,11.4,16.1,15.2,,,,,,
+11,2019-04-26,Oakland Raiders,"2019 4th round pick (109th overall subsequently traded, Khari Willis)",,109,4.7,4.7,16.1,15.2,,,,,,
+12,2019-04-26,Cincinnati Bengals,"2019 2nd round pick (52nd overall, Drew Sample)",S/SampDr00,52,9.4,9.4,14.8,10.8,,,,,,
+12,2019-04-26,Cincinnati Bengals,"2019 6th round pick (182nd overall, Trayveon Williams)",W/WillTr06,182,1.5,1.5,14.8,10.8,,,,,,
+12,2019-04-26,Cincinnati Bengals,"2019 4th round pick (125th overall, Renell Wren)",W/WrenRe00,125,3.9,3.9,14.8,10.8,,,,,,
+12,2019-04-26,Denver Broncos,"2019 2nd round pick (42nd overall, Drew Lock)",L/LockDr00,42,10.8,14.8,10.8,14.8,,,,,,
+13,2019-04-26,Miami Dolphins,a 2020 2nd round pick ~(48 overall),,48,9.9,9.9,19,14.2,,,,,,
+13,2019-04-26,Miami Dolphins,"2019 6th round pick (202nd overall, Isaiah Prince)",P/PrinIs00,202,0.8,0.8,19,14.2,,,,,,
+13,2019-04-26,Miami Dolphins,"2019 2nd round pick (62nd overall subsequently traded, Andy Isabella)",,62,8.3,8.3,19,14.2,,,,,,
+13,2019-04-26,New Orleans Saints,"2019 2nd round pick (48th overall, Erik McCoy)",M/McCoEr01,48,9.9,13.2,14.2,19,,,,,,
+13,2019-04-26,New Orleans Saints,"2019 4th round pick (116th overall subsequently traded, Amani Hooker)",,116,4.3,5.8,14.2,19,,,,,,
+14,2019-04-26,Los Angeles Rams,"2019 3rd round pick (70th overall, Darrell Henderson)",H/HendDa00,70,7.5,11,7.5,11,,,,,,
+14,2019-04-26,Tampa Bay Buccaneers,"2019 3rd round pick (99th overall, Mike Edwards)",E/EdwaMi01,99,5.3,5.3,11,7.5,,,,,,
+14,2019-04-26,Tampa Bay Buccaneers,"2019 3rd round pick (94th overall, Jamel Dean)",D/DeanJa00,94,5.7,5.7,11,7.5,,,,,,
+15,2019-04-26,Minnesota Vikings,"2019 5th round pick (159th overall subsequently traded, Byron Cowart)",,159,2.3,2.3,8.1,6.7,,,,,,
+15,2019-04-26,Minnesota Vikings,"2019 3rd round pick (92nd overall subsequently traded, Chuma Edoga)",,92,5.8,5.8,8.1,6.7,,,,,,
+15,2019-04-26,Seattle Seahawks,"2019 6th round pick (209th overall, Demarcus Christmas)",C/ChriDe01,209,0.6,0.7,6.7,8.1,,,,,,
+15,2019-04-26,Seattle Seahawks,"2019 3rd round pick (88th overall, Cody Barton)",B/BartCo00,88,6.1,7.4,6.7,8.1,,,,,,
+16,2019-04-26,Indianapolis Colts,"2019 4th round pick (109th overall, Khari Willis)",W/WillKh00,109,4.7,7.1,4.7,7.1,,,,,,
+16,2019-04-26,Oakland Raiders,"2019 4th round pick (135th overall subsequently traded, John Cominsky)",,135,3.4,3.4,7.1,4.7,,,,,,
+16,2019-04-26,Oakland Raiders,"2019 4th round pick (129th overall, Isaiah Johnson)",J/JohnIs02,129,3.7,3.7,7.1,4.7,,,,,,
+17,2019-04-26,New York Jets,"2019 4th round pick (121st overall subsequently traded, Trevon Wesco)",,121,4.1,4.1,6.5,6.3,,,,,,
+17,2019-04-26,New York Jets,"2019 5th round pick (157th overall, Blake Cashman)",C/CashBl00,157,2.4,2.4,6.5,6.3,,,,,,
+17,2019-04-26,Tennessee Titans,"2019 4th round pick (116th overall, Amani Hooker)",H/HookAm00,116,4.3,4.4,6.3,6.5,,,,,,
+17,2019-04-26,Tennessee Titans,"2019 5th round pick (168th overall, D'Andre Walker)",W/WalkDA02,168,2,2.1,6.3,6.5,,,,,,
+18,2019-04-26,Atlanta Falcons,"2019 4th round pick (135th overall, John Cominsky)",C/ComiJo00,135,3.4,3.4,3.4,3.4,,,,,,
+18,2019-04-26,Oakland Raiders,"2019 4th round pick (137th overall, Foster Moreau)",M/MoreFo00,137,3.3,3.3,3.4,3.4,,,,,,
+18,2019-04-26,Oakland Raiders,"2019 7th round pick (230th overall, Quinton Bell)",B/BellQu00,230,0.1,0.1,3.4,3.4,,,,,,
+19,2019-04-26,Minnesota Vikings,"2019 7th round pick (239th overall, Dillon Mitchell)",M/MitcDi00,239,0.1,0.1,2.3,2.3,,,,,,
+19,2019-04-26,Minnesota Vikings,"2019 5th round pick (162nd overall, Cameron Smith)",S/SmitCa01,162,2.2,2.2,2.3,2.3,,,,,,
+19,2019-04-26,New England Patriots,"2019 5th round pick (159th overall, Byron Cowart)",C/CowaBy00,159,2.3,2.3,2.3,2.3,,,,,,
+20,2019-04-26,Indianapolis Colts,"2019 7th round pick (246th overall, Javon Patterson)",P/PattJa00,246,0.1,0.1,0.1,,,,,,,
+21,2019-04-26,Carolina Panthers,"2019 2nd round pick (37th overall, Greg Little)",L/LittGr01,37,11.6,17,11.6,17,,,,,,
+21,2019-04-26,Seattle Seahawks,"2019 3rd round pick (77th overall subsequently traded, Chase Winovich)",,77,6.9,6.9,17,11.6,,,,,,
+21,2019-04-26,Seattle Seahawks,"2019 2nd round pick (47th overall, Marquise Blair)",B/BlaiMa01,47,10.1,10.1,17,11.6,,,,,,
+22,2019-04-26,Los Angeles Rams,"2019 3rd round pick (101st overall subsequently traded, Yodny Cajuste)",,101,5.2,5.2,14.2,10.4,,,,,,
+22,2019-04-26,Los Angeles Rams,"2019 2nd round pick (56th overall subsequently traded, Mecole Hardman)",,56,9,9,14.2,10.4,,,,,,
+22,2019-04-26,New England Patriots,"2019 2nd round pick (45th overall, Joejuan Williams)",W/WillJo13,45,10.4,14.2,10.4,14.2,,,,,,
+23,2019-04-26,Kansas City Chiefs,"2019 2nd round pick (56th overall, Mecole Hardman)",H/HardMe00,56,9,10.4,9,10.4,,,,,,
+23,2019-04-26,Los Angeles Rams,"2019 2nd round pick (61st overall, Taylor Rapp)",R/RappTa00,61,8.4,8.4,10.4,9,,,,,,
+23,2019-04-26,Los Angeles Rams,"2019 5th round pick (167th overall subsequently traded, Clayton Thorson)",,167,2,2,10.4,9,,,,,,
+24,2019-04-26,Chicago Bears,a 2020 4th round pick ~(112 overall),,112,4.6,4.6,6.8,6.2,,,,,,
+24,2019-04-26,Chicago Bears,"2019 5th round pick (162nd overall subsequently traded, Cameron Smith)",,162,2.2,2.2,6.8,6.2,,,,,,
+24,2019-04-26,New England Patriots,"2019 3rd round pick (87th overall, Damien Harris)",H/HarrDa06,87,6.2,6.8,6.2,6.8,,,,,,
+25,2019-04-26,Minnesota Vikings,"2019 7th round pick (217th overall, Kris Boyd)",B/BoydKr00,217,0.3,0.3,6,5.8,,,,,,
+25,2019-04-26,Minnesota Vikings,"2019 3rd round pick (93rd overall subsequently traded, Miles Boykin)",,93,5.7,5.7,6,5.8,,,,,,
+25,2019-04-26,New York Jets,"2019 3rd round pick (92nd overall, Chuma Edoga)",E/EdogCh00,92,5.8,6,5.8,6,,,,,,
+26,2019-04-26,Atlanta Falcons,"2019 4th round pick (111th overall, Kendall Sheffield)",S/ShefKe00,111,4.6,5.6,4.6,5.6,,,,,,
+26,2019-04-26,Detroit Lions,"2019 6th round pick (186th overall, Tyron Johnson)",J/JohnTy00,186,1.3,1.3,5.6,4.6,,,,,,
+26,2019-04-26,Detroit Lions,"2019 4th round pick (117th overall, Austin Bryant)",B/BryaAu00,117,4.3,4.3,5.6,4.6,,,,,,
+27,2019-04-26,Denver Broncos,"2019 6th round pick (212th overall subsequently traded, Dennis Daley)",,212,0.5,2.8,0.5,2.8,,,,,,
+27,2019-04-26,San Francisco 49ers,"2019 5th round pick (148th overall, Dre Greenlaw)",G/GreeDr00,148,2.8,2.8,2.8,0.5,,,,,,
+28,2019-04-26,Cincinnati Bengals,"2019 4th round pick (136th overall, Michael Jordan)",J/JordMi01,136,3.3,3.3,3.3,3.2,,,,,,
+28,2019-04-26,Dallas Cowboys,"2019 6th round pick (213th overall, Donovan Wilson)",W/WilsDo01,213,0.5,0.5,3.2,3.3,,,,,,
+28,2019-04-26,Dallas Cowboys,"2019 5th round pick (149th overall subsequently traded, Hunter Renfrow)",,149,2.7,2.8,3.2,3.3,,,,,,
+29,2019-04-26,New England Patriots,"2019 5th round pick (163rd overall, Jake Bailey)",B/BailJa00,163,2.2,2.2,2.2,2.1,,,,,,
+29,2019-04-26,Philadelphia Eagles,"2019 5th round pick (167th overall, Clayton Thorson)",T/ThorCl00,167,2,2.1,2.1,2.2,,,,,,
+29,2019-04-26,Philadelphia Eagles,"2019 7th round pick (246th overall subsequently traded, Javon Patterson)",,246,0.1,0.1,2.1,2.2,,,,,,
+30,2019-04-26,Jacksonville Jaguars,a 2020 6th round pick (176 overall),,176,1.7,1.7,1.7,0.1,,,,,,
+30,2019-04-26,Seattle Seahawks,"2019 7th round pick (236th overall, John Ursua)",U/UrsuJo00,236,0.1,1.7,0.1,1.7,,,,,,
+31,2019-04-26,Buffalo Bills,"2019 2nd round pick (38th overall, Cody Ford)",F/FordCo00,38,11.4,13.5,11.4,13.5,,,,,,
+31,2019-04-26,Oakland Raiders,"2019 5th round pick (158th overall subsequently traded, Michael Jackson)",,158,2.4,2.4,13.5,11.4,,,,,,
+31,2019-04-26,Oakland Raiders,"2019 2nd round pick (40th overall, Trayvon Mullen)",M/MullTr00,40,11.1,11.1,13.5,11.4,,,,,,
+32,2019-04-25,Denver Broncos,"2019 1st round pick (20th overall, Noah Fant)",F/FantNo00,20,15.5,15.5,31.6,19.9,,,,,,
+32,2019-04-25,Denver Broncos,a 2020 3rd round pick ~(80 overall),,80,6.7,6.7,31.6,19.9,,,,,,
+32,2019-04-25,Denver Broncos,"2019 2nd round pick (52nd overall subsequently traded, Drew Sample)",,52,9.4,9.4,31.6,19.9,,,,,,
+32,2019-04-25,Pittsburgh Steelers,"2019 1st round pick (10th overall, Devin Bush)",B/BushDe01,10,19.9,31.6,19.9,31.6,,,,,,
+33,2019-04-25,Indianapolis Colts,"2019 2nd round pick (46th overall subsequently traded, Greedy Williams)",,46,10.2,10.2,20.1,13.9,,,,,,
+33,2019-04-25,Indianapolis Colts,a 2020 2nd round pick ~(48 overall),,48,9.9,9.9,20.1,13.9,,,,,,
+33,2019-04-25,Washington Redskins,"2019 1st round pick (26th overall, Montez Sweat)",S/SweaMo00,26,13.9,20.1,13.9,20.1,,,,,,
+34,2019-04-25,Green Bay Packers,"2019 1st round pick (21st overall, Darnell Savage)",S/SavaDa00,21,15.2,21.5,15.2,21.5,,,,,,
+34,2019-04-25,Seattle Seahawks,"2019 1st round pick (30th overall subsequently traded, Deandre Baker)",,30,12.9,12.9,21.5,15.2,,,,,,
+34,2019-04-25,Seattle Seahawks,"2019 4th round pick (118th overall subsequently traded, Hjalte Froholdt)",,118,4.2,4.2,21.5,15.2,,,,,,
+34,2019-04-25,Seattle Seahawks,"2019 4th round pick (114th overall subsequently traded, Dru Samia)",,114,4.4,4.4,21.5,15.2,,,,,,
+35,2019-04-25,New York Giants,"2019 1st round pick (30th overall, Deandre Baker)",B/BakeDe00,30,12.9,18.1,12.9,18.1,,,,,,
+35,2019-04-25,Seattle Seahawks,"2019 4th round pick (132nd overall, Ugochukwu Amadi)",A/AmadUg00,132,3.5,3.5,18.1,12.9,,,,,,
+35,2019-04-25,Seattle Seahawks,"2019 5th round pick (142nd overall, Ben Burr-Kirven)",B/BurrBe00,142,3,3,18.1,12.9,,,,,,
+35,2019-04-25,Seattle Seahawks,"2019 2nd round pick (37th overall subsequently traded, Greg Little)",,37,11.6,11.6,18.1,12.9,,,,,,
+36,2019-04-25,Baltimore Ravens,"2019 6th round pick (197th overall, Trace McSorley)",M/McSoTr00,197,1,1,18.9,14.9,,,,,,
+36,2019-04-25,Baltimore Ravens,"2019 4th round pick (127th overall, Iman Marshall)",M/MarsIm00,127,3.8,3.8,18.9,14.9,,,,,,
+36,2019-04-25,Baltimore Ravens,"2019 1st round pick (25th overall, Marquise Brown)",B/BrowMa04,25,14.1,14.1,18.9,14.9,,,,,,
+36,2019-04-25,Philadelphia Eagles,"2019 1st round pick (22nd overall, Andre Dillard)",D/DillAn00,22,14.9,18.9,14.9,18.9,,,,,,
+37,2019-04-25,Atlanta Falcons,"2019 1st round pick (31st overall, Kaleb McGary)",M/McGaKa00,31,12.7,16.2,13.5,17.2,,,,,,
+37,2019-04-25,Atlanta Falcons,"2019 6th round pick (203rd overall, Marcus Green)",G/GreeMa02,203,0.8,1,13.5,17.2,,,,,,
+37,2019-04-25,Los Angeles Rams,"2019 3rd round pick (79th overall, David Long)",L/LongDa02,79,6.8,6.8,17.2,13.5,,,,,,
+37,2019-04-25,Los Angeles Rams,"2019 2nd round pick (45th overall subsequently traded, Joejuan Williams)",,45,10.4,10.4,17.2,13.5,,,,,,
+38,2019-04-23,Kansas City Chiefs,"2019 3rd round pick (84th overall, Khalen Saunders)",S/SaunKh00,84,6.4,19,6.4,19,,,,,,
+38,2019-04-23,Seattle Seahawks,"2019 1st round pick (29th overall, L.J. Collier)",C/CollLJ00,29,13.2,13.2,19,6.4,,,,,,
+38,2019-04-23,Seattle Seahawks,"2019 3rd round pick (92nd overall subsequently traded, Chuma Edoga)",,92,5.8,5.8,19,6.4,,,,,,
+41,2019-03-29,Miami Dolphins,a 2020 6th round pick ~(176 overall),,176,1.7,1.7,1.7,,,,,,,
+42,2019-03-18,Miami Dolphins,a 2020 4th round pick ~(112 overall),,112,4.6,4.6,4.7,1.3,,,,,,
+42,2019-03-18,Miami Dolphins,"2019 7th round pick (233rd overall, Chandler Cox)",C/CoxxCh01,233,0.1,0.1,4.7,1.3,,,,,,
+42,2019-03-18,Tennessee Titans,"2019 6th round pick (188th overall, David Long)",L/LongDa04,188,1.3,4.7,1.3,4.7,,,,,,
+43,2019-03-13,Kansas City Chiefs,a 2020 2nd round pick ~(48 overall),,48,9.9,9.9,9.9,,,,,,,
+44,2019-03-13,Pittsburgh Steelers,"2019 5th round pick (141st overall, Zach Gentry)",G/GentZa00,141,3.1,3.1,11,,,,,,,
+44,2019-03-13,Pittsburgh Steelers,"2019 3rd round pick (66th overall, Diontae Johnson)",J/JohnDi01,66,7.9,7.9,11,,,,,,,
+45,2019-03-13,New York Giants,"2019 1st round pick (17th overall, Dexter Lawrence)",L/LawrDe03,17,16.6,16.6,22.2,,,,,,,
+45,2019-03-13,New York Giants,"2019 3rd round pick (95th overall, Oshane Ximines)",X/XimiOs00,95,5.6,5.6,22.2,,,,,,,
+46,2019-03-13,Tampa Bay Buccaneers,"2019 6th round pick (208th overall, Scott Miller)",M/MillSc01,208,0.6,0.6,0.6,,,,,,,
+47,2019-03-13,Philadelphia Eagles,a 2020 5th round pick ~(144 overall),,144,3,3,3,,,,,,,
+48,2019-03-13,Denver Broncos,a 2020 6th round pick ~(176 overall),,176,1.7,1.7,1.7,,,,,,,
+49,2019-03-13,New York Jets,"2019 6th round pick (196th overall, Blessuan Austin)",A/AustBl00,196,1,3.1,1,3.1,,,,,,
+49,2019-03-13,Oakland Raiders,"2019 5th round pick (140th overall subsequently traded, Ryquell Armstead)",,140,3.1,3.1,3.1,1,,,,,,
+50,2019-03-13,Pittsburgh Steelers,"2019 6th round pick (207th overall, Ulysees Gilbert)",G/GilbUl00,207,0.6,0.6,0.6,,,,,,,
+51,2019-03-13,Baltimore Ravens,"2019 4th round pick (113th overall, Justice Hill)",H/HillJu00,113,4.5,4.5,4.5,,,,,,,
+52,2018-10-25,New York Giants,"2019 5th round pick (142nd overall subsequently traded, Ben Burr-Kirven)",,142,3,3,3,,,,,,,
+53,2018-09-02,Buffalo Bills,"2019 5th round pick (158th overall subsequently traded, Michael Jackson)",,158,2.4,2.4,2.4,,,,,,,
+54,2018-09-01,Chicago Bears,a 2020 2nd round pick ~(48 overall),,48,9.9,39,9.9,39,,,,,,
+54,2018-09-01,Oakland Raiders,"2019 1st round pick (24th overall, Josh Jacobs)",J/JacoJo01,24,14.4,14.4,39,9.9,,,,,,
+54,2018-09-01,Oakland Raiders,"2019 6th round pick (196th overall subsequently traded, Blessuan Austin)",,196,1,1,39,9.9,,,,,,
+54,2018-09-01,Oakland Raiders,a 2020 3rd round pick ~(80 overall),,80,6.7,6.7,39,9.9,,,,,,
+54,2018-09-01,Oakland Raiders,a 2020 1st round pick ~(16 overall),,16,16.9,16.9,39,9.9,,,,,,
+56,2018-09-01,New Orleans Saints,"2019 7th round pick (231st overall, Alize Mack)",M/MackAl00,231,0.1,0.1,0.1,,,,,,,
+58,2018-09-01,Chicago Bears,"2019 7th round pick (222nd overall, Kerrith Whyte, Jr.)",W/WhytKe00,222,0.2,0.2,0.2,,,,,,,
+59,2018-09-01,Oakland Raiders,"2019 7th round pick (235th overall subsequently traded, Dontavius Russell)",,235,0.1,0.1,0.1,,,,,,,
+60,2018-08-31,Kansas City Chiefs,a 2020 7th round pick ~(208 overall),,208,0.6,0.6,0.6,,,,,,,
+61,2018-08-31,Cleveland Browns,"2019 7th round pick (243rd overall subsequently traded, Nick Scott)",,243,0.1,0.1,0.1,,,,,,,
+64,2018-08-29,New Orleans Saints,"2019 6th round pick (177th overall, Saquan Hampton)",H/HampSa00,177,1.6,5.7,1.6,5.7,,,,,,
+64,2018-08-29,New York Jets,"2019 3rd round pick (93rd overall subsequently traded, Miles Boykin)",,93,5.7,5.7,5.7,1.6,,,,,,
+65,2018-08-29,Green Bay Packers,"2019 6th round pick (194th overall, Dexter Williams)",W/WillDe07,194,1.1,1.1,1.1,,,,,,,
+66,2018-08-28,Baltimore Ravens,"2019 6th round pick (191st overall subsequently traded, Marcus Epps)",,191,1.2,1.2,1.2,,,,,,,
+67,2018-08-27,Oakland Raiders,"2019 5th round pick (158th overall subsequently traded, Michael Jackson)",,158,2.4,2.4,2.4,1.7,,,,,,
+67,2018-08-27,Pittsburgh Steelers,"2019 6th round pick (175th overall, Sutton Smith)",S/SmitSu00,175,1.7,2.4,1.7,2.4,,,,,,
+68,2018-08-27,New York Giants,"2019 7th round pick (232nd overall, George Asafo-Adjei)",A/AsafGe00,232,0.1,0.1,0.1,,,,,,,
+71,2018-08-05,Cleveland Browns,a 2020 7th round pick ~(208 overall),,208,0.6,0.6,0.6,,,,,,,
+73,2018-05-18,Cleveland Browns,a 2020 6th round pick ~(176 overall),,176,1.7,1.7,1.7,,,,,,,
+74,2018-05-03,Detroit Lions,"2019 7th round pick (229th overall, P.J. Johnson)",J/JohnPJ00,229,0.1,0.1,0.1,,,,,,,
+75,2018-04-28,Indianapolis Colts,"2018 6th round pick (185th overall, Deon Cain)",C/CainDe00,185,1.4,1.4,3.7,3.1,,,,,,
+75,2018-04-28,Indianapolis Colts,"2018 5th round pick (159th overall, Daurice Fountain)",F/FounDa00,159,2.3,2.3,3.7,3.1,1,3,0,0.045,0,0.045
+75,2018-04-28,Oakland Raiders,"2018 5th round pick (140th overall, Maurice Hurst)",H/HursMa00,140,3.1,3.7,3.1,3.7,13,0,472,0,0.557,0.557
+76,2018-04-28,Los Angeles Rams,"2018 6th round pick (192nd overall, Jamil Demby)",D/DembJa00,192,1.1,1.1,1.1,,,,,,,
+77,2018-04-28,Minnesota Vikings,"2018 7th round pick (225th overall, Devante Downs)",D/DownDe00,225,0.1,0.1,4.5,4.3,11,0,0,0,0,0
+77,2018-04-28,Minnesota Vikings,"2018 7th round pick (225th overall, Devante Downs)",D/DownDe00,225,0.1,0.1,4.5,4.3,11,0,0,0,0,0
+77,2018-04-28,Minnesota Vikings,"2018 5th round pick (157th overall, Tyler Conklin)",C/ConkTy00,157,2.4,2.4,4.5,4.3,16,146,0,0.139,0,0.139
+77,2018-04-28,Minnesota Vikings,"2018 5th round pick (167th overall, Daniel Carlson)",C/CarlDa00,167,2,2,4.5,4.3,10,0,0,0,0,0
+77,2018-04-28,New York Jets,"2018 6th round pick (180th overall, Folorunso Fatukasi)",F/FatuFo00,180,1.5,1.6,4.3,4.5,1,0,3,0,0.043,0.043
+77,2018-04-28,New York Jets,"2018 7th round pick (225th overall subsequently traded, Devante Downs)",,225,0.1,0.1,4.3,4.5,,,,,,
+77,2018-04-28,New York Jets,"2018 5th round pick (167th overall subsequently traded, Daniel Carlson)",,167,2,2.1,4.3,4.5,,,,,,
+77,2018-04-28,New York Jets,"2018 6th round pick (204th overall, Trenton Cannon)",C/CannTr00,204,0.7,0.7,4.3,4.5,16,185,0,0.185,0,0.185
+78,2018-04-28,Los Angeles Rams,"2018 7th round pick (231st overall, Travin Howard)",H/HowaTr00,231,0.1,0.1,0.8,1.1,,,,,,
+78,2018-04-28,Los Angeles Rams,"2018 6th round pick (205th overall, Trevon Young)",Y/YounTr00,205,0.7,1,0.8,1.1,2,0,12,0,0.09,0.09
+78,2018-04-28,Washington Redskins,"2018 6th round pick (197th overall, Shaun Dion Hamilton)",D/DionSh00,197,1,1,1.1,0.8,16,0,129,0,0.125,0.125
+78,2018-04-28,Washington Redskins,"2018 7th round pick (256th overall, Trey Quinn)",Q/QuinTr00,256,0.1,0.1,1.1,0.8,3,107,0,0.493,0,0.493
+80,2018-04-28,Detroit Lions,"2018 4th round pick (114th overall, Da'Shawn Hand)",H/HandDa00,114,4.4,7.3,4.4,7.3,13,0,455,0,0.567,0.567
+80,2018-04-28,New England Patriots,"2019 3rd round pick (73rd overall subsequently traded, David Montgomery)",,73,7.3,7.3,7.3,4.4,,,,,,
+81,2018-04-28,Denver Broncos,"2018 5th round pick (156th overall, Troy Fumagalli)",F/FumaTr00,156,2.4,2.6,2.5,2.7,,,,,,
+81,2018-04-28,Denver Broncos,"2018 7th round pick (226th overall, David Williams)",W/WillDa010,226,0.1,0.1,2.5,2.7,,,,,,
+81,2018-04-28,Seattle Seahawks,"2018 5th round pick (149th overall, Michael Dickson)",D/DickMi00,149,2.7,2.7,2.7,2.5,16,0,0,0,0,0
+82,2018-04-28,Indianapolis Colts,"2018 7th round pick (235th overall, Zaire Franklin)",F/FranZa00,235,0.1,0.1,0.1,,16,0,176,0,0.168,0.168
+83,2018-04-28,Kansas City Chiefs,"2018 6th round pick (198th overall, Kahlil McKenzie)",M/McKeKa00,198,0.9,0.9,0.9,0.2,,,,,,
+83,2018-04-28,New England Patriots,"2018 7th round pick (243rd overall, Keion Crossen)",C/CrosKe00,243,0.1,0.4,0.2,0.9,11,0,39,0,0.054,0.054
+83,2018-04-28,New England Patriots,"2018 7th round pick (233rd overall subsequently traded, Jordan Mailata)",,233,0.1,0.4,0.2,0.9,,,,,,
+84,2018-04-28,Carolina Panthers,"2018 4th round pick (136th overall, Marquis Haynes)",H/HaynMa01,136,3.3,3.8,3.3,3.8,4,0,46,0,0.19,0.19
+84,2018-04-28,Los Angeles Rams,"2018 5th round pick (147th overall, Micah Kiser)",K/KiseMi00,147,2.8,2.8,3.8,3.3,16,0,0,0,0,0
+84,2018-04-28,Los Angeles Rams,"2018 6th round pick (197th overall subsequently traded, Shaun Dion Hamilton)",,197,1,1,3.8,3.3,,,,,,
+85,2018-04-28,Baltimore Ravens,"2018 5th round pick (162nd overall, Jordan Lasley)",L/LaslJo00,162,2.2,2.2,2.6,2.6,,,,,,
+85,2018-04-28,Baltimore Ravens,"2018 6th round pick (215th overall, Bradley Bozeman)",B/BozeBr00,215,0.4,0.4,2.6,2.6,14,214,0,0.202,0,0.202
+85,2018-04-28,Tennessee Titans,"2018 5th round pick (152nd overall, Dane Cruikshank)",C/CruiDa00,152,2.6,2.6,2.6,2.6,12,0,42,0,0.054,0.054
+86,2018-04-28,Denver Broncos,"2018 6th round pick (183rd overall, Sam Jones)",J/JoneSa00,183,1.4,1.9,1.7,2.3,5,15,0,0.043,0,0.043
+86,2018-04-28,Denver Broncos,"2018 6th round pick (217th overall, Keishawn Bierria)",B/BierKe00,217,0.3,0.4,1.7,2.3,16,0,18,0,0.017,0.017
+86,2018-04-28,Los Angeles Rams,"2018 5th round pick (160th overall, Ogbonnia Okoronkwo)",O/OkorOg00,160,2.3,2.3,2.3,1.7,,,,,,
+87,2018-04-28,Atlanta Falcons,"2018 6th round pick (194th overall, Russell Gage)",G/GageRu00,194,1.1,1.1,1.1,0.2,15,60,0,0.06,0,0.06
+87,2018-04-28,Los Angeles Rams,"2018 7th round pick (244th overall, Justin Lawler)",L/LawlJu00,244,0.1,0.6,0.2,1.1,16,0,33,0,0.033,0.033
+87,2018-04-28,Los Angeles Rams,"2018 7th round pick (256th overall subsequently traded, Trey Quinn)",,256,0.1,0.6,0.2,1.1,,,,,,
+88,2018-04-28,New England Patriots,"2019 7th round pick (239th overall subsequently traded, Dillon Mitchell)",,239,0.1,0.1,0.2,0.1,,,,,,
+88,2018-04-28,New England Patriots,"2018 7th round pick (250th overall, Ryan Izzo)",I/IzzoRy00,250,0.1,0.1,0.2,0.1,,,,,,
+88,2018-04-28,Philadelphia Eagles,"2018 7th round pick (233rd overall, Jordan Mailata)",M/MailJo00,233,0.1,0.2,0.1,0.2,,,,,,
+89,2018-04-28,Cleveland Browns,"2018 4th round pick (105th overall, Antonio Callaway)",C/CallAn00,105,5,6,5,6,16,765,0,0.701,0,0.701
+89,2018-04-28,New England Patriots,"2018 4th round pick (114th overall subsequently traded, Da'Shawn Hand)",,114,4.4,4.4,6,5,,,,,,
+89,2018-04-28,New England Patriots,"2018 6th round pick (178th overall, Christian Sam)",S/SamxCh00,178,1.6,1.6,6,5,,,,,,
+90,2018-04-27,Oakland Raiders,"2018 3rd round pick (89th overall subsequently traded, Joseph Noteboom)",,89,6,6,14.9,11,,,,,,
+90,2018-04-27,Oakland Raiders,"2018 2nd round pick (57th overall, P.J. Hall)",H/HallP.00,57,8.9,8.9,14.9,11,,,,,,
+90,2018-04-27,Tennessee Titans,"2018 2nd round pick (41st overall, Harold Landry)",L/LandHa00,41,11,14.9,11,14.9,15,0,591,0,0.601,0.601
+91,2018-04-27,Cincinnati Bengals,"2018 3rd round pick (78th overall, Malik Jefferson)",J/JeffMa00,78,6.9,6.9,16.1,15.5,12,0,11,0,0.013,0.013
+91,2018-04-27,Cincinnati Bengals,"2018 2nd round pick (54th overall, Jessie Bates)",B/BateJe00,54,9.2,9.2,16.1,15.5,16,0,1114,0,0.987,0.987
+91,2018-04-27,Kansas City Chiefs,"2018 3rd round pick (100th overall, Dorian O'Daniel)",O/ODanDo00,100,5.3,5.5,15.5,16.1,16,0,302,0,0.256,0.256
+91,2018-04-27,Kansas City Chiefs,"2018 2nd round pick (46th overall, Breeland Speaks)",S/SpeaBr00,46,10.2,10.6,15.5,16.1,16,0,476,0,0.404,0.404
+92,2018-04-27,New England Patriots,"2018 2nd round pick (56th overall, Duke Dawson)",D/DawsDu00,56,9,12.5,9,12.5,,,,,,
+92,2018-04-27,Tampa Bay Buccaneers,"2018 2nd round pick (63rd overall, Carlton Davis)",D/DaviCa02,63,8.2,8.2,12.5,9,13,0,718,0,0.849,0.849
+92,2018-04-27,Tampa Bay Buccaneers,"2018 4th round pick (117th overall, Jordan Whitehead)",W/WhitJo03,117,4.3,4.3,12.5,9,15,0,660,0,0.669,0.669
+93,2018-04-27,Baltimore Ravens,"2018 4th round pick (122nd overall, Kenny Young)",Y/YounKe03,122,4,4,10.2,7.1,16,0,369,0,0.357,0.357
+93,2018-04-27,Baltimore Ravens,"2018 3rd round pick (86th overall, Mark Andrews)",A/AndrMa00,86,6.2,6.2,10.2,7.1,16,414,0,0.348,0,0.348
+93,2018-04-27,Kansas City Chiefs,"2018 3rd round pick (75th overall, Derrick Nnadi)",N/NnadDe00,75,7.1,10.2,7.1,10.2,16,0,448,0,0.38,0.38
+94,2018-04-27,Carolina Panthers,"2018 5th round pick (147th overall subsequently traded, Micah Kiser)",,147,2.8,2.8,8,6.1,,,,,,
+94,2018-04-27,Carolina Panthers,"2018 4th round pick (101st overall, Ian Thomas)",T/ThomIa00,101,5.2,5.2,8,6.1,16,526,0,0.497,0,0.497
+94,2018-04-27,Green Bay Packers,"2018 3rd round pick (88th overall, Oren Burks)",B/BurkOr00,88,6.1,8,6.1,8,14,0,122,0,0.132,0.132
+95,2018-04-27,Detroit Lions,"2018 2nd round pick (43rd overall, Kerryon Johnson)",J/JohnKe06,43,10.6,13.9,10.6,13.9,10,346,0,0.515,0,0.515
+95,2018-04-27,New England Patriots,"2018 2nd round pick (51st overall subsequently traded, Anthony Miller)",,51,9.6,9.6,13.9,10.6,,,,,,
+95,2018-04-27,New England Patriots,"2018 4th round pick (117th overall subsequently traded, Jordan Whitehead)",,117,4.3,4.3,13.9,10.6,,,,,,
+96,2018-04-27,Indianapolis Colts,"2018 2nd round pick (52nd overall, Kemoko Turay)",T/TuraKe00,52,9.4,9.4,11.3,9.8,14,0,383,0,0.424,0.424
+96,2018-04-27,Indianapolis Colts,"2018 5th round pick (169th overall, Jordan Wilkins)",W/WilkJo01,169,1.9,1.9,11.3,9.8,16,198,0,0.174,0,0.174
+96,2018-04-27,Philadelphia Eagles,"2018 2nd round pick (49th overall, Dallas Goedert)",G/GoedDa00,49,9.8,11.3,9.8,11.3,16,523,0,0.479,0,0.479
+97,2018-04-27,Baltimore Ravens,"2018 6th round pick (212th overall, Greg Senat)",S/SenaGr00,212,0.5,0.5,10.2,8,,,,,,
+97,2018-04-27,Baltimore Ravens,"2018 3rd round pick (75th overall subsequently traded, Derrick Nnadi)",,75,7.1,7.1,10.2,8,,,,,,
+97,2018-04-27,Baltimore Ravens,"2018 5th round pick (152nd overall subsequently traded, Dane Cruikshank)",,152,2.6,2.6,10.2,8,,,,,,
+97,2018-04-27,Oakland Raiders,"2018 3rd round pick (65th overall, Brandon Parker)",P/ParkBr01,65,8,10.2,8,10.2,15,780,0,0.807,0,0.807
+98,2018-04-27,Pittsburgh Steelers,"2018 3rd round pick (76th overall, Mason Rudolph)",R/RudoMa00,76,7,7.1,7,7.1,,,,,,
+98,2018-04-27,Seattle Seahawks,"2018 7th round pick (220th overall, Alex McGough)",M/McGoAl00,220,0.3,0.3,7.1,7,,,,,,
+98,2018-04-27,Seattle Seahawks,"2018 3rd round pick (79th overall, Rasheem Green)",G/GreeRa01,79,6.8,6.8,7.1,7,10,0,201,0,0.333,0.333
+99,2018-04-27,Minnesota Vikings,"2018 6th round pick (180th overall subsequently traded, Folorunso Fatukasi)",,180,1.5,1.5,6.6,5.7,,,,,,
+99,2018-04-27,Minnesota Vikings,"2018 4th round pick (102nd overall, Jalyn Holmes)",H/HolmJa01,102,5.1,5.1,6.6,5.7,5,0,58,0,0.174,0.174
+99,2018-04-27,Tampa Bay Buccaneers,"2018 3rd round pick (94th overall, Alex Cappa)",C/CappAl00,94,5.7,6.6,5.7,6.6,6,104,0,0.261,0,0.261
+100,2018-04-27,New England Patriots,"2018 5th round pick (143rd overall, Ja'Whaun Bentley)",B/BentJa00,143,3,5.6,3,5.6,3,0,138,0,0.633,0.633
+100,2018-04-27,San Francisco 49ers,"2018 3rd round pick (95th overall, Tarvarius Moore)",M/MoorTa00,95,5.6,5.6,5.6,3,16,0,232,0,0.216,0.216
+101,2018-04-27,San Francisco 49ers,"2018 5th round pick (142nd overall, D.J. Reed)",R/ReedD.00,142,3,3.5,13.5,15.8,,,,,,
+101,2018-04-27,San Francisco 49ers,"2018 2nd round pick (44th overall, Dante Pettis)",P/PettDa00,44,10.5,12.3,13.5,15.8,12,452,0,0.579,0,0.579
+101,2018-04-27,Washington Redskins,"2018 3rd round pick (74th overall, Geron Christian)",C/ChriGe01,74,7.2,7.2,15.8,13.5,2,43,0,0.339,0,0.339
+101,2018-04-27,Washington Redskins,"2018 2nd round pick (59th overall, Derrius Guice)",G/GuicDe00,59,8.6,8.6,15.8,13.5,,,,,,
+102,2018-04-27,Chicago Bears,"2018 2nd round pick (51st overall, Anthony Miller)",M/MillAn02,51,9.6,14,9.6,14,15,576,0,0.568,0,0.568
+102,2018-04-27,New England Patriots,"2019 2nd round pick (56th overall subsequently traded, Mecole Hardman)",,56,9,9,14,9.6,,,,,,
+102,2018-04-27,New England Patriots,"2018 4th round pick (105th overall subsequently traded, Antonio Callaway)",,105,5,5,14,9.6,,,,,,
+103,2018-04-27,Cleveland Browns,"2018 3rd round pick (67th overall, Chad Thomas)",T/ThomCh06,67,7.8,7.8,9.4,8.1,4,0,22,0,0.075,0.075
+103,2018-04-27,Cleveland Browns,"2018 6th round pick (178th overall subsequently traded, Christian Sam)",,178,1.6,1.6,9.4,8.1,,,,,,
+103,2018-04-27,Indianapolis Colts,"2018 2nd round pick (64th overall, Tyquan Lewis)",L/LewiTy00,64,8.1,9.4,8.1,9.4,8,0,338,0,0.672,0.672
+104,2018-04-27,Los Angeles Rams,"2018 3rd round pick (89th overall, Joseph Noteboom)",N/NoteJo00,89,6,6,6.3,6.2,16,78,0,0.071,0,0.071
+104,2018-04-27,Los Angeles Rams,"2018 6th round pick (217th overall subsequently traded, Keishawn Bierria)",,217,0.3,0.3,6.3,6.2,,,,,,
+104,2018-04-27,Oakland Raiders,"2018 3rd round pick (87th overall, Arden Key)",K/KeyxAr00,87,6.2,6.3,6.2,6.3,16,0,644,0,0.626,0.626
+105,2018-04-26,Buffalo Bills,"2018 1st round pick (7th overall, Josh Allen)",A/AlleJo02,7,22.2,37.1,22.2,37.1,12,719,0,0.928,0,0.928
+105,2018-04-26,Tampa Bay Buccaneers,"2018 2nd round pick (56th overall subsequently traded, Duke Dawson)",,56,9,9,37.1,22.2,,,,,,
+105,2018-04-26,Tampa Bay Buccaneers,"2018 2nd round pick (53rd overall, M.J. Stewart)",S/StewM.00,53,9.3,9.3,37.1,22.2,,,,,,
+105,2018-04-26,Tampa Bay Buccaneers,"2018 1st round pick (12th overall, Vita Vea)",V/VeaxVi00,12,18.8,18.8,37.1,22.2,13,0,493,0,0.588,0.588
+106,2018-04-26,Baltimore Ravens,"2018 3rd round pick (65th overall subsequently traded, Brandon Parker)",,65,8,8,25.4,16.9,,,,,,
+106,2018-04-26,Baltimore Ravens,"2018 5th round pick (154th overall subsequently traded, Siran Neal)",,154,2.5,2.5,25.4,16.9,,,,,,
+106,2018-04-26,Baltimore Ravens,"2018 1st round pick (22nd overall subsequently traded, Rashaan Evans)",,22,14.9,14.9,25.4,16.9,,,,,,
+106,2018-04-26,Buffalo Bills,"2018 1st round pick (16th overall, Tremaine Edmunds)",E/EdmuTr01,16,16.9,25.4,16.9,25.4,15,0,926,0,0.962,0.962
+107,2018-04-26,Baltimore Ravens,"2018 1st round pick (25th overall, Hayden Hurst)",H/HursHa00,25,14.1,14.1,18,15.3,12,275,0,0.314,0,0.314
+107,2018-04-26,Baltimore Ravens,"2018 4th round pick (125th overall subsequently traded, Avonte Maddox)",,125,3.9,3.9,18,15.3,,,,,,
+107,2018-04-26,Tennessee Titans,"2018 6th round pick (215th overall subsequently traded, Bradley Bozeman)",,215,0.4,0.5,15.3,18,,,,,,
+107,2018-04-26,Tennessee Titans,"2018 1st round pick (22nd overall, Rashaan Evans)",E/EvanRa01,22,14.9,17.5,15.3,18,15,0,494,0,0.502,0.502
+108,2018-04-26,Arizona Cardinals,"2018 1st round pick (10th overall, Josh Rosen)",R/RoseJo01,10,19.9,26.8,19.9,26.8,14,781,0,0.925,0,0.925
+108,2018-04-26,Oakland Raiders,"2018 1st round pick (15th overall, Kolton Miller)",M/MillKo00,15,17.4,17.4,26.8,19.9,16,1008,0,0.967,0,0.967
+108,2018-04-26,Oakland Raiders,"2018 3rd round pick (79th overall subsequently traded, Rasheem Green)",,79,6.8,6.8,26.8,19.9,,,,,,
+108,2018-04-26,Oakland Raiders,"2018 5th round pick (152nd overall subsequently traded, Dane Cruikshank)",,152,2.6,2.6,26.8,19.9,,,,,,
+109,2018-04-26,Green Bay Packers,"2018 1st round pick (18th overall, Jaire Alexander)",A/AlexJa00,18,16.2,21.8,16.3,21.9,13,0,760,0,0.872,0.872
+109,2018-04-26,Green Bay Packers,"2018 7th round pick (248th overall, Kendall Donnerson)",D/DonnKe00,248,0.1,0.1,16.3,21.9,,,,,,
+109,2018-04-26,Seattle Seahawks,"2018 1st round pick (27th overall, Rashaad Penny)",P/PennRa00,27,13.6,13.6,21.9,16.3,14,181,0,0.198,0,0.198
+109,2018-04-26,Seattle Seahawks,"2018 6th round pick (186th overall, Jacob Martin)",M/MartJa02,186,1.3,1.3,21.9,16.3,16,0,225,0,0.227,0.227
+109,2018-04-26,Seattle Seahawks,"2018 3rd round pick (76th overall subsequently traded, Mason Rudolph)",,76,7,7,21.9,16.3,,,,,,
+110,2018-04-26,Baltimore Ravens,"2018 1st round pick (32nd overall, Lamar Jackson)",J/JackLa00,32,12.5,17.7,16,22.6,16,585,0,0.492,0,0.492
+110,2018-04-26,Baltimore Ravens,"2018 4th round pick (132nd overall, Jaleel Scott)",S/ScotJa02,132,3.5,4.9,16,22.6,,,,,,
+110,2018-04-26,Philadelphia Eagles,"2018 2nd round pick (52nd overall subsequently traded, Kemoko Turay)",,52,9.4,9.4,22.6,16,,,,,,
+110,2018-04-26,Philadelphia Eagles,"2019 2nd round pick (53rd overall, Miles Sanders)",S/SandMi01,53,9.3,9.3,22.6,16,,,,,,
+110,2018-04-26,Philadelphia Eagles,"2018 4th round pick (125th overall, Avonte Maddox)",M/MaddAv00,125,3.9,3.9,22.6,16,13,0,540,0,0.648,0.648
+111,2018-04-26,Green Bay Packers,"2018 1st round pick (27th overall subsequently traded, Rashaad Penny)",,27,13.6,13.6,29.3,17.8,,,,,,
+111,2018-04-26,Green Bay Packers,"2018 5th round pick (147th overall subsequently traded, Micah Kiser)",,147,2.8,2.8,29.3,17.8,,,,,,
+111,2018-04-26,Green Bay Packers,"2019 1st round pick (30th overall subsequently traded, Deandre Baker)",,30,12.9,12.9,29.3,17.8,,,,,,
+111,2018-04-26,New Orleans Saints,"2018 1st round pick (14th overall, Marcus Davenport)",D/DaveMa00,14,17.8,29.3,17.8,29.3,13,0,416,0,0.475,0.475
+112,2018-04-26,Pittsburgh Steelers,"2018 3rd round pick (79th overall subsequently traded, Rasheem Green)",,79,6.8,6.8,6.8,,,,,,,
+113,2018-04-23,Denver Broncos,"2019 7th round pick (220th overall subsequently traded, Cullen Gillaspia)",,220,0.3,0.3,0.3,,,,,,,
+114,2018-04-04,Los Angeles Rams,"2018 4th round pick (136th overall subsequently traded, Marquis Haynes)",,136,3.3,15.5,3.3,15.5,,,,,,
+114,2018-04-04,New England Patriots,"2018 6th round pick (198th overall subsequently traded, Kahlil McKenzie)",,198,0.9,0.9,15.5,3.3,,,,,,
+114,2018-04-04,New England Patriots,"2018 1st round pick (23rd overall, Isaiah Wynn)",W/WynnIs00,23,14.6,14.6,15.5,3.3,,,,,,
+115,2018-03-29,Denver Broncos,"2018 5th round pick (149th overall subsequently traded, Michael Dickson)",,149,2.7,3.7,7.2,9.9,,,,,,
+115,2018-03-29,Denver Broncos,"2018 4th round pick (113th overall, DaeSean Hamilton)",H/HamiDa01,113,4.5,6.2,7.2,9.9,14,471,0,0.504,0,0.504
+115,2018-03-29,Washington Redskins,"2018 5th round pick (163rd overall, Tim Settle)",S/SettTi00,163,2.2,2.2,9.9,7.2,16,0,134,0,0.13,0.13
+115,2018-03-29,Washington Redskins,"2018 4th round pick (109th overall, Troy Apke)",A/ApkeTr00,109,4.7,4.7,9.9,7.2,2,0,0,0,0,0
+115,2018-03-29,Washington Redskins,"2018 5th round pick (142nd overall subsequently traded, D.J. Reed)",,142,3,3,9.9,7.2,,,,,,
+116,2018-03-22,New York Giants,"2018 4th round pick (108th overall, Kyle Lauletta)",L/LaulKy00,108,4.8,4.8,12.4,5.1,2,19,0,0.141,0,0.141
+116,2018-03-22,New York Giants,"2018 3rd round pick (69th overall, B.J. Hill)",H/HillB.00,69,7.6,7.6,12.4,5.1,,,,,,
+116,2018-03-22,Tampa Bay Buccaneers,"2018 4th round pick (102nd overall subsequently traded, Jalyn Holmes)",,102,5.1,12.4,5.1,12.4,,,,,,
+117,2018-03-18,New England Patriots,"2018 6th round pick (210th overall, Braxton Berrios)",B/BerrBr00,210,0.6,2.3,0.6,2.3,,,,,,
+117,2018-03-18,Oakland Raiders,"2018 5th round pick (159th overall subsequently traded, Daurice Fountain)",,159,2.3,2.3,2.3,0.6,,,,,,
+118,2018-03-17,Indianapolis Colts,"2019 2nd round pick (34th overall, Rock Ya-Sin)",Y/Ya-SRo00,34,12.1,12.1,56.7,27.6,,,,,,
+118,2018-03-17,Indianapolis Colts,"2018 1st round pick (6th overall, Quenton Nelson)",N/NelsQu00,6,23.2,23.2,56.7,27.6,16,1136,0,1,0,1
+118,2018-03-17,Indianapolis Colts,"2018 2nd round pick (37th overall, Braden Smith)",S/SmitBr06,37,11.6,11.6,56.7,27.6,15,853,0,0.793,0,0.793
+118,2018-03-17,Indianapolis Colts,"2018 2nd round pick (49th overall subsequently traded, Dallas Goedert)",,49,9.8,9.8,56.7,27.6,,,,,,
+118,2018-03-17,New York Jets,"2018 1st round pick (3rd overall, Sam Darnold)",D/DarnSa00,3,27.6,56.7,27.6,56.7,13,810,0,0.996,0,0.996
+119,2018-03-15,Cleveland Browns,"2018 6th round pick (205th overall subsequently traded, Trevon Young)",,205,0.7,0.7,0.7,0.3,,,,,,
+119,2018-03-15,New England Patriots,"2018 7th round pick (219th overall, Danny Etling)",E/EtliDa00,219,0.3,0.7,0.3,0.7,,,,,,
+120,2018-03-14,Denver Broncos,"2019 5th round pick (156th overall, Justin Hollins)",H/HollJu00,156,2.4,2.4,2.4,0.1,,,,,,
+120,2018-03-14,Minnesota Vikings,"2018 7th round pick (225th overall, Devante Downs)",D/DownDe00,225,0.1,2.4,0.1,2.4,11,0,0,0,0,0
+120,2018-03-14,Minnesota Vikings,"2018 7th round pick (225th overall, Devante Downs)",D/DownDe00,225,0.1,2.4,0.1,2.4,11,0,0,0,0,0
+121,2018-03-14,Kansas City Chiefs,"2018 4th round pick (124th overall, Armani Watts)",W/WattAr00,124,3.9,3.9,12.1,0.6,5,0,62,0,0.165,0.165
+121,2018-03-14,Kansas City Chiefs,"2019 2nd round pick (63rd overall, Juan Thornhill)",T/ThorJu00,63,8.2,8.2,12.1,0.6,,,,,,
+121,2018-03-14,Los Angeles Rams,"2018 6th round pick (209th overall subsequently traded, Cornell Armstrong)",,209,0.6,12.1,0.6,12.1,,,,,,
+122,2018-03-14,Los Angeles Rams,"2018 6th round pick (176th overall, John Kelly)",K/KellJo00,176,1.7,1.7,5.1,0.1,4,50,0,0.179,0,0.179
+122,2018-03-14,Los Angeles Rams,"2018 4th round pick (135th overall, John Franklin-Myers)",F/FranJo02,135,3.4,3.4,5.1,0.1,16,0,301,0,0.298,0.298
+122,2018-03-14,New York Giants,"2019 7th round pick (245th overall, Chris Slayton)",S/SlayCh00,245,0.1,5.1,0.1,5.1,,,,,,
+123,2018-03-14,Miami Dolphins,"2018 4th round pick (101st overall subsequently traded, Ian Thomas)",,101,5.2,5.2,5.3,,,,,,,
+123,2018-03-14,Miami Dolphins,"2019 7th round pick (234th overall, Myles Gaskin)",G/GaskMy00,234,0.1,0.1,5.3,,,,,,,
+124,2018-03-14,Cleveland Browns,"2019 3rd round pick (95th overall subsequently traded, Oshane Ximines)",,95,5.6,5.6,5.6,2.3,,,,,,
+124,2018-03-14,New England Patriots,"2018 5th round pick (159th overall subsequently traded, Daurice Fountain)",,159,2.3,5.6,2.3,5.6,,,,,,
+125,2018-03-14,Los Angeles Rams,"2018 6th round pick (183rd overall subsequently traded, Sam Jones)",,183,1.4,1.4,6,0.6,,,,,,
+125,2018-03-14,Los Angeles Rams,"2018 4th round pick (111th overall, Brian Allen)",A/AlleBr02,111,4.6,4.6,6,0.6,13,36,0,0.041,0,0.041
+125,2018-03-14,Miami Dolphins,"2018 6th round pick (209th overall, Cornell Armstrong)",A/ArmsCo00,209,0.6,6,0.6,6,15,0,83,0,0.081,0.081
+126,2018-03-14,Denver Broncos,"2018 5th round pick (160th overall subsequently traded, Ogbonnia Okoronkwo)",,160,2.3,2.3,2.3,,,,,,,
+127,2018-03-14,Cleveland Browns,"2018 5th round pick (150th overall, Genard Avery)",A/AverGe00,150,2.7,3.2,7.1,8.4,16,0,684,0,0.581,0.581
+127,2018-03-14,Cleveland Browns,"2018 4th round pick (114th overall subsequently traded, Da'Shawn Hand)",,114,4.4,5.2,7.1,8.4,,,,,,
+127,2018-03-14,Green Bay Packers,"2018 4th round pick (101st overall subsequently traded, Ian Thomas)",,101,5.2,5.2,8.4,7.1,,,,,,
+127,2018-03-14,Green Bay Packers,"2018 5th round pick (138th overall, Cole Madison)",M/MadiCo01,138,3.2,3.2,8.4,7.1,,,,,,
+128,2018-03-14,Buffalo Bills,"2018 1st round pick (12th overall subsequently traded, Vita Vea)",,12,18.8,18.8,20.1,17.6,,,,,,
+128,2018-03-14,Buffalo Bills,"2018 6th round pick (187th overall, Ray-Ray McCloud)",M/McClRa00,187,1.3,1.3,20.1,17.6,10,121,0,0.176,0,0.176
+128,2018-03-14,Cincinnati Bengals,"2018 5th round pick (158th overall, Andrew Brown)",B/BrowAn05,158,2.4,2.7,17.6,20.1,,,,,,
+128,2018-03-14,Cincinnati Bengals,"2018 1st round pick (21st overall, Billy Price)",P/PricBi01,21,15.2,17.4,17.6,20.1,10,558,0,0.907,0,0.907
+129,2018-03-14,Philadelphia Eagles,"2018 7th round pick (250th overall subsequently traded, Ryan Izzo)",,250,0.1,2.4,0.1,2.4,,,,,,
+129,2018-03-14,Seattle Seahawks,"2018 5th round pick (156th overall subsequently traded, Troy Fumagalli)",,156,2.4,2.4,2.4,0.1,,,,,,
+131,2018-03-14,Kansas City Chiefs,"2018 3rd round pick (78th overall subsequently traded, Malik Jefferson)",,78,6.9,6.9,6.9,,,,,,,
+132,2018-03-14,Buffalo Bills,"2018 3rd round pick (65th overall subsequently traded, Brandon Parker)",,65,8,8,8,,,,,,,
+133,2017-10-31,New England Patriots,"2018 2nd round pick (43rd overall subsequently traded, Kerryon Johnson)",,43,10.6,10.6,10.6,,,,,,,
+134,2017-10-31,Carolina Panthers,"2018 3rd round pick (85th overall, Rashaan Gaulden)",G/GaulRa00,85,6.3,6.3,6.4,,15,0,143,0,0.154,0.154
+134,2017-10-31,Carolina Panthers,"2018 7th round pick (234th overall, Andre Smith)",S/SmitAn04,234,0.1,0.1,6.4,,3,0,11,0,0.071,0.071
+135,2017-10-31,Miami Dolphins,"2018 4th round pick (131st overall, Kalen Ballage)",B/BallKa00,131,3.6,3.6,3.6,,12,92,0,0.136,0,0.136
+136,2017-10-31,San Francisco 49ers,"2018 5th round pick (143rd overall subsequently traded, Ja'Whaun Bentley)",,143,3,3,3,,,,,,,
+137,2017-10-31,Houston Texans,"2018 3rd round pick (80th overall, Martinas Rankin)",R/RankMa00,80,6.7,6.7,15.9,3.1,16,430,0,0.393,0,0.393
+137,2017-10-31,Houston Texans,"2019 2nd round pick (54th overall, Lonnie Johnson)",J/JohnLo01,54,9.2,9.2,15.9,3.1,,,,,,
+137,2017-10-31,Seattle Seahawks,"2018 5th round pick (141st overall, Shaquem Griffin)",G/GrifSh01,141,3.1,15.9,3.1,15.9,16,0,50,0,0.05,0.05
+138,2017-10-28,Buffalo Bills,"2018 5th round pick (166th overall, Wyatt Teller)",T/TellWy00,166,2,2,2,,8,475,0,0.847,0,0.847
+141,2017-09-03,Buffalo Bills,"2019 7th round pick (228th overall, Tommy Sweeney)",S/SweeTo00,228,0.1,0.1,0.1,,,,,,,
+142,2017-09-02,Jacksonville Jaguars,"2019 7th round pick (236th overall subsequently traded, John Ursua)",,236,0.1,0.1,0.1,,,,,,,
+143,2017-09-02,Cincinnati Bengals,"2019 6th round pick (198th overall subsequently traded, Tim Harris)",,198,0.9,0.9,0.9,,,,,,,
+144,2017-09-02,Detroit Lions,"2019 6th round pick (204th overall subsequently traded, Travis Homer)",,204,0.7,0.7,0.7,,,,,,,
+145,2017-09-02,Washington Redskins,"2018 7th round pick (241st overall, Greg Stroman)",S/StroGr00,241,0.1,0.1,0.1,,15,0,386,0,0.393,0.393
+147,2017-09-02,Seattle Seahawks,"2018 5th round pick (168th overall, Jamarco Jones)",J/JoneJa08,168,2,2,2,,,,,,,
+149,2017-09-02,Pittsburgh Steelers,"2018 7th round pick (220th overall subsequently traded, Alex McGough) (conditional pick)",,220,0.3,0.3,0.3,,,,,,,
+150,2017-09-02,Cleveland Browns,"2019 7th round pick (234th overall subsequently traded, Myles Gaskin)",,234,0.1,0.8,0.1,0.8,,,,,,
+150,2017-09-02,Pittsburgh Steelers,"2018 6th round pick (202nd overall subsequently traded, Jack Cichy)",,202,0.8,0.8,0.8,0.1,,,,,,
+151,2017-09-01,Arizona Cardinals,"2018 7th round pick (238th overall subsequently traded, Zach Sieler)",,238,0.1,0.1,0.1,,,,,,,
+152,2017-09-01,Denver Broncos,"2018 5th round pick (163rd overall subsequently traded, Tim Settle)",,163,2.2,2.2,2.2,,,,,,,
+153,2017-09-01,New York Jets,"2018 7th round pick (235th overall subsequently traded, Zaire Franklin)",,235,0.1,0.1,9.9,0.1,,,,,,
+153,2017-09-01,New York Jets,"2018 2nd round pick (49th overall subsequently traded, Dallas Goedert)",,49,9.8,9.8,9.9,0.1,,,,,,
+153,2017-09-01,Seattle Seahawks,"2018 7th round pick (226th overall subsequently traded, David Williams)",,226,0.1,9.9,0.1,9.9,,,,,,
+154,2017-08-31,Detroit Lions,"2019 5th round pick (142nd overall subsequently traded, Ben Burr-Kirven)",,142,3,3,3,,,,,,,
+155,2017-08-30,Cleveland Browns,"2018 5th round pick (159th overall subsequently traded, Daurice Fountain)",,159,2.3,2.3,2.3,,,,,,,
+156,2017-08-29,Cincinnati Bengals,"2018 7th round pick (249th overall, Logan Woodside)",W/WoodLo00,249,0.1,0.1,0.1,,,,,,,
+158,2017-08-28,Buffalo Bills,"2019 4th round pick (131st overall subsequently traded, Wes Martin)",,131,3.6,3.6,3.6,,,,,,,
+162,2017-08-22,Philadelphia Eagles,"2018 5th round pick (156th overall subsequently traded, Troy Fumagalli)",,156,2.4,2.4,2.4,0.1,,,,,,
+162,2017-08-22,Seattle Seahawks,"2018 7th round pick (250th overall subsequently traded, Ryan Izzo)",,250,0.1,2.4,0.1,2.4,,,,,,
+163,2017-08-11,Buffalo Bills,"2018 3rd round pick (96th overall, Harrison Phillips)",P/PhilHa00,96,5.5,5.5,5.5,,16,0,389,0,0.384,0.384
+164,2017-08-11,Buffalo Bills,"2018 2nd round pick (56th overall subsequently traded, Duke Dawson)",,56,9,9,9,1,,,,,,
+164,2017-08-11,Los Angeles Rams,"2018 6th round pick (195th overall, Sebastian Joseph)",J/JoseSe00,195,1,9,1,9,,,,,,
+167,2017-07-26,Philadelphia Eagles,"2019 7th round pick (222nd overall subsequently traded, Kerrith Whyte, Jr.)",,222,0.2,0.2,0.2,,,,,,,
+168,2017-06-15,Los Angeles Rams,"2018 6th round pick (194th overall subsequently traded, Russell Gage)",,194,1.1,1.1,1.1,,,,,,,
+170,2017-04-29,Los Angeles Rams,"2017 4th round pick (125th overall, Samson Ebukam)",E/EbukSa00,125,3.9,4.1,3.9,4.1,16,0,351,0,0.327,0.327
+170,2017-04-29,New York Jets,"2017 4th round pick (141st overall, Chad Hansen)",H/HansCh00,141,3.1,3.1,4.1,3.9,15,341,0,0.35,0,0.35
+170,2017-04-29,New York Jets,"2017 6th round pick (197th overall, Jeremy Clark)",C/ClarJe04,197,1,1,4.1,3.9,1,0,0,0,0,0
+171,2017-04-29,Kansas City Chiefs,"2017 4th round pick (139th overall, Jehu Chesson)",C/ChesJe00,139,3.2,3.4,3.2,3.4,12,83,0,0.108,0,0.108
+171,2017-04-29,Minnesota Vikings,"2017 5th round pick (170th overall, Rodney Adams)",A/AdamRo01,170,1.9,1.9,3.4,3.2,,,,,,
+171,2017-04-29,Minnesota Vikings,"2017 5th round pick (180th overall, Danny Isidora)",I/IsidDa00,180,1.5,1.5,3.4,3.2,7,147,0,0.29,0,0.29
+172,2017-04-29,Miami Dolphins,"2017 6th round pick (194th overall, Vincent Taylor)",T/TaylVi00,194,1.1,1.2,3.2,3.4,13,0,185,0,0.215,0.215
+172,2017-04-29,Miami Dolphins,"2017 5th round pick (164th overall, Isaac Asiata)",A/AsiaIs00,164,2.1,2.2,3.2,3.4,1,0,0,0,0,0
+172,2017-04-29,Philadelphia Eagles,"2017 5th round pick (166th overall, Shelton Gibson)",G/GibsSh00,166,2,2,3.4,3.2,5,17,0,0.046,0,0.046
+172,2017-04-29,Philadelphia Eagles,"2017 5th round pick (184th overall, Nathan Gerry)",G/GerrNa00,184,1.4,1.4,3.4,3.2,10,0,20,0,0.031,0.031
+173,2017-04-29,Minnesota Vikings,"2017 6th round pick (201st overall, Bucky Hodges)",H/HodgBu00,201,0.8,0.8,1.1,1,,,,,,
+173,2017-04-29,Minnesota Vikings,"2017 7th round pick (220th overall, Ifeadi Odenigbo)",O/OdenIf00,220,0.3,0.3,1.1,1,1,0,7,0,0.071,0.071
+173,2017-04-29,Washington Redskins,"2017 6th round pick (199th overall, Chase Roullier)",R/RoulCh00,199,0.9,1,1,1.1,13,457,0,0.55,0,0.55
+173,2017-04-29,Washington Redskins,"2017 7th round pick (230th overall, Josh Harvey-Clemons)",H/HarvJo01,230,0.1,0.1,1,1.1,10,0,93,0,0.13,0.13
+174,2017-04-29,Arizona Cardinals,"2017 6th round pick (208th overall, Rudy Ford)",F/FordRu00,208,0.6,0.6,0.6,0.3,10,0,0,0,0,0
+174,2017-04-29,Oakland Raiders,"2017 7th round pick (221st overall, Shalom Luani)",L/LuanSh00,221,0.2,0.4,0.3,0.6,16,0,186,0,0.179,0.179
+174,2017-04-29,Oakland Raiders,"2017 7th round pick (231st overall, Jylan Ware)",W/WareJy00,231,0.1,0.2,0.3,0.6,1,0,0,0,0,0
+175,2017-04-29,Chicago Bears,"2017 4th round pick (112th overall, Eddie Jackson)",J/JackEd01,112,4.6,5.3,4.6,5.3,16,0,1055,0,0.997,0.997
+175,2017-04-29,Los Angeles Rams,"2017 4th round pick (117th overall, Josh Reynolds)",R/ReynJo00,117,4.3,4.3,5.3,4.6,16,279,0,0.27,0,0.27
+175,2017-04-29,Los Angeles Rams,"2017 6th round pick (197th overall subsequently traded, Jeremy Clark)",,197,1,1,5.3,4.6,,,,,,
+176,2017-04-29,Cleveland Browns,"2017 4th round pick (126th overall, Howard Wilson)",W/WilsHo00,126,3.8,4.5,3.9,4.6,,,,,,
+176,2017-04-29,Cleveland Browns,"2017 7th round pick (252nd overall, Matthew Dayes)",D/DayeMa00,252,0.1,0.1,3.9,4.6,16,41,0,0.038,0,0.038
+176,2017-04-29,Denver Broncos,"2017 5th round pick (175th overall subsequently traded, DeAngelo Yancey)",,175,1.7,1.7,4.6,3.9,,,,,,
+176,2017-04-29,Denver Broncos,"2017 5th round pick (145th overall, Jake Butt)",B/ButtJa00,145,2.9,2.9,4.6,3.9,3,97,0,0.466,0,0.466
+177,2017-04-29,Philadelphia Eagles,"2017 6th round pick (214th overall, Elijah Qualls)",Q/QualEl00,214,0.4,0.4,2.5,2.5,6,0,104,0,0.287,0.287
+177,2017-04-29,Philadelphia Eagles,"2017 5th round pick (164th overall subsequently traded, Isaac Asiata)",,164,2.1,2.1,2.5,2.5,,,,,,
+177,2017-04-29,Tennessee Titans,"2017 5th round pick (155th overall, Jayon Brown)",B/BrowJa06,155,2.5,2.5,2.5,2.5,16,0,487,0,0.448,0.448
+178,2017-04-29,Denver Broncos,"2017 5th round pick (172nd overall, Isaiah McKenzie)",M/McKeIs00,172,1.8,1.8,1.8,1.8,11,131,0,0.169,0,0.169
+178,2017-04-29,Green Bay Packers,"2017 5th round pick (175th overall, DeAngelo Yancey)",Y/YancDe00,175,1.7,1.7,1.8,1.8,,,,,,
+178,2017-04-29,Green Bay Packers,"2017 7th round pick (238th overall, Devante Mays)",M/MaysDe00,238,0.1,0.1,1.8,1.8,8,14,0,0.026,0,0.026
+179,2017-04-29,New York Giants,"2017 6th round pick (200th overall, Adam Bisnowaty)",B/BisnAd00,200,0.9,0.9,0.9,0.7,1,78,0,1,0,1
+179,2017-04-29,Tennessee Titans,"2017 6th round pick (207th overall subsequently traded, Brandon Wilson)",,207,0.6,0.8,0.7,0.9,,,,,,
+179,2017-04-29,Tennessee Titans,"2017 7th round pick (241st overall, Khalfani Muhammad)",M/MuhaKh00,241,0.1,0.1,0.7,0.9,,,,,,
+180,2017-04-29,Dallas Cowboys,"2017 6th round pick (216th overall, Marquez White)",W/WhitMa03,216,0.4,0.4,0.5,0.5,,,,,,
+180,2017-04-29,Dallas Cowboys,"2017 7th round pick (239th overall, Noah Brown)",B/BrowNo00,239,0.1,0.1,0.5,0.5,13,161,0,0.189,0,0.189
+180,2017-04-29,New England Patriots,"2017 6th round pick (211th overall, Conor McDermott)",M/McDeCo00,211,0.5,0.5,0.5,0.5,3,1,0,0.005,0,0.005
+181,2017-04-29,Indianapolis Colts,"2017 5th round pick (161st overall, Anthony Walker)",W/WalkAn01,161,2.2,2.2,5.2,4.1,10,0,115,0,0.171,0.171
+181,2017-04-29,Indianapolis Colts,"2017 4th round pick (143rd overall, Marlon Mack)",M/MackMa00,143,3,3,5.2,4.1,14,309,0,0.342,0,0.342
+181,2017-04-29,San Francisco 49ers,"2017 4th round pick (121st overall, Joe Williams)",W/WillJo12,121,4.1,5.2,4.1,5.2,,,,,,
+182,2017-04-29,Minnesota Vikings,"2017 7th round pick (230th overall subsequently traded, Josh Harvey-Clemons)",,230,0.1,0.1,3.3,3.5,,,,,,
+182,2017-04-29,Minnesota Vikings,"2017 4th round pick (139th overall subsequently traded, Jehu Chesson)",,139,3.2,3.4,3.3,3.5,,,,,,
+182,2017-04-29,Philadelphia Eagles,"2017 4th round pick (132nd overall, Donnel Pumphrey)",P/PumpDo00,132,3.5,3.5,3.5,3.3,,,,,,
+183,2017-04-29,Cleveland Browns,"2017 7th round pick (224th overall, Zane Gonzalez)",G/GonzZa00,224,0.1,0.1,2.4,2.8,16,0,0,0,0,0
+183,2017-04-29,Cleveland Browns,"2017 5th round pick (160th overall, Roderick Johnson)",J/JohnRo06,160,2.3,2.7,2.4,2.8,1,0,0,0,0,0
+183,2017-04-29,New York Jets,"2017 5th round pick (181st overall, Dylan Donahue)",D/DonaDy00,181,1.5,1.5,2.8,2.4,4,0,53,0,0.193,0.193
+183,2017-04-29,New York Jets,"2017 6th round pick (188th overall, Elijah McGuire)",M/McGuEl00,188,1.3,1.3,2.8,2.4,16,267,0,0.258,0,0.258
+184,2017-04-29,Dallas Cowboys,"2017 6th round pick (191st overall, Xavier Woods)",W/WoodXa00,191,1.2,2.4,1.2,2.4,16,0,549,0,0.525,0.525
+184,2017-04-29,New York Jets,"2018 5th round pick (157th overall subsequently traded, Tyler Conklin)",,157,2.4,2.4,2.4,1.2,,,,,,
+185,2017-04-29,Cincinnati Bengals,"2017 6th round pick (207th overall, Brandon Wilson)",W/WilsBr01,207,0.6,0.6,0.6,0.4,8,0,0,0,0,0
+185,2017-04-29,Tennessee Titans,"2017 7th round pick (227th overall, Josh Carraway)",C/CarrJo00,227,0.1,0.2,0.4,0.6,1,0,0,0,0,0
+185,2017-04-29,Tennessee Titans,"2017 6th round pick (217th overall, Corey Levin)",L/LeviCo00,217,0.3,0.4,0.4,0.6,16,140,0,0.142,0,0.142
+186,2017-04-29,Miami Dolphins,"2017 7th round pick (237th overall, Isaiah Ford)",F/FordIs00,237,0.1,0.1,0.3,0.2,1,13,0,0.236,0,0.236
+186,2017-04-29,Miami Dolphins,"2018 7th round pick (223rd overall subsequently traded, Jullian Taylor)",,223,0.2,0.2,0.3,0.2,,,,,,
+186,2017-04-29,Tampa Bay Buccaneers,"2017 7th round pick (223rd overall, Stevie Tu'ikolovatu)",T/TuikSt00,223,0.2,0.3,0.2,0.3,,,,,,
+187,2017-04-29,Denver Broncos,"2018 4th round pick (109th overall subsequently traded, Troy Apke)",,109,4.7,4.7,4.7,1.6,,,,,,
+187,2017-04-29,San Francisco 49ers,"2017 5th round pick (177th overall, Trent Taylor)",T/TaylTr02,177,1.6,4.7,1.6,4.7,15,494,0,0.475,0,0.475
+188,2017-04-28,Jacksonville Jaguars,"2017 2nd round pick (34th overall, Cam Robinson)",R/RobiCa00,34,12.1,13.3,12.1,13.3,15,889,0,0.834,0,0.834
+188,2017-04-28,Seattle Seahawks,"2017 2nd round pick (35th overall, Malik McDowell)",M/McDoMa00,35,12,12,13.3,12.1,,,,,,
+188,2017-04-28,Seattle Seahawks,"2017 6th round pick (187th overall, Michael Tyson)",T/TysoMi00,187,1.3,1.3,13.3,12.1,10,0,142,0,0.223,0.223
+189,2017-04-28,Cincinnati Bengals,"2017 2nd round pick (48th overall, Joe Mixon)",M/MixoJo00,48,9.9,9.9,13.6,11,14,384,0,0.449,0,0.449
+189,2017-04-28,Cincinnati Bengals,"2017 4th round pick (128th overall, Josh Malone)",M/MaloJo00,128,3.7,3.7,13.6,11,11,247,0,0.382,0,0.382
+189,2017-04-28,Minnesota Vikings,"2017 2nd round pick (41st overall, Dalvin Cook)",C/CookDa01,41,11,13.6,11,13.6,4,169,0,0.65,0,0.65
+190,2017-04-28,Minnesota Vikings,"2017 3rd round pick (70th overall, Pat Elflein)",E/ElflPa00,70,7.5,9.1,7.5,9.1,14,958,0,0.991,0,0.991
+190,2017-04-28,New York Jets,"2017 5th round pick (160th overall subsequently traded, Roderick Johnson)",,160,2.3,2.3,9.1,7.5,,,,,,
+190,2017-04-28,New York Jets,"2017 3rd round pick (79th overall, ArDarius Stewart)",S/StewAr00,79,6.8,6.8,9.1,7.5,15,231,0,0.237,0,0.237
+191,2017-04-28,Detroit Lions,"2017 3rd round pick (96th overall, Kenny Golladay)",G/GollKe00,96,5.5,5.5,9.4,6.3,11,473,0,0.686,0,0.686
+191,2017-04-28,Detroit Lions,"2017 4th round pick (124th overall, Jalen Reeves-Maybin)",R/ReevJa00,124,3.9,3.9,9.4,6.3,14,0,239,0,0.253,0.253
+191,2017-04-28,New England Patriots,"2017 3rd round pick (85th overall, Antonio Garcia)",G/GarcAn00,85,6.3,9.4,6.3,9.4,,,,,,
+192,2017-04-28,New York Jets,"2017 6th round pick (204th overall, Derrick Jones)",J/JoneDe02,204,0.7,0.7,4.6,4.8,3,0,0,0,0,0
+192,2017-04-28,New York Jets,"2017 4th round pick (125th overall subsequently traded, Samson Ebukam)",,125,3.9,4.1,4.6,4.8,,,,,,
+192,2017-04-28,Tampa Bay Buccaneers,"2017 3rd round pick (107th overall, Kendell Beckwith)",B/BeckKe00,107,4.8,4.8,4.8,4.6,16,0,846,0,0.799,0.799
+193,2017-04-28,Arizona Cardinals,"2017 2nd round pick (36th overall, Budda Baker)",B/BakeBu00,36,11.8,20,11.8,20,16,0,513,0,0.484,0.484
+193,2017-04-28,Chicago Bears,"2017 6th round pick (197th overall subsequently traded, Jeremy Clark)",,197,1,1,20,11.8,,,,,,
+193,2017-04-28,Chicago Bears,"2018 4th round pick (115th overall, Joel Iyiegbuniwe)",I/IyieJo00,115,4.4,4.4,20,11.8,16,0,23,0,0.022,0.022
+193,2017-04-28,Chicago Bears,"2017 2nd round pick (45th overall, Adam Shaheen)",S/ShahAd00,45,10.4,10.4,20,11.8,13,239,0,0.298,0,0.298
+193,2017-04-28,Chicago Bears,"2017 4th round pick (119th overall, Tarik Cohen)",C/CoheTa00,119,4.2,4.2,20,11.8,16,360,0,0.364,0,0.364
+194,2017-04-28,Atlanta Falcons,"2017 5th round pick (156th overall, Brian Hill)",H/HillBr02,156,2.4,2.4,12.2,8.2,6,19,0,0.049,0,0.049
+194,2017-04-28,Atlanta Falcons,"2017 5th round pick (149th overall, Damontae Kazee)",K/KazeDa00,149,2.7,2.7,12.2,8.2,16,0,163,0,0.155,0.155
+194,2017-04-28,Atlanta Falcons,"2017 3rd round pick (75th overall, Duke Riley)",R/RileDu00,75,7.1,7.1,12.2,8.2,12,0,224,0,0.285,0.285
+194,2017-04-28,Buffalo Bills,"2017 2nd round pick (63rd overall, Dion Dawkins)",D/DawkDi00,63,8.2,12.2,8.2,12.2,16,781,0,0.742,0,0.742
+195,2017-04-28,New England Patriots,"2017 4th round pick (124th overall subsequently traded, Jalen Reeves-Maybin)",,124,3.9,3.9,10.4,8.3,,,,,,
+195,2017-04-28,New England Patriots,"2017 3rd round pick (83rd overall, Derek Rivers)",R/RiveDe00,83,6.5,6.5,10.4,8.3,6,0,78,0,0.194,0.194
+195,2017-04-28,Tennessee Titans,"2017 3rd round pick (72nd overall, Taywan Taylor)",T/TaylTa00,72,7.4,9.3,8.3,10.4,16,246,0,0.241,0,0.241
+195,2017-04-28,Tennessee Titans,"2017 6th round pick (200th overall subsequently traded, Adam Bisnowaty)",,200,0.9,1.1,8.3,10.4,,,,,,
+196,2017-04-28,Kansas City Chiefs,"2017 3rd round pick (86th overall, Kareem Hunt)",H/HuntKa00,86,6.2,8.6,6.2,8.6,16,665,0,0.648,0,0.648
+196,2017-04-28,Minnesota Vikings,"2017 3rd round pick (104th overall subsequently traded, C.J. Beathard)",,104,5,5,8.6,6.2,,,,,,
+196,2017-04-28,Minnesota Vikings,"2017 4th round pick (132nd overall subsequently traded, Donnel Pumphrey)",,132,3.5,3.5,8.6,6.2,,,,,,
+196,2017-04-28,Minnesota Vikings,"2017 7th round pick (245th overall, Jack Tocho)",T/TochJa00,245,0.1,0.1,8.6,6.2,,,,,,
+197,2017-04-28,Kansas City Chiefs,"2017 5th round pick (183rd overall, Ukeme Eligwe)",E/EligUk00,183,1.4,1.4,1.4,0.4,14,0,65,0,0.068,0.068
+197,2017-04-28,New England Patriots,"2017 6th round pick (216th overall subsequently traded, Marquez White)",,216,0.4,1.4,0.4,1.4,,,,,,
+198,2017-04-28,Buffalo Bills,"2017 2nd round pick (37th overall, Zay Jones)",J/JoneZa00,37,11.6,13.3,14.3,16.4,15,792,0,0.789,0,0.789
+198,2017-04-28,Buffalo Bills,"2017 5th round pick (149th overall subsequently traded, Damontae Kazee)",,149,2.7,3.1,14.3,16.4,,,,,,
+198,2017-04-28,Los Angeles Rams,"2017 2nd round pick (44th overall, Gerald Everett)",E/EverGe00,44,10.5,10.5,16.4,14.3,16,297,0,0.288,0,0.288
+198,2017-04-28,Los Angeles Rams,"2017 3rd round pick (91st overall, John Johnson)",J/JohnJo10,91,5.9,5.9,16.4,14.3,16,0,715,0,0.666,0.666
+199,2017-04-28,New Orleans Saints,"2017 3rd round pick (67th overall, Alvin Kamara)",K/KamaAl00,67,7.8,8.7,7.8,8.7,16,466,0,0.449,0,0.449
+199,2017-04-28,San Francisco 49ers,"2018 2nd round pick (59th overall subsequently traded, Derrius Guice)",,59,8.6,8.6,8.7,7.8,,,,,,
+199,2017-04-28,San Francisco 49ers,"2017 7th round pick (229th overall, Adrian Colbert)",C/ColbAd00,229,0.1,0.1,8.7,7.8,14,0,530,0,0.54,0.54
+200,2017-04-28,Arizona Cardinals,"2017 4th round pick (115th overall, Dorian Johnson)",J/JohnDo03,115,4.4,4.4,9.8,6.9,,,,,,
+200,2017-04-28,Arizona Cardinals,"2017 3rd round pick (98th overall, Chad Williams)",W/WillCh05,98,5.4,5.4,9.8,6.9,6,98,0,0.227,0,0.227
+200,2017-04-28,Carolina Panthers,"2017 3rd round pick (77th overall, Daeshon Hall)",H/HallDa01,77,6.9,9.8,6.9,9.8,1,0,9,0,0.158,0.158
+201,2017-04-28,Minnesota Vikings,"2017 4th round pick (109th overall, Jaleel Johnson)",J/JohnJa09,109,4.7,4.7,5,5,5,0,41,0,0.129,0.129
+201,2017-04-28,Minnesota Vikings,"2017 7th round pick (219th overall, Stacy Coley)",C/ColeSt00,219,0.3,0.3,5,5,4,20,0,0.068,0,0.068
+201,2017-04-28,San Francisco 49ers,"2017 3rd round pick (104th overall, C.J. Beathard)",B/BeatC.00,104,5,5,5,5,,,,,,
+202,2017-04-27,Chicago Bears,"2017 1st round pick (2nd overall, Mitchell Trubisky)",T/TrubMi00,2,30.2,47.5,30.2,47.5,12,724,0,1,0,1
+202,2017-04-27,San Francisco 49ers,"2017 3rd round pick (67th overall subsequently traded, Alvin Kamara)",,67,7.8,7.8,47.5,30.2,,,,,,
+202,2017-04-27,San Francisco 49ers,"2017 4th round pick (111th overall subsequently traded, Tedric Thompson)",,111,4.6,4.6,47.5,30.2,,,,,,
+202,2017-04-27,San Francisco 49ers,"2017 1st round pick (3rd overall, Solomon Thomas)",T/ThomSo00,3,27.6,27.6,47.5,30.2,14,0,696,0,0.709,0.709
+202,2017-04-27,San Francisco 49ers,"2018 3rd round pick (70th overall, Fred Warner)",W/WarnFr00,70,7.5,7.5,47.5,30.2,16,0,1060,0,0.988,0.988
+203,2017-04-27,Atlanta Falcons,"2017 1st round pick (26th overall, Takkarist McKinley)",M/McKiTa00,26,13.9,18.4,13.9,18.4,16,0,401,0,0.382,0.382
+203,2017-04-27,Seattle Seahawks,"2017 1st round pick (31st overall subsequently traded, Reuben Foster)",,31,12.7,12.7,18.4,13.9,,,,,,
+203,2017-04-27,Seattle Seahawks,"2017 7th round pick (249th overall, Chris Carson)",C/CarsCh00,249,0.1,0.1,18.4,13.9,4,153,0,0.563,0,0.563
+203,2017-04-27,Seattle Seahawks,"2017 3rd round pick (95th overall, Delano Hill)",H/HillDe02,95,5.6,5.6,18.4,13.9,15,0,32,0,0.031,0.031
+204,2017-04-27,Buffalo Bills,"2017 3rd round pick (91st overall subsequently traded, John Johnson)",,91,5.9,5.9,34.4,19.9,,,,,,
+204,2017-04-27,Buffalo Bills,"2018 1st round pick (22nd overall subsequently traded, Rashaan Evans)",,22,14.9,14.9,34.4,19.9,,,,,,
+204,2017-04-27,Buffalo Bills,"2017 1st round pick (27th overall, TreDavious White)",W/WhitTr01,27,13.6,13.6,34.4,19.9,16,0,1093,0,0.986,0.986
+204,2017-04-27,Kansas City Chiefs,"2017 1st round pick (10th overall, Patrick Mahomes)",M/MahoPa00,10,19.9,34.4,19.9,34.4,1,62,0,0.939,0,0.939
+205,2017-04-27,Cleveland Browns,"2017 1st round pick (29th overall, David Njoku)",N/NjokDa00,29,13.2,17.1,13.2,17.1,16,500,0,0.468,0,0.468
+205,2017-04-27,Green Bay Packers,"2017 4th round pick (108th overall, Vince Biegel)",B/BiegVi00,108,4.8,4.8,17.1,13.2,9,0,121,0,0.205,0.205
+205,2017-04-27,Green Bay Packers,"2017 2nd round pick (33rd overall, Kevin King)",K/KingKe01,33,12.3,12.3,17.1,13.2,9,0,380,0,0.646,0.646
+206,2017-04-27,Cleveland Browns,"2017 1st round pick (25th overall, Jabrill Peppers)",P/PeppJa00,25,14.1,14.1,39.9,18.8,13,0,805,0,0.964,0.964
+206,2017-04-27,Cleveland Browns,"2018 1st round pick (4th overall, Denzel Ward)",W/WardDe02,4,25.8,25.8,39.9,18.8,13,0,841,0,0.882,0.882
+206,2017-04-27,Houston Texans,"2017 1st round pick (12th overall, Deshaun Watson)",W/WatsDe00,12,18.8,39.9,18.8,39.9,7,464,0,0.926,0,0.926
+207,2017-04-27,San Francisco 49ers,"2017 1st round pick (31st overall, Reuben Foster)",F/FostRe00,31,12.7,16.7,12.7,16.7,10,0,553,0,0.823,0.823
+207,2017-04-27,Seattle Seahawks,"2017 4th round pick (111th overall, Tedric Thompson)",T/ThomTe00,111,4.6,4.6,16.7,12.7,9,0,8,0,0.013,0.013
+207,2017-04-27,Seattle Seahawks,"2017 2nd round pick (34th overall subsequently traded, Cam Robinson)",,34,12.1,12.1,16.7,12.7,,,,,,
+208,2017-03-10,New England Patriots,"2017 4th round pick (118th overall subsequently traded, Mack Hollins)",,118,4.2,17.6,4.2,17.6,,,,,,
+208,2017-03-10,New Orleans Saints,"2017 3rd round pick (103rd overall, Trey Hendrickson)",H/HendTr00,103,5.1,5.1,17.6,4.2,12,0,281,0,0.363,0.363
+208,2017-03-10,New Orleans Saints,"2017 1st round pick (32nd overall, Ryan Ramczyk)",R/RamcRy00,32,12.5,12.5,17.6,4.2,16,1037,0,1,0,1
+209,2017-03-10,Carolina Panthers,"2017 2nd round pick (64th overall, Taylor Moton)",M/MotoTa00,64,8.1,8.1,8.1,7.4,16,63,0,0.059,0,0.059
+209,2017-03-10,New England Patriots,"2017 3rd round pick (72nd overall subsequently traded, Taywan Taylor)",,72,7.4,8.1,7.4,8.1,,,,,,
+210,2017-03-09,Indianapolis Colts,"2017 4th round pick (137th overall, Zach Banner)",B/BannZa00,137,3.3,3.3,3.3,0.9,8,27,0,0.053,0,0.053
+210,2017-03-09,New England Patriots,"2017 6th round pick (200th overall subsequently traded, Adam Bisnowaty)",,200,0.9,3.3,0.9,3.3,,,,,,
+211,2017-03-09,Cleveland Browns,"2018 2nd round pick (35th overall, Nick Chubb)",C/ChubNi00,35,12,12,13.3,3,16,395,0,0.362,0,0.362
+211,2017-03-09,Cleveland Browns,"2017 6th round pick (188th overall subsequently traded, Elijah McGuire)",,188,1.3,1.3,13.3,3,,,,,,
+211,2017-03-09,Houston Texans,"2017 4th round pick (142nd overall, Carlos Watkins)",W/WatkCa00,142,3,13.3,3,13.3,12,0,328,0,0.434,0.434
+213,2017-03-09,Los Angeles Rams,"2017 6th round pick (206th overall, Sam Rogers)",R/RogeSa00,206,0.7,0.7,0.7,0.2,,,,,,
+213,2017-03-09,Miami Dolphins,"2017 7th round pick (223rd overall subsequently traded, Stevie Tu'ikolovatu)",,223,0.2,0.7,0.2,0.7,,,,,,
+214,2017-03-09,Jacksonville Jaguars,"2017 7th round pick (240th overall, Marquez Williams)",W/WillMa09,240,0.1,0.1,0.1,,1,10,0,0.154,0,0.154
+216,2016-10-31,New England Patriots,"2017 3rd round pick (96th overall subsequently traded, Kenny Golladay)",,96,5.5,5.5,5.5,,,,,,,
+217,2016-10-25,Denver Broncos,"2017 5th round pick (163rd overall subsequently traded, Matt Milano)",,163,2.2,2.2,2.2,,,,,,,
+218,2016-10-25,Detroit Lions,"2017 6th round pick (215th overall, Brad Kaaya)",K/KaayBr00,215,0.4,0.4,0.4,0.1,,,,,,
+218,2016-10-25,New England Patriots,"2017 7th round pick (239th overall subsequently traded, Noah Brown)",,239,0.1,0.4,0.1,0.4,,,,,,
+220,2016-09-06,Philadelphia Eagles,"2018 4th round pick (131st overall subsequently traded, Kalen Ballage)",,131,3.6,3.6,3.6,,,,,,,
+221,2016-09-03,Kansas City Chiefs,"2019 7th round pick (216th overall, Nick Allegretti)",A/AlleNi00,216,0.4,0.4,0.4,,,,,,,
+222,2016-09-03,Philadelphia Eagles,"2018 4th round pick (130th overall, Josh Sweat)",S/SweaJo00,130,3.6,3.6,21.4,,9,0,68,0,0.114,0.114
+222,2016-09-03,Philadelphia Eagles,"2017 1st round pick (14th overall, Derek Barnett)",B/BarnDe01,14,17.8,17.8,21.4,,15,0,424,0,0.441,0.441
+223,2016-09-03,Oakland Raiders,"2017 7th round pick (244th overall, Treyvon Hester)",H/HestTr00,244,0.1,0.1,0.1,,14,0,346,0,0.384,0.384
+224,2016-09-02,Kansas City Chiefs,"2018 7th round pick (233rd overall subsequently traded, Jordan Mailata)",,233,0.1,0.1,0.1,,,,,,,
+225,2016-09-02,Cleveland Browns,"2018 6th round pick (202nd overall subsequently traded, Jack Cichy)",,202,0.8,0.8,0.8,,,,,,,
+227,2016-08-30,Green Bay Packers,"2018 7th round pick (239th overall, Hunter Bradley)",B/BradHu00,239,0.1,0.1,0.1,,16,0,0,0,0,0
+228,2016-08-29,Carolina Panthers,"2017 7th round pick (233rd overall, Harrison Butker)",B/ButkHa00,233,0.1,4,0.1,4,13,0,0,0,0,0
+228,2016-08-29,Cleveland Browns,"2018 4th round pick (123rd overall subsequently traded, Durham Smythe)",,123,4,4,4,0.1,,,,,,
+230,2016-08-27,San Francisco 49ers,"2018 7th round pick (240th overall, Richie James)",J/JameRi00,240,0.1,0.1,0.1,,13,192,0,0.222,0,0.222
+231,2016-08-25,Cleveland Browns,"2017 5th round pick (175th overall subsequently traded, DeAngelo Yancey)",,175,1.7,1.7,1.7,,,,,,,
+233,2016-04-30,Cleveland Browns,"2016 7th round pick (249th overall subsequently traded, Prince Charles Iworah)",,249,0.1,0.2,0.1,0.2,,,,,,
+233,2016-04-30,Miami Dolphins,"2016 7th round pick (222nd overall subsequently traded, Aaron Wallace)",,222,0.2,0.2,0.2,0.1,,,,,,
+234,2016-04-30,New York Jets,"2016 5th round pick (158th overall, Brandon Shell)",S/ShelBr00,158,2.4,4.4,2.4,4.4,8,204,0,0.386,0,0.386
+234,2016-04-30,Washington Redskins,"2017 4th round pick (114th overall, Samaje Perine)",P/PeriSa00,114,4.4,4.4,4.4,2.4,16,359,0,0.355,0,0.355
+235,2016-04-30,Miami Dolphins,"2016 6th round pick (204th overall, Jordan Lucas)",L/LucaJo00,204,0.7,1.1,1.8,2.8,8,0,0,0,0,0
+235,2016-04-30,Miami Dolphins,"2016 7th round pick (250th overall subsequently traded, Scooby Wright)",,250,0.1,0.2,1.8,2.8,,,,,,
+235,2016-04-30,Miami Dolphins,"2016 6th round pick (196th overall subsequently traded, Blake Countess)",,196,1,1.6,1.8,2.8,,,,,,
+235,2016-04-30,New England Patriots,"2016 5th round pick (147th overall subsequently traded, Quinton Jefferson)",,147,2.8,2.8,2.8,1.8,,,,,,
+236,2016-04-30,Cleveland Browns,"2016 4th round pick (114th overall, Ricardo Louis)",L/LouiRi00,114,4.4,4.4,6.9,5.3,16,316,0,0.307,0,0.307
+236,2016-04-30,Cleveland Browns,"2016 5th round pick (154th overall, Jordan Payton)",P/PaytJo00,154,2.5,2.5,6.9,5.3,4,32,0,0.112,0,0.112
+236,2016-04-30,Oakland Raiders,"2016 4th round pick (100th overall, Connor Cook)",C/CookCo00,100,5.3,6.9,5.3,6.9,1,32,0,0.593,0,0.593
+237,2016-04-30,Minnesota Vikings,"2016 6th round pick (188th overall, David Morgan)",M/MorgDa01,188,1.3,1.3,1.3,1.1,12,63,0,0.081,0,0.081
+237,2016-04-30,Philadelphia Eagles,"2016 7th round pick (240th overall, Alex McCalister)",M/McCaAl00,240,0.1,0.1,1.1,1.3,,,,,,
+237,2016-04-30,Philadelphia Eagles,"2016 6th round pick (196th overall, Blake Countess)",C/CounBl00,196,1,1.2,1.1,1.3,5,0,141,0,0.393,0.393
+238,2016-04-30,Denver Broncos,"2017 6th round pick (203rd overall, De'Angelo Henderson)",H/HendDe01,203,0.8,0.8,2.5,2.5,5,20,0,0.056,0,0.056
+238,2016-04-30,Denver Broncos,"2016 6th round pick (176th overall, Andy Janovich)",J/JanoAn00,176,1.7,1.7,2.5,2.5,11,235,0,0.309,0,0.309
+238,2016-04-30,Tennessee Titans,"2016 5th round pick (157th overall, LeShaun Sims)",S/SimsLe00,157,2.4,2.4,2.5,2.5,13,0,235,0,0.266,0.266
+238,2016-04-30,Tennessee Titans,"2016 7th round pick (253rd overall, Kalan Reed)",R/ReedKa00,253,0.1,0.1,2.5,2.5,4,0,14,0,0.052,0.052
+239,2016-04-30,New Orleans Saints,"2016 4th round pick (120th overall, David Onyemata)",O/OnyeDa00,120,4.1,5.1,4.1,5.1,16,0,392,0,0.374,0.374
+239,2016-04-30,Washington Redskins,"2017 5th round pick (154th overall, Jeremy Sprinkle)",S/SpriJe00,154,2.5,2.5,5.1,4.1,11,126,0,0.185,0,0.185
+239,2016-04-30,Washington Redskins,"2016 5th round pick (152nd overall, Matthew Ioannidis)",I/IoanMa01,152,2.6,2.6,5.1,4.1,10,0,102,0,0.149,0.149
+240,2016-04-30,Miami Dolphins,"2016 6th round pick (186th overall, Jakeem Grant)",G/GranJa00,186,1.3,1.3,1.3,1.1,16,19,0,0.02,0,0.02
+240,2016-04-30,Minnesota Vikings,"2016 6th round pick (196th overall subsequently traded, Blake Countess)",,196,1,1.2,1.1,1.3,,,,,,
+240,2016-04-30,Minnesota Vikings,"2016 7th round pick (227th overall, Stephen Weatherly)",W/WeatSt00,227,0.1,0.1,1.1,1.3,2,0,1,0,0.008,0.008
+241,2016-04-30,New England Patriots,"2017 4th round pick (131st overall, Deatrich Wise)",W/WiseDe00,131,3.6,3.6,3.7,2.9,16,0,543,0,0.512,0.512
+241,2016-04-30,New England Patriots,"2016 7th round pick (225th overall, Devin Lucien)",L/LuciDe00,225,0.1,0.1,3.7,2.9,,,,,,
+241,2016-04-30,Seattle Seahawks,"2016 5th round pick (147th overall, Quinton Jefferson)",J/JeffQu00,147,2.8,3.6,2.9,3.7,3,0,20,0,0.107,0.107
+241,2016-04-30,Seattle Seahawks,"2016 7th round pick (243rd overall, Kenny Lawler)",L/LawlKe00,243,0.1,0.1,2.9,3.7,,,,,,
+242,2016-04-30,Chicago Bears,"2016 4th round pick (113th overall, Nick Kwiatkoski)",K/KwiaNi00,113,4.5,5,4.5,5,14,0,457,0,0.492,0.492
+242,2016-04-30,Los Angeles Rams,"2016 6th round pick (206th overall, Mike Thomas)",T/ThomMi04,206,0.7,0.7,5,4.5,15,104,0,0.11,0,0.11
+242,2016-04-30,Los Angeles Rams,"2016 4th round pick (117th overall, Pharoh Cooper)",C/CoopPh00,117,4.3,4.3,5,4.5,10,211,0,0.308,0,0.308
+243,2016-04-29,Atlanta Falcons,"2016 6th round pick (195th overall, Wes Schweitzer)",S/SchwWe00,195,1,1,10.4,9.7,16,1014,0,0.99,0,0.99
+243,2016-04-29,Atlanta Falcons,"2016 2nd round pick (52nd overall, Deion Jones)",J/JoneDe01,52,9.4,9.4,10.4,9.7,15,0,897,0,0.862,0.862
+243,2016-04-29,Houston Texans,"2016 2nd round pick (50th overall, Nick Martin)",M/MartNi00,50,9.7,10.4,9.7,10.4,14,971,0,0.986,0,0.986
+244,2016-04-29,Buffalo Bills,"2016 2nd round pick (41st overall, Reggie Ragland)",R/RaglRe00,41,11,18.4,11,18.4,12,0,322,0,0.398,0.398
+244,2016-04-29,Chicago Bears,"2016 4th round pick (117th overall subsequently traded, Pharoh Cooper)",,117,4.3,4.3,18.4,11,,,,,,
+244,2016-04-29,Chicago Bears,"2017 4th round pick (117th overall subsequently traded, Josh Reynolds)",,117,4.3,4.3,18.4,11,,,,,,
+244,2016-04-29,Chicago Bears,"2016 2nd round pick (49th overall subsequently traded, Jarran Reed)",,49,9.8,9.8,18.4,11,,,,,,
+245,2016-04-29,New England Patriots,"2016 3rd round pick (78th overall, Joe Thuney)",T/ThunJo00,78,6.9,6.9,11.5,8.4,16,1114,0,0.996,0,0.996
+245,2016-04-29,New England Patriots,"2016 4th round pick (112th overall, Malcolm Mitchell)",M/MitcMa01,112,4.6,4.6,11.5,8.4,14,538,0,0.547,0,0.547
+245,2016-04-29,New Orleans Saints,"2016 2nd round pick (61st overall, Vonn Bell)",B/BellVo00,61,8.4,11.5,8.4,11.5,16,0,889,0,0.847,0.847
+246,2016-04-29,Chicago Bears,"2016 4th round pick (124th overall, Deon Bush)",B/BushDe00,124,3.9,3.9,12.9,9.8,11,0,333,0,0.454,0.454
+246,2016-04-29,Chicago Bears,"2016 2nd round pick (56th overall, Cody Whitehair)",W/WhitCo03,56,9,9,12.9,9.8,16,1008,0,0.998,0,0.998
+246,2016-04-29,Seattle Seahawks,"2016 2nd round pick (49th overall, Jarran Reed)",R/ReedJa02,49,9.8,12.9,9.8,12.9,15,0,477,0,0.473,0.473
+247,2016-04-29,Baltimore Ravens,"2016 2nd round pick (42nd overall, Kamalei Correa)",C/CorrKa00,42,10.8,10.8,15.6,11.4,9,0,48,0,0.08,0.08
+247,2016-04-29,Baltimore Ravens,"2016 4th round pick (107th overall, Chris Moore)",M/MoorCh00,107,4.8,4.8,15.6,11.4,15,162,0,0.152,0,0.152
+247,2016-04-29,Miami Dolphins,"2016 2nd round pick (38th overall, Xavien Howard)",H/HowaXa00,38,11.4,15.6,11.4,15.6,7,0,527,0,0.96,0.96
+248,2016-04-29,Miami Dolphins,"2016 3rd round pick (86th overall, Leonte Carroo)",C/CarrLe00,86,6.2,11.2,6.2,11.2,14,120,0,0.146,0,0.146
+248,2016-04-29,Minnesota Vikings,"2016 6th round pick (186th overall subsequently traded, Jakeem Grant)",,186,1.3,1.3,11.2,6.2,,,,,,
+248,2016-04-29,Minnesota Vikings,"2017 3rd round pick (86th overall subsequently traded, Kareem Hunt)",,86,6.2,6.2,11.2,6.2,,,,,,
+248,2016-04-29,Minnesota Vikings,"2017 4th round pick (128th overall subsequently traded, Josh Malone)",,128,3.7,3.7,11.2,6.2,,,,,,
+249,2016-04-29,Kansas City Chiefs,"2016 4th round pick (106th overall, Eric Murray)",M/MurrEr00,106,4.9,4.9,12.1,8.6,16,0,64,0,0.057,0.057
+249,2016-04-29,Kansas City Chiefs,"2016 3rd round pick (74th overall, KeiVarae Russell)",R/RussKe00,74,7.2,7.2,12.1,8.6,5,0,1,0,0.003,0.003
+249,2016-04-29,Tampa Bay Buccaneers,"2016 2nd round pick (59th overall, Roberto Aguayo)",A/AguaRo00,59,8.6,12.1,8.6,12.1,16,0,0,0,0,0
+250,2016-04-29,Green Bay Packers,"2016 2nd round pick (48th overall, Jason Spriggs)",S/SpriJa00,48,9.9,12.9,9.9,12.9,16,238,0,0.219,0,0.219
+250,2016-04-29,Indianapolis Colts,"2016 7th round pick (248th overall, Austin Blythe)",B/BlytAu00,248,0.1,0.1,12.9,9.9,8,89,0,0.158,0,0.158
+250,2016-04-29,Indianapolis Colts,"2016 4th round pick (125th overall, Antonio Morrison)",M/MorrAn01,125,3.9,3.9,12.9,9.9,16,0,332,0,0.309,0.309
+250,2016-04-29,Indianapolis Colts,"2016 2nd round pick (57th overall, T.J. Green)",G/GreeT.00,57,8.9,8.9,12.9,9.9,,,,,,
+251,2016-04-29,Baltimore Ravens,"2016 2nd round pick (38th overall subsequently traded, Xavien Howard)",,38,11.4,11.4,14.3,11.8,,,,,,
+251,2016-04-29,Baltimore Ravens,"2016 5th round pick (146th overall, Matt Judon)",J/JudoMa00,146,2.9,2.9,14.3,11.8,14,0,309,0,0.336,0.336
+251,2016-04-29,Jacksonville Jaguars,"2016 2nd round pick (36th overall, Myles Jack)",J/JackMy00,36,11.8,14.3,11.8,14.3,16,0,239,0,0.222,0.222
+252,2016-04-29,Carolina Panthers,"2016 5th round pick (141st overall, Zack Sanchez)",S/SancZa00,141,3.1,3.5,10,11.4,5,0,88,0,0.246,0.246
+252,2016-04-29,Carolina Panthers,"2016 3rd round pick (77th overall, Daryl Worley)",W/WorlDa00,77,6.9,7.9,10,11.4,16,0,866,0,0.809,0.809
+252,2016-04-29,Cleveland Browns,"2016 5th round pick (168th overall, Spencer Drango)",D/DranSp00,168,2,2,11.4,10,16,599,0,0.582,0,0.582
+252,2016-04-29,Cleveland Browns,"2016 3rd round pick (93rd overall, Cody Kessler)",K/KessCo00,93,5.7,5.7,11.4,10,9,349,0,0.603,0,0.603
+252,2016-04-29,Cleveland Browns,"2016 4th round pick (129th overall, Derrick Kindred)",K/KindDe00,129,3.7,3.7,11.4,10,12,0,537,0,0.642,0.642
+253,2016-04-28,Chicago Bears,"2016 1st round pick (9th overall, Leonard Floyd)",F/FloyLe00,9,20.6,24.2,20.6,24.2,12,0,536,0,0.649,0.649
+253,2016-04-28,Tampa Bay Buccaneers,"2016 1st round pick (11th overall, Vernon Hargreaves)",H/HargVe00,11,19.3,19.3,24.2,20.6,16,0,1037,0,0.976,0.976
+253,2016-04-28,Tampa Bay Buccaneers,"2016 4th round pick (106th overall subsequently traded, Eric Murray)",,106,4.9,4.9,24.2,20.6,,,,,,
+254,2016-04-28,Kansas City Chiefs,"2016 4th round pick (105th overall, Parker Ehinger)",E/EhinPa00,105,5,5,18.2,13.4,5,229,0,0.682,0,0.682
+254,2016-04-28,Kansas City Chiefs,"2016 6th round pick (178th overall, D.J. White)",W/WhitD.00,178,1.6,1.6,18.2,13.4,,,,,,
+254,2016-04-28,Kansas City Chiefs,"2016 2nd round pick (37th overall, Chris Jones)",J/JoneCh09,37,11.6,11.6,18.2,13.4,16,0,573,0,0.514,0.514
+254,2016-04-28,San Francisco 49ers,"2016 1st round pick (28th overall, Joshua Garnett)",G/GarnJo00,28,13.4,18.2,13.4,18.2,15,716,0,0.75,0,0.75
+255,2016-04-28,Houston Texans,"2016 1st round pick (21st overall, Will Fuller)",F/FullWi01,21,15.2,15.5,15.2,15.5,14,829,0,0.839,0,0.839
+255,2016-04-28,Washington Redskins,"2017 6th round pick (209th overall, Robert Davis)",D/DaviRo00,209,0.6,0.6,15.5,15.2,1,0,0,0,0,0
+255,2016-04-28,Washington Redskins,"2016 1st round pick (22nd overall, Josh Doctson)",D/DoctJo00,22,14.9,14.9,15.5,15.2,2,31,0,0.248,0,0.248
+256,2016-04-28,Cleveland Browns,"2016 3rd round pick (76th overall, Shon Coleman)",C/ColeSh00,76,7,7,33.8,23.1,7,62,0,0.134,0,0.134
+256,2016-04-28,Cleveland Browns,"2017 2nd round pick (52nd overall, DeShone Kizer)",K/KizeDe00,52,9.4,9.4,33.8,23.1,15,886,0,0.885,0,0.885
+256,2016-04-28,Cleveland Browns,"2016 1st round pick (15th overall, Corey Coleman)",C/ColeCo00,15,17.4,17.4,33.8,23.1,10,533,0,0.874,0,0.874
+256,2016-04-28,Tennessee Titans,"2016 6th round pick (176th overall subsequently traded, Andy Janovich)",,176,1.7,2.5,23.1,33.8,,,,,,
+256,2016-04-28,Tennessee Titans,"2016 1st round pick (8th overall, Jack Conklin)",C/ConkJa00,8,21.4,31.3,23.1,33.8,16,1061,0,0.997,0,0.997
+257,2016-04-28,Denver Broncos,"2016 1st round pick (26th overall, Paxton Lynch)",L/LyncPa00,26,13.9,18.4,13.9,18.4,3,176,0,0.893,0,0.893
+257,2016-04-28,Seattle Seahawks,"2016 3rd round pick (94th overall, Nick Vannett)",V/VannNi00,94,5.7,5.7,18.4,13.9,9,84,0,0.148,0,0.148
+257,2016-04-28,Seattle Seahawks,"2016 1st round pick (31st overall, Germain Ifedi)",I/IfedGe00,31,12.7,12.7,18.4,13.9,13,840,0,1,0,1
+258,2016-04-20,Cleveland Browns,"2017 1st round pick (12th overall subsequently traded, Deshaun Watson)",,12,18.8,18.8,60.5,33.4,,,,,,
+258,2016-04-20,Cleveland Browns,"2016 1st round pick (8th overall subsequently traded, Jack Conklin)",,8,21.4,21.4,60.5,33.4,,,,,,
+258,2016-04-20,Cleveland Browns,"2016 4th round pick (100th overall subsequently traded, Connor Cook)",,100,5.3,5.3,60.5,33.4,,,,,,
+258,2016-04-20,Cleveland Browns,"2018 2nd round pick (64th overall subsequently traded, Tyquan Lewis)",,64,8.1,8.1,60.5,33.4,,,,,,
+258,2016-04-20,Cleveland Browns,"2016 3rd round pick (77th overall subsequently traded, Daryl Worley)",,77,6.9,6.9,60.5,33.4,,,,,,
+258,2016-04-20,Philadelphia Eagles,"2017 4th round pick (139th overall subsequently traded, Jehu Chesson)",,139,3.2,5.8,33.4,60.5,,,,,,
+258,2016-04-20,Philadelphia Eagles,"2016 1st round pick (2nd overall, Carson Wentz)",W/WentCa00,2,30.2,54.7,33.4,60.5,16,1125,0,0.995,0,0.995
+259,2016-04-14,Los Angeles Rams,"2016 6th round pick (177th overall, Temarrick Hemingway)",H/HemiTe00,177,1.6,2.9,40.7,75,8,14,0,0.027,0,0.027
+259,2016-04-14,Los Angeles Rams,"2016 4th round pick (113th overall subsequently traded, Nick Kwiatkoski)",,113,4.5,8.3,40.7,75,,,,,,
+259,2016-04-14,Los Angeles Rams,"2016 1st round pick (1st overall, Jared Goff)",G/GoffJa00,1,34.6,63.8,40.7,75,7,392,0,0.94,0,0.94
+259,2016-04-14,Tennessee Titans,"2016 1st round pick (15th overall subsequently traded, Corey Coleman)",,15,17.4,17.4,75,40.7,,,,,,
+259,2016-04-14,Tennessee Titans,"2017 1st round pick (5th overall, Corey Davis)",D/DaviCo03,5,24.3,24.3,75,40.7,11,517,2,0.731,0.003,0.731
+259,2016-04-14,Tennessee Titans,"2017 3rd round pick (100th overall, Jonnu Smith)",S/SmitJo01,100,5.3,5.3,75,40.7,16,552,0,0.54,0,0.54
+259,2016-04-14,Tennessee Titans,"2016 3rd round pick (76th overall subsequently traded, Shon Coleman)",,76,7,7,75,40.7,,,,,,
+259,2016-04-14,Tennessee Titans,"2016 2nd round pick (43rd overall, Austin Johnson)",J/JohnAu01,43,10.6,10.6,75,40.7,10,0,190,0,0.287,0.287
+259,2016-04-14,Tennessee Titans,"2016 2nd round pick (45th overall, Derrick Henry)",H/HenrDe00,45,10.4,10.4,75,40.7,15,270,0,0.27,0,0.27
+260,2016-03-17,Chicago Bears,"2016 4th round pick (127th overall, Deiondre' Hall)",H/HallDe02,127,3.8,3.8,3.8,0.7,8,0,79,0,0.146,0.146
+260,2016-03-17,New England Patriots,"2016 6th round pick (204th overall subsequently traded, Jordan Lucas)",,204,0.7,3.8,0.7,3.8,,,,,,
+261,2016-03-15,New England Patriots,"2016 2nd round pick (61st overall subsequently traded, Vonn Bell)",,61,8.4,8.4,8.4,,,,,,,
+263,2016-03-09,Philadelphia Eagles,"2016 4th round pick (100th overall subsequently traded, Connor Cook)",,100,5.3,5.3,5.3,4.5,,,,,,
+263,2016-03-09,Tennessee Titans,"2016 4th round pick (113th overall subsequently traded, Nick Kwiatkoski)",,113,4.5,5.3,4.5,5.3,,,,,,
+264,2016-03-09,Miami Dolphins,"2016 1st round pick (13th overall, Laremy Tunsil)",T/TunsLa00,13,18.3,21.4,18.3,21.4,14,802,0,0.949,0,0.949
+264,2016-03-09,Philadelphia Eagles,"2016 1st round pick (8th overall subsequently traded, Jack Conklin)",,8,21.4,21.4,21.4,18.3,,,,,,
+265,2015-10-06,Minnesota Vikings,"2016 6th round pick (180th overall, Moritz Boehringer)",B/BoehMo00,180,1.5,1.5,1.5,,,,,,,
+266,2015-09-28,Chicago Bears,"2016 6th round pick (206th overall subsequently traded, Mike Thomas)",,206,0.7,0.7,0.7,,,,,,,
+267,2015-09-28,Chicago Bears,"2016 6th round pick (204th overall subsequently traded, Jordan Lucas)",,204,0.7,0.7,0.7,,,,,,,
+268,2015-09-21,Miami Dolphins,"2016 7th round pick (227th overall subsequently traded, Stephen Weatherly)",,227,0.1,0.1,0.1,,,,,,,
+269,2015-09-17,Houston Texans,"2016 5th round pick (166th overall, D.J. Reader)",R/ReadD.00,166,2,2,2,1,,,,,,
+269,2015-09-17,New England Patriots,"2016 6th round pick (196th overall subsequently traded, Blake Countess)",,196,1,2,1,2,,,,,,
+270,2015-09-16,Dallas Cowboys,"2016 6th round pick (189th overall, Anthony Brown)",B/BrowAn02,189,1.2,3,1.2,3,16,0,715,0,0.679,0.679
+270,2015-09-16,Oakland Raiders,"2016 5th round pick (143rd overall, DeAndre Washington)",W/WashDe00,143,3,3,3,1.2,14,241,0,0.247,0,0.247
+271,2015-09-06,Seattle Seahawks,"2016 7th round pick (225th overall subsequently traded, Devin Lucien)",,225,0.1,0.1,0.1,,,,,,,
+272,2015-09-05,San Diego Chargers,"2016 6th round pick (198th overall, Derek Watt)",W/WattDe00,198,0.9,0.9,0.9,,16,142,0,0.133,0,0.133
+273,2015-09-05,Kansas City Chiefs,"2016 5th round pick (162nd overall, Kevin Hogan)",H/HogaKe00,162,2.2,2.2,2.2,,4,50,0,0.192,0,0.192
+274,2015-09-04,Tennessee Titans,"2016 6th round pick (193rd overall, Sebastian Tretola)",T/TretSe00,193,1.1,1.1,1.1,,1,3,0,0.045,0,0.045
+275,2015-09-04,Oakland Raiders,"2016 6th round pick (194th overall, Cory James)",J/JameCo00,194,1.1,1.1,1.1,,16,0,375,0,0.358,0.358
+276,2015-09-04,Pittsburgh Steelers,"2016 7th round pick (229th overall, Demarcus Ayers)",A/AyerDe00,229,0.1,0.1,0.1,,2,82,0,0.636,0,0.636
+277,2015-09-04,Philadelphia Eagles,"2016 7th round pick (251st overall, Joe Walker)",W/WalkJo01,251,0.1,0.1,0.1,,12,0,97,0,0.124,0.124
+278,2015-08-31,Jacksonville Jaguars,"2016 6th round pick (201st overall, Brandon Allen)",A/AlleBr00,201,0.8,0.8,0.8,,,,,,,
+279,2015-08-31,Denver Broncos,"2016 7th round pick (235th overall subsequently traded, Lac Edwards)",,235,0.1,0.1,0.1,,,,,,,
+280,2015-08-02,Detroit Lions,"2016 6th round pick (202nd overall, Anthony Zettel)",Z/ZettAn00,202,0.8,0.8,0.8,,13,0,215,0,0.261,0.261
+281,2015-08-01,Philadelphia Eagles,"2016 5th round pick (164th overall, Halapoulivaati Vaitai)",V/VaitHa00,164,2.1,2.1,2.1,,7,421,0,0.849,0,0.849
+282,2015-05-02,Detroit Lions,"2015 4th round pick (113th overall, Gabe Wright)",W/WrigGa00,113,4.5,4.5,4.5,,7,0,134,0,0.278,0.278
+283,2015-05-02,Atlanta Falcons,"2015 5th round pick (137th overall, Grady Jarrett)",J/JarrGr00,137,3.3,4.3,3.3,4.3,15,0,267,0,0.268,0.268
+283,2015-05-02,Minnesota Vikings,"2015 5th round pick (146th overall, Stefon Diggs)",D/DiggSt00,146,2.9,2.9,4.3,3.3,13,654,0,0.774,0,0.774
+283,2015-05-02,Minnesota Vikings,"2015 6th round pick (185th overall, Tyrus Thompson)",T/ThomTy01,185,1.4,1.4,4.3,3.3,,,,,,
+284,2015-05-02,New Orleans Saints,"2015 5th round pick (167th overall, Damian Swann)",S/SwanDa02,167,2,2.6,2,2.6,7,0,230,0,0.493,0.493
+284,2015-05-02,Washington Redskins,"2015 6th round pick (187th overall, Evan Spencer)",S/SpenEv00,187,1.3,1.3,2.6,2,1,0,0,0,0,0
+284,2015-05-02,Washington Redskins,"2016 6th round pick (187th overall, Nate Sudfeld)",S/SudfNa00,187,1.3,1.3,2.6,2,1,40,0,0.678,0,0.678
+285,2015-05-02,Carolina Panthers,"2015 4th round pick (102nd overall, Daryl Williams)",W/WillDa06,102,5.1,6.2,5.1,6.2,10,58,0,0.083,0,0.083
+285,2015-05-02,Oakland Raiders,"2015 5th round pick (161st overall, Neiron Ball)",B/BallNe00,161,2.2,2.2,6.2,5.1,6,0,64,0,0.143,0.143
+285,2015-05-02,Oakland Raiders,"2015 7th round pick (242nd overall, Dexter McDonald)",M/McDoDe02,242,0.1,0.1,6.2,5.1,6,0,29,0,0.078,0.078
+285,2015-05-02,Oakland Raiders,"2015 4th round pick (124th overall subsequently traded, Kwon Alexander)",,124,3.9,3.9,6.2,5.1,,,,,,
+286,2015-05-02,Arizona Cardinals,"2015 4th round pick (116th overall, Rodney Gunter)",G/GuntRo00,116,4.3,5,4.3,5,16,0,413,0,0.395,0.395
+286,2015-05-02,Cleveland Browns,"2015 4th round pick (123rd overall, Vince Mayle)",M/MaylVi00,123,4,4,5,4.3,1,5,0,0.069,0,0.069
+286,2015-05-02,Cleveland Browns,"2015 6th round pick (198th overall, Randall Telfer)",T/TelfRa00,198,0.9,0.9,5,4.3,14,223,0,0.248,0,0.248
+286,2015-05-02,Cleveland Browns,"2015 7th round pick (241st overall, Ifo Ekpre-Olomu)",E/EkprIf00,241,0.1,0.1,5,4.3,,,,,,
+287,2015-05-02,Green Bay Packers,"2015 5th round pick (147th overall, Brett Hundley)",H/HundBr00,147,2.8,2.8,2.8,2.1,4,22,0,0.083,0,0.083
+287,2015-05-02,New England Patriots,"2015 5th round pick (166th overall, Joe Cardona)",C/CardJo00,166,2,2.7,2.1,2.8,16,0,0,0,0,0
+287,2015-05-02,New England Patriots,"2015 7th round pick (247th overall, Darryl Roberts)",R/RobeDa00,247,0.1,0.1,2.1,2.8,12,0,285,0,0.355,0.355
+288,2015-05-02,St. Louis Rams,"2015 7th round pick (224th overall, Bryce Hager)",H/HageBr00,224,0.1,0.1,0.1,,16,0,0,0,0,0
+289,2015-05-02,Jacksonville Jaguars,"2015 4th round pick (104th overall, James Sample)",S/SampJa00,104,5,5,5.1,5.1,4,0,129,0,0.434,0.434
+289,2015-05-02,Jacksonville Jaguars,"2015 7th round pick (229th overall, Ben Koyack)",K/KoyaBe00,229,0.1,0.1,5.1,5.1,14,362,0,0.371,0,0.371
+289,2015-05-02,New York Jets,"2015 4th round pick (103rd overall, Bryce Petty)",P/PettBr01,103,5.1,5.1,5.1,5.1,6,245,0,0.635,0,0.635
+290,2015-05-02,Oakland Raiders,"2015 4th round pick (128th overall, Jon Feliciano)",F/FeliJo00,128,3.7,3.7,4,3.9,6,187,0,0.462,0,0.462
+290,2015-05-02,Oakland Raiders,"2015 7th round pick (218th overall, Anthony Morris)",M/MorrAn00,218,0.3,0.3,4,3.9,,,,,,
+290,2015-05-02,Tampa Bay Buccaneers,"2015 4th round pick (124th overall, Kwon Alexander)",A/AlexKw00,124,3.9,4,3.9,4,12,0,813,0,0.984,0.984
+291,2015-05-02,Indianapolis Colts,"2015 5th round pick (151st overall, David Parry)",P/ParrDa00,151,2.7,2.7,2.7,2.2,16,8,656,0.007,0.577,0.577
+291,2015-05-02,San Francisco 49ers,"2015 5th round pick (165th overall, Bradley Pinion)",P/PiniBr00,165,2.1,2.6,2.2,2.7,16,0,0,0,0,0
+291,2015-05-02,San Francisco 49ers,"2015 7th round pick (244th overall, Trent Brown)",B/BrowTr02,244,0.1,0.1,2.2,2.7,6,186,0,0.524,0,0.524
+292,2015-05-02,Dallas Cowboys,"2015 7th round pick (246th overall, Geoff Swaim)",S/SwaiGe00,246,0.1,1.6,0.1,1.6,4,24,0,0.085,0,0.085
+292,2015-05-02,San Francisco 49ers,"2016 6th round pick (178th overall subsequently traded, D.J. White)",,178,1.6,1.6,1.6,0.1,,,,,,
+293,2015-05-01,Carolina Panthers,"2015 2nd round pick (41st overall, Devin Funchess)",F/FuncDe00,41,11,15.7,11,15.7,16,493,0,0.447,0,0.447
+293,2015-05-01,St. Louis Rams,"2015 2nd round pick (57th overall, Rob Havenstein)",H/HaveRo00,57,8.9,8.9,15.7,11,13,727,0,0.968,0,0.968
+293,2015-05-01,St. Louis Rams,"2015 6th round pick (201st overall, Bud Sasser)",S/SassBu00,201,0.8,0.8,15.7,11,,,,,,
+293,2015-05-01,St. Louis Rams,"2015 3rd round pick (89th overall, Sean Mannion)",M/MannSe00,89,6,6,15.7,11,1,7,0,0.096,0,0.096
+294,2015-05-01,Arizona Cardinals,"2015 5th round pick (158th overall, Shaquille Riddick)",R/RiddSh00,158,2.4,2.4,11.1,9.1,,,,,,
+294,2015-05-01,Arizona Cardinals,"2015 2nd round pick (58th overall, Markus Golden)",G/GoldMa00,58,8.7,8.7,11.1,9.1,15,0,517,0,0.531,0.531
+294,2015-05-01,Baltimore Ravens,"2015 2nd round pick (55th overall, Maxx Williams)",W/WillMa04,55,9.1,11.1,9.1,11.1,14,476,0,0.48,0,0.48
+295,2015-05-01,Houston Texans,"2015 3rd round pick (70th overall, Jaelen Strong)",S/StroJa01,70,7.5,9.2,7.5,9.2,10,282,0,0.391,0,0.391
+295,2015-05-01,New York Jets,"2015 7th round pick (229th overall subsequently traded, Ben Koyack)",,229,0.1,0.1,9.2,7.5,,,,,,
+295,2015-05-01,New York Jets,"2015 5th round pick (152nd overall, Jarvis Harrison)",H/HarrJa02,152,2.6,2.6,9.2,7.5,,,,,,
+295,2015-05-01,New York Jets,"2015 3rd round pick (82nd overall, Lorenzo Mauldin)",M/MaulLo00,82,6.5,6.5,9.2,7.5,15,0,253,0,0.257,0.257
+296,2015-05-01,Cleveland Browns,"2015 7th round pick (219th overall, Hayes Pullard)",P/PullHa00,219,0.3,0.4,5.8,8.2,8,0,150,0,0.257,0.257
+296,2015-05-01,Cleveland Browns,"2015 3rd round pick (96th overall, Xavier Cooper)",C/CoopXa00,96,5.5,7.8,5.8,8.2,14,0,363,0,0.4,0.4
+296,2015-05-01,New England Patriots,"2015 5th round pick (147th overall subsequently traded, Brett Hundley)",,147,2.8,2.8,8.2,5.8,,,,,,
+296,2015-05-01,New England Patriots,"2015 4th round pick (111th overall, Tre' Jackson)",J/JackTr00,111,4.6,4.6,8.2,5.8,13,607,0,0.677,0,0.677
+296,2015-05-01,New England Patriots,"2015 6th round pick (202nd overall, A.J. Derby)",D/DerbA.00,202,0.8,0.8,8.2,5.8,,,,,,
+297,2015-05-01,Cleveland Browns,"2015 6th round pick (195th overall, Malcolm Johnson)",J/JohnMa06,195,1,1,14.9,10.7,12,154,0,0.188,0,0.188
+297,2015-05-01,Cleveland Browns,"2015 4th round pick (116th overall subsequently traded, Rodney Gunter)",,116,4.3,4.3,14.9,10.7,,,,,,
+297,2015-05-01,Cleveland Browns,"2015 2nd round pick (51st overall, Nate Orchard)",O/OrchNa00,51,9.6,9.6,14.9,10.7,15,0,472,0,0.478,0.478
+297,2015-05-01,Houston Texans,"2015 2nd round pick (43rd overall, Benardrick McKinney)",M/McKiBe00,43,10.6,14.8,10.7,14.9,14,0,410,0,0.445,0.445
+297,2015-05-01,Houston Texans,"2015 7th round pick (229th overall subsequently traded, Ben Koyack)",,229,0.1,0.1,10.7,14.9,,,,,,
+298,2015-05-01,Indianapolis Colts,"2015 4th round pick (109th overall, Clayton Geathers)",G/GeatCl00,109,4.7,4.7,12.7,12.1,15,0,271,0,0.258,0.258
+298,2015-05-01,Indianapolis Colts,"2015 3rd round pick (65th overall, D'Joun Smith)",S/SmitDJ00,65,8,8,12.7,12.1,4,0,19,0,0.068,0.068
+298,2015-05-01,Tampa Bay Buccaneers,"2015 4th round pick (128th overall subsequently traded, Jon Feliciano)",,128,3.7,3.9,12.1,12.7,,,,,,
+298,2015-05-01,Tampa Bay Buccaneers,"2015 2nd round pick (61st overall, Ali Marpet)",M/MarpAl00,61,8.4,8.8,12.1,12.7,13,821,0,0.939,0,0.939
+299,2015-05-01,Kansas City Chiefs,"2015 3rd round pick (76th overall, Chris Conley)",C/ConlCh00,76,7,7.8,7,7.8,16,370,0,0.369,0,0.369
+299,2015-05-01,Minnesota Vikings,"2015 6th round pick (193rd overall, B.J. Dubose)",D/DuboB.00,193,1.1,1.1,7.8,7,,,,,,
+299,2015-05-01,Minnesota Vikings,"2015 3rd round pick (80th overall subsequently traded, Alex Carter)",,80,6.7,6.7,7.8,7,,,,,,
+300,2015-05-01,New York Giants,"2015 2nd round pick (33rd overall, Landon Collins)",C/CollLa00,33,12.3,16,12.3,16,16,0,1092,0,0.945,0.945
+300,2015-05-01,Tennessee Titans,"2015 7th round pick (245th overall, Tre McBride)",M/McBrTr00,245,0.1,0.1,16,12.3,7,55,0,0.122,0,0.122
+300,2015-05-01,Tennessee Titans,"2015 2nd round pick (40th overall, Dorial Green-Beckham)",G/GreeDo00,40,11.1,11.1,16,12.3,16,580,0,0.561,0,0.561
+300,2015-05-01,Tennessee Titans,"2015 4th round pick (108th overall, Jalston Fowler)",F/FowlJa00,108,4.8,4.8,16,12.3,16,145,0,0.14,0,0.14
+301,2015-05-01,Miami Dolphins,"2015 5th round pick (156th overall, Tony Lippett)",L/LippTo00,156,2.4,2.4,14.7,11.3,9,0,133,0,0.2,0.2
+301,2015-05-01,Miami Dolphins,"2015 5th round pick (145th overall, Bobby McCain)",M/McCaBo01,145,2.9,2.9,14.7,11.3,16,0,254,0,0.254,0.254
+301,2015-05-01,Miami Dolphins,"2015 2nd round pick (52nd overall, Jordan Phillips)",P/PhilJo01,52,9.4,9.4,14.7,11.3,15,0,430,0,0.396,0.396
+301,2015-05-01,Philadelphia Eagles,"2015 6th round pick (191st overall, JaCorey Shepherd)",S/ShepJa00,191,1.2,1.6,11.3,14.7,11,0,11,0,0.014,0.014
+301,2015-05-01,Philadelphia Eagles,"2015 2nd round pick (47th overall, Eric Rowe)",R/RoweEr00,47,10.1,13.1,11.3,14.7,16,0,505,0,0.416,0.416
+302,2015-05-01,Seattle Seahawks,"2015 3rd round pick (69th overall, Tyler Lockett)",L/LockTy00,69,7.6,13.7,7.6,13.7,16,663,0,0.614,0,0.614
+302,2015-05-01,Washington Redskins,"2015 5th round pick (167th overall subsequently traded, Damian Swann)",,167,2,2,13.7,7.6,,,,,,
+302,2015-05-01,Washington Redskins,"2015 6th round pick (181st overall, Kyshoen Jarrett)",J/JarrKy00,181,1.5,1.5,13.7,7.6,16,0,603,0,0.57,0.57
+302,2015-05-01,Washington Redskins,"2015 4th round pick (112th overall, Arie Kouandjio)",K/KouaAr00,112,4.6,4.6,13.7,7.6,4,1,0,0.005,0,0.005
+302,2015-05-01,Washington Redskins,"2015 3rd round pick (95th overall, Matt Jones)",J/JoneMa04,95,5.6,5.6,13.7,7.6,13,341,0,0.394,0,0.394
+303,2015-05-01,Detroit Lions,"2015 3rd round pick (80th overall, Alex Carter)",C/CartAl01,80,6.7,9.1,6.7,9.1,1,0,0,0,0,0
+303,2015-05-01,Minnesota Vikings,"2015 3rd round pick (88th overall, Danielle Hunter)",H/HuntDa01,88,6.1,6.1,9.1,6.7,14,0,392,0,0.425,0.425
+303,2015-05-01,Minnesota Vikings,"2015 5th round pick (143rd overall, MyCole Pruitt)",P/PruiMy00,143,3,3,9.1,6.7,16,204,0,0.2,0,0.2
+304,2015-04-30,San Diego Chargers,"2015 1st round pick (15th overall, Melvin Gordon)",G/GordMe00,15,17.4,23.9,17.4,23.9,14,394,0,0.387,0,0.387
+304,2015-04-30,San Francisco 49ers,"2016 5th round pick (142nd overall, Ronald Blair)",B/BlaiRo00,142,3,3,23.9,17.4,16,0,311,0,0.27,0.27
+304,2015-04-30,San Francisco 49ers,"2015 1st round pick (17th overall, Arik Armstead)",A/ArmsAr01,17,16.6,16.6,23.9,17.4,16,0,375,0,0.33,0.33
+304,2015-04-30,San Francisco 49ers,"2015 4th round pick (117th overall, Blake Bell)",B/BellBl00,117,4.3,4.3,23.9,17.4,14,352,0,0.392,0,0.392
+305,2015-04-30,Denver Broncos,"2015 1st round pick (23rd overall, Shane Ray)",R/RayxSh00,23,14.6,18.3,14.6,18.3,14,0,341,0,0.354,0.354
+305,2015-04-30,Detroit Lions,"2016 5th round pick (169th overall, Antwione Williams)",W/WillAn01,169,1.9,1.9,18.3,14.6,14,0,204,0,0.227,0.227
+305,2015-04-30,Detroit Lions,"2015 1st round pick (28th overall, Laken Tomlinson)",T/TomlLa01,28,13.4,13.4,18.3,14.6,16,986,0,0.914,0,0.914
+305,2015-04-30,Detroit Lions,"2015 5th round pick (143rd overall subsequently traded, MyCole Pruitt)",,143,3,3,18.3,14.6,,,,,,
+306,2015-04-03,Tampa Bay Buccaneers,"2016 6th round pick (197th overall, Dan Vitale)",V/VitaDa00,197,1,1,1,0.1,9,74,0,0.13,0,0.13
+306,2015-04-03,Washington Redskins,"2016 7th round pick (232nd overall, Steven Daniels)",D/DaniSt00,232,0.1,1,0.1,1,,,,,,
+307,2015-04-01,Baltimore Ravens,"2016 4th round pick (130th overall, Alex Lewis)",L/LewiAl01,130,3.6,3.6,3.6,3,10,538,0,0.731,0,0.731
+307,2015-04-01,Denver Broncos,"2016 5th round pick (144th overall, Connor McGovern)",M/McGoCo00,144,3,3.6,3,3.6,15,418,0,0.393,0,0.393
+308,2015-03-13,New Orleans Saints,"2015 3rd round pick (78th overall, P.J. Williams)",W/WillP.00,78,6.9,6.9,6.9,,,,,,,
+309,2015-03-11,Houston Texans,"2016 6th round pick (195th overall subsequently traded, Wes Schweitzer)",,195,1,1,1,,,,,,,
+310,2015-03-10,Buffalo Bills,"2015 6th round pick (187th overall subsequently traded, Evan Spencer)",,187,1.3,3.4,1.3,3.4,,,,,,
+310,2015-03-10,Minnesota Vikings,"2016 7th round pick (240th overall subsequently traded, Alex McCalister)",,240,0.1,0.1,3.4,1.3,,,,,,
+310,2015-03-10,Minnesota Vikings,"2015 5th round pick (137th overall subsequently traded, Grady Jarrett)",,137,3.3,3.3,3.4,1.3,,,,,,
+311,2015-03-10,Houston Texans,"2016 7th round pick (235th overall subsequently traded, Lac Edwards)",,235,0.1,0.1,0.1,,,,,,,
+312,2015-03-10,Baltimore Ravens,"2015 5th round pick (158th overall subsequently traded, Shaquille Riddick)",,158,2.4,2.4,6.4,0.1,,,,,,
+312,2015-03-10,Baltimore Ravens,"2015 4th round pick (122nd overall, Za'Darius Smith)",S/SmitZa00,122,4,4,6.4,0.1,15,0,406,0,0.412,0.412
+312,2015-03-10,Detroit Lions,"2015 7th round pick (231st overall subsequently traded, Joey Iosefa)",,231,0.1,6.4,0.1,6.4,,,,,,
+314,2015-03-10,New Orleans Saints,"2015 1st round pick (31st overall, Stephone Anthony)",A/AnthSt00,31,12.7,12.7,12.7,4.6,16,0,990,0,0.93,0.93
+314,2015-03-10,Seattle Seahawks,"2015 4th round pick (112th overall subsequently traded, Arie Kouandjio)",,112,4.6,12.7,4.6,12.7,,,,,,
+315,2015-03-10,Chicago Bears,"2015 5th round pick (142nd overall, Adrian Amos)",A/AmosAd00,142,3,3,3,0.1,16,0,1029,0,0.997,0.997
+315,2015-03-10,New York Jets,"2015 7th round pick (224th overall subsequently traded, Bryce Hager)",,224,0.1,3,0.1,3,,,,,,
+316,2015-03-10,Philadelphia Eagles,"2015 5th round pick (145th overall subsequently traded, Bobby McCain)",,145,2.9,14.8,2.9,14.8,,,,,,
+316,2015-03-10,St. Louis Rams,"2016 2nd round pick (43rd overall subsequently traded, Austin Johnson)",,43,10.6,10.6,14.8,2.9,,,,,,
+316,2015-03-10,St. Louis Rams,"2015 4th round pick (119th overall, Andrew Donnal)",D/DonnAn00,119,4.2,4.2,14.8,2.9,5,90,0,0.276,0,0.276
+317,2014-10-18,Seattle Seahawks,"2015 6th round pick (181st overall subsequently traded, Kyshoen Jarrett)",,181,1.5,1.5,1.5,,,,,,,
+318,2014-08-31,New England Patriots,"2016 7th round pick (243rd overall subsequently traded, Kenny Lawler)",,243,0.1,0.1,0.1,,,,,,,
+319,2014-08-30,Indianapolis Colts,"2015 6th round pick (206th overall subsequently traded, Aaron Ripkowski)",,206,0.7,0.7,0.7,,,,,,,
+320,2014-08-26,New England Patriots,"2015 4th round pick (101st overall, Trey Flowers)",F/FlowTr00,101,5.2,5.2,5.2,,1,0,4,0,0.056,0.056
+321,2014-07-01,Baltimore Ravens,"2015 6th round pick (203rd overall subsequently traded, Darius Kilgo)",,203,0.8,0.8,0.8,0.1,,,,,,
+321,2014-07-01,Dallas Cowboys,"2015 7th round pick (243rd overall, Laurence Gibson)",G/GibsLa00,243,0.1,0.8,0.1,0.8,,,,,,
+324,2014-05-10,Baltimore Ravens,"2014 7th round pick (218th overall, Michael Campanaro)",C/CampMi02,218,0.3,0.8,0.3,0.8,4,65,0,0.244,0,0.244
+324,2014-05-10,Cleveland Browns,"2015 6th round pick (202nd overall subsequently traded, A.J. Derby)",,202,0.8,0.8,0.8,0.3,,,,,,
+325,2014-05-10,Buffalo Bills,"2015 5th round pick (137th overall subsequently traded, Grady Jarrett)",,137,3.3,3.3,3.5,2.7,,,,,,
+325,2014-05-10,Buffalo Bills,"2014 7th round pick (221st overall, Randell Johnson)",J/JohnRa01,221,0.2,0.2,3.5,2.7,5,0,0,0,0,0
+325,2014-05-10,Tampa Bay Buccaneers,"2014 5th round pick (149th overall, Kevin Pamphile)",P/PampKe00,149,2.7,3.5,2.7,3.5,7,119,0,0.272,0,0.272
+326,2014-05-10,Chicago Bears,"2014 4th round pick (131st overall, Brock Vereen)",V/VereBr00,131,3.6,5.3,3.7,5.4,16,0,502,0,0.481,0.481
+326,2014-05-10,Chicago Bears,"2014 7th round pick (246th overall, Charles Leno)",L/LenoCh00,246,0.1,0.1,3.7,5.4,6,29,0,0.073,0,0.073
+326,2014-05-10,Denver Broncos,"2015 5th round pick (143rd overall subsequently traded, MyCole Pruitt)",,143,3,3,5.4,3.7,,,,,,
+326,2014-05-10,Denver Broncos,"2014 5th round pick (156th overall, Lamin Barrow)",B/BarrLa00,156,2.4,2.4,5.4,3.7,16,0,48,0,0.044,0.044
+327,2014-05-10,Tennessee Titans,"2014 6th round pick (178th overall, Zach Mettenberger)",M/MettZa00,178,1.6,1.6,1.6,1.4,7,306,0,0.779,0,0.779
+327,2014-05-10,Washington Redskins,"2014 6th round pick (186th overall, Lache Seastrunk)",S/SeasLa00,186,1.3,1.5,1.4,1.6,,,,,,
+327,2014-05-10,Washington Redskins,"2014 7th round pick (228th overall, Zach Hocker)",H/HockZa00,228,0.1,0.1,1.4,1.6,6,0,0,0,0,0
+328,2014-05-10,Carolina Panthers,"2014 5th round pick (148th overall, Bene Benwikere)",B/BenwBe00,148,2.8,2.8,2.8,2.1,10,0,449,0,0.729,0.729
+328,2014-05-10,Minnesota Vikings,"2014 5th round pick (168th overall subsequently traded, Marquis Spruill)",,168,2,2.7,2.1,2.8,,,,,,
+328,2014-05-10,Minnesota Vikings,"2014 7th round pick (225th overall, Jabari Price)",P/PricJa00,225,0.1,0.1,2.1,2.8,14,0,46,0,0.049,0.049
+329,2014-05-10,Buffalo Bills,"2014 7th round pick (237th overall, Seantrel Henderson)",H/HendSe00,237,0.1,4.6,0.1,4.6,16,1061,0,1,0,1
+329,2014-05-10,Philadelphia Eagles,"2015 4th round pick (113th overall subsequently traded, Gabe Wright)",,113,4.5,4.5,4.6,0.1,,,,,,
+329,2014-05-10,Philadelphia Eagles,"2014 7th round pick (224th overall, Beau Allen)",A/AlleBe00,224,0.1,0.1,4.6,0.1,16,0,195,0,0.168,0.168
+330,2014-05-10,Atlanta Falcons,"2014 5th round pick (168th overall, Marquis Spruill)",S/SpruMa00,168,2,2,2,1.8,,,,,,
+330,2014-05-10,Minnesota Vikings,"2014 7th round pick (220th overall, Shamar Stephen)",S/StepSh00,220,0.3,0.3,1.8,2,16,0,404,0,0.373,0.373
+330,2014-05-10,Minnesota Vikings,"2014 6th round pick (182nd overall, Antone Exum)",E/ExumAn00,182,1.5,1.7,1.8,2,14,0,16,0,0.016,0.016
+331,2014-05-10,Dallas Cowboys,"2014 5th round pick (146th overall, Devin Street)",S/StreDe00,146,2.9,2.9,2.9,2.5,16,148,0,0.14,0,0.14
+331,2014-05-10,Detroit Lions,"2014 7th round pick (229th overall, Nate Freese)",F/FreeNa00,229,0.1,0.1,2.5,2.9,3,0,0,0,0,0
+331,2014-05-10,Detroit Lions,"2014 5th round pick (158th overall, Caraun Reid)",R/ReidCa00,158,2.4,2.8,2.5,2.9,12,0,111,0,0.142,0.142
+332,2014-05-10,Cincinnati Bengals,"2014 4th round pick (111th overall, Russell Bodine)",B/BodiRu00,111,4.6,4.9,4.6,4.9,16,1063,0,0.999,0,0.999
+332,2014-05-10,Seattle Seahawks,"2014 6th round pick (199th overall, Garrett Scott)",S/ScotGa01,199,0.9,0.9,4.9,4.6,,,,,,
+332,2014-05-10,Seattle Seahawks,"2014 4th round pick (123rd overall, Kevin Norwood)",N/NorwKe00,123,4,4,4.9,4.6,9,169,0,0.272,0,0.272
+333,2014-05-09,Dallas Cowboys,"2014 2nd round pick (34th overall, Demarcus Lawrence)",L/LawrDe00,34,12.1,17,12.1,17,7,0,217,0,0.456,0.456
+333,2014-05-09,Washington Redskins,"2014 3rd round pick (78th overall, Spencer Long)",L/LongSp00,78,6.9,6.9,17,12.1,5,16,0,0.049,0,0.049
+333,2014-05-09,Washington Redskins,"2014 2nd round pick (47th overall, Trent Murphy)",M/MurpTr00,47,10.1,10.1,17,12.1,15,0,579,0,0.596,0.596
+334,2014-05-09,Miami Dolphins,"2014 4th round pick (125th overall, Walt Aikens)",A/AikeWa00,125,3.9,3.9,12.8,9.7,15,0,64,0,0.064,0.064
+334,2014-05-09,Miami Dolphins,"2014 2nd round pick (57th overall subsequently traded, Carlos Hyde)",,57,8.9,8.9,12.8,9.7,,,,,,
+334,2014-05-09,San Diego Chargers,"2014 2nd round pick (50th overall, Jeremiah Attaochu)",A/AttaJe00,50,9.7,12.8,9.7,12.8,11,0,177,0,0.251,0.251
+335,2014-05-09,Jacksonville Jaguars,"2014 2nd round pick (61st overall, Allen Robinson)",R/RobiAl02,61,8.4,10.2,8.4,10.2,10,516,0,0.782,0,0.782
+335,2014-05-09,San Francisco 49ers,"2014 3rd round pick (70th overall, Marcus Martin)",M/MartMa01,70,7.5,7.5,10.2,8.4,8,512,0,0.988,0,0.988
+335,2014-05-09,San Francisco 49ers,"2014 5th round pick (150th overall, Aaron Lynch)",L/LyncAa00,150,2.7,2.7,10.2,8.4,16,0,515,0,0.492,0.492
+336,2014-05-09,Jacksonville Jaguars,"2014 3rd round pick (93rd overall, Brandon Linder)",L/LindBr00,93,5.7,6.6,5.7,6.6,15,901,0,0.933,0,0.933
+336,2014-05-09,New England Patriots,"2014 6th round pick (179th overall, Jon Halapio)",H/HalaJo00,179,1.6,1.6,6.6,5.7,10,403,0,0.578,0,0.578
+336,2014-05-09,New England Patriots,"2014 4th round pick (105th overall, Bryan Stork)",S/StorBr00,105,5,5,6.6,5.7,13,797,0,0.868,0,0.868
+337,2014-05-09,Buffalo Bills,"2014 1st round pick (4th overall, Sammy Watkins)",W/WatkSa00,4,25.8,40.8,25.8,40.8,16,1026,0,0.967,0,0.967
+337,2014-05-09,Cleveland Browns,"2015 4th round pick (115th overall, Ibraheim Campbell)",C/CampIb00,115,4.4,4.4,40.8,25.8,15,0,102,0,0.105,0.105
+337,2014-05-09,Cleveland Browns,"2015 1st round pick (19th overall, Cameron Erving)",E/ErviCa00,19,15.8,15.8,40.8,25.8,16,424,0,0.384,0,0.384
+337,2014-05-09,Cleveland Browns,"2014 1st round pick (9th overall subsequently traded, Anthony Barr)",,9,20.6,20.6,40.8,25.8,,,,,,
+338,2014-05-09,Cleveland Browns,"2014 1st round pick (22nd overall, Johnny Manziel)",M/ManzJo00,22,14.9,20.4,14.9,20.4,5,76,0,0.259,0,0.259
+338,2014-05-09,Philadelphia Eagles,"2014 3rd round pick (83rd overall subsequently traded, Louis Nix)",,83,6.5,6.5,20.4,14.9,,,,,,
+338,2014-05-09,Philadelphia Eagles,"2014 1st round pick (26th overall, Marcus Smith)",S/SmitMa03,26,13.9,13.9,20.4,14.9,8,0,68,0,0.113,0.113
+339,2014-05-09,Detroit Lions,"2014 2nd round pick (40th overall, Kyle Van Noy)",V/VanNKy00,40,11.1,12,14,15.1,8,0,51,0,0.097,0.097
+339,2014-05-09,Detroit Lions,"2014 5th round pick (146th overall subsequently traded, Devin Street)",,146,2.9,3.1,14,15.1,,,,,,
+339,2014-05-09,Seattle Seahawks,"2014 2nd round pick (45th overall, Paul Richardson)",R/RichPa01,45,10.4,10.4,15.1,14,15,498,0,0.494,0,0.494
+339,2014-05-09,Seattle Seahawks,"2014 4th round pick (111th overall subsequently traded, Russell Bodine)",,111,4.6,4.6,15.1,14,,,,,,
+339,2014-05-09,Seattle Seahawks,"2014 7th round pick (227th overall, Kiero Small)",S/SmalKi00,227,0.1,0.1,15.1,14,3,87,0,0.437,0,0.437
+340,2014-05-09,Denver Broncos,"2014 2nd round pick (56th overall, Cody Latimer)",L/LatiCo00,56,9,13.7,9.1,13.9,8,37,0,0.061,0,0.061
+340,2014-05-09,Denver Broncos,"2014 7th round pick (242nd overall, Corey Nelson)",N/NelsCo00,242,0.1,0.2,9.1,13.9,16,0,108,0,0.1,0.1
+340,2014-05-09,San Francisco 49ers,"2014 5th round pick (171st overall subsequently traded, Jordan Tripp)",,171,1.9,1.9,13.9,9.1,,,,,,
+340,2014-05-09,San Francisco 49ers,"2014 2nd round pick (63rd overall subsequently traded, Jarvis Landry)",,63,8.2,8.2,13.9,9.1,,,,,,
+340,2014-05-09,San Francisco 49ers,"2015 4th round pick (126th overall, Mike Davis)",D/DaviMi01,126,3.8,3.8,13.9,9.1,6,126,0,0.321,0,0.321
+341,2014-05-09,Miami Dolphins,"2014 3rd round pick (67th overall, Billy Turner)",T/TurnBi00,67,7.8,10.9,7.8,10.9,2,17,0,0.11,0,0.11
+341,2014-05-09,Oakland Raiders,"2014 3rd round pick (81st overall, Gabe Jackson)",J/JackGa00,81,6.6,6.6,10.9,7.8,13,812,0,0.964,0,0.964
+341,2014-05-09,Oakland Raiders,"2014 4th round pick (116th overall, Keith McGill)",M/McGiKe00,116,4.3,4.3,10.9,7.8,12,0,143,0,0.172,0.172
+342,2014-05-09,Cleveland Browns,"2014 3rd round pick (94th overall, Terrance West)",W/WestTe00,94,5.7,6.4,5.7,6.4,14,402,0,0.425,0,0.425
+342,2014-05-09,San Francisco 49ers,"2014 4th round pick (106th overall, Bruce Ellington)",E/ElliBr00,106,4.9,4.9,6.4,5.7,13,95,0,0.109,0,0.109
+342,2014-05-09,San Francisco 49ers,"2014 6th round pick (180th overall, Kenneth Acker)",A/AckeKe00,180,1.5,1.5,6.4,5.7,15,0,807,0,0.751,0.751
+343,2014-05-09,Cleveland Browns,"2014 1st round pick (8th overall, Justin Gilbert)",G/GilbJu00,8,21.4,23.5,21.4,23.5,14,0,361,0,0.35,0.35
+343,2014-05-09,Minnesota Vikings,"2014 5th round pick (145th overall, David Yankey)",Y/YankDa00,145,2.9,2.9,23.5,21.4,6,21,0,0.052,0,0.052
+343,2014-05-09,Minnesota Vikings,"2014 1st round pick (9th overall, Anthony Barr)",B/BarrAn00,9,20.6,20.6,23.5,21.4,12,0,776,0,0.962,0.962
+344,2014-05-09,Minnesota Vikings,"2014 1st round pick (32nd overall, Teddy Bridgewater)",B/BridTe00,32,12.5,15.9,12.5,15.9,13,794,0,0.968,0,0.968
+344,2014-05-09,Seattle Seahawks,"2014 2nd round pick (40th overall subsequently traded, Kyle Van Noy)",,40,11.1,11.1,15.9,12.5,,,,,,
+344,2014-05-09,Seattle Seahawks,"2014 4th round pick (108th overall, Cassius Marsh)",M/MarsCa00,108,4.8,4.8,15.9,12.5,5,0,71,0,0.205,0.205
+345,2014-05-09,Philadelphia Eagles,"2014 2nd round pick (42nd overall, Jordan Matthews)",M/MattJo00,42,10.8,13.2,10.8,13.2,16,765,0,0.65,0,0.65
+345,2014-05-09,Tennessee Titans,"2014 2nd round pick (54th overall, Bishop Sankey)",S/SankBi00,54,9.2,9.2,13.2,10.8,16,354,0,0.366,0,0.366
+345,2014-05-09,Tennessee Titans,"2014 4th round pick (122nd overall, Marqueston Huff)",H/HuffMa00,122,4,4,13.2,10.8,14,0,269,0,0.273,0.273
+346,2014-05-09,Miami Dolphins,"2014 5th round pick (171st overall, Jordan Tripp)",T/TripJo00,171,1.9,1.9,10.1,8.9,13,0,12,0,0.014,0.014
+346,2014-05-09,Miami Dolphins,"2014 2nd round pick (63rd overall, Jarvis Landry)",L/LandJa00,63,8.2,8.2,10.1,8.9,16,683,0,0.624,0,0.624
+346,2014-05-09,San Francisco 49ers,"2014 2nd round pick (57th overall, Carlos Hyde)",H/HydeCa00,57,8.9,10.1,8.9,10.1,14,292,0,0.316,0,0.316
+347,2014-05-09,Houston Texans,"2014 3rd round pick (83rd overall, Louis Nix)",N/NixILo00,83,6.5,8.3,6.5,8.3,4,0,22,0,0.076,0.076
+347,2014-05-09,Philadelphia Eagles,"2014 5th round pick (141st overall, Taylor Hart)",H/HartTa00,141,3.1,3.1,8.3,6.5,14,0,326,0,0.31,0.31
+347,2014-05-09,Philadelphia Eagles,"2014 4th round pick (101st overall, Jaylen Watkins)",W/WatkJa01,101,5.2,5.2,8.3,6.5,4,0,30,0,0.106,0.106
+348,2014-05-09,Buffalo Bills,"2015 4th round pick (113th overall subsequently traded, Gabe Wright)",,113,4.5,4.5,4.5,,,,,,,
+349,2014-05-09,Arizona Cardinals,"2014 3rd round pick (91st overall, John Brown)",B/BrowJo02,91,5.9,5.9,19.5,15.5,16,657,0,0.622,0,0.622
+349,2014-05-09,Arizona Cardinals,"2014 1st round pick (27th overall, Deone Bucannon)",B/BucaDe00,27,13.6,13.6,19.5,15.5,16,0,688,0,0.65,0.65
+349,2014-05-09,New Orleans Saints,"2014 1st round pick (20th overall, Brandin Cooks)",C/CookBr00,20,15.5,19.5,15.5,19.5,10,533,0,0.723,0,0.723
+350,2014-04-21,Oakland Raiders,"2014 7th round pick (247th overall, Jonathan Dowling)",D/DowlJo00,247,0.1,0.1,0.1,,7,0,13,0,0.026,0.026
+351,2014-04-04,Tampa Bay Buccaneers,"2014 6th round pick (185th overall, Robert Herron)",H/HerrRo00,185,1.4,1.4,1.4,,8,116,0,0.234,0,0.234
+352,2014-03-23,Tampa Bay Buccaneers,"2015 5th round pick (162nd overall, Kenny Bell)",B/BellKe02,162,2.2,2.2,2.2,,,,,,,
+353,2014-03-21,Houston Texans,"2014 6th round pick (181st overall, Alfred Blue)",B/BlueAl00,181,1.5,1.5,1.5,,16,335,0,0.302,0,0.302
+354,2014-03-13,New Orleans Saints,"2014 5th round pick (169th overall, Ronald Powell)",P/PoweRo01,169,1.9,1.9,1.9,,14,0,3,0,0.003,0.003
+355,2014-03-11,Miami Dolphins,"2015 7th round pick (232nd overall subsequently traded, Edmond Robinson)",,232,0.1,0.1,0.1,,,,,,,
+356,2014-03-11,Jacksonville Jaguars,"2014 6th round pick (205th overall, Luke Bowanko)",B/BowaLu00,205,0.7,0.7,0.7,,16,922,0,0.889,0,0.889
+357,2013-10-29,New England Patriots,"2014 6th round pick (198th overall, Zach Moore)",M/MoorZa00,198,0.9,1.9,0.9,1.9,8,0,93,0,0.164,0.164
+357,2013-10-29,Philadelphia Eagles,"2014 5th round pick (169th overall subsequently traded, Ronald Powell)",,169,1.9,1.9,1.9,0.9,,,,,,
+358,2013-10-21,Baltimore Ravens,"2015 7th round pick (231st overall subsequently traded, Joey Iosefa)",,231,0.1,0.1,0.1,,,,,,,
+359,2013-10-04,Carolina Panthers,"2014 7th round pick (225th overall subsequently traded, Jabari Price)",,225,0.1,0.1,0.1,,,,,,,
+361,2013-10-01,Jacksonville Jaguars,"2014 5th round pick (159th overall, Chris Smith)",S/SmitCh03,159,2.3,2.3,6.7,,7,0,89,0,0.195,0.195
+361,2013-10-01,Jacksonville Jaguars,"2014 4th round pick (114th overall, Aaron Colvin)",C/ColvAa00,114,4.4,4.4,6.7,,6,0,277,0,0.653,0.653
+362,2013-09-18,Cleveland Browns,"2014 1st round pick (26th overall subsequently traded, Marcus Smith)",,26,13.9,13.9,13.9,,,,,,,
+363,2013-09-03,Indianapolis Colts,"2015 7th round pick (244th overall subsequently traded, Trent Brown)",,244,0.1,0.1,0.1,,,,,,,
+364,2013-08-31,Kansas City Chiefs,"2014 6th round pick (193rd overall, Zach Fulton)",F/FultZa00,193,1.1,1.1,1.1,,16,997,0,0.99,0,0.99
+365,2013-08-26,San Francisco 49ers,"2014 7th round pick (242nd overall subsequently traded, Corey Nelson)",,242,0.1,0.1,0.1,,,,,,,
+371,2013-06-09,Chicago Bears,"2014 6th round pick (183rd overall, David Fales)",F/FaleDa00,183,1.4,1.4,1.4,,1,9,0,0.15,0,0.15
+372,2013-05-09,Indianapolis Colts,"2014 7th round pick (232nd overall, Ulrick John)",J/JohnUl00,232,0.1,0.1,0.1,,2,29,0,0.22,0,0.22
+374,2013-04-27,Minnesota Vikings,"2013 7th round pick (229th overall, Everett Dawkins)",D/DawkEv00,229,0.1,0.1,1.1,1.2,1,0,20,0,0.238,0.238
+374,2013-04-27,Minnesota Vikings,"2013 6th round pick (196th overall, Jeff Baca)",B/BacaJe00,196,1,1.1,1.1,1.2,4,4,0,0.017,0,0.017
+374,2013-04-27,Tampa Bay Buccaneers,"2013 6th round pick (189th overall, Mike James)",J/JameMi00,189,1.2,1.2,1.2,1.1,8,155,0,0.275,0,0.275
+375,2013-04-27,Jacksonville Jaguars,"2013 4th round pick (101st overall, Ace Sanders)",S/SandAc00,101,5.2,5.2,5.8,5.4,15,601,0,0.603,0,0.603
+375,2013-04-27,Jacksonville Jaguars,"2013 7th round pick (210th overall, Demetrius McCray)",M/McCrDe00,210,0.6,0.6,5.8,5.4,16,0,92,0,0.082,0.082
+375,2013-04-27,Philadelphia Eagles,"2013 4th round pick (98th overall, Matt Barkley)",B/BarkMa00,98,5.4,5.8,5.4,5.8,3,76,0,0.38,0,0.38
+376,2013-04-27,Cleveland Browns,"2014 3rd round pick (83rd overall subsequently traded, Louis Nix)",,83,6.5,6.5,6.5,4.6,,,,,,
+376,2013-04-27,Pittsburgh Steelers,"2013 4th round pick (111th overall, Shamarko Thomas)",T/ThomSh00,111,4.6,6.5,4.6,6.5,14,0,190,0,0.206,0.206
+377,2013-04-27,Cleveland Browns,"2014 4th round pick (127th overall, Pierre Desir)",D/DesiPi00,127,3.8,3.8,3.8,3.2,5,0,118,0,0.322,0.322
+377,2013-04-27,Indianapolis Colts,"2013 5th round pick (139th overall, Montori Hughes)",H/HughMo00,139,3.2,3.8,3.2,3.8,4,0,71,0,0.268,0.268
+378,2013-04-27,Houston Texans,"2013 6th round pick (176th overall, David Quessenberry)",Q/QuesDa00,176,1.7,1.7,1.7,1.5,2,28,0,0.255,0,0.255
+378,2013-04-27,Oakland Raiders,"2013 7th round pick (233rd overall, David Bass)",B/BassDa00,233,0.1,0.1,1.5,1.7,12,0,311,0,0.395,0.395
+378,2013-04-27,Oakland Raiders,"2013 6th round pick (184th overall, Mychal Rivera)",R/RiveMy00,184,1.4,1.6,1.5,1.7,16,592,0,0.571,0,0.571
+379,2013-04-27,Oakland Raiders,"2013 4th round pick (112th overall, Tyler Wilson)",W/WilsTy00,112,4.6,4.6,6.1,5.3,,,,,,
+379,2013-04-27,Oakland Raiders,"2013 6th round pick (181st overall, Latavius Murray)",M/MurrLa00,181,1.5,1.5,6.1,5.3,15,277,0,0.29,0,0.29
+379,2013-04-27,Tampa Bay Buccaneers,"2013 4th round pick (100th overall, Akeem Spence)",S/SpenAk00,100,5.3,6.1,5.3,6.1,16,0,694,0,0.655,0.655
+380,2013-04-27,Denver Broncos,"2013 6th round pick (173rd overall, Vinston Painter)",P/PainVi00,173,1.8,1.8,4.7,3.9,3,0,0,0,0,0
+380,2013-04-27,Denver Broncos,"2013 5th round pick (146th overall, Quanterus Smith)",S/SmitQu00,146,2.9,2.9,4.7,3.9,15,0,304,0,0.299,0.299
+380,2013-04-27,Green Bay Packers,"2013 4th round pick (125th overall, Johnathan Franklin)",F/FranJo01,125,3.9,4.7,3.9,4.7,11,62,0,0.086,0,0.086
+381,2013-04-27,Atlanta Falcons,"2013 5th round pick (153rd overall, Stansly Maponga)",M/MapoSt00,153,2.6,2.6,2.6,2.3,12,0,126,0,0.161,0.161
+381,2013-04-27,Chicago Bears,"2013 5th round pick (163rd overall, Jordan Mills)",M/MillJo02,163,2.2,2.5,2.3,2.6,16,1011,0,0.956,0,0.956
+381,2013-04-27,Chicago Bears,"2013 7th round pick (236th overall, Marquess Wilson)",W/WilsMa02,236,0.1,0.1,2.3,2.6,10,75,0,0.113,0,0.113
+382,2013-04-27,Tampa Bay Buccaneers,"2013 7th round pick (229th overall subsequently traded, Everett Dawkins)",,229,0.1,0.1,0.1,,,,,,,
+383,2013-04-27,Arizona Cardinals,"2013 4th round pick (116th overall, Earl Watford)",W/WatfEa00,116,4.3,4.3,5.6,4.7,10,9,0,0.013,0,0.013
+383,2013-04-27,Arizona Cardinals,"2013 6th round pick (187th overall, Andre Ellington)",E/ElliAn00,187,1.3,1.3,5.6,4.7,15,405,0,0.4,0,0.4
+383,2013-04-27,New York Giants,"2013 4th round pick (110th overall, Ryan Nassib)",N/NassRy00,110,4.7,5.6,4.7,5.6,4,19,0,0.064,0,0.064
+384,2013-04-27,Detroit Lions,"2013 6th round pick (199th overall, Theo Riddick)",R/RiddTh00,199,0.9,1,3,3.3,14,48,0,0.049,0,0.049
+384,2013-04-27,Detroit Lions,"2013 5th round pick (165th overall, Sam Martin)",M/MartSa01,165,2.1,2.3,3,3.3,16,0,0,0,0,0
+384,2013-04-27,Seattle Seahawks,"2013 5th round pick (137th overall, Jesse Williams)",W/WillJe02,137,3.3,3.3,3.3,3,,,,,,
+385,2013-04-27,Houston Texans,"2013 6th round pick (184th overall subsequently traded, Mychal Rivera)",,184,1.4,1.4,2.3,2.3,,,,,,
+385,2013-04-27,Houston Texans,"2013 6th round pick (198th overall, Chris Jones)",J/JoneCh04,198,0.9,0.9,2.3,2.3,13,0,780,0,0.825,0.825
+385,2013-04-27,St. Louis Rams,"2013 5th round pick (160th overall, Zac Stacy)",S/StacZa00,160,2.3,2.3,2.3,2.3,14,566,0,0.66,0,0.66
+386,2013-04-26,San Francisco 49ers,"2013 2nd round pick (40th overall, Tank Carradine)",C/CarrCo00,40,11.1,11.1,18.4,12.1,9,0,145,0,0.237,0.237
+386,2013-04-26,San Francisco 49ers,"2014 3rd round pick (77th overall, Chris Borland)",B/BorlCh00,77,6.9,6.9,18.4,12.1,14,0,476,0,0.533,0.533
+386,2013-04-26,San Francisco 49ers,"2013 7th round pick (216th overall subsequently traded, Charles Johnson)",,216,0.4,0.4,18.4,12.1,,,,,,
+386,2013-04-26,Tennessee Titans,"2013 2nd round pick (34th overall, Justin Hunter)",H/HuntJu00,34,12.1,18.4,12.1,18.4,14,334,0,0.362,0,0.362
+387,2013-04-26,Baltimore Ravens,"2013 2nd round pick (56th overall, Arthur Brown)",B/BrowAr00,56,9,11.3,9,11.3,14,0,205,0,0.221,0.221
+387,2013-04-26,Seattle Seahawks,"2013 2nd round pick (62nd overall, Christine Michael)",M/MichCh00,62,8.3,8.3,11.3,9,4,26,0,0.101,0,0.101
+387,2013-04-26,Seattle Seahawks,"2013 5th round pick (165th overall subsequently traded, Sam Martin)",,165,2.1,2.1,11.3,9,,,,,,
+387,2013-04-26,Seattle Seahawks,"2013 6th round pick (199th overall subsequently traded, Theo Riddick)",,199,0.9,0.9,11.3,9,,,,,,
+388,2013-04-26,Miami Dolphins,"2013 4th round pick (106th overall, Dion Sims)",S/SimsDi00,106,4.9,4.9,9.6,6.5,15,279,0,0.289,0,0.289
+388,2013-04-26,Miami Dolphins,"2013 4th round pick (109th overall subsequently traded, David Bakhtiari)",,109,4.7,4.7,9.6,6.5,,,,,,
+388,2013-04-26,New Orleans Saints,"2013 3rd round pick (82nd overall, John Jenkins)",J/JenkJo00,82,6.5,9.6,6.5,9.6,16,0,432,0,0.443,0.443
+389,2013-04-26,Arizona Cardinals,"2013 2nd round pick (45th overall, Kevin Minter)",M/MintKe00,45,10.4,10.4,15.1,11.4,13,0,1,0,0.001,0.001
+389,2013-04-26,Arizona Cardinals,"2013 4th round pick (110th overall subsequently traded, Ryan Nassib)",,110,4.7,4.7,15.1,11.4,,,,,,
+389,2013-04-26,San Diego Chargers,"2013 2nd round pick (38th overall, Manti Te'o)",T/TeoxMa00,38,11.4,15.1,11.4,15.1,13,0,524,0,0.664,0.664
+390,2013-04-26,Cleveland Browns,"2013 7th round pick (217th overall, Armonty Bryant)",B/BryaAr00,217,0.3,0.4,4.9,7.1,12,0,187,0,0.217,0.217
+390,2013-04-26,Cleveland Browns,"2013 4th round pick (111th overall subsequently traded, Shamarko Thomas)",,111,4.6,6.7,4.9,7.1,,,,,,
+390,2013-04-26,Miami Dolphins,"2013 4th round pick (104th overall, Jelani Jenkins)",J/JenkJe00,104,5,5,7.1,4.9,16,0,125,0,0.109,0.109
+390,2013-04-26,Miami Dolphins,"2013 5th round pick (164th overall, Mike Gillislee)",G/GillMi00,164,2.1,2.1,7.1,4.9,3,9,0,0.043,0,0.043
+391,2013-04-26,Green Bay Packers,"2013 3rd round pick (93rd overall subsequently traded, Will Davis)",,93,5.7,5.7,16.3,15.2,,,,,,
+391,2013-04-26,Green Bay Packers,"2013 7th round pick (216th overall, Charles Johnson)",J/JohnCh08,216,0.4,0.4,16.3,15.2,12,440,0,0.574,0,0.574
+391,2013-04-26,Green Bay Packers,"2013 2nd round pick (61st overall, Eddie Lacy)",L/LacyEd00,61,8.4,8.4,16.3,15.2,15,679,0,0.652,0,0.652
+391,2013-04-26,Green Bay Packers,"2013 6th round pick (173rd overall subsequently traded, Vinston Painter)",,173,1.8,1.8,16.3,15.2,,,,,,
+391,2013-04-26,San Francisco 49ers,"2013 2nd round pick (55th overall, Vance McDonald)",M/McDoVa00,55,9.1,9.8,15.2,16.3,15,479,0,0.522,0,0.522
+391,2013-04-26,San Francisco 49ers,"2013 3rd round pick (88th overall, Corey Lemonier)",L/LemoCo00,88,6.1,6.5,15.2,16.3,16,0,276,0,0.259,0.259
+392,2013-04-26,New Orleans Saints,"2013 4th round pick (106th overall subsequently traded, Dion Sims)",,106,4.9,4.9,4.9,,,,,,,
+393,2013-04-26,Green Bay Packers,"2013 7th round pick (224th overall, Kevin Dorsey)",D/DorsKe01,224,0.1,0.1,7.7,5.7,3,12,0,0.058,0,0.058
+393,2013-04-26,Green Bay Packers,"2013 5th round pick (146th overall subsequently traded, Quanterus Smith)",,146,2.9,2.9,7.7,5.7,,,,,,
+393,2013-04-26,Green Bay Packers,"2013 4th round pick (109th overall, David Bakhtiari)",B/BakhDa00,109,4.7,4.7,7.7,5.7,16,1119,0,0.997,0,0.997
+393,2013-04-26,Miami Dolphins,"2013 3rd round pick (93rd overall, Will Davis)",D/DaviWi02,93,5.7,7.7,5.7,7.7,5,0,64,0,0.18,0.18
+394,2013-04-25,Dallas Cowboys,"2013 3rd round pick (74th overall, Terrance Williams)",W/WillTe01,74,7.2,7.2,19.9,16.2,16,679,0,0.68,0,0.68
+394,2013-04-25,Dallas Cowboys,"2013 1st round pick (31st overall, Travis Frederick)",F/FredTr00,31,12.7,12.7,19.9,16.2,16,998,0,1,0,1
+394,2013-04-25,San Francisco 49ers,"2013 1st round pick (18th overall, Eric Reid)",R/ReidEr00,18,16.2,19.9,16.2,19.9,16,0,982,0,0.923,0.923
+395,2013-04-25,Miami Dolphins,"2013 1st round pick (3rd overall, Dion Jordan)",J/JordDi00,3,27.6,29.6,27.6,29.6,16,0,330,0,0.288,0.288
+395,2013-04-25,Oakland Raiders,"2013 1st round pick (12th overall, D.J. Hayden)",H/HaydDJ00,12,18.8,18.8,29.6,27.6,8,0,337,0,0.637,0.637
+395,2013-04-25,Oakland Raiders,"2013 2nd round pick (42nd overall, Menelik Watson)",W/WatsMe00,42,10.8,10.8,29.6,27.6,5,173,0,0.471,0,0.471
+396,2013-04-25,Atlanta Falcons,"2013 1st round pick (22nd overall, Desmond Trufant)",T/TrufDe00,22,14.9,19.5,15,19.6,16,0,1000,0,0.961,0.961
+396,2013-04-25,Atlanta Falcons,"2015 7th round pick (249th overall, Akeem King)",K/KingAk00,249,0.1,0.1,15,19.6,5,0,14,0,0.041,0.041
+396,2013-04-25,St. Louis Rams,"2013 3rd round pick (92nd overall, Stedman Bailey)",B/BailSt01,92,5.8,5.8,19.6,15,16,188,0,0.187,0,0.187
+396,2013-04-25,St. Louis Rams,"2013 6th round pick (198th overall subsequently traded, Chris Jones)",,198,0.9,0.9,19.6,15,,,,,,
+396,2013-04-25,St. Louis Rams,"2013 1st round pick (30th overall, Alec Ogletree)",O/OgleAl00,30,12.9,12.9,19.6,15,16,0,1033,0,0.97,0.97
+397,2013-04-25,Buffalo Bills,"2013 7th round pick (222nd overall, Chris Gragg)",G/GragCh00,222,0.2,0.2,34.2,28.9,9,51,0,0.079,0,0.079
+397,2013-04-25,Buffalo Bills,"2013 3rd round pick (78th overall, Marquise Goodwin)",G/GoodMa00,78,6.9,6.9,34.2,28.9,12,313,0,0.373,0,0.373
+397,2013-04-25,Buffalo Bills,"2013 2nd round pick (46th overall, Kiko Alonso)",A/AlonKi00,46,10.2,10.2,34.2,28.9,16,0,1145,0,1,1
+397,2013-04-25,Buffalo Bills,"2013 1st round pick (16th overall, EJ Manuel)",M/ManuEJ00,16,16.9,16.9,34.2,28.9,10,694,0,0.956,0,0.956
+397,2013-04-25,St. Louis Rams,"2013 3rd round pick (71st overall, T.J. McDonald)",M/McDoTJ00,71,7.5,8.9,28.9,34.2,10,0,650,0,0.942,0.942
+397,2013-04-25,St. Louis Rams,"2013 1st round pick (8th overall, Tavon Austin)",A/AustTa00,8,21.4,25.3,28.9,34.2,13,423,0,0.505,0,0.505
+398,2013-04-25,Minnesota Vikings,"2013 1st round pick (29th overall, Cordarrelle Patterson)",P/PattCo00,29,13.2,21.1,13.2,21.1,16,436,0,0.419,0,0.419
+398,2013-04-25,New England Patriots,"2013 7th round pick (229th overall subsequently traded, Everett Dawkins)",,229,0.1,0.1,21.1,13.2,,,,,,
+398,2013-04-25,New England Patriots,"2013 2nd round pick (52nd overall, Jamie Collins)",C/CollJa00,52,9.4,9.4,21.1,13.2,16,0,296,0,0.258,0.258
+398,2013-04-25,New England Patriots,"2013 3rd round pick (83rd overall, Logan Ryan)",R/RyanLo00,83,6.5,6.5,21.1,13.2,16,0,599,0,0.522,0.522
+398,2013-04-25,New England Patriots,"2013 4th round pick (102nd overall, Josh Boyce)",B/BoycJo00,102,5.1,5.1,21.1,13.2,9,179,0,0.27,0,0.27
+399,2013-04-22,New York Jets,"2013 1st round pick (13th overall, Sheldon Richardson)",R/RichSh00,13,18.3,18.3,23.3,,16,6,882,0.006,0.8,0.8
+399,2013-04-22,New York Jets,"2014 4th round pick (104th overall, Jalen Saunders)",S/SaunJa00,104,5,5,23.3,,3,6,0,0.028,0,0.028
+401,2013-04-02,Cleveland Browns,"2013 5th round pick (164th overall subsequently traded, Mike Gillislee)",,164,2.1,2.1,2.2,1.8,,,,,,
+401,2013-04-02,Cleveland Browns,"2013 7th round pick (227th overall, Garrett Gilkey)",G/GilkGa00,227,0.1,0.1,2.2,1.8,6,93,0,0.231,0,0.231
+401,2013-04-02,San Francisco 49ers,"2013 6th round pick (173rd overall subsequently traded, Vinston Painter)",,173,1.8,2.2,1.8,2.2,,,,,,
+402,2013-04-02,Arizona Cardinals,"2013 7th round pick (219th overall, D.C. Jefferson)",J/JeffD.00,219,0.3,1.8,0.3,1.8,,,,,,
+402,2013-04-02,Oakland Raiders,"2014 7th round pick (235th overall, Shelby Harris)",H/HarrSh00,235,0.1,0.1,1.8,0.3,1,0,8,0,0.103,0.103
+402,2013-04-02,Oakland Raiders,"2013 6th round pick (176th overall subsequently traded, David Quessenberry)",,176,1.7,1.7,1.8,0.3,,,,,,
+403,2013-04-01,Seattle Seahawks,"2014 5th round pick (146th overall subsequently traded, Devin Street)",,146,2.9,2.9,2.9,,,,,,,
+405,2013-03-16,Philadelphia Eagles,"2013 7th round pick (218th overall, Jordan Poyer)",P/PoyeJo00,218,0.3,1,0.3,1,3,0,17,0,0.074,0.074
+405,2013-03-16,Tampa Bay Buccaneers,"2013 6th round pick (196th overall subsequently traded, Jeff Baca)",,196,1,1,1,0.3,,,,,,
+406,2013-03-12,Baltimore Ravens,"2013 6th round pick (199th overall subsequently traded, Theo Riddick)",,199,0.9,0.9,0.9,,,,,,,
+407,2013-03-12,Minnesota Vikings,"2013 1st round pick (25th overall, Xavier Rhodes)",R/RhodXa00,25,14.1,14.1,20,,13,0,675,0,0.702,0.702
+407,2013-03-12,Minnesota Vikings,"2013 7th round pick (214th overall, Travis Bond)",B/BondTr00,214,0.4,0.4,20,,2,4,0,0.031,0,0.031
+407,2013-03-12,Minnesota Vikings,"2014 3rd round pick (96th overall, Jerick McKinnon)",M/McKiJe00,96,5.5,5.5,20,,11,331,0,0.457,0,0.457
+408,2013-03-12,San Francisco 49ers,"2014 2nd round pick (56th overall subsequently traded, Cody Latimer)",,56,9,9,21.1,,,,,,,
+408,2013-03-12,San Francisco 49ers,"2013 2nd round pick (34th overall subsequently traded, Justin Hunter)",,34,12.1,12.1,21.1,,,,,,,
+409,2012-11-01,New England Patriots,"2013 7th round pick (226th overall, Michael Buchanan)",B/BuchMi00,226,0.1,3.8,0.1,3.8,15,0,119,0,0.11,0.11
+409,2012-11-01,Tampa Bay Buccaneers,"2013 4th round pick (126th overall, William Gholston)",G/GholWi00,126,3.8,3.8,3.8,0.1,12,0,312,0,0.399,0.399
+410,2012-10-31,Jacksonville Jaguars,"2014 5th round pick (150th overall subsequently traded, Aaron Lynch)",,150,2.7,2.7,2.7,,,,,,,
+412,2012-09-01,Arizona Cardinals,"2013 6th round pick (176th overall subsequently traded, David Quessenberry)",,176,1.7,1.7,1.7,0.5,,,,,,
+412,2012-09-01,Minnesota Vikings,"2013 7th round pick (213th overall, Michael Mauti)",M/MautMi00,213,0.5,1.7,0.5,1.7,14,0,11,0,0.011,0.011
+413,2012-09-01,St. Louis Rams,"2015 7th round pick (249th overall subsequently traded, Akeem King)",,249,0.1,0.1,0.1,,,,,,,
+414,2012-08-31,Cleveland Browns,"2013 6th round pick (173rd overall subsequently traded, Vinston Painter)",,173,1.8,1.8,1.8,0.5,,,,,,
+414,2012-08-31,Philadelphia Eagles,"2013 7th round pick (212th overall, Joe Kruger)",K/KrugJo00,212,0.5,1.8,0.5,1.8,,,,,,
+416,2012-08-31,San Francisco 49ers,"2014 7th round pick (243rd overall, Kaleb Ramsey)",R/RamsKa00,243,0.1,0.1,0.1,,,,,,,
+418,2012-08-27,Miami Dolphins,"2013 2nd round pick (54th overall, Jamar Taylor)",T/TaylJa01,54,9.2,9.2,9.2,,9,0,42,0,0.064,0.064
+419,2012-08-27,Seattle Seahawks,"2013 7th round pick (214th overall subsequently traded, Travis Bond)",,214,0.4,0.4,0.4,,,,,,,
+421,2012-08-22,St. Louis Rams,"2014 7th round pick (241st overall, C.B. Bryant)",B/BryaC.00,241,0.1,0.1,0.1,,,,,,,
+422,2012-08-21,Seattle Seahawks,"2013 7th round pick (220th overall, Ryan Seymour)",S/SeymRy00,220,0.3,0.3,0.3,,11,170,0,0.237,0,0.237
+424,2012-07-27,Tampa Bay Buccaneers,"2013 7th round pick (226th overall subsequently traded, Michael Buchanan)",,226,0.1,0.1,0.1,,,,,,,
+425,2012-07-24,Oakland Raiders,"2013 7th round pick (219th overall subsequently traded, D.C. Jefferson)",,219,0.3,0.3,0.3,,,,,,,
+430,2012-04-28,Pittsburgh Steelers,"2012 4th round pick (109th overall, Alameda Ta'amu)",T/Ta'aAl00,109,4.7,5.3,4.7,5.3,14,3,225,0.003,0.235,0.235
+430,2012-04-28,Washington Redskins,"2012 4th round pick (119th overall, Keenan Robinson)",R/RobiKe01,119,4.2,4.2,5.3,4.7,11,0,68,0,0.09,0.09
+430,2012-04-28,Washington Redskins,"2012 6th round pick (193rd overall, Tom Compton)",C/CompTo00,193,1.1,1.1,5.3,4.7,15,10,0,0.009,0,0.009
+431,2012-04-28,Miami Dolphins,"2012 5th round pick (155th overall, Josh Kaddu)",K/KaddJo00,155,2.5,2.8,2.6,2.9,4,0,11,0,0.042,0.042
+431,2012-04-28,Miami Dolphins,"2012 7th round pick (227th overall, Rishard Matthews)",M/MattRi00,227,0.1,0.1,2.6,2.9,8,231,0,0.453,0,0.453
+431,2012-04-28,Tennessee Titans,"2012 5th round pick (145th overall, Taylor Thompson)",T/ThomTa00,145,2.9,2.9,2.9,2.6,16,261,0,0.262,0,0.262
+432,2012-04-28,Miami Dolphins,"2012 4th round pick (97th overall, Lamar Miller)",M/MillLa01,97,5.5,7.6,5.5,7.6,13,143,0,0.168,0,0.168
+432,2012-04-28,San Francisco 49ers,"2012 4th round pick (103rd overall subsequently traded, Frank Alexander)",,103,5.1,5.1,7.6,5.5,,,,,,
+432,2012-04-28,San Francisco 49ers,"2012 6th round pick (196th overall subsequently traded, Jonte Green)",,196,1,1,7.6,5.5,,,,,,
+432,2012-04-28,San Francisco 49ers,"2013 6th round pick (180th overall, Nick Moody)",M/MoodNi00,180,1.5,1.5,7.6,5.5,4,0,10,0,0.041,0.041
+433,2012-04-28,Detroit Lions,"2012 6th round pick (196th overall, Jonte Green)",G/GreeJo03,196,1,1,4.9,4.3,15,0,396,0,0.414,0.414
+433,2012-04-28,Detroit Lions,"2012 4th round pick (125th overall, Ronnell Lewis)",L/LewiRo02,125,3.9,3.9,4.9,4.3,8,0,1,0,0.002,0.002
+433,2012-04-28,San Francisco 49ers,"2012 4th round pick (117th overall, Joe Looney)",L/LoonJo01,117,4.3,4.9,4.3,4.9,4,69,0,0.257,0,0.257
+434,2012-04-28,Detroit Lions,"2012 5th round pick (148th overall, Chris Greenwood)",G/GreeCh01,148,2.8,2.8,2.8,2.5,3,0,65,0,0.349,0.349
+434,2012-04-28,Oakland Raiders,"2012 5th round pick (158th overall, Jack Crawford)",C/CrawJa00,158,2.4,2.7,2.5,2.8,4,0,49,0,0.181,0.181
+434,2012-04-28,Oakland Raiders,"2012 7th round pick (230th overall, Nathan Stupar)",S/StupNa01,230,0.1,0.1,2.5,2.8,5,0,7,0,0.021,0.021
+435,2012-04-28,Green Bay Packers,"2012 5th round pick (163rd overall, Terrell Manning)",M/MannTe00,163,2.2,2.2,2.2,1.2,5,0,0,0,0,0
+435,2012-04-28,New England Patriots,"2012 7th round pick (224th overall, Alfonzo Dennard)",D/DennAl00,224,0.1,0.2,1.2,2.2,10,0,586,0,0.851,0.851
+435,2012-04-28,New England Patriots,"2012 7th round pick (235th overall, Jeremy Ebert)",E/EberJe00,235,0.1,0.2,1.2,2.2,5,49,0,0.151,0,0.151
+435,2012-04-28,New England Patriots,"2012 6th round pick (197th overall, Nate Ebner)",E/EbneNa00,197,1,1.8,1.2,2.2,15,0,36,0,0.035,0.035
+436,2012-04-28,Carolina Panthers,"2012 4th round pick (103rd overall, Frank Alexander)",A/AlexFr00,103,5.1,8.7,5.1,8.7,16,0,552,0,0.525,0.525
+436,2012-04-28,San Francisco 49ers,"2013 3rd round pick (74th overall subsequently traded, Terrance Williams)",,74,7.2,7.2,8.7,5.1,,,,,,
+436,2012-04-28,San Francisco 49ers,"2012 6th round pick (180th overall, Trent Robinson)",R/RobiTr02,180,1.5,1.5,8.7,5.1,3,0,0,0,0,0
+437,2012-04-28,Detroit Lions,"2012 5th round pick (138th overall, Tahir Whitehead)",W/WhitTa00,138,3.2,5.1,3.4,5.4,14,0,0,0,0,0
+437,2012-04-28,Detroit Lions,"2012 7th round pick (223rd overall, Travis Lewis)",L/LewiTr00,223,0.2,0.3,3.4,5.4,13,0,3,0,0.004,0.004
+437,2012-04-28,Minnesota Vikings,"2013 4th round pick (102nd overall subsequently traded, Josh Boyce)",,102,5.1,5.1,5.4,3.4,,,,,,
+437,2012-04-28,Minnesota Vikings,"2012 7th round pick (219th overall, Trevor Guyton)",G/GuytTr00,219,0.3,0.3,5.4,3.4,,,,,,
+438,2012-04-28,Minnesota Vikings,"2013 6th round pick (176th overall subsequently traded, David Quessenberry)",,176,1.7,2.8,1.7,2.8,,,,,,
+438,2012-04-28,Tennessee Titans,"2012 7th round pick (211th overall, Scott Solomon)",S/SoloSc00,211,0.5,0.5,2.8,1.7,13,0,168,0,0.184,0.184
+438,2012-04-28,Tennessee Titans,"2012 7th round pick (224th overall subsequently traded, Alfonzo Dennard)",,224,0.1,0.1,2.8,1.7,,,,,,
+438,2012-04-28,Tennessee Titans,"2012 5th round pick (163rd overall subsequently traded, Terrell Manning)",,163,2.2,2.2,2.8,1.7,,,,,,
+439,2012-04-27,Indianapolis Colts,"2012 3rd round pick (92nd overall, T.Y. Hilton)",H/HiltT.00,92,5.8,7.9,5.8,7.9,,,,,,
+439,2012-04-27,San Francisco 49ers,"2012 4th round pick (97th overall subsequently traded, Lamar Miller)",,97,5.5,5.5,7.9,5.8,,,,,,
+439,2012-04-27,San Francisco 49ers,"2013 5th round pick (157th overall, Quinton Dial)",D/DialQu00,157,2.4,2.4,7.9,5.8,3,0,18,0,0.093,0.093
+440,2012-04-27,Chicago Bears,"2012 2nd round pick (45th overall, Alshon Jeffery)",J/JeffAl00,45,10.4,12.4,10.4,12.4,10,431,0,0.657,0,0.657
+440,2012-04-27,St. Louis Rams,"2012 5th round pick (150th overall, Rokevious Watkins)",W/WatkRo00,150,2.7,2.7,12.4,10.4,1,36,0,0.632,0,0.632
+440,2012-04-27,St. Louis Rams,"2012 2nd round pick (50th overall, Isaiah Pead)",P/PeadIs00,50,9.7,9.7,12.4,10.4,15,40,0,0.041,0,0.041
+441,2012-04-27,Green Bay Packers,"2012 2nd round pick (62nd overall, Casey Hayward)",H/HaywCa00,62,8.3,8.3,8.3,8.1,16,0,684,0,0.629,0.629
+441,2012-04-27,New England Patriots,"2012 5th round pick (163rd overall subsequently traded, Terrell Manning)",,163,2.2,2.3,8.1,8.3,,,,,,
+441,2012-04-27,New England Patriots,"2012 3rd round pick (90th overall, Jake Bequette)",B/BequJa00,90,5.9,6,8.1,8.3,3,0,29,0,0.153,0.153
+442,2012-04-27,Miami Dolphins,"2012 3rd round pick (78th overall, Michael Egnew)",E/EgneMi00,78,6.9,6.9,8.3,7.3,2,25,0,0.203,0,0.203
+442,2012-04-27,Miami Dolphins,"2012 6th round pick (183rd overall, B.J. Cunningham)",C/CunnB.00,183,1.4,1.4,8.3,7.3,,,,,,
+442,2012-04-27,San Diego Chargers,"2012 3rd round pick (73rd overall, Brandon Taylor)",T/TaylBr02,73,7.3,8.3,7.3,8.3,4,0,40,0,0.143,0.143
+443,2012-04-27,Green Bay Packers,"2012 2nd round pick (51st overall, Jerel Worthy)",W/WortJe00,51,9.6,12.6,9.6,12.6,14,0,452,0,0.469,0.469
+443,2012-04-27,Philadelphia Eagles,"2012 2nd round pick (59th overall, Vinny Curry)",C/CurrVi00,59,8.6,8.6,12.6,9.6,6,0,88,0,0.221,0.221
+443,2012-04-27,Philadelphia Eagles,"2012 4th round pick (123rd overall, Brandon Boykin)",B/BoykBr00,123,4,4,12.6,9.6,16,0,508,0,0.485,0.485
+444,2012-04-27,Cleveland Browns,"2012 4th round pick (120th overall, James-Michael Johnson)",J/JohnJa04,120,4.1,4.1,10.3,7.8,10,1,287,0.001,0.375,0.375
+444,2012-04-27,Cleveland Browns,"2012 3rd round pick (87th overall, John Hughes)",H/HughJo00,87,6.2,6.2,10.3,7.8,16,0,514,0,0.442,0.442
+444,2012-04-27,Denver Broncos,"2012 3rd round pick (67th overall, Ronnie Hillman)",H/HillRo00,67,7.8,10.3,7.8,10.3,14,208,0,0.206,0,0.206
+445,2012-04-27,Atlanta Falcons,"2012 3rd round pick (91st overall, Lamar Holmes)",H/HolmLa00,91,5.9,5.9,8,6.4,1,7,0,0.103,0,0.103
+445,2012-04-27,Atlanta Falcons,"2012 5th round pick (164th overall, Jonathan Massaquoi)",M/MassJo00,164,2.1,2.1,8,6.4,8,0,27,0,0.052,0.052
+445,2012-04-27,Baltimore Ravens,"2012 3rd round pick (84th overall, Bernard Pierce)",P/PierBe00,84,6.4,8,6.4,8,16,218,0,0.2,0,0.2
+446,2012-04-27,New York Jets,"2012 2nd round pick (43rd overall, Stephen Hill)",H/HillSt00,43,10.6,12.7,10.6,12.7,11,412,0,0.542,0,0.542
+446,2012-04-27,Seattle Seahawks,"2012 7th round pick (232nd overall, Greg Scruggs)",S/ScruGr00,232,0.1,0.1,12.7,10.6,11,0,200,0,0.281,0.281
+446,2012-04-27,Seattle Seahawks,"2012 2nd round pick (47th overall, Bobby Wagner)",W/WagnBo00,47,10.1,10.1,12.7,10.6,16,0,850,0,0.848,0.848
+446,2012-04-27,Seattle Seahawks,"2012 5th round pick (154th overall, Korey Toomer)",T/ToomKo00,154,2.5,2.5,12.7,10.6,1,0,0,0,0,0
+447,2012-04-27,Houston Texans,"2012 4th round pick (126th overall, Jared Crick)",C/CricJa00,126,3.8,3.8,11.5,8.8,15,0,217,0,0.215,0.215
+447,2012-04-27,Houston Texans,"2012 3rd round pick (68th overall, DeVier Posey)",P/PoseDe00,68,7.7,7.7,11.5,8.8,11,160,0,0.21,0,0.21
+447,2012-04-27,Tampa Bay Buccaneers,"2012 7th round pick (233rd overall, Drake Dunsmore)",D/DunsDr00,233,0.1,0.1,8.8,11.5,,,,,,
+447,2012-04-27,Tampa Bay Buccaneers,"2012 2nd round pick (58th overall, Lavonte David)",D/DaviLa00,58,8.7,11.4,8.8,11.5,16,0,1059,0,0.982,0.982
+448,2012-04-27,Buffalo Bills,"2012 3rd round pick (69th overall, T.J. Graham)",G/GrahT.00,69,7.6,7.8,7.6,7.8,,,,,,
+448,2012-04-27,Washington Redskins,"2012 7th round pick (217th overall, Jordan Bernstine)",B/BernJo00,217,0.3,0.3,7.8,7.6,1,0,0,0,0,0
+448,2012-04-27,Washington Redskins,"2012 3rd round pick (71st overall, Josh LeRibeus)",L/LeRiJo00,71,7.5,7.5,7.8,7.6,5,21,0,0.067,0,0.067
+449,2012-04-26,Cleveland Browns,"2012 1st round pick (3rd overall, Trent Richardson)",R/RichTr00,3,27.6,33.7,27.6,33.7,15,702,0,0.725,0,0.725
+449,2012-04-26,Minnesota Vikings,"2012 1st round pick (4th overall, Matt Kalil)",K/KaliMa00,4,25.8,25.8,33.7,27.6,16,976,0,1,0,1
+449,2012-04-26,Minnesota Vikings,"2012 7th round pick (211th overall subsequently traded, Scott Solomon)",,211,0.5,0.5,33.7,27.6,,,,,,
+449,2012-04-26,Minnesota Vikings,"2012 5th round pick (139th overall, Robert Blanton)",B/BlanRo00,139,3.2,3.2,33.7,27.6,13,0,56,0,0.065,0.065
+449,2012-04-26,Minnesota Vikings,"2012 4th round pick (118th overall, Jarius Wright)",W/WrigJa02,118,4.2,4.2,33.7,27.6,7,206,0,0.458,0,0.458
+450,2012-04-26,Philadelphia Eagles,"2012 1st round pick (12th overall, Fletcher Cox)",C/CoxxFl00,12,18.8,23.6,18.8,23.6,15,0,509,0,0.517,0.517
+450,2012-04-26,Seattle Seahawks,"2012 6th round pick (172nd overall, Jeremy Lane)",L/LaneJe00,172,1.8,1.8,23.6,18.8,13,0,163,0,0.203,0.203
+450,2012-04-26,Seattle Seahawks,"2012 4th round pick (114th overall, Jaye Howard)",H/HowaJa00,114,4.4,4.4,23.6,18.8,2,0,22,0,0.19,0.19
+450,2012-04-26,Seattle Seahawks,"2012 1st round pick (15th overall, Bruce Irvin)",I/IrviBr00,15,17.4,17.4,23.6,18.8,16,0,435,0,0.434,0.434
+451,2012-04-26,Baltimore Ravens,"2012 4th round pick (98th overall, Gino Gradkowski)",G/GradGi00,98,5.4,5.4,17.4,13.2,16,85,0,0.078,0,0.078
+451,2012-04-26,Baltimore Ravens,"2012 2nd round pick (35th overall, Courtney Upshaw)",U/UpshCo00,35,12,12,17.4,13.2,16,0,746,0,0.654,0.654
+451,2012-04-26,Minnesota Vikings,"2012 1st round pick (29th overall, Harrison Smith)",S/SmitHa00,29,13.2,17.4,13.2,17.4,16,0,961,0,0.912,0.912
+452,2012-04-26,Jacksonville Jaguars,"2012 1st round pick (5th overall, Justin Blackmon)",B/BlacJu00,5,24.3,27.4,24.3,27.4,16,890,0,0.904,0,0.904
+452,2012-04-26,Tampa Bay Buccaneers,"2012 4th round pick (101st overall subsequently traded, Omar Bolden)",,101,5.2,5.2,27.4,24.3,,,,,,
+452,2012-04-26,Tampa Bay Buccaneers,"2012 1st round pick (7th overall, Mark Barron)",B/BarrMa00,7,22.2,22.2,27.4,24.3,16,0,1074,0,0.996,0.996
+453,2012-04-26,Cincinnati Bengals,"2012 3rd round pick (93rd overall, Brandon Thompson)",T/ThomBr01,93,5.7,5.7,19.3,15.2,3,0,22,0,0.118,0.118
+453,2012-04-26,Cincinnati Bengals,"2012 1st round pick (27th overall, Kevin Zeitler)",Z/ZeitKe00,27,13.6,13.6,19.3,15.2,16,1051,0,0.994,0,0.994
+453,2012-04-26,New England Patriots,"2012 1st round pick (21st overall, Chandler Jones)",J/JoneCh03,21,15.2,19.3,15.2,19.3,14,0,732,0,0.759,0.759
+454,2012-04-26,Denver Broncos,"2012 2nd round pick (36th overall, Derek Wolfe)",W/WolfDe00,36,11.8,11.8,17,16.5,16,0,901,0,0.842,0.842
+454,2012-04-26,Denver Broncos,"2012 4th round pick (101st overall, Omar Bolden)",B/BoldOm00,101,5.2,5.2,17,16.5,16,0,76,0,0.071,0.071
+454,2012-04-26,Tampa Bay Buccaneers,"2012 4th round pick (126th overall subsequently traded, Jared Crick)",,126,3.8,3.9,16.5,17,,,,,,
+454,2012-04-26,Tampa Bay Buccaneers,"2012 1st round pick (31st overall, Doug Martin)",M/MartDo00,31,12.7,13.1,16.5,17,16,821,0,0.783,0,0.783
+455,2012-04-26,Philadelphia Eagles,"2012 7th round pick (229th overall, Bryce Brown)",B/BrowBr02,229,0.1,0.1,0.1,,16,334,0,0.296,0,0.296
+456,2012-04-26,Dallas Cowboys,"2012 1st round pick (6th overall, Morris Claiborne)",C/ClaiMo00,6,23.2,28.2,23.2,28.2,15,0,879,0,0.908,0.908
+456,2012-04-26,St. Louis Rams,"2012 1st round pick (14th overall, Michael Brockers)",B/BrocMi00,14,17.8,17.8,28.2,23.2,13,0,602,0,0.684,0.684
+456,2012-04-26,St. Louis Rams,"2012 2nd round pick (45th overall subsequently traded, Alshon Jeffery)",,45,10.4,10.4,28.2,23.2,,,,,,
+457,2012-04-26,Denver Broncos,"2012 4th round pick (126th overall subsequently traded, Jared Crick)",,126,3.8,3.8,16.5,14.1,,,,,,
+457,2012-04-26,Denver Broncos,"2012 1st round pick (31st overall subsequently traded, Doug Martin)",,31,12.7,12.7,16.5,14.1,,,,,,
+457,2012-04-26,New England Patriots,"2012 1st round pick (25th overall, Dont'a Hightower)",H/HighDo01,25,14.1,16.5,14.1,16.5,14,0,568,0,0.584,0.584
+458,2012-04-12,Denver Broncos,"2012 5th round pick (167th overall subsequently traded, George Iloka)",,167,2,2,2,,,,,,,
+459,2012-04-12,Cincinnati Bengals,"2012 5th round pick (167th overall, George Iloka)",I/IlokGe00,167,2,2,2,,7,0,0,0,0,0
+461,2012-03-26,Denver Broncos,"2012 4th round pick (108th overall, Philip Blake)",B/BlakPh00,108,4.8,4.8,6.1,0.1,,,,,,
+461,2012-03-26,Denver Broncos,"2012 6th round pick (188th overall, Danny Trevathan)",T/TrevDa00,188,1.3,1.3,6.1,0.1,16,0,238,0,0.222,0.222
+461,2012-03-26,New York Jets,"2012 7th round pick (232nd overall subsequently traded, Greg Scruggs)",,232,0.1,6.1,0.1,6.1,,,,,,
+462,2012-03-26,Indianapolis Colts,"2012 7th round pick (214th overall, Tim Fugger)",F/FuggTi00,214,0.4,1.3,0.4,1.3,,,,,,
+462,2012-03-26,New York Jets,"2012 6th round pick (187th overall, Josh Bush)",B/BushJo00,187,1.3,1.3,1.3,0.4,16,0,17,0,0.016,0.016
+463,2012-03-21,Houston Texans,"2012 4th round pick (99th overall, Ben Jones)",J/JoneBe01,99,5.3,5.3,12.3,6.1,16,689,0,0.611,0,0.611
+463,2012-03-21,Houston Texans,"2012 3rd round pick (76th overall, Brandon Brooks)",B/BrooBr00,76,7,7,12.3,6.1,6,110,0,0.27,0,0.27
+463,2012-03-21,Philadelphia Eagles,"2012 3rd round pick (88th overall, Nick Foles)",F/FoleNi00,88,6.1,12.3,6.1,12.3,7,454,0,0.958,0,0.958
+464,2012-03-14,Miami Dolphins,"2012 3rd round pick (73rd overall subsequently traded, Brandon Taylor)",,73,7.3,7.3,13.8,,,,,,,
+464,2012-03-14,Miami Dolphins,"2013 3rd round pick (82nd overall subsequently traded, John Jenkins)",,82,6.5,6.5,13.8,,,,,,,
+465,2012-03-14,St. Louis Rams,"2012 1st round pick (6th overall subsequently traded, Morris Claiborne)",,6,23.2,23.2,79.6,30.2,,,,,,
+465,2012-03-14,St. Louis Rams,"2014 1st round pick (2nd overall, Greg Robinson)",R/RobiGr01,2,30.2,30.2,79.6,30.2,16,723,0,0.722,0,0.722
+465,2012-03-14,St. Louis Rams,"2012 2nd round pick (39th overall, Janoris Jenkins)",J/JenkJa03,39,11.3,11.3,79.6,30.2,15,0,955,0,0.946,0.946
+465,2012-03-14,St. Louis Rams,"2013 1st round pick (22nd overall subsequently traded, Desmond Trufant)",,22,14.9,14.9,79.6,30.2,,,,,,
+465,2012-03-14,Washington Redskins,"2012 1st round pick (2nd overall, Robert Griffin)",G/GrifRo01,2,30.2,79.6,30.2,79.6,15,938,0,0.979,0,0.979
+466,2012-03-14,Indianapolis Colts,"2012 6th round pick (187th overall subsequently traded, Josh Bush)",,187,1.3,1.8,1.3,1.8,,,,,,
+466,2012-03-14,Philadelphia Eagles,"2012 6th round pick (172nd overall subsequently traded, Jeremy Lane)",,172,1.8,1.8,1.8,1.3,,,,,,
+467,2011-10-18,Cincinnati Bengals,"2013 2nd round pick (37th overall, Giovani Bernard)",B/BernGi00,37,11.6,11.6,28.2,,16,613,0,0.542,0,0.542
+467,2011-10-18,Cincinnati Bengals,"2012 1st round pick (17th overall, Dre Kirkpatrick)",K/KirkDr00,17,16.6,16.6,28.2,,5,0,42,0,0.129,0.129
+468,2011-10-14,Seattle Seahawks,"2013 5th round pick (138th overall, Tharold Simon)",S/SimoTh00,138,3.2,3.2,3.3,,10,0,300,0,0.525,0.525
+468,2011-10-14,Seattle Seahawks,"2012 7th round pick (225th overall, J.R. Sweezy)",S/SweeJ.00,225,0.1,0.1,3.3,,,,,,,
+470,2011-09-03,Green Bay Packers,"2012 7th round pick (224th overall subsequently traded, Alfonzo Dennard)",,224,0.1,0.1,0.1,,,,,,,
+472,2011-09-03,New York Jets,"2012 7th round pick (214th overall subsequently traded, Tim Fugger)",,214,0.4,0.4,0.4,,,,,,,
+474,2011-08-23,San Francisco 49ers,"2013 7th round pick (227th overall subsequently traded, Garrett Gilkey)",,227,0.1,0.1,0.1,,,,,,,
+475,2011-08-12,Buffalo Bills,"2012 4th round pick (124th overall, Ron Brooks)",B/BrooRo01,124,3.9,3.9,3.9,,9,0,161,0,0.266,0.266
+476,2011-08-02,Philadelphia Eagles,"2013 6th round pick (196th overall subsequently traded, Jeff Baca)",,196,1,1,1,,,,,,,
+477,2011-08-01,Arizona Cardinals,"2012 6th round pick (177th overall, Justin Bethel)",B/BethJu00,177,1.6,1.6,1.6,,16,0,10,0,0.009,0.009
+480,2011-07-29,Washington Redskins,"2013 5th round pick (162nd overall, Brandon Jenkins)",J/JenkBr00,162,2.2,2.2,2.2,,5,0,39,0,0.111,0.111
+481,2011-07-29,Chicago Bears,"2012 3rd round pick (73rd overall subsequently traded, Brandon Taylor)",,73,7.3,7.3,7.3,,,,,,,
+482,2011-07-29,Cincinnati Bengals,"2012 5th round pick (166th overall, Marvin Jones)",J/JoneMa02,166,2,2,3,,11,355,0,0.491,0,0.491
+482,2011-07-29,Cincinnati Bengals,"2013 6th round pick (197th overall, Cobi Hamilton)",H/HamiCo00,197,1,1,3,,11,384,0,0.515,0,0.515
+483,2011-07-29,Philadelphia Eagles,"2012 2nd round pick (51st overall subsequently traded, Jerel Worthy)",,51,9.6,9.6,9.6,,,,,,,
+484,2011-07-28,Miami Dolphins,"2012 6th round pick (196th overall subsequently traded, Jonte Green)",,196,1,1.6,1,1.6,,,,,,
+484,2011-07-28,New Orleans Saints,"2012 6th round pick (179th overall, Andrew Tiller)",T/TillAn01,179,1.6,1.6,1.6,1,1,1,0,0.017,0,0.017
+485,2011-07-28,Washington Redskins,"2012 6th round pick (173rd overall, Alfred Morris)",M/MorrAl00,173,1.8,1.8,1.8,,16,727,0,0.704,0,0.704
+487,2011-04-30,Denver Broncos,"2011 4th round pick (129th overall, Julius Thomas)",T/ThomJu00,129,3.7,3.7,4.4,4.4,5,,,,,
+487,2011-04-30,Denver Broncos,"2011 7th round pick (204th overall, Virgil Green)",G/GreeVi00,204,0.7,0.7,4.4,4.4,15,,,,,
+487,2011-04-30,Green Bay Packers,"2011 6th round pick (186th overall, D.J. Smith)",S/SmitD.00,186,1.3,1.3,4.4,4.4,,,,,,
+487,2011-04-30,Green Bay Packers,"2011 5th round pick (141st overall, D.J. Williams)",W/WillD.00,141,3.1,3.1,4.4,4.4,,,,,,
+488,2011-04-30,New York Jets,"2011 5th round pick (153rd overall, Jeremy Kerley)",K/KerlJe00,153,2.6,3.2,2.7,3.3,14,,,,,
+488,2011-04-30,New York Jets,"2011 7th round pick (227th overall, Scotty McKnight)",M/McKnSc00,227,0.1,0.1,2.7,3.3,,,,,,
+488,2011-04-30,Philadelphia Eagles,"2011 5th round pick (161st overall, Julian Vandervelde)",V/VandJu00,161,2.2,2.2,3.3,2.7,1,,,,,
+488,2011-04-30,Philadelphia Eagles,"2011 6th round pick (194th overall subsequently traded, Markell Carter)",,194,1.1,1.1,3.3,2.7,,,,,,
+489,2011-04-30,Green Bay Packers,"2011 6th round pick (179th overall, Caleb Schlauderaff)",S/SchlCa00,179,1.6,1.6,1.9,1.8,6,,,,,
+489,2011-04-30,Green Bay Packers,"2011 7th round pick (218th overall, Ryan Taylor)",T/TaylRy00,218,0.3,0.3,1.9,1.8,15,,,,,
+489,2011-04-30,Miami Dolphins,"2011 7th round pick (231st overall, Frank Kearse)",K/KearFr00,231,0.1,0.1,1.8,1.9,6,,,,,
+489,2011-04-30,Miami Dolphins,"2011 6th round pick (174th overall, Charles Clay)",C/ClayCh00,174,1.7,1.8,1.8,1.9,14,,,,,
+490,2011-04-30,Philadelphia Eagles,"2011 4th round pick (116th overall, Casey Matthews)",M/MattCa00,116,4.3,4.3,9.6,5,16,,,,,
+490,2011-04-30,Philadelphia Eagles,"2012 4th round pick (99th overall subsequently traded, Ben Jones)",,99,5.3,5.3,9.6,5,,,,,,
+490,2011-04-30,Tampa Bay Buccaneers,"2011 4th round pick (104th overall, Luke Stocker)",S/StocLu00,104,5,9.6,5,9.6,14,,,,,
+491,2011-04-30,Atlanta Falcons,"2011 5th round pick (145th overall, Jacquizz Rodgers)",R/RodgJa00,145,2.9,2.9,2.9,2.5,16,,,,,
+491,2011-04-30,St. Louis Rams,"2011 5th round pick (158th overall, Jermale Hines)",H/HineJe00,158,2.4,2.8,2.5,2.9,,,,,,
+491,2011-04-30,St. Louis Rams,"2011 7th round pick (229th overall, Jonathan Nelson)",N/NelsJo01,229,0.1,0.1,2.5,2.9,,,,,,
+492,2011-04-30,Green Bay Packers,"2011 6th round pick (174th overall subsequently traded, Charles Clay)",,174,1.7,2.1,1.8,2.2,,,,,,
+492,2011-04-30,Green Bay Packers,"2011 7th round pick (231st overall subsequently traded, Frank Kearse)",,231,0.1,0.1,1.8,2.2,,,,,,
+492,2011-04-30,San Francisco 49ers,"2011 5th round pick (163rd overall, Daniel Kilgore)",K/KilgDa00,163,2.2,2.2,2.2,1.8,1,,,,,
+493,2011-04-30,Houston Texans,"2011 5th round pick (152nd overall, T.J. Yates)",Y/YateT.00,152,2.6,2.6,9.4,6.6,,,,,,
+493,2011-04-30,Houston Texans,"2011 5th round pick (144th overall, Shiloh Keo)",K/KeoxSh00,144,3,3,9.4,6.6,10,,,,,
+493,2011-04-30,Houston Texans,"2011 4th round pick (127th overall, Roc Carmichael)",C/CarmRo00,127,3.8,3.8,9.4,6.6,6,0,42,0,0.095,0.095
+493,2011-04-30,Washington Redskins,"2011 6th round pick (178th overall, Aldrick Robinson)",R/RobiAl00,178,1.6,2.3,6.6,9.4,15,218,0,0.227,0,0.227
+493,2011-04-30,Washington Redskins,"2011 4th round pick (105th overall, Roy Helu)",H/HeluRo00,105,5,7.1,6.6,9.4,15,,,,,
+494,2011-04-30,Cleveland Browns,"2011 5th round pick (150th overall, Jason Pinkston)",P/PinkJa00,150,2.7,3.9,2.7,3.9,16,,,,,
+494,2011-04-30,Minnesota Vikings,"2011 6th round pick (170th overall, Mistral Raymond)",R/RaymMi00,170,1.9,1.9,3.9,2.7,10,,,,,
+494,2011-04-30,Minnesota Vikings,"2011 6th round pick (168th overall, Demarcus Love)",L/LoveDe00,168,2,2,3.9,2.7,,,,,,
+495,2011-04-30,New England Patriots,"2011 6th round pick (194th overall, Markell Carter)",C/CartMa01,194,1.1,1.1,1.1,1.1,,,,,,
+495,2011-04-30,Philadelphia Eagles,"2011 6th round pick (193rd overall, Brian Rolle)",R/RollBr00,193,1.1,1.1,1.1,1.1,16,,,,,
+496,2011-04-29,Chicago Bears,"2011 2nd round pick (53rd overall, Stephen Paea)",P/PaeaSt00,53,9.3,12.1,9.3,12.1,11,,,,,
+496,2011-04-29,Washington Redskins,"2011 4th round pick (127th overall subsequently traded, Roc Carmichael)",,127,3.8,3.8,12.1,9.3,,,,,,
+496,2011-04-29,Washington Redskins,"2011 2nd round pick (62nd overall subsequently traded, Daniel Thomas)",,62,8.3,8.3,12.1,9.3,,,,,,
+497,2011-04-29,Miami Dolphins,"2011 2nd round pick (62nd overall, Daniel Thomas)",T/ThomDa03,62,8.3,10,8.3,10,13,,,,,
+497,2011-04-29,Washington Redskins,"2011 7th round pick (217th overall, Maurice Hurt)",H/HurtMa00,217,0.3,0.3,10,8.3,8,,,,,
+497,2011-04-29,Washington Redskins,"2011 5th round pick (146th overall, DeJon Gomes)",G/GomeDe00,146,2.9,2.9,10,8.3,15,,,,,
+497,2011-04-29,Washington Redskins,"2011 3rd round pick (79th overall, Leonard Hankerson)",H/HankLe00,79,6.8,6.8,10,8.3,4,,,,,
+498,2011-04-29,Baltimore Ravens,"2011 3rd round pick (85th overall, Jah Reid)",R/ReidJa00,85,6.3,7.1,6.3,7.1,16,,,,,
+498,2011-04-29,Philadelphia Eagles,"2011 3rd round pick (90th overall, Curtis Marsh)",M/MarsCu01,90,5.9,5.9,7.1,6.3,7,,,,,
+498,2011-04-29,Philadelphia Eagles,"2011 6th round pick (191st overall, Jason Kelce)",K/KelcJa00,191,1.2,1.2,7.1,6.3,16,,,,,
+499,2011-04-29,Denver Broncos,"2011 2nd round pick (45th overall, Rahim Moore)",M/MoorRa00,45,10.4,10.4,18.3,11.8,15,,,,,
+499,2011-04-29,Denver Broncos,"2011 5th round pick (141st overall subsequently traded, D.J. Williams)",,141,3.1,3.1,18.3,11.8,,,,,,
+499,2011-04-29,Denver Broncos,"2011 4th round pick (108th overall, Quinton Carter)",C/CartQu01,108,4.8,4.8,18.3,11.8,16,,,,,
+499,2011-04-29,San Francisco 49ers,"2011 2nd round pick (36th overall, Colin Kaepernick)",K/KaepCo00,36,11.8,18.3,11.8,18.3,3,,,,,
+500,2011-04-29,Detroit Lions,"2011 5th round pick (157th overall, Doug Hogue)",H/HoguDo01,157,2.4,3,11.9,15.1,13,,,,,
+500,2011-04-29,Detroit Lions,"2011 2nd round pick (57th overall, Mikel Leshoure)",L/LeshMi00,57,8.9,11.3,11.9,15.1,14,529,0,0.495,0,0.495
+500,2011-04-29,Detroit Lions,"2011 7th round pick (209th overall, Johnny Culbreath)",C/CulbJo00,209,0.6,0.8,11.9,15.1,,,,,,
+500,2011-04-29,Seattle Seahawks,"2011 7th round pick (205th overall, Lazarius Levingston)",L/LeviLa00,205,0.7,0.7,15.1,11.9,4,,,,,
+500,2011-04-29,Seattle Seahawks,"2011 4th round pick (107th overall, Kris Durham)",D/DurhKr00,107,4.8,4.8,15.1,11.9,3,,,,,
+500,2011-04-29,Seattle Seahawks,"2011 3rd round pick (75th overall, John Moffitt)",M/MoffJo00,75,7.1,7.1,15.1,11.9,9,,,,,
+500,2011-04-29,Seattle Seahawks,"2011 5th round pick (154th overall, Richard Sherman)",S/SherRi00,154,2.5,2.5,15.1,11.9,16,,,,,
+501,2011-04-29,Jacksonville Jaguars,"2011 3rd round pick (76th overall, Will Rackley)",R/RackWi01,76,7,8.2,7,8.2,15,,,,,
+501,2011-04-29,San Francisco 49ers,"2011 3rd round pick (80th overall, Chris Culliver)",C/CullCh00,80,6.7,6.7,8.2,7,16,,,,,
+501,2011-04-29,San Francisco 49ers,"2011 6th round pick (182nd overall, Ronald Johnson)",J/JohnRo05,182,1.5,1.5,8.2,7,,,,,,
+502,2011-04-29,Indianapolis Colts,"2011 2nd round pick (49th overall, Ben Ijalana)",I/IjalBe00,49,9.8,11.9,9.8,11.9,4,,,,,
+502,2011-04-29,Washington Redskins,"2011 5th round pick (152nd overall subsequently traded, T.J. Yates)",,152,2.6,2.6,11.9,9.8,,,,,,
+502,2011-04-29,Washington Redskins,"2011 2nd round pick (53rd overall subsequently traded, Stephen Paea)",,53,9.3,9.3,11.9,9.8,,,,,,
+503,2011-04-29,Houston Texans,"2011 2nd round pick (60th overall, Brandon Harris)",H/HarrBr00,60,8.5,10.5,8.5,10.5,7,,,,,
+503,2011-04-29,New England Patriots,"2011 3rd round pick (73rd overall, Stevan Ridley)",R/RidlSt00,73,7.3,7.3,10.5,8.5,16,,,,,
+503,2011-04-29,New England Patriots,"2011 5th round pick (138th overall, Marcus Cannon)",C/CannMa00,138,3.2,3.2,10.5,8.5,7,,,,,
+504,2011-04-29,New England Patriots,"2011 7th round pick (219th overall, Malcolm Williams)",W/WillMa01,219,0.3,0.3,10.2,9.7,2,,,,,
+504,2011-04-29,New England Patriots,"2012 2nd round pick (48th overall, Tavon Wilson)",W/WilsTa00,48,9.9,9.9,10.2,9.7,16,0,464,0,0.423,0.423
+504,2011-04-29,Oakland Raiders,"2011 3rd round pick (92nd overall, Joe Barksdale)",B/BarkJo00,92,5.8,6.1,9.7,10.2,16,,,,,
+504,2011-04-29,Oakland Raiders,"2011 4th round pick (125th overall, Taiwan Jones)",J/JoneTa00,125,3.9,4.1,9.7,10.2,10,,,,,
+505,2011-04-28,Jacksonville Jaguars,"2011 1st round pick (10th overall, Blaine Gabbert)",G/GabbBl00,10,19.9,26.7,19.9,26.7,15,,,,,
+505,2011-04-28,Washington Redskins,"2011 2nd round pick (49th overall subsequently traded, Ben Ijalana)",,49,9.8,9.8,26.7,19.9,,,,,,
+505,2011-04-28,Washington Redskins,"2011 1st round pick (16th overall, Ryan Kerrigan)",K/KerrRy00,16,16.9,16.9,26.7,19.9,16,,,,,
+506,2011-04-28,Cleveland Browns,"2011 1st round pick (21st overall, Phil Taylor)",T/TaylPh00,21,15.2,21.4,15.2,21.4,16,,,,,
+506,2011-04-28,Kansas City Chiefs,"2011 3rd round pick (70th overall, Justin Houston)",H/HousJu00,70,7.5,7.5,21.4,15.2,16,,,,,
+506,2011-04-28,Kansas City Chiefs,"2011 1st round pick (26th overall, Jonathan Baldwin)",B/BaldJo00,26,13.9,13.9,21.4,15.2,11,,,,,
+507,2011-04-28,Atlanta Falcons,"2011 1st round pick (6th overall, Julio Jones)",J/JoneJu02,6,23.2,45.5,23.2,45.5,13,,,,,
+507,2011-04-28,Cleveland Browns,"2011 4th round pick (124th overall, Owen Marecic)",M/MareOw00,124,3.9,3.9,45.5,23.2,14,,,,,
+507,2011-04-28,Cleveland Browns,"2011 4th round pick (118th overall subsequently traded, Jalil Brown)",,118,4.2,4.2,45.5,23.2,,,,,,
+507,2011-04-28,Cleveland Browns,"2011 1st round pick (26th overall subsequently traded, Jonathan Baldwin)",,26,13.9,13.9,45.5,23.2,,,,,,
+507,2011-04-28,Cleveland Browns,"2011 2nd round pick (59th overall, Greg Little)",L/LittGr00,59,8.6,8.6,45.5,23.2,16,,,,,
+507,2011-04-28,Cleveland Browns,"2012 1st round pick (22nd overall, Brandon Weeden)",W/WeedBr00,22,14.9,14.9,45.5,23.2,15,929,0,0.96,0,0.96
+508,2011-04-28,New England Patriots,"2011 2nd round pick (56th overall, Shane Vereen)",V/VereSh00,56,9,9,22.6,13.4,5,,,,,
+508,2011-04-28,New England Patriots,"2012 1st round pick (27th overall subsequently traded, Kevin Zeitler)",,27,13.6,13.6,22.6,13.4,,,,,,
+508,2011-04-28,New Orleans Saints,"2011 1st round pick (28th overall, Mark Ingram)",I/IngrMa01,28,13.4,22.6,13.4,22.6,10,,,,,
+509,2010-10-19,Kansas City Chiefs,"2011 5th round pick (135th overall, Ricky Stanzi)",S/StanRi00,135,3.4,3.4,3.4,1.3,,,,,,
+509,2010-10-19,Tampa Bay Buccaneers,"2011 6th round pick (187th overall, Allen Bradford)",B/BradAl00,187,1.3,3.4,1.3,3.4,1,,,,,
+512,2010-10-12,Seattle Seahawks,"2011 4th round pick (99th overall, K.J. Wright)",W/WrigK.00,99,5.3,5.3,5.3,,,,,,,
+513,2010-10-06,Minnesota Vikings,"2012 7th round pick (223rd overall subsequently traded, Travis Lewis)",,223,0.2,7.2,0.2,7.2,,,,,,
+513,2010-10-06,New England Patriots,"2011 3rd round pick (74th overall, Ryan Mallett)",M/MallRy00,74,7.2,7.2,7.2,0.2,4,24,0,0.087,0,0.087
+515,2010-10-05,Buffalo Bills,"2012 5th round pick (147th overall, Tank Carder)",C/CardTa00,147,2.8,2.8,6.8,,15,0,29,0,0.026,0.026
+515,2010-10-05,Buffalo Bills,"2011 4th round pick (122nd overall, Chris Hairston)",H/HairCh00,122,4,4,6.8,,13,,,,,
+516,2010-09-15,Denver Broncos,"2011 6th round pick (189th overall, Mike Mohamed)",M/MohaMi00,189,1.2,5.3,1.2,5.3,2,,,,,
+516,2010-09-15,New England Patriots,"2011 4th round pick (99th overall subsequently traded, K.J. Wright)",,99,5.3,5.3,5.3,1.2,,,,,,
+517,2010-09-07,Baltimore Ravens,"2011 6th round pick (180th overall, Tyrod Taylor)",T/TaylTy00,180,1.5,1.5,1.5,0.1,3,,,,,
+517,2010-09-07,St. Louis Rams,"2011 7th round pick (228th overall, Jabara Williams)",W/WillJa12,228,0.1,1.5,0.1,1.5,5,,,,,
+520,2010-09-04,Denver Broncos,"2011 6th round pick (186th overall subsequently traded, D.J. Smith)",,186,1.3,1.3,1.3,,,,,,,
+522,2010-09-04,Washington Redskins,"2011 7th round pick (224th overall, Markus White)",W/WhitMa01,224,0.1,0.1,0.1,,2,,,,,
+523,2010-09-04,Kansas City Chiefs,"2012 7th round pick (238th overall, Junior Hemingway)",H/HemiJu00,238,0.1,0.1,0.1,,1,0,0,0,0,0
+526,2010-09-04,Baltimore Ravens,"2011 7th round pick (225th overall, Anthony Allen)",A/AlleAn01,225,0.1,0.1,0.1,,5,,,,,
+527,2010-09-04,New England Patriots,"2012 7th round pick (223rd overall subsequently traded, Travis Lewis)",,223,0.2,0.9,0.2,0.9,,,,,,
+527,2010-09-04,Philadelphia Eagles,"2012 6th round pick (200th overall, Brandon Washington)",W/WashBr00,200,0.9,0.9,0.9,0.2,1,17,0,0.321,0,0.321
+528,2010-09-03,Arizona Cardinals,"2011 6th round pick (184th overall, David Carter)",C/CartDa01,184,1.4,1.4,1.4,,16,,,,,
+529,2010-09-01,Seattle Seahawks,"2011 5th round pick (157th overall subsequently traded, Doug Hogue)",,157,2.4,2.4,2.4,,,,,,,
+534,2010-08-23,Atlanta Falcons,"2011 7th round pick (230th overall, Cliff Matthews)",M/MattCl01,230,0.1,0.1,0.1,,10,0,80,0,0.127,0.127
+535,2010-08-18,Seattle Seahawks,"2011 6th round pick (173rd overall, Byron Maxwell)",M/MaxwBy00,173,1.8,1.8,1.8,,9,,,,,
+536,2010-08-17,San Francisco 49ers,"2011 6th round pick (190th overall, Colin Jones)",J/JoneCo01,190,1.2,1.2,1.2,,13,,,,,
+538,2010-07-31,Philadelphia Eagles,"2012 6th round pick (194th overall, Marvin McNutt) (conditional pick for Arrington not making roster) ",M/McNuMa00,194,1.1,1.1,1.1,,4,14,0,0.051,0,0.051
+539,2010-06-21,New Orleans Saints,"2011 3rd round pick (72nd overall, Martez Wilson)",W/WilsMa01,72,7.4,7.4,7.4,2.5,13,,,,,
+539,2010-06-21,Washington Redskins,"2011 5th round pick (155th overall, Niles Paul)",P/PaulNi00,155,2.5,7.4,2.5,7.4,13,,,,,
+541,2010-05-25,Miami Dolphins,"2011 7th round pick (218th overall subsequently traded, Ryan Taylor)",,218,0.3,0.3,0.3,,,,,,,
+545,2010-04-24,Seattle Seahawks,"2010 6th round pick (185th overall, Anthony McCoy)",M/McCoAn00,185,1.4,1.6,6,6.7,2,,,,,
+545,2010-04-24,Seattle Seahawks,"2010 4th round pick (111th overall, Walter Thurmond)",T/ThurWa99,111,4.6,5.1,6,6.7,14,,,,,
+545,2010-04-24,Tennessee Titans,"2010 6th round pick (176th overall, Rusty Smith)",S/SmitRu01,176,1.7,1.7,6.7,6,2,,,,,
+545,2010-04-24,Tennessee Titans,"2010 4th round pick (104th overall, Alterraun Verner)",V/VernAl99,104,5,5,6.7,6,16,,,,,
+546,2010-04-24,Dallas Cowboys,"2010 6th round pick (179th overall, Sam Young)",Y/YounSa21,179,1.6,1.6,5.4,4.2,2,,,,,
+546,2010-04-24,Dallas Cowboys,"2010 4th round pick (126th overall, Akwasi Owusu-Ansah)",O/OwusAk99,126,3.8,3.8,5.4,4.2,7,,,,,
+546,2010-04-24,Miami Dolphins,"2010 4th round pick (119th overall, A.J. Edds)",E/EddsA.99,119,4.2,5.4,4.2,5.4,,,,,,
+547,2010-04-24,New York Jets,"2010 5th round pick (139th overall, John Conner)",C/ConnJo00,139,3.2,3.2,3.2,0.1,16,,,,,
+547,2010-04-24,Seattle Seahawks,"2010 7th round pick (236th overall, Dexter Davis)",D/DaviDe99,236,0.1,3.2,0.1,3.2,15,,,,,
+548,2010-04-24,Washington Redskins,"2012 4th round pick (109th overall subsequently traded, Alameda Ta'amu)",,109,4.7,4.7,4.7,,,,,,,
+549,2010-04-24,New England Patriots,"2010 7th round pick (208th overall, Thomas Welch)",W/WelcTh20,208,0.6,0.6,0.6,0.2,3,,,,,
+549,2010-04-24,Washington Redskins,"2010 7th round pick (229th overall, Erik Cook)",C/CookEr00,229,0.1,0.3,0.2,0.6,,,,,,
+549,2010-04-24,Washington Redskins,"2010 7th round pick (231st overall, Selvish Capers)",C/CapeSe20,231,0.1,0.3,0.2,0.6,3,8,0,0.044,0,0.044
+550,2010-04-24,Jacksonville Jaguars,"2010 5th round pick (153rd overall, Austen Lane)",L/LaneAu99,153,2.6,4.8,2.6,4.8,11,,,,,
+550,2010-04-24,Oakland Raiders,"2010 4th round pick (108th overall, Jacoby Ford)",F/FordJa01,108,4.8,4.8,4.8,2.6,16,,,,,
+551,2010-04-24,Arizona Cardinals,"2010 6th round pick (201st overall, Jorrick Calvin)",C/CalvJo99,201,0.8,0.8,4.4,4,,,,,,
+551,2010-04-24,Arizona Cardinals,"2010 4th round pick (130th overall, O'Brien Schofield)",S/SchoOB99,130,3.6,3.6,4.4,4,10,,,,,
+551,2010-04-24,New Orleans Saints,"2010 4th round pick (123rd overall, Al Woods)",W/WoodAl99,123,4,4.4,4,4.4,9,,,,,
+552,2010-04-24,Philadelphia Eagles,"2010 5th round pick (159th overall, Riley Cooper)",C/CoopRi00,159,2.3,2.3,5,2.9,13,,,,,
+552,2010-04-24,Philadelphia Eagles,"2011 5th round pick (149th overall, Dion Lewis)",L/LewiDi00,149,2.7,2.7,5,2.9,15,,,,,
+552,2010-04-24,San Diego Chargers,"2010 5th round pick (146th overall, Cam Thomas)",T/ThomCa99,146,2.9,5,2.9,5,6,,,,,
+553,2010-04-24,Jacksonville Jaguars,"2011 4th round pick (121st overall, Chris Prosinski)",P/ProsCh00,121,4.1,4.1,4.1,2.4,13,,,,,
+553,2010-04-24,New Orleans Saints,"2010 5th round pick (158th overall, Matt Tennant)",T/TennMa20,158,2.4,4.1,2.4,4.1,16,,,,,
+554,2010-04-24,Detroit Lions,"2011 6th round pick (186th overall subsequently traded, D.J. Smith)",,186,1.3,1.3,1.3,0.3,,,,,,
+554,2010-04-24,Philadelphia Eagles,"2010 7th round pick (220th overall, Jamar Chaney)",C/ChanJa98,220,0.3,1.3,0.3,1.3,14,,,,,
+555,2010-04-24,Carolina Panthers,"2010 6th round pick (198th overall, David Gettis)",G/GettDa00,198,0.9,0.9,4.8,4.6,15,,,,,
+555,2010-04-24,Carolina Panthers,"2010 4th round pick (124th overall, Eric Norwood)",N/NorwEr99,124,3.9,3.9,4.8,4.6,,,,,,
+555,2010-04-24,New York Jets,"2010 4th round pick (112th overall, Joe McKnight)",M/McKnJo00,112,4.6,4.8,4.6,4.8,9,,,,,
+556,2010-04-24,Atlanta Falcons,"2010 5th round pick (135th overall, Dominique Franks)",F/FranDo99,135,3.4,3.9,3.4,3.9,2,,,,,
+556,2010-04-24,St. Louis Rams,"2010 6th round pick (189th overall, Eugene Sims)",S/SimsEu99,189,1.2,1.2,3.9,3.4,9,,,,,
+556,2010-04-24,St. Louis Rams,"2010 5th round pick (149th overall, Hall Davis)",D/DaviHa21,149,2.7,2.7,3.9,3.4,2,0,22,0,0.158,0.158
+557,2010-04-24,Arizona Cardinals,"2010 5th round pick (155th overall, John Skelton)",S/SkelJo00,155,2.5,2.5,2.5,1,5,,,,,
+557,2010-04-24,Pittsburgh Steelers,"2010 6th round pick (195th overall, Antonio Brown)",B/BrowAn04,195,1,2.5,1,2.5,9,,,,,
+558,2010-04-24,Miami Dolphins,"2010 5th round pick (163rd overall, Reshad Jones)",J/JoneRe99,163,2.2,2.2,2.2,2,13,,,,,
+558,2010-04-24,Washington Redskins,"2010 6th round pick (174th overall, Dennis Morris)",,174,1.7,1.9,2,2.2,,,,,,
+558,2010-04-24,Washington Redskins,"2010 7th round pick (219th overall, Terrence Austin)",A/AustTe00,219,0.3,0.3,2,2.2,,,,,,
+559,2010-04-24,Denver Broncos,"2010 7th round pick (232nd overall, Jammie Kirlew)",K/KirlJa99,232,0.1,1.7,0.2,3.4,,,,,,
+559,2010-04-24,Denver Broncos,"2010 7th round pick (225th overall, Syd'Quan Thompson)",T/ThomSy99,225,0.1,1.7,0.2,3.4,,,,,,
+559,2010-04-24,Tampa Bay Buccaneers,"2011 5th round pick (135th overall subsequently traded, Ricky Stanzi)",,135,3.4,3.4,3.4,0.2,,,,,,
+560,2010-04-23,Houston Texans,"2010 2nd round pick (58th overall, Ben Tate)",T/TateBe00,58,8.7,11,8.7,11,15,,,,,
+560,2010-04-23,New England Patriots,"2010 5th round pick (150th overall, Zoltan Mesko)",M/MeskZo99,150,2.7,2.7,11,8.7,16,,,,,
+560,2010-04-23,New England Patriots,"2010 2nd round pick (62nd overall, Brandon Spikes)",S/SpikBr99,62,8.3,8.3,11,8.7,12,,,,,
+561,2010-04-23,San Diego Chargers,"2010 3rd round pick (79th overall, Donald Butler)",B/ButlDo99,79,6.8,12.1,6.8,12.1,16,,,,,
+561,2010-04-23,San Francisco 49ers,"2010 3rd round pick (91st overall, NaVorro Bowman)",B/BowmNa99,91,5.9,5.9,12.1,6.8,16,,,,,
+561,2010-04-23,San Francisco 49ers,"2011 4th round pick (115th overall, Kendall Hunter)",H/HuntKe00,115,4.4,4.4,12.1,6.8,16,,,,,
+561,2010-04-23,San Francisco 49ers,"2010 6th round pick (173rd overall, Anthony Dixon)",D/DixoAn00,173,1.8,1.8,12.1,6.8,16,,,,,
+562,2010-04-23,Houston Texans,"2010 2nd round pick (62nd overall subsequently traded, Brandon Spikes)",,62,8.3,8.3,14,9.6,,,,,,
+562,2010-04-23,Houston Texans,"2010 3rd round pick (93rd overall subsequently traded, Tony Moeaki)",,93,5.7,5.7,14,9.6,,,,,,
+562,2010-04-23,Minnesota Vikings,"2010 2nd round pick (51st overall, Toby Gerhart)",G/GerhTo00,51,9.6,14,9.6,14,15,,,,,
+563,2010-04-23,Cleveland Browns,"2010 2nd round pick (59th overall, Montario Hardesty)",H/HardMo00,59,8.6,13.8,8.6,13.8,10,,,,,
+563,2010-04-23,Philadelphia Eagles,"2010 5th round pick (134th overall, Ricky Sapp)",S/SappRi99,134,3.4,3.4,13.8,8.6,4,0,44,0,0.165,0.165
+563,2010-04-23,Philadelphia Eagles,"2010 5th round pick (146th overall subsequently traded, Cam Thomas)",,146,2.9,2.9,13.8,8.6,,,,,,
+563,2010-04-23,Philadelphia Eagles,"2010 3rd round pick (71st overall subsequently traded, Morgan Burnett)",,71,7.5,7.5,13.8,8.6,,,,,,
+564,2010-04-23,Carolina Panthers,"2010 3rd round pick (89th overall, Armanti Edwards)",E/EdwaAr00,89,6,12.3,6,12.3,3,,,,,
+564,2010-04-23,New England Patriots,"2011 2nd round pick (33rd overall, Ras-I Dowling)",D/DowlRa00,33,12.3,12.3,12.3,6,2,,,,,
+565,2010-04-23,New England Patriots,"2010 2nd round pick (42nd overall, Rob Gronkowski)",G/GronRo00,42,10.8,11.7,10.8,11.7,16,,,,,
+565,2010-04-23,Oakland Raiders,"2010 2nd round pick (44th overall, Lamarr Houston)",H/HousLa99,44,10.5,10.5,11.7,10.8,16,,,,,
+565,2010-04-23,Oakland Raiders,"2010 6th round pick (190th overall, Travis Goethel)",G/GoetTr99,190,1.2,1.2,11.7,10.8,8,,,,,
+566,2010-04-23,Dallas Cowboys,"2010 2nd round pick (55th overall, Sean Lee)",L/LeexSe99,55,9.1,12.5,9.1,12.5,14,,,,,
+566,2010-04-23,Philadelphia Eagles,"2010 4th round pick (125th overall, Clay Harbor)",H/HarbCl00,125,3.9,3.9,12.5,9.1,9,,,,,
+566,2010-04-23,Philadelphia Eagles,"2010 2nd round pick (59th overall subsequently traded, Montario Hardesty)",,59,8.6,8.6,12.5,9.1,,,,,,
+567,2010-04-23,Green Bay Packers,"2010 3rd round pick (71st overall, Morgan Burnett)",B/BurnMo99,71,7.5,10.2,7.5,10.2,4,,,,,
+567,2010-04-23,Philadelphia Eagles,"2010 4th round pick (122nd overall, Mike Kafka)",K/KafkMi00,122,4,4,10.2,7.5,4,,,,,
+567,2010-04-23,Philadelphia Eagles,"2010 3rd round pick (86th overall, Daniel Te'o-Nesheim)",T/Teo-Da99,86,6.2,6.2,10.2,7.5,6,,,,,
+568,2010-04-23,Houston Texans,"2010 4th round pick (102nd overall, Darryl Sharpton)",S/SharDa01,102,5.1,5.1,8.1,5.7,12,,,,,
+568,2010-04-23,Houston Texans,"2010 5th round pick (144th overall, Sherrick McManis)",M/McMaSh99,144,3,3,8.1,5.7,14,,,,,
+568,2010-04-23,Kansas City Chiefs,"2010 3rd round pick (93rd overall, Tony Moeaki)",M/MoeaTo00,93,5.7,8.1,5.7,8.1,15,,,,,
+569,2010-04-23,Arizona Cardinals,"2010 2nd round pick (47th overall, Daryl Washington)",W/WashDa99,47,10.1,14.7,10.1,14.7,16,,,,,
+569,2010-04-23,New England Patriots,"2010 3rd round pick (89th overall subsequently traded, Armanti Edwards)",,89,6,6,14.7,10.1,,,,,,
+569,2010-04-23,New England Patriots,"2010 2nd round pick (58th overall subsequently traded, Ben Tate)",,58,8.7,8.7,14.7,10.1,,,,,,
+570,2010-04-22,Denver Broncos,"2010 4th round pick (113th overall subsequently traded, Aaron Hernandez)",,113,4.5,4.5,22.8,19.3,,,,,,
+570,2010-04-22,Denver Broncos,"2010 1st round pick (13th overall subsequently traded, Brandon Graham)",,13,18.3,18.3,22.8,19.3,,,,,,
+570,2010-04-22,San Francisco 49ers,"2010 1st round pick (11th overall, Anthony Davis)",D/DaviAn27,11,19.3,22.8,19.3,22.8,16,,,,,
+571,2010-04-22,Denver Broncos,"2010 1st round pick (22nd overall, Demaryius Thomas)",T/ThomDe03,22,14.9,18.9,14.9,18.9,10,,,,,
+571,2010-04-22,New England Patriots,"2010 4th round pick (113th overall, Aaron Hernandez)",H/HernAa00,113,4.5,4.5,18.9,14.9,14,,,,,
+571,2010-04-22,New England Patriots,"2010 1st round pick (24th overall subsequently traded, Dez Bryant)",,24,14.4,14.4,18.9,14.9,,,,,,
+572,2010-04-22,Oakland Raiders,"2010 2nd round pick (42nd overall subsequently traded, Rob Gronkowski)",,42,10.8,10.8,13.4,11.3,,,,,,
+572,2010-04-22,Oakland Raiders,"2010 5th round pick (153rd overall subsequently traded, Austen Lane)",,153,2.6,2.6,13.4,11.3,,,,,,
+572,2010-04-22,Tampa Bay Buccaneers,"2009 2nd round pick (39th overall subsequently traded, Eben Britton)",,39,11.3,13.4,11.3,13.4,,,,,,
+573,2010-04-22,Miami Dolphins,"2010 1st round pick (28th overall, Jared Odrick)",O/OdriJa99,28,13.4,13.4,28.3,25.3,1,,,,,
+573,2010-04-22,Miami Dolphins,"2010 2nd round pick (40th overall, Koa Misi)",M/MisiKo99,40,11.1,11.1,28.3,25.3,16,,,,,
+573,2010-04-22,Miami Dolphins,"2010 4th round pick (126th overall subsequently traded, Akwasi Owusu-Ansah)",,126,3.8,3.8,28.3,25.3,,,,,,
+573,2010-04-22,San Diego Chargers,"2010 1st round pick (12th overall, Ryan Mathews)",M/MathRy00,12,18.8,21,25.3,28.3,12,,,,,
+573,2010-04-22,San Diego Chargers,"2010 6th round pick (173rd overall subsequently traded, Anthony Dixon)",,173,1.8,2,25.3,28.3,,,,,,
+573,2010-04-22,San Diego Chargers,"2010 4th round pick (110th overall, Darrell Stuckey)",S/StucDa20,110,4.7,5.3,25.3,28.3,1,,,,,
+574,2010-04-22,Baltimore Ravens,"2010 4th round pick (114th overall, Dennis Pitta)",P/PittDe00,114,4.4,4.4,22.5,14.1,11,,,,,
+574,2010-04-22,Baltimore Ravens,"2010 2nd round pick (43rd overall, Sergio Kindle)",K/KindSe99,43,10.6,10.6,22.5,14.1,2,,,,,
+574,2010-04-22,Baltimore Ravens,"2010 3rd round pick (70th overall, Ed Dickson)",D/DickEd00,70,7.5,7.5,22.5,14.1,15,,,,,
+574,2010-04-22,Denver Broncos,"2010 1st round pick (25th overall, Tim Tebow)",T/TeboTi00,25,14.1,22.5,14.1,22.5,9,,,,,
+575,2010-04-22,Jacksonville Jaguars,"2010 5th round pick (158th overall subsequently traded, Matt Tennant)",,158,2.4,2.4,2.4,,,,,,,
+576,2010-04-22,Denver Broncos,"2010 3rd round pick (87th overall, Eric Decker)",D/DeckEr00,87,6.2,6.2,28.1,18.3,14,,,,,
+576,2010-04-22,Denver Broncos,"2010 3rd round pick (70th overall subsequently traded, Ed Dickson)",,70,7.5,7.5,28.1,18.3,,,,,,
+576,2010-04-22,Denver Broncos,"2010 1st round pick (24th overall subsequently traded, Dez Bryant)",,24,14.4,14.4,28.1,18.3,,,,,,
+576,2010-04-22,Philadelphia Eagles,"2010 1st round pick (13th overall, Brandon Graham)",G/GrahBr99,13,18.3,28.1,18.3,28.1,13,,,,,
+577,2010-04-22,Detroit Lions,"2010 1st round pick (30th overall, Jahvid Best)",B/BestJa00,30,12.9,13.8,16.6,17.8,16,,,,,
+577,2010-04-22,Detroit Lions,"2010 4th round pick (128th overall, Jason Fox)",F/FoxxJa20,128,3.7,4,16.6,17.8,4,,,,,
+577,2010-04-22,Minnesota Vikings,"2010 2nd round pick (34th overall, Chris Cook)",C/CookCh99,34,12.1,12.1,17.8,16.6,6,,,,,
+577,2010-04-22,Minnesota Vikings,"2010 4th round pick (100th overall, Everson Griffen)",G/GrifEv99,100,5.3,5.3,17.8,16.6,11,,,,,
+577,2010-04-22,Minnesota Vikings,"2010 7th round pick (214th overall, Mickey Shuler)",S/ShulMi01,214,0.4,0.4,17.8,16.6,6,,,,,
+578,2010-04-21,Tampa Bay Buccaneers,"2010 7th round pick (225th overall subsequently traded, Syd'Quan Thompson)",,225,0.1,0.1,0.1,,,,,,,
+579,2010-04-21,St. Louis Rams,"2010 5th round pick (135th overall subsequently traded, Dominique Franks)",,135,3.4,3.4,3.9,2.8,,,,,,
+579,2010-04-21,St. Louis Rams,"2010 7th round pick (211th overall, Marquis Johnson)",J/JohnMa99,211,0.5,0.5,3.9,2.8,,,,,,
+579,2010-04-21,Washington Redskins,"2010 7th round pick (208th overall subsequently traded, Thomas Welch)",,208,0.6,0.8,2.8,3.9,,,,,,
+579,2010-04-21,Washington Redskins,"2010 5th round pick (163rd overall subsequently traded, Reshad Jones)",,163,2.2,3.1,2.8,3.9,,,,,,
+580,2010-04-19,Detroit Lions,"2010 5th round pick (137th overall, Perrish Cox)",C/CoxxPe99,137,3.3,3.3,3.3,,15,,,,,
+581,2010-04-16,Miami Dolphins,"2010 5th round pick (145th overall, Nolan Carroll)",C/CarrNo00,145,2.9,2.9,2.9,,13,,,,,
+582,2010-04-14,Denver Broncos,"2010 2nd round pick (43rd overall subsequently traded, Sergio Kindle)",,43,10.6,10.6,20.8,,,,,,,
+582,2010-04-14,Denver Broncos,"2011 2nd round pick (46th overall, Orlando Franklin)",F/FranOr00,46,10.2,10.2,20.8,,16,,,,,
+583,2010-04-12,Pittsburgh Steelers,"2010 5th round pick (155th overall subsequently traded, John Skelton)",,155,2.5,2.5,2.5,,,,,,,
+584,2010-04-05,Philadelphia Eagles,"2010 2nd round pick (37th overall, Nate Allen)",A/AlleNa99,37,11.6,11.6,16.6,,13,,,,,
+584,2010-04-05,Philadelphia Eagles,"2010 4th round pick (104th overall subsequently traded, Alterraun Verner)",,104,5,5,16.6,,,,,,,
+585,2010-04-05,Detroit Lions,"2010 7th round pick (213th overall, Willie Young)",Y/YounWi99,213,0.5,3.5,0.5,3.5,2,,,,,
+585,2010-04-05,Seattle Seahawks,"2010 5th round pick (133rd overall, Kam Chancellor)",C/ChanKa99,133,3.5,3.5,3.5,0.5,16,,,,,
+586,2010-04-02,Philadelphia Eagles,"2010 5th round pick (137th overall subsequently traded, Perrish Cox)",,137,3.3,3.3,8.3,,,,,,,
+586,2010-04-02,Philadelphia Eagles,"2010 4th round pick (105th overall, Trevard Lindley)",L/LindTr99,105,5,5,8.3,,,,,,,
+587,2010-03-18,San Diego Chargers,"2011 3rd round pick (89th overall, Shareece Wright)",W/WrigSh00,89,6,6,17.1,8.5,7,,,,,
+587,2010-03-18,San Diego Chargers,"2010 2nd round pick (40th overall subsequently traded, Koa Misi)",,40,11.1,11.1,17.1,8.5,,,,,,
+587,2010-03-18,Seattle Seahawks,"2010 2nd round pick (60th overall, Golden Tate)",T/TateGo00,60,8.5,17.1,8.5,17.1,11,,,,,
+588,2010-03-17,Seattle Seahawks,"2010 4th round pick (127th overall, E.J. Wilson)",W/WilsE.99,127,3.8,3.8,3.8,,,,,,,
+590,2010-03-15,Cleveland Browns,"2011 6th round pick (168th overall subsequently traded, Demarcus Love)",,168,2,2,4.3,,,,,,,
+590,2010-03-15,Cleveland Browns,"2012 5th round pick (160th overall, Ryan Miller)",M/MillRy00,160,2.3,2.3,4.3,,8,11,0,0.021,0,0.021
+591,2010-03-15,Cleveland Browns,"2010 3rd round pick (85th overall, Colt McCoy)",M/McCoCo00,85,6.3,6.3,6.3,,8,,,,,
+592,2010-03-09,Philadelphia Eagles,"2011 6th round pick (184th overall subsequently traded, David Carter)",,184,1.4,1.4,1.4,,,,,,,
+593,2010-03-09,Seattle Seahawks,"2011 7th round pick (209th overall subsequently traded, Johnny Culbreath)",,209,0.6,0.6,0.6,,,,,,,
+594,2010-03-08,New York Jets,"2010 4th round pick (124th overall subsequently traded, Eric Norwood)",,124,3.9,3.9,3.9,,,,,,,
+595,2010-03-08,Atlanta Falcons,"2011 7th round pick (210th overall, Andrew Jackson)",J/JackAn00,210,0.6,0.6,2.5,2.7,,,,,,
+595,2010-03-08,Atlanta Falcons,"2010 6th round pick (171st overall, Shann Schillinger)",S/SchiSh99,171,1.9,2.1,2.5,2.7,15,,,,,
+595,2010-03-08,Detroit Lions,"2010 5th round pick (149th overall subsequently traded, Hall Davis)",,149,2.7,2.7,2.7,2.5,,,,,,
+596,2010-03-06,Arizona Cardinals,"2010 4th round pick (123rd overall subsequently traded, Al Woods)",,123,4,4,10.1,2.4,,,,,,
+596,2010-03-06,Arizona Cardinals,"2010 3rd round pick (88th overall, Andre Roberts)",R/RobeAn00,88,6.1,6.1,10.1,2.4,15,,,,,
+596,2010-03-06,Baltimore Ravens,"2010 5th round pick (157th overall, Arthur Jones)",J/JoneAr22,157,2.4,10.1,2.4,10.1,2,,,,,
+597,2010-03-05,Cleveland Browns,"2010 7th round pick (214th overall subsequently traded, Mickey Shuler)",,214,0.4,0.4,3.3,,,,,,,
+597,2010-03-05,Cleveland Browns,"2010 5th round pick (146th overall subsequently traded, Cam Thomas)",,146,2.9,2.9,3.3,,,,,,,
