@@ -9,6 +9,7 @@ AJ McCarron,HOU,QB,2019-05-21,55.7,3.8,47.6,7.8
 AJ McCarron,HOU,QB,2019-05-28,55.7,3.8,47.6,7.8
 AJ McCarron,HOU,QB,2019-06-04,54.7,6.6,49,3.2
 AJ McCarron,HOU,QB,2019-06-11,54.7,6.6,45.8,7.4
+AJ McCarron,HOU,QB,2019-06-18,57,3.8,47.6,7.5
 AJ McCarron,OAK,QB,2019-01-22,48,0,47,3
 AJ McCarron,OAK,QB,2019-01-29,48,0,47,3
 AJ McCarron,OAK,QB,2019-02-05,52,4.5,47,3
@@ -38,6 +39,7 @@ Aaron Rodgers,GB,QB,2019-05-21,5.5,1.6,3,1
 Aaron Rodgers,GB,QB,2019-05-28,5.5,1.6,3,0.9
 Aaron Rodgers,GB,QB,2019-06-04,5.7,1.3,3.2,1.1
 Aaron Rodgers,GB,QB,2019-06-11,5.7,1.4,3.3,1.1
+Aaron Rodgers,GB,QB,2019-06-18,5.5,1.6,3.2,1
 Alex Smith,WAS,QB,2019-01-22,31.2,1.6,31.9,0.6
 Alex Smith,WAS,QB,2019-01-29,31.3,1.6,32.1,1.1
 Alex Smith,WAS,QB,2019-02-05,32.4,1.7,32.1,1.1
@@ -72,6 +74,7 @@ Andrew Luck,IND,QB,2019-05-21,3.1,0.8,2.5,1.1
 Andrew Luck,IND,QB,2019-05-28,3.2,0.8,2.6,1.2
 Andrew Luck,IND,QB,2019-06-04,3.1,0.8,2.7,1.1
 Andrew Luck,IND,QB,2019-06-11,3,0.8,2.6,1
+Andrew Luck,IND,QB,2019-06-18,3,0.8,2.7,1
 Andy Dalton,CIN,QB,2019-01-22,27.3,1.2,25,0.9
 Andy Dalton,CIN,QB,2019-01-29,27.3,1.2,24.7,1.1
 Andy Dalton,CIN,QB,2019-02-05,26.5,0.5,24.8,1
@@ -93,6 +96,7 @@ Andy Dalton,CIN,QB,2019-05-21,29.6,3.1,25.8,2.2
 Andy Dalton,CIN,QB,2019-05-28,29.8,3.1,25.7,2.1
 Andy Dalton,CIN,QB,2019-06-04,29.4,3.1,25.2,2
 Andy Dalton,CIN,QB,2019-06-11,29.4,3.1,25.1,2.1
+Andy Dalton,CIN,QB,2019-06-18,28.9,1.9,25.1,2.4
 Baker Mayfield,CLE,QB,2019-01-22,7.5,1.5,12.3,0.8
 Baker Mayfield,CLE,QB,2019-01-29,7,2,12.4,1
 Baker Mayfield,CLE,QB,2019-02-05,6.1,1.4,12.1,1.2
@@ -114,6 +118,7 @@ Baker Mayfield,CLE,QB,2019-05-21,2.9,1.2,6,2.3
 Baker Mayfield,CLE,QB,2019-05-28,3,1.2,6.1,2.2
 Baker Mayfield,CLE,QB,2019-06-04,2.9,1,6,2
 Baker Mayfield,CLE,QB,2019-06-11,2.9,1,6.2,2.3
+Baker Mayfield,CLE,QB,2019-06-18,3,1,6.5,2.8
 Ben Roethlisberger,PIT,QB,2019-01-22,21.5,1.7,10.9,0.6
 Ben Roethlisberger,PIT,QB,2019-01-29,21.2,2.1,10.8,0.6
 Ben Roethlisberger,PIT,QB,2019-02-05,20.9,1.3,10.5,1.5
@@ -135,6 +140,7 @@ Ben Roethlisberger,PIT,QB,2019-05-21,21.6,3.4,13.3,3.1
 Ben Roethlisberger,PIT,QB,2019-05-28,21.9,3.4,13.5,3.2
 Ben Roethlisberger,PIT,QB,2019-06-04,21.4,4,14.3,3.4
 Ben Roethlisberger,PIT,QB,2019-06-11,21.6,4,14.4,3.4
+Ben Roethlisberger,PIT,QB,2019-06-18,21.4,3,14.4,3.1
 Blaine Gabbert,FA,QB,2019-03-19,49.3,6.5,49.3,3.9
 Blaine Gabbert,FA,QB,2019-03-26,53.5,3.5,49.3,3.9
 Blaine Gabbert,TB,QB,2019-04-02,53.5,3.5,49.3,3.9
@@ -143,6 +149,7 @@ Blaine Gabbert,TB,QB,2019-05-07,53,5.7,47.5,1.5
 Blaine Gabbert,TB,QB,2019-05-14,53,5.7,47.5,1.5
 Blaine Gabbert,TB,QB,2019-05-21,53,5.7,46,2.4
 Blaine Gabbert,TB,QB,2019-05-28,53,5.7,46,2.4
+Blaine Gabbert,TB,QB,2019-06-18,58,1,53.5,7.5
 Blaine Gabbert,TEN,QB,2019-02-05,55.5,1.5,49.5,5.5
 Blaine Gabbert,TEN,QB,2019-02-12,59,2,49,4.5
 Blaine Gabbert,TEN,QB,2019-02-19,53,8.6,49,4.5
@@ -170,8 +177,11 @@ Blake Bortles,LAR,QB,2019-05-21,39.2,4.3,37.4,4
 Blake Bortles,LAR,QB,2019-05-28,39,4.6,37.3,4.2
 Blake Bortles,LAR,QB,2019-06-04,38.7,4.4,38.5,5.3
 Blake Bortles,LAR,QB,2019-06-11,37.9,4.1,39.4,5.2
+Blake Bortles,LAR,QB,2019-06-18,38.8,4.3,39.2,5
 Brett Hundley,ARI,QB,2019-05-21,58,3.3,49.7,13.1
 Brett Hundley,ARI,QB,2019-05-28,58,3.3,49.7,13.1
+Brett Hundley,ARI,QB,2019-06-18,61,3,50.7,9.2
+Brian Hoyer,NE,QB,2019-06-18,62,1,58,0.8
 Brock Osweiler,FA,QB,2019-03-19,46,2.2,48,2.9
 Brock Osweiler,FA,QB,2019-03-26,47.5,0.5,48,2.9
 Brock Osweiler,FA,QB,2019-04-02,47.5,0.5,48,2.9
@@ -201,6 +211,7 @@ CJ Beathard,SF,QB,2019-05-21,51.7,3.5,51.7,9.5
 CJ Beathard,SF,QB,2019-05-28,52.1,3.8,51.7,9.5
 CJ Beathard,SF,QB,2019-06-04,50,1.1,58,4
 CJ Beathard,SF,QB,2019-06-11,49,1.8,50.7,11.7
+CJ Beathard,SF,QB,2019-06-18,52.3,3,47,10.1
 Cam Newton,CAR,QB,2019-01-22,8.5,1,6.9,1.5
 Cam Newton,CAR,QB,2019-01-29,8.7,1.2,7.4,2.3
 Cam Newton,CAR,QB,2019-02-05,8.8,1.1,8,3.1
@@ -222,6 +233,7 @@ Cam Newton,CAR,QB,2019-05-21,9.5,1.8,9.3,3
 Cam Newton,CAR,QB,2019-05-28,9.7,1.8,9.6,3
 Cam Newton,CAR,QB,2019-06-04,9.8,1.8,9.1,3
 Cam Newton,CAR,QB,2019-06-11,9.6,1.1,9.6,3.5
+Cam Newton,CAR,QB,2019-06-18,9.4,1,9.5,3.2
 Carson Wentz,PHI,QB,2019-01-22,7.5,1.3,15,2.6
 Carson Wentz,PHI,QB,2019-01-29,7.5,1.3,14.6,3
 Carson Wentz,PHI,QB,2019-02-05,7.1,1.5,14.8,2.7
@@ -243,6 +255,7 @@ Carson Wentz,PHI,QB,2019-05-21,7.2,1.1,12.2,3
 Carson Wentz,PHI,QB,2019-05-28,7.2,1,11.8,3
 Carson Wentz,PHI,QB,2019-06-04,7.5,1.1,11.4,3
 Carson Wentz,PHI,QB,2019-06-11,7.7,1,10.6,2.8
+Carson Wentz,PHI,QB,2019-06-18,7.7,1.1,10.3,3.1
 Case Keenum,DEN,QB,2019-01-22,32.5,1.9,29,0.5
 Case Keenum,DEN,QB,2019-01-29,32.5,1.9,29.1,0.5
 Case Keenum,DEN,QB,2019-02-05,33.3,2.3,29.1,0.5
@@ -264,7 +277,9 @@ Case Keenum,WAS,QB,2019-05-21,36.9,3.5,32.9,1.9
 Case Keenum,WAS,QB,2019-05-28,37.1,3.5,33,1.9
 Case Keenum,WAS,QB,2019-06-04,36.9,3.6,33.9,5
 Case Keenum,WAS,QB,2019-06-11,36.6,3.8,34.2,5.1
+Case Keenum,WAS,QB,2019-06-18,36.7,3,34.4,4.8
 Chase Daniel,CHI,QB,2019-06-04,54,6,43.7,4
+Chase Daniel,CHI,QB,2019-06-18,54,6,43.8,3.6
 Cody Kessler,FA,QB,2019-05-14,55.4,7.7,51.5,0.5
 Cody Kessler,JAC,QB,2019-01-22,48,1,49,9.3
 Cody Kessler,JAC,QB,2019-01-29,48,1,49,9.3
@@ -282,6 +297,7 @@ Cody Kessler,PHI,QB,2019-05-21,55.4,7.7,51.5,0.5
 Cody Kessler,PHI,QB,2019-05-28,56.7,7.7,51.5,0.5
 Cody Kessler,PHI,QB,2019-06-04,53.3,7.8,54.5,3.5
 Cody Kessler,PHI,QB,2019-06-11,53.3,7.8,61.3,10.1
+Cody Kessler,PHI,QB,2019-06-18,53.8,6.2,59.3,9.4
 Colt McCoy,WAS,QB,2019-01-22,46,0,51.5,8.5
 Colt McCoy,WAS,QB,2019-01-29,46,0,51.5,8.5
 Colt McCoy,WAS,QB,2019-02-05,44,2.8,51.5,8.5
@@ -303,6 +319,7 @@ Colt McCoy,WAS,QB,2019-05-21,50.3,7.6,47,8.7
 Colt McCoy,WAS,QB,2019-05-28,51.1,7.7,47,8.7
 Colt McCoy,WAS,QB,2019-06-04,50.3,8.8,49,10.8
 Colt McCoy,WAS,QB,2019-06-11,50,9.6,51,8.8
+Colt McCoy,WAS,QB,2019-06-18,51,8.3,49.4,8.5
 Dak Prescott,DAL,QB,2019-01-22,17.3,1.5,16,2.7
 Dak Prescott,DAL,QB,2019-01-29,17.3,1.5,16.6,2.7
 Dak Prescott,DAL,QB,2019-02-05,16.8,1.6,17,2.6
@@ -324,12 +341,14 @@ Dak Prescott,DAL,QB,2019-05-21,13.6,2.5,16.4,3.1
 Dak Prescott,DAL,QB,2019-05-28,13.8,2.6,15.6,3.1
 Dak Prescott,DAL,QB,2019-06-04,12.9,2.4,15.5,3.1
 Dak Prescott,DAL,QB,2019-06-11,13.1,2.7,14.8,2.9
+Dak Prescott,DAL,QB,2019-06-18,13.7,2.6,14.5,2.8
 Daniel Jones,NYG,QB,2019-05-07,33.6,5.4,34.4,3.4
 Daniel Jones,NYG,QB,2019-05-14,33.6,5,36.8,2.8
 Daniel Jones,NYG,QB,2019-05-21,33.2,4.8,36.6,2.4
 Daniel Jones,NYG,QB,2019-05-28,33.3,5.1,36.5,2.3
 Daniel Jones,NYG,QB,2019-06-04,33.2,3.6,37.5,5
 Daniel Jones,NYG,QB,2019-06-11,32.6,2.6,38.2,6.5
+Daniel Jones,NYG,QB,2019-06-18,32.3,2.8,37.4,5.9
 Davis Webb,NYJ,QB,2019-02-19,52,2,60.7,1.2
 Davis Webb,NYJ,QB,2019-02-26,52,2,60.3,1.2
 Davis Webb,NYJ,QB,2019-03-05,52,2,60.3,1.2
@@ -361,6 +380,7 @@ DeShone Kizer,GB,QB,2019-05-21,51.8,5.3,43.4,4.7
 DeShone Kizer,GB,QB,2019-05-28,52.7,5.5,43.4,4.7
 DeShone Kizer,GB,QB,2019-06-04,49.7,0.9,47.2,3.2
 DeShone Kizer,GB,QB,2019-06-11,49.6,1,45.3,6.2
+DeShone Kizer,GB,QB,2019-06-18,51.3,3.1,45.3,5.6
 Derek Carr,OAK,QB,2019-01-22,26.2,0.7,25.8,1.2
 Derek Carr,OAK,QB,2019-01-29,26.2,0.7,25.9,1.1
 Derek Carr,OAK,QB,2019-02-05,26.3,0.7,25.9,1
@@ -382,6 +402,7 @@ Derek Carr,OAK,QB,2019-05-21,25.6,2,23.8,2.3
 Derek Carr,OAK,QB,2019-05-28,25.4,2,23.8,2.3
 Derek Carr,OAK,QB,2019-06-04,25.6,1.9,24.4,1.9
 Derek Carr,OAK,QB,2019-06-11,26.3,1.7,24.4,1.8
+Derek Carr,OAK,QB,2019-06-18,25.8,1.9,24.3,1.6
 Deshaun Watson,HOU,QB,2019-01-22,3.8,0.9,4.2,0.8
 Deshaun Watson,HOU,QB,2019-01-29,3.8,0.9,4.4,1
 Deshaun Watson,HOU,QB,2019-02-05,3.5,0.9,4.3,0.9
@@ -403,6 +424,7 @@ Deshaun Watson,HOU,QB,2019-05-21,3.6,0.9,3.7,1.3
 Deshaun Watson,HOU,QB,2019-05-28,3.3,0.9,3.6,1.3
 Deshaun Watson,HOU,QB,2019-06-04,3.4,0.8,3.3,1.2
 Deshaun Watson,HOU,QB,2019-06-11,3.6,0.8,3.1,1.1
+Deshaun Watson,HOU,QB,2019-06-18,3.6,0.9,3,1.1
 Drew Brees,NO,QB,2019-01-22,15.3,1.2,7,0.9
 Drew Brees,NO,QB,2019-01-29,15.3,1.2,6.9,1.4
 Drew Brees,NO,QB,2019-02-05,15.4,1,6.9,1.4
@@ -424,12 +446,14 @@ Drew Brees,NO,QB,2019-05-21,19.3,2.1,8.5,2.4
 Drew Brees,NO,QB,2019-05-28,19.3,1.8,8.5,2.5
 Drew Brees,NO,QB,2019-06-04,18.7,3.1,9.1,2.4
 Drew Brees,NO,QB,2019-06-11,18.5,3.1,9.4,2.5
+Drew Brees,NO,QB,2019-06-18,18.5,2.8,9.6,2.6
 Drew Lock,DEN,QB,2019-05-07,32.8,3.3,47,15.6
 Drew Lock,DEN,QB,2019-05-14,32.8,3.3,44.2,11.6
 Drew Lock,DEN,QB,2019-05-21,32.8,3.5,42.6,10.5
 Drew Lock,DEN,QB,2019-05-28,32.6,3.4,42.6,10.5
 Drew Lock,DEN,QB,2019-06-04,33.3,3.7,38.8,3.1
 Drew Lock,DEN,QB,2019-06-11,32.2,3.6,37.4,2.5
+Drew Lock,DEN,QB,2019-06-18,31.7,3.5,37.1,2.4
 Dwayne Haskins,FA,QB,2019-03-05,32.5,4.5,33,2
 Dwayne Haskins,FA,QB,2019-03-12,32.5,4.5,33,2
 Dwayne Haskins,FA,QB,2019-03-19,28.8,7,34.7,2.9
@@ -445,6 +469,7 @@ Dwayne Haskins,WAS,QB,2019-05-21,26.8,4.5,32.1,6.2
 Dwayne Haskins,WAS,QB,2019-05-28,26.3,4.6,32.2,6.1
 Dwayne Haskins,WAS,QB,2019-06-04,27.4,5.2,31.4,2.1
 Dwayne Haskins,WAS,QB,2019-06-11,26.8,4.4,31.2,2
+Dwayne Haskins,WAS,QB,2019-06-18,26.1,4.3,31.5,2.2
 Eli Manning,NYG,QB,2019-01-22,34.5,0.5,27.8,0.8
 Eli Manning,NYG,QB,2019-01-29,34.5,0.5,27.7,0.9
 Eli Manning,NYG,QB,2019-02-05,34.9,1.2,27.6,0.8
@@ -466,9 +491,11 @@ Eli Manning,NYG,QB,2019-05-21,38.2,3.4,30.3,1.3
 Eli Manning,NYG,QB,2019-05-28,38.3,3.6,30.3,1.3
 Eli Manning,NYG,QB,2019-06-04,37.8,3.4,30.3,1.3
 Eli Manning,NYG,QB,2019-06-11,37.9,3.5,30.3,1.3
+Eli Manning,NYG,QB,2019-06-18,38.5,3.4,30.2,1.1
 Gardner Minshew,JAC,QB,2019-05-21,43,9.2,60.5,4.5
 Gardner Minshew,JAC,QB,2019-05-28,43,9.2,60.5,4.5
 Gardner Minshew,JAC,QB,2019-06-11,48.7,7.8,51.5,6.5
+Gardner Minshew,JAC,QB,2019-06-18,47.4,7.1,59,8.9
 Geno Smith,FA,QB,2019-03-19,65,2,58.3,11.5
 Geno Smith,FA,QB,2019-03-26,65,2,58.3,11.5
 Geno Smith,FA,QB,2019-04-02,65,2,58.3,11.5
@@ -494,6 +521,7 @@ Jacoby Brissett,IND,QB,2019-05-21,47.1,3.4,42.1,6.1
 Jacoby Brissett,IND,QB,2019-05-28,47.2,3.7,41.4,6.4
 Jacoby Brissett,IND,QB,2019-06-04,45.1,2.6,41.3,5.1
 Jacoby Brissett,IND,QB,2019-06-11,46.8,1.5,41.7,7.5
+Jacoby Brissett,IND,QB,2019-06-18,47.5,2.3,43.8,8.4
 Jameis Winston,TB,QB,2019-01-22,13.7,2.4,9.6,1.7
 Jameis Winston,TB,QB,2019-01-29,13.3,2.1,9.5,1.6
 Jameis Winston,TB,QB,2019-02-05,12.6,1.7,9.3,1.5
@@ -515,6 +543,7 @@ Jameis Winston,TB,QB,2019-05-21,13.5,2.5,12.1,3.4
 Jameis Winston,TB,QB,2019-05-28,13.7,2.8,11.8,3.5
 Jameis Winston,TB,QB,2019-06-04,14.1,2.9,11.6,3.3
 Jameis Winston,TB,QB,2019-06-11,14.3,2.7,11.3,2.9
+Jameis Winston,TB,QB,2019-06-18,13.8,2.5,11.2,2.8
 Jared Goff,LAR,QB,2019-01-22,6.2,1.2,10,1.1
 Jared Goff,LAR,QB,2019-01-29,6.5,1.1,9.7,1.2
 Jared Goff,LAR,QB,2019-02-05,7.1,1.4,9.9,1.2
@@ -536,10 +565,12 @@ Jared Goff,LAR,QB,2019-05-21,8,2.4,12.2,2.1
 Jared Goff,LAR,QB,2019-05-28,8,2.1,12.2,2.3
 Jared Goff,LAR,QB,2019-06-04,8.1,2.3,12.1,2.3
 Jared Goff,LAR,QB,2019-06-11,7.7,1.8,11.8,2.8
+Jared Goff,LAR,QB,2019-06-18,7.9,2.1,11.8,3.2
 Jarrett Stidham,NE,QB,2019-05-21,40.3,4.1,70,0
 Jarrett Stidham,NE,QB,2019-05-28,40.3,4.1,70,0
 Jarrett Stidham,NE,QB,2019-06-04,40.3,4.7,61.5,8.5
 Jarrett Stidham,NE,QB,2019-06-11,39,5.1,62,9
+Jarrett Stidham,NE,QB,2019-06-18,40,4.7,64.7,8.3
 Jeff Driskel,CIN,QB,2019-01-22,43,1,55.5,1.5
 Jeff Driskel,CIN,QB,2019-01-29,43,1,55.5,1.5
 Jeff Driskel,CIN,QB,2019-02-05,43.5,1.1,55.5,1.5
@@ -559,6 +590,7 @@ Jeff Driskel,CIN,QB,2019-05-21,57.5,7.8,61.7,6.8
 Jeff Driskel,CIN,QB,2019-05-28,57.5,7.8,61.7,6.8
 Jeff Driskel,CIN,QB,2019-06-04,56.3,9.2,64,6.7
 Jeff Driskel,CIN,QB,2019-06-11,58.7,9.5,60,9.7
+Jeff Driskel,CIN,QB,2019-06-18,58,8.9,58.5,8.4
 Jimmy Garoppolo,SF,QB,2019-01-22,12.2,1.2,19.3,1.2
 Jimmy Garoppolo,SF,QB,2019-01-29,12.2,1.2,19.2,1.2
 Jimmy Garoppolo,SF,QB,2019-02-05,12.3,1.2,18.9,1.1
@@ -580,6 +612,7 @@ Jimmy Garoppolo,SF,QB,2019-05-21,13.8,2.8,19.1,2.9
 Jimmy Garoppolo,SF,QB,2019-05-28,13.7,2.1,19.3,3
 Jimmy Garoppolo,SF,QB,2019-06-04,14.2,2.8,19.7,3.1
 Jimmy Garoppolo,SF,QB,2019-06-11,14.2,2.2,20.1,3.1
+Jimmy Garoppolo,SF,QB,2019-06-18,14.6,1.7,20.4,3
 Joe Flacco,BAL,QB,2019-01-22,33.7,1.5,32.6,0.7
 Joe Flacco,BAL,QB,2019-01-29,33.7,1.5,32.8,0.7
 Joe Flacco,BAL,QB,2019-02-05,34.9,2.3,32.6,0.7
@@ -601,6 +634,7 @@ Joe Flacco,DEN,QB,2019-05-21,33.6,2.7,30.2,1.4
 Joe Flacco,DEN,QB,2019-05-28,33.9,2.6,29.9,1.4
 Joe Flacco,DEN,QB,2019-06-04,33.4,2.3,29.8,1.3
 Joe Flacco,DEN,QB,2019-06-11,33.9,2.5,29.8,1.2
+Joe Flacco,DEN,QB,2019-06-18,33.7,2,29.8,1.3
 Josh Allen,BUF,QB,2019-01-22,21.3,3,21.1,1.4
 Josh Allen,BUF,QB,2019-01-29,21,2.6,20.7,1.7
 Josh Allen,BUF,QB,2019-02-05,21.1,2.2,20.7,1.4
@@ -622,6 +656,7 @@ Josh Allen,BUF,QB,2019-05-21,20.4,2.9,18.4,3.8
 Josh Allen,BUF,QB,2019-05-28,20,2.6,18.3,3.9
 Josh Allen,BUF,QB,2019-06-04,20.6,2.8,17.7,3.8
 Josh Allen,BUF,QB,2019-06-11,20.6,2.3,18,3.6
+Josh Allen,BUF,QB,2019-06-18,20.4,2,18.2,3.8
 Josh Rosen,ARI,QB,2019-01-22,24.7,0.9,28.1,1.5
 Josh Rosen,ARI,QB,2019-01-29,24.8,0.7,28.1,1.3
 Josh Rosen,ARI,QB,2019-02-05,25.1,1.3,28.1,1.2
@@ -643,11 +678,13 @@ Josh Rosen,MIA,QB,2019-05-21,26.8,2.2,30,1.9
 Josh Rosen,MIA,QB,2019-05-28,27.3,2.3,30,1.8
 Josh Rosen,MIA,QB,2019-06-04,27.2,2.5,30.4,1.8
 Josh Rosen,MIA,QB,2019-06-11,27.1,2.4,30.8,1.8
+Josh Rosen,MIA,QB,2019-06-18,27.6,2.4,30.9,1.8
 Joshua Dobbs,PIT,QB,2019-03-19,50,12,53,5.7
 Joshua Dobbs,PIT,QB,2019-05-07,54.7,10.7,57.5,5.5
 Joshua Dobbs,PIT,QB,2019-05-14,54.7,10.7,57.5,5.5
 Joshua Dobbs,PIT,QB,2019-05-21,54.7,10.7,57.8,6.9
 Joshua Dobbs,PIT,QB,2019-05-28,54.7,10.7,57.8,6.9
+Joshua Dobbs,PIT,QB,2019-06-18,61.5,5.5,59.2,6.9
 Kirk Cousins,MIN,QB,2019-01-22,13.8,2.9,18.3,1.6
 Kirk Cousins,MIN,QB,2019-01-29,13.7,3.1,18,1.9
 Kirk Cousins,MIN,QB,2019-02-05,13.8,2.4,18.1,2.3
@@ -669,6 +706,7 @@ Kirk Cousins,MIN,QB,2019-05-21,14.8,3.5,19.6,2.7
 Kirk Cousins,MIN,QB,2019-05-28,15.2,3.3,19.7,2.7
 Kirk Cousins,MIN,QB,2019-06-04,15.5,3.2,19.8,2.8
 Kirk Cousins,MIN,QB,2019-06-11,15.5,3,19.7,3.1
+Kirk Cousins,MIN,QB,2019-06-18,15.3,3,19.5,2.9
 Kyle Lauletta,NYG,QB,2019-01-22,44.5,4.5,43.3,3.4
 Kyle Lauletta,NYG,QB,2019-01-29,44.5,4.5,43.3,3.4
 Kyle Lauletta,NYG,QB,2019-02-05,44.3,3.2,43.3,3.4
@@ -690,6 +728,7 @@ Kyle Lauletta,NYG,QB,2019-05-21,50,7,52,13.3
 Kyle Lauletta,NYG,QB,2019-05-28,50.2,7.5,55,14.2
 Kyle Lauletta,NYG,QB,2019-06-04,46.3,6.9,57,17
 Kyle Lauletta,NYG,QB,2019-06-11,43.3,5.4,58,18
+Kyle Lauletta,NYG,QB,2019-06-18,46.8,1.5,56,15
 Kyler Murray,ARI,QB,2019-04-30,16.7,3.9,21,7.5
 Kyler Murray,ARI,QB,2019-05-07,15.5,4.7,18.2,7.5
 Kyler Murray,ARI,QB,2019-05-14,14.9,4.8,16.5,5.4
@@ -697,6 +736,7 @@ Kyler Murray,ARI,QB,2019-05-21,14.4,5,15.4,5
 Kyler Murray,ARI,QB,2019-05-28,13.6,5.1,15.3,5
 Kyler Murray,ARI,QB,2019-06-04,12.7,4.6,14.7,5
 Kyler Murray,ARI,QB,2019-06-11,12.5,5.2,14.3,4.3
+Kyler Murray,ARI,QB,2019-06-18,11.3,4.3,14.5,4.8
 Kyler Murray,FA,QB,2019-03-05,20.3,11.6,31,5
 Kyler Murray,FA,QB,2019-03-12,28,5,31,5
 Kyler Murray,FA,QB,2019-03-19,21.3,6.9,33,5
@@ -726,6 +766,7 @@ Lamar Jackson,BAL,QB,2019-05-21,14.8,3.3,17.3,4.1
 Lamar Jackson,BAL,QB,2019-05-28,14.7,3.1,17.5,3.8
 Lamar Jackson,BAL,QB,2019-06-04,15.6,2.9,16.6,3.6
 Lamar Jackson,BAL,QB,2019-06-11,15.7,2.8,16.4,3.5
+Lamar Jackson,BAL,QB,2019-06-18,14.9,3,16,3.8
 Marcus Mariota,TEN,QB,2019-01-22,23.2,1.6,24.6,1
 Marcus Mariota,TEN,QB,2019-01-29,23.3,1.7,24.5,0.9
 Marcus Mariota,TEN,QB,2019-02-05,24,1.3,24.4,0.8
@@ -747,8 +788,10 @@ Marcus Mariota,TEN,QB,2019-05-21,26.7,3.3,26.8,1.3
 Marcus Mariota,TEN,QB,2019-05-28,27.1,3.2,27,1.3
 Marcus Mariota,TEN,QB,2019-06-04,27.2,3.4,26.7,1.3
 Marcus Mariota,TEN,QB,2019-06-11,27,3.8,26.7,1.3
+Marcus Mariota,TEN,QB,2019-06-18,26.2,2.4,26.7,1.5
 Mason Rudolph,PIT,QB,2019-06-04,43.9,4.2,47,9.4
 Mason Rudolph,PIT,QB,2019-06-11,43.1,3,47.5,9.7
+Mason Rudolph,PIT,QB,2019-06-18,42.9,3,49,10.4
 Matt Barkley,BUF,QB,2019-03-05,47,5,49,1.6
 Matt Barkley,BUF,QB,2019-03-12,47,5,49,1.6
 Matt Barkley,BUF,QB,2019-03-19,48.7,4.7,48.8,1.5
@@ -780,6 +823,7 @@ Matt Ryan,ATL,QB,2019-05-21,12.5,2.4,7.7,2
 Matt Ryan,ATL,QB,2019-05-28,12.5,2.5,7.6,1.9
 Matt Ryan,ATL,QB,2019-06-04,12.5,2.2,8,2.4
 Matt Ryan,ATL,QB,2019-06-11,12.4,1.6,7.9,2.5
+Matt Ryan,ATL,QB,2019-06-18,12.3,2.1,7.9,2.5
 Matthew Stafford,DET,QB,2019-01-22,17.2,2.3,22.6,1
 Matthew Stafford,DET,QB,2019-01-29,17.2,2.3,22.7,0.9
 Matthew Stafford,DET,QB,2019-02-05,17.4,1.9,22.8,0.8
@@ -801,6 +845,7 @@ Matthew Stafford,DET,QB,2019-05-21,19.9,3,24.6,1.7
 Matthew Stafford,DET,QB,2019-05-28,20.3,2.8,24.5,1.9
 Matthew Stafford,DET,QB,2019-06-04,20.7,3,24.3,2
 Matthew Stafford,DET,QB,2019-06-11,20.2,2.6,24.3,2.3
+Matthew Stafford,DET,QB,2019-06-18,20.1,2.4,24.2,2.5
 Mitch Trubisky,CHI,QB,2019-01-22,11.5,1,14.2,1.4
 Mitch Trubisky,CHI,QB,2019-01-29,11.5,1,14.3,1.8
 Mitch Trubisky,CHI,QB,2019-02-05,11.9,1.4,14.3,1.7
@@ -822,6 +867,7 @@ Mitch Trubisky,CHI,QB,2019-05-21,14.2,2.5,16.9,3.1
 Mitch Trubisky,CHI,QB,2019-05-28,13.7,2.2,17,3
 Mitch Trubisky,CHI,QB,2019-06-04,14.8,2.5,17.1,3
 Mitch Trubisky,CHI,QB,2019-06-11,14.3,2.2,17.3,2.7
+Mitch Trubisky,CHI,QB,2019-06-18,14.4,2.3,17.5,2.7
 Nick Foles,JAC,QB,2019-03-19,29.2,1.8,29.6,3.9
 Nick Foles,JAC,QB,2019-03-26,32.7,10.6,29.5,3.6
 Nick Foles,JAC,QB,2019-04-02,32.4,10.2,29.4,3.7
@@ -835,6 +881,7 @@ Nick Foles,JAC,QB,2019-05-21,30.3,1.9,27.8,1.7
 Nick Foles,JAC,QB,2019-05-28,30.2,2.1,27.8,1.7
 Nick Foles,JAC,QB,2019-06-04,29.6,1.5,27.7,1.5
 Nick Foles,JAC,QB,2019-06-11,29.9,2,27.9,1.5
+Nick Foles,JAC,QB,2019-06-18,29.9,1.6,27.8,1.4
 Nick Foles,PHI,QB,2019-01-22,30,1.7,31.5,2.1
 Nick Foles,PHI,QB,2019-01-29,30,1.7,31.1,3.5
 Nick Foles,PHI,QB,2019-02-05,29.8,2.2,31.6,3.1
@@ -864,6 +911,7 @@ Nick Mullens,SF,QB,2019-05-21,42.3,3.9,41.1,3
 Nick Mullens,SF,QB,2019-05-28,42.5,4.2,40.6,3.4
 Nick Mullens,SF,QB,2019-06-04,41.5,3.5,42.8,7
 Nick Mullens,SF,QB,2019-06-11,41.5,3.3,41.3,6.8
+Nick Mullens,SF,QB,2019-06-18,42.4,3.2,43.3,8.3
 Patrick Mahomes,KC,QB,2019-01-22,1,0,1.1,0.3
 Patrick Mahomes,KC,QB,2019-01-29,1,0,1.1,0.3
 Patrick Mahomes,KC,QB,2019-02-05,1,0,1.1,0.2
@@ -885,6 +933,7 @@ Patrick Mahomes,KC,QB,2019-05-21,1,0,1.6,0.9
 Patrick Mahomes,KC,QB,2019-05-28,1,0,1.6,0.8
 Patrick Mahomes,KC,QB,2019-06-04,1,0,1.5,0.9
 Patrick Mahomes,KC,QB,2019-06-11,1,0,1.6,1
+Patrick Mahomes,KC,QB,2019-06-18,1,0,1.5,1
 Philip Rivers,LAC,QB,2019-01-22,20.8,1.3,14.3,0.8
 Philip Rivers,LAC,QB,2019-01-29,20.5,1.5,14,1.2
 Philip Rivers,LAC,QB,2019-02-05,20.5,1.2,13.6,1.4
@@ -906,6 +955,7 @@ Philip Rivers,LAC,QB,2019-05-21,22,2.6,14.4,2.5
 Philip Rivers,LAC,QB,2019-05-28,22.3,2.4,14.8,2.8
 Philip Rivers,LAC,QB,2019-06-04,22.5,2.6,15.4,3
 Philip Rivers,LAC,QB,2019-06-11,22.6,2.6,15.6,2.9
+Philip Rivers,LAC,QB,2019-06-18,22,2.2,15.7,2.6
 Robert Griffin,BAL,QB,2019-01-22,50,2,56,11
 Robert Griffin,BAL,QB,2019-01-29,50,2,56,11
 Robert Griffin,BAL,QB,2019-02-05,51.8,2.3,56,11
@@ -940,10 +990,12 @@ Russell Wilson,SEA,QB,2019-05-21,6.2,0.8,6.7,1.5
 Russell Wilson,SEA,QB,2019-05-28,6.2,0.8,6.9,2.4
 Russell Wilson,SEA,QB,2019-06-04,6,0.7,7,2.4
 Russell Wilson,SEA,QB,2019-06-11,5.9,0.7,7.4,2.9
+Russell Wilson,SEA,QB,2019-06-18,6,0.7,7.8,3.1
 Ryan Finley,CIN,QB,2019-05-21,41.6,6.5,52,10
 Ryan Finley,CIN,QB,2019-05-28,41.6,6.5,52,10
 Ryan Finley,CIN,QB,2019-06-04,41.5,5.9,41.3,1.7
 Ryan Finley,CIN,QB,2019-06-11,43.7,6,41.7,1.9
+Ryan Finley,CIN,QB,2019-06-18,44,5.8,50,12.8
 Ryan Fitzpatrick,MIA,QB,2019-03-19,37.6,3.1,36.1,2.7
 Ryan Fitzpatrick,MIA,QB,2019-03-26,32.4,2.6,32.5,5.3
 Ryan Fitzpatrick,MIA,QB,2019-04-02,31.3,3.3,32.4,4.7
@@ -957,6 +1009,7 @@ Ryan Fitzpatrick,MIA,QB,2019-05-21,37.5,3.9,33.7,2.6
 Ryan Fitzpatrick,MIA,QB,2019-05-28,38,4,33.6,2.5
 Ryan Fitzpatrick,MIA,QB,2019-06-04,37.4,3.8,33.6,3.1
 Ryan Fitzpatrick,MIA,QB,2019-06-11,37.4,3.8,33.5,3.1
+Ryan Fitzpatrick,MIA,QB,2019-06-18,38.1,3.2,33.2,3.2
 Ryan Fitzpatrick,TB,QB,2019-01-22,39,0,37.6,2.1
 Ryan Fitzpatrick,TB,QB,2019-01-29,39,0,37.6,2.1
 Ryan Fitzpatrick,TB,QB,2019-02-05,41.5,2.6,37.6,2.1
@@ -986,6 +1039,7 @@ Ryan Tannehill,TEN,QB,2019-05-21,35.9,3.8,35.2,2.3
 Ryan Tannehill,TEN,QB,2019-05-28,35.8,4,35.2,2.4
 Ryan Tannehill,TEN,QB,2019-06-04,35.1,3.1,36.3,5.1
 Ryan Tannehill,TEN,QB,2019-06-11,34.8,3.1,36.9,5.2
+Ryan Tannehill,TEN,QB,2019-06-18,35.7,3.7,36.7,4.9
 Sam Bradford,FA,QB,2019-01-22,41,1,36,1
 Sam Bradford,FA,QB,2019-01-29,41,1,36,1
 Sam Bradford,FA,QB,2019-02-05,44,3.2,36,1
@@ -1010,6 +1064,7 @@ Sam Darnold,NYJ,QB,2019-05-21,17.4,3.9,23.2,1.8
 Sam Darnold,NYJ,QB,2019-05-28,17,3.6,23.3,1.8
 Sam Darnold,NYJ,QB,2019-06-04,16.9,3.8,23.8,1.9
 Sam Darnold,NYJ,QB,2019-06-11,17.9,3.5,24,1.7
+Sam Darnold,NYJ,QB,2019-06-18,18.8,3.4,23.9,1.9
 Taysom Hill,NO,QB,2019-03-19,45,6,38.8,2.9
 Taysom Hill,NO,QB,2019-03-26,42.5,3.5,38.8,2.9
 Taysom Hill,NO,QB,2019-04-02,44,3.6,38.8,2.9
@@ -1022,6 +1077,7 @@ Taysom Hill,NO,QB,2019-05-21,51.5,1.5,41.9,11.6
 Taysom Hill,NO,QB,2019-05-28,51.5,1.5,41.5,11.7
 Taysom Hill,NO,QB,2019-06-04,47.3,6,41.6,11.6
 Taysom Hill,NO,QB,2019-06-11,44.5,5.5,42.9,11.6
+Taysom Hill,NO,QB,2019-06-18,44.5,5.5,41.4,10.2
 Teddy Bridgewater,NO,QB,2019-01-22,33,2.9,34.4,1
 Teddy Bridgewater,NO,QB,2019-01-29,33,2.9,34.6,0.9
 Teddy Bridgewater,NO,QB,2019-02-05,31.4,3,34.4,0.8
@@ -1043,6 +1099,7 @@ Teddy Bridgewater,NO,QB,2019-05-21,34.8,3.2,38.4,2.1
 Teddy Bridgewater,NO,QB,2019-05-28,34.5,3.2,38.7,2.3
 Teddy Bridgewater,NO,QB,2019-06-04,35,3.4,40.9,6.5
 Teddy Bridgewater,NO,QB,2019-06-11,35,3.2,40.2,6.3
+Teddy Bridgewater,NO,QB,2019-06-18,34.5,3.1,40.8,6.8
 Tom Brady,NE,QB,2019-01-22,21.5,0.8,17.6,1.1
 Tom Brady,NE,QB,2019-01-29,21.2,0.9,17.6,1
 Tom Brady,NE,QB,2019-02-05,22,1,17.4,1
@@ -1064,6 +1121,8 @@ Tom Brady,NE,QB,2019-05-21,24.4,2.3,18.7,2.7
 Tom Brady,NE,QB,2019-05-28,24.8,2.1,18.8,2.6
 Tom Brady,NE,QB,2019-06-04,24.4,2.7,19,2.4
 Tom Brady,NE,QB,2019-06-11,24,2.1,19.3,2.2
+Tom Brady,NE,QB,2019-06-18,24,2.2,19.3,2.4
+Trevor Siemian,NYJ,QB,2019-06-18,58.5,3.5,52.2,2.1
 Tyree Jackson,BUF,QB,2019-05-21,47,6,70,10
 Tyree Jackson,BUF,QB,2019-05-28,47,6,70,10
 Tyrod Taylor,CLE,QB,2019-01-22,35.4,2.7,34.8,0.4
@@ -1087,12 +1146,14 @@ Tyrod Taylor,LAC,QB,2019-05-21,41.3,2.9,39.6,4.8
 Tyrod Taylor,LAC,QB,2019-05-28,41.3,3.2,39.7,5.1
 Tyrod Taylor,LAC,QB,2019-06-04,41.5,2.8,44.7,9.5
 Tyrod Taylor,LAC,QB,2019-06-11,41.3,2.5,48.3,9.1
+Tyrod Taylor,LAC,QB,2019-06-18,41.8,2.8,47.7,8.6
 Will Grier,CAR,QB,2019-05-07,37.7,4.4,41,7
 Will Grier,CAR,QB,2019-05-14,37.4,4.4,40.3,5.8
 Will Grier,CAR,QB,2019-05-21,36.4,5.5,42.6,4.4
 Will Grier,CAR,QB,2019-05-28,36,5.6,41.5,4.7
 Will Grier,CAR,QB,2019-06-04,34.9,5.2,40.3,3.3
 Will Grier,CAR,QB,2019-06-11,34.8,4.7,40.8,3.3
+Will Grier,CAR,QB,2019-06-18,36.4,3.7,42.7,6.6
 Aaron Jones,GB,RB,2019-01-22,14.9,1.4,12.2,1.2
 Aaron Jones,GB,RB,2019-01-29,15.1,1.1,12.5,1.3
 Aaron Jones,GB,RB,2019-02-05,15.1,0.9,12.7,1.2
@@ -1114,6 +1175,7 @@ Aaron Jones,GB,RB,2019-05-21,16.3,2.8,17,3.4
 Aaron Jones,GB,RB,2019-05-28,16.4,2.8,17,3.2
 Aaron Jones,GB,RB,2019-06-04,17.6,3.3,17,3.8
 Aaron Jones,GB,RB,2019-06-11,16.9,3.1,17.3,3.5
+Aaron Jones,GB,RB,2019-06-18,16.6,3,17.1,3.7
 Adrian Peterson,WAS,RB,2019-01-22,59.9,2.5,58.5,1.9
 Adrian Peterson,WAS,RB,2019-01-29,60.3,2.9,58.2,2.2
 Adrian Peterson,WAS,RB,2019-02-05,63.3,3.5,58.7,2.1
@@ -1135,12 +1197,14 @@ Adrian Peterson,WAS,RB,2019-05-21,72.4,7.9,53.5,8
 Adrian Peterson,WAS,RB,2019-05-28,73.9,8.5,52.9,8.2
 Adrian Peterson,WAS,RB,2019-06-04,72.7,9.7,52.2,7.9
 Adrian Peterson,WAS,RB,2019-06-11,72.2,9.1,51.8,8.6
+Adrian Peterson,WAS,RB,2019-06-18,72.3,8.8,51.8,9
 Alex Barnes,TEN,RB,2019-05-07,97,25.7,93,26
 Alex Barnes,TEN,RB,2019-05-14,107.5,20.3,93,26
 Alex Barnes,TEN,RB,2019-05-21,107.5,20.3,108,11
 Alex Barnes,TEN,RB,2019-05-28,107.5,20.3,108,11
 Alex Barnes,TEN,RB,2019-06-04,108.2,24.7,102.3,10.3
 Alex Barnes,TEN,RB,2019-06-11,119,18.6,102.5,10.1
+Alex Barnes,TEN,RB,2019-06-18,110.4,21.7,112.7,17.7
 Alex Collins,BAL,RB,2019-01-22,43.3,3.6,50.6,5.5
 Alex Collins,BAL,RB,2019-01-29,43.7,3.5,53,5.9
 Alex Collins,BAL,RB,2019-02-05,46.5,4,53.6,5.5
@@ -1162,6 +1226,7 @@ Alex Collins,FA,RB,2019-05-21,84.6,15.5,86.3,19.5
 Alex Collins,FA,RB,2019-05-28,85.4,16.3,87.6,19.4
 Alex Collins,FA,RB,2019-06-04,84.8,16.6,88.6,18.3
 Alex Collins,FA,RB,2019-06-11,83.8,14.2,91.1,18.1
+Alex Collins,FA,RB,2019-06-18,85.1,16,101,24.4
 Alexander Mattison,MIN,RB,2019-04-30,76.3,17.7,78.5,11.1
 Alexander Mattison,MIN,RB,2019-05-07,66.2,18.7,79.1,14.4
 Alexander Mattison,MIN,RB,2019-05-14,65.2,17.9,74.3,15.1
@@ -1169,6 +1234,7 @@ Alexander Mattison,MIN,RB,2019-05-21,65.3,17.1,71.9,14.4
 Alexander Mattison,MIN,RB,2019-05-28,65.9,17.2,71.6,14.1
 Alexander Mattison,MIN,RB,2019-06-04,61.8,9,68.8,12.2
 Alexander Mattison,MIN,RB,2019-06-11,60.3,9.1,66.6,11.6
+Alexander Mattison,MIN,RB,2019-06-18,61.8,14.3,68.1,11.8
 Alfred Blue,FA,RB,2019-03-19,94,8.7,90.9,5.8
 Alfred Blue,FA,RB,2019-03-26,101.6,7.3,91.4,6
 Alfred Blue,FA,RB,2019-04-02,102.7,6.5,91.4,6
@@ -1190,6 +1256,7 @@ Alfred Blue,JAC,RB,2019-05-21,109.4,9.6,88.9,9.8
 Alfred Blue,JAC,RB,2019-05-28,109.4,9.6,87.8,10.9
 Alfred Blue,JAC,RB,2019-06-04,107.3,13.5,86,10.9
 Alfred Blue,JAC,RB,2019-06-11,105.2,9.8,85.4,11.2
+Alfred Blue,JAC,RB,2019-06-18,107.3,9,84.1,11.6
 Alfred Morris,FA,RB,2019-03-19,97.8,6.9,97.7,9.9
 Alfred Morris,FA,RB,2019-03-26,99.8,5.8,97.9,10.2
 Alfred Morris,FA,RB,2019-04-02,100.2,5.4,98,10.2
@@ -1203,6 +1270,7 @@ Alfred Morris,FA,RB,2019-05-21,113.7,11.1,112.6,19.2
 Alfred Morris,FA,RB,2019-05-28,113.7,11.1,113,19
 Alfred Morris,FA,RB,2019-06-04,109,8.2,112.4,18.3
 Alfred Morris,FA,RB,2019-06-11,107.5,7.5,114,18.9
+Alfred Morris,FA,RB,2019-06-18,110.2,8.6,123.7,18.2
 Alfred Morris,SF,RB,2019-01-22,88,1,93.1,3.4
 Alfred Morris,SF,RB,2019-01-29,88.3,1.5,93.5,3.8
 Alfred Morris,SF,RB,2019-02-05,93.4,5,93.4,3.4
@@ -1232,6 +1300,7 @@ Alvin Kamara,NO,RB,2019-05-21,3.8,0.6,3.7,1
 Alvin Kamara,NO,RB,2019-05-28,3.8,0.6,3.8,1
 Alvin Kamara,NO,RB,2019-06-04,3.8,0.5,3.6,1
 Alvin Kamara,NO,RB,2019-06-11,3.8,0.5,3.5,1
+Alvin Kamara,NO,RB,2019-06-18,3.7,0.6,3.6,1
 Ameer Abdullah,FA,RB,2019-03-19,90.6,5.9,89.3,7.6
 Ameer Abdullah,MIN,RB,2019-01-22,81.1,3.4,87.9,6.1
 Ameer Abdullah,MIN,RB,2019-01-29,81.1,3.4,87.8,5.7
@@ -1253,6 +1322,7 @@ Ameer Abdullah,MIN,RB,2019-05-21,95.9,10.4,96.3,15.1
 Ameer Abdullah,MIN,RB,2019-05-28,96.6,11.3,96.3,15.1
 Ameer Abdullah,MIN,RB,2019-06-04,97.6,7.8,95.4,13
 Ameer Abdullah,MIN,RB,2019-06-11,95.8,7.4,96.4,13.2
+Ameer Abdullah,MIN,RB,2019-06-18,95.3,7.3,97.1,13.6
 Austin Ekeler,LAC,RB,2019-01-22,43,5.1,52.1,5.3
 Austin Ekeler,LAC,RB,2019-01-29,43.1,5,51.7,5.3
 Austin Ekeler,LAC,RB,2019-02-05,44.1,6.3,51.7,4.6
@@ -1274,6 +1344,7 @@ Austin Ekeler,LAC,RB,2019-05-21,46.3,4.6,45.5,6.7
 Austin Ekeler,LAC,RB,2019-05-28,46.4,4.7,45.2,6.7
 Austin Ekeler,LAC,RB,2019-06-04,46.7,4.7,44.3,5.8
 Austin Ekeler,LAC,RB,2019-06-11,46.9,4.8,44.1,6.6
+Austin Ekeler,LAC,RB,2019-06-18,46.9,4.8,43.5,5.9
 Benjamin Snell,FA,RB,2019-03-05,83,14.2,39,7
 Benjamin Snell,FA,RB,2019-03-12,79,14.2,39,7
 Benjamin Snell,FA,RB,2019-03-19,71,21.7,39,7
@@ -1285,6 +1356,7 @@ Benny Snell,PIT,RB,2019-05-21,70.8,17.1,85.2,9.1
 Benny Snell,PIT,RB,2019-05-28,70.9,17,85.1,8.6
 Benny Snell,PIT,RB,2019-06-04,73.9,12.6,83.6,10.1
 Benny Snell,PIT,RB,2019-06-11,71.4,15.3,82,11.5
+Benny Snell,PIT,RB,2019-06-18,71.9,17.5,80.7,14.1
 Bilal Powell,FA,RB,2019-03-19,85.4,11.7,77.2,7.9
 Bilal Powell,FA,RB,2019-03-26,87.6,9.6,77.6,8.4
 Bilal Powell,FA,RB,2019-04-02,90.5,10.1,77.4,8.4
@@ -1306,6 +1378,7 @@ Bilal Powell,NYJ,RB,2019-02-26,83.1,8.9,75.7,6.4
 Bilal Powell,NYJ,RB,2019-03-05,82.8,7.9,76.4,6.4
 Bilal Powell,NYJ,RB,2019-03-12,83.4,5.1,76.4,6.3
 Bilal Powell,NYJ,RB,2019-06-11,98.5,7.5,99.6,15.8
+Bilal Powell,NYJ,RB,2019-06-18,98.2,8.3,100.6,16.2
 Boston Scott,PHI,RB,2019-01-22,96,0,97.2,0.7
 Boston Scott,PHI,RB,2019-01-29,96,0,97.3,0.7
 Boston Scott,PHI,RB,2019-02-05,98.3,3.3,97.6,0.9
@@ -1326,6 +1399,7 @@ Boston Scott,PHI,RB,2019-05-21,114,3.7,107.8,17.1
 Boston Scott,PHI,RB,2019-05-28,114,3.7,108.4,17
 Boston Scott,PHI,RB,2019-06-04,109.5,0.5,111.6,17
 Boston Scott,PHI,RB,2019-06-11,110,10.6,108.5,14.8
+Boston Scott,PHI,RB,2019-06-18,107.5,10.2,110.3,14.6
 Brian Hill,ATL,RB,2019-04-02,96,12,100.9,10.3
 Brian Hill,ATL,RB,2019-04-09,100,11.3,102,10.1
 Brian Hill,ATL,RB,2019-04-16,100,11.3,94.4,15.9
@@ -1337,11 +1411,13 @@ Brian Hill,ATL,RB,2019-05-21,117.2,14,102.6,12.9
 Brian Hill,ATL,RB,2019-05-28,117.2,14,102.7,13.8
 Brian Hill,ATL,RB,2019-06-04,123.5,3.2,103.2,14.6
 Brian Hill,ATL,RB,2019-06-11,124.7,1.2,103.5,15
+Brian Hill,ATL,RB,2019-06-18,125,1.2,106.4,20.3
 Bruce Anderson,TB,RB,2019-05-14,91.4,17.3,63.7,16.5
 Bruce Anderson,TB,RB,2019-05-21,91.4,17.3,82.4,11.4
 Bruce Anderson,TB,RB,2019-05-28,91.2,17,77.7,14.9
 Bruce Anderson,TB,RB,2019-06-04,98.2,9,75.2,14.6
 Bruce Anderson,TB,RB,2019-06-11,98.8,9.5,71.4,17.3
+Bruce Anderson,TB,RB,2019-06-18,99,9.1,77,18.6
 Bryce Love,FA,RB,2019-04-09,59.3,17.5,50.5,16.5
 Bryce Love,WAS,RB,2019-04-30,78,21.5,87.3,11.8
 Bryce Love,WAS,RB,2019-05-07,71.1,16.6,95.7,9
@@ -1350,6 +1426,7 @@ Bryce Love,WAS,RB,2019-05-21,69.5,15.8,94.8,11.3
 Bryce Love,WAS,RB,2019-05-28,69.5,15.8,95.3,11.5
 Bryce Love,WAS,RB,2019-06-04,72.2,13.9,93.9,12.9
 Bryce Love,WAS,RB,2019-06-11,73.5,14.1,93.3,13.7
+Bryce Love,WAS,RB,2019-06-18,73.6,16.3,91.4,12.6
 Byron Marshall,FA,RB,2019-04-02,121,6,121.3,3.8
 Byron Marshall,FA,RB,2019-04-09,122,5.1,121.3,3.8
 CJ Anderson,DET,RB,2019-04-09,65,7.2,57.4,6.4
@@ -1362,6 +1439,7 @@ CJ Anderson,DET,RB,2019-05-21,65.9,8,56.8,6.5
 CJ Anderson,DET,RB,2019-05-28,67.8,8.9,56.6,6.7
 CJ Anderson,DET,RB,2019-06-04,67.1,8.3,56.7,6.5
 CJ Anderson,DET,RB,2019-06-11,67.3,8.7,57,6.8
+CJ Anderson,DET,RB,2019-06-18,66.3,8.5,57,6.4
 CJ Anderson,LAR,RB,2019-01-22,61.9,3.7,58.8,3.1
 CJ Anderson,LAR,RB,2019-01-29,61.7,3.8,56.9,6.9
 CJ Anderson,LAR,RB,2019-02-05,59,3.7,57.1,6.2
@@ -1392,6 +1470,7 @@ CJ Prosise,SEA,RB,2019-05-21,108.5,12.8,98.6,14.5
 CJ Prosise,SEA,RB,2019-05-28,108.5,12.9,99.2,14.6
 CJ Prosise,SEA,RB,2019-06-04,112.1,14.7,99.4,14.8
 CJ Prosise,SEA,RB,2019-06-11,109,14.8,101.5,11
+CJ Prosise,SEA,RB,2019-06-18,107.3,14.3,105.2,18.1
 Cameron Artis-Payne,CAR,RB,2019-01-22,104.7,9.4,95.4,2.1
 Cameron Artis-Payne,CAR,RB,2019-01-29,104.7,9.4,95.3,2
 Cameron Artis-Payne,CAR,RB,2019-02-05,108,8.2,95,1.8
@@ -1411,6 +1490,7 @@ Cameron Artis-Payne,CAR,RB,2019-05-21,120.7,7.2,95,8.9
 Cameron Artis-Payne,CAR,RB,2019-05-28,120.7,7.2,94.2,9.9
 Cameron Artis-Payne,CAR,RB,2019-06-04,115.6,13.7,92.9,8.4
 Cameron Artis-Payne,CAR,RB,2019-06-11,104.5,15.1,91.9,8.4
+Cameron Artis-Payne,CAR,RB,2019-06-18,112,12.5,93.5,10.5
 Cameron Artis-Payne,FA,RB,2019-03-19,113,3.6,95.4,5.3
 Cameron Artis-Payne,FA,RB,2019-03-26,114.5,4.5,96,5.4
 Carlos Hyde,JAC,RB,2019-01-22,48.6,4.8,58.9,5
@@ -1434,6 +1514,7 @@ Carlos Hyde,KC,RB,2019-05-21,50.1,6.9,49.2,10
 Carlos Hyde,KC,RB,2019-05-28,49.2,6.3,49.8,9.9
 Carlos Hyde,KC,RB,2019-06-04,51.5,7.4,49.5,9.1
 Carlos Hyde,KC,RB,2019-06-11,51.8,7.1,50.5,9.4
+Carlos Hyde,KC,RB,2019-06-18,51,7.2,49.9,9.6
 Charcandrick West,FA,RB,2019-03-19,103,5,103.2,3.7
 Charcandrick West,FA,RB,2019-03-26,104.5,6.5,103.8,4.2
 Charcandrick West,FA,RB,2019-04-02,110,7.4,103.8,4.2
@@ -1445,6 +1526,7 @@ Charcandrick West,FA,RB,2019-05-07,112,6,100,2
 Charcandrick West,FA,RB,2019-05-14,112,6,102.5,0.5
 Charcandrick West,FA,RB,2019-05-21,112,6,126,16
 Charcandrick West,FA,RB,2019-05-28,112,6,127.5,14.5
+Charcandrick West,FA,RB,2019-06-18,118,1,128.7,17.5
 Charcandrick West,KC,RB,2019-01-22,103.7,2.4,97.8,5.3
 Charcandrick West,KC,RB,2019-01-29,103.7,2.4,102.5,2.9
 Charcandrick West,KC,RB,2019-02-05,107,4.1,102.5,2.9
@@ -1474,6 +1556,7 @@ Chase Edmonds,ARI,RB,2019-05-21,71.2,11.6,68.8,5.4
 Chase Edmonds,ARI,RB,2019-05-28,69.8,11.9,69,5.7
 Chase Edmonds,ARI,RB,2019-06-04,69.4,11.3,69.6,5
 Chase Edmonds,ARI,RB,2019-06-11,68,11.2,69.5,4.7
+Chase Edmonds,ARI,RB,2019-06-18,71.2,13.2,68.7,6.1
 Chris Carson,SEA,RB,2019-01-22,28.9,6,16.6,1.2
 Chris Carson,SEA,RB,2019-01-29,29,6,17.5,2.1
 Chris Carson,SEA,RB,2019-02-05,25.3,3.5,17.7,2
@@ -1495,6 +1578,7 @@ Chris Carson,SEA,RB,2019-05-21,32.1,5.3,22.6,4.5
 Chris Carson,SEA,RB,2019-05-28,31.5,4.6,23.1,4.9
 Chris Carson,SEA,RB,2019-06-04,31.8,4.1,23.9,4.6
 Chris Carson,SEA,RB,2019-06-11,32.7,4.3,24.6,4.7
+Chris Carson,SEA,RB,2019-06-18,33.3,4.9,25.1,4.9
 Chris Ivory,BUF,RB,2019-01-22,91.6,2.5,86.5,1.8
 Chris Ivory,BUF,RB,2019-01-29,91.6,2.5,86.6,1.7
 Chris Ivory,BUF,RB,2019-02-05,95,5.4,86.4,1.6
@@ -1516,6 +1600,7 @@ Chris Ivory,FA,RB,2019-05-21,110.9,9.8,103.6,18.7
 Chris Ivory,FA,RB,2019-05-28,110.9,9.8,104,18.6
 Chris Ivory,FA,RB,2019-06-04,106.4,6.8,102.7,18.8
 Chris Ivory,FA,RB,2019-06-11,106.3,6.6,105.3,19.4
+Chris Ivory,FA,RB,2019-06-18,108,7.9,113.6,19.3
 Chris Thompson,WAS,RB,2019-01-22,45.1,2.2,53.9,3.1
 Chris Thompson,WAS,RB,2019-01-29,45.1,2.2,52.9,4.9
 Chris Thompson,WAS,RB,2019-02-05,48.3,5,52.9,4.4
@@ -1537,6 +1622,7 @@ Chris Thompson,WAS,RB,2019-05-21,57,7.1,51.6,6.5
 Chris Thompson,WAS,RB,2019-05-28,57.7,6.8,51.7,6.2
 Chris Thompson,WAS,RB,2019-06-04,57.4,6,51.5,5.8
 Chris Thompson,WAS,RB,2019-06-11,56.7,5.7,51.5,5.7
+Chris Thompson,WAS,RB,2019-06-18,58,7.5,52.1,5.7
 Chris Warren,OAK,RB,2019-03-05,103,25,107.7,28.2
 Chris Warren,OAK,RB,2019-03-12,103,25,107.7,28.2
 Chris Warren,OAK,RB,2019-03-19,101.3,20.5,102.3,30.9
@@ -1551,6 +1637,7 @@ Chris Warren,OAK,RB,2019-05-21,89.3,13,111.9,10.6
 Chris Warren,OAK,RB,2019-05-28,89.6,12.5,111.8,10.6
 Chris Warren,OAK,RB,2019-06-04,95.6,16.5,114.4,9
 Chris Warren,OAK,RB,2019-06-11,99.5,12.8,113.9,9.6
+Chris Warren,OAK,RB,2019-06-18,98.8,12.2,109.2,13.2
 Christian McCaffrey,CAR,RB,2019-01-22,4,0.8,3.9,0.3
 Christian McCaffrey,CAR,RB,2019-01-29,4,0.8,3.8,0.4
 Christian McCaffrey,CAR,RB,2019-02-05,4,1,3.9,0.4
@@ -1572,6 +1659,7 @@ Christian McCaffrey,CAR,RB,2019-05-21,2.7,0.8,3.3,0.9
 Christian McCaffrey,CAR,RB,2019-05-28,2.7,0.8,3.2,0.9
 Christian McCaffrey,CAR,RB,2019-06-04,2.7,0.7,3.2,1
 Christian McCaffrey,CAR,RB,2019-06-11,2.7,0.7,3.1,0.8
+Christian McCaffrey,CAR,RB,2019-06-18,2.7,0.7,3.1,0.8
 Cordarrelle Patterson,CHI,RB,2019-03-19,94,7.1,78.7,7.6
 Cordarrelle Patterson,CHI,RB,2019-03-26,90,1,77.8,8
 Cordarrelle Patterson,CHI,RB,2019-04-02,90,1,77,9.4
@@ -1608,6 +1696,7 @@ Corey Clement,PHI,RB,2019-05-21,83.6,10.6,74.9,6.8
 Corey Clement,PHI,RB,2019-05-28,84.2,10.5,74.7,6.6
 Corey Clement,PHI,RB,2019-06-04,84.6,8,76.1,6.2
 Corey Clement,PHI,RB,2019-06-11,84.4,8.3,77.8,6.2
+Corey Clement,PHI,RB,2019-06-18,86.6,11,78,6.1
 Corey Grant,FA,RB,2019-03-19,87.8,6.2,89.6,3.3
 Corey Grant,FA,RB,2019-03-26,89.4,7.9,90.3,3.2
 Corey Grant,FA,RB,2019-04-02,90.6,9.5,90.2,3.2
@@ -1621,6 +1710,7 @@ Corey Grant,FA,RB,2019-05-21,99.6,11.6,107,19.1
 Corey Grant,FA,RB,2019-05-28,100.6,11.5,107.6,18.9
 Corey Grant,FA,RB,2019-06-04,98.6,9.3,106.4,18.2
 Corey Grant,FA,RB,2019-06-11,97.6,8.5,109.6,18.6
+Corey Grant,FA,RB,2019-06-18,98.2,9.4,119.4,19
 Corey Grant,JAC,RB,2019-01-22,85.6,3.4,88.1,1
 Corey Grant,JAC,RB,2019-01-29,85.6,3.4,88.1,0.9
 Corey Grant,JAC,RB,2019-02-05,89,6.1,88,0.9
@@ -1650,6 +1740,7 @@ DOnta Foreman,HOU,RB,2019-05-21,50.2,7.1,50.7,7.5
 DOnta Foreman,HOU,RB,2019-05-28,50.4,8.3,50.2,7.6
 DOnta Foreman,HOU,RB,2019-06-04,51.7,7.6,49.4,6.2
 DOnta Foreman,HOU,RB,2019-06-11,53.3,8.4,49.9,6.9
+DOnta Foreman,HOU,RB,2019-06-18,52.6,8.5,49.5,7.2
 Dalvin Cook,MIN,RB,2019-01-22,8.9,1.7,11.1,1.4
 Dalvin Cook,MIN,RB,2019-01-29,8.9,1.7,11.2,1.5
 Dalvin Cook,MIN,RB,2019-02-05,8.3,1,11,1.4
@@ -1671,6 +1762,7 @@ Dalvin Cook,MIN,RB,2019-05-21,9.1,1.5,11.2,1.6
 Dalvin Cook,MIN,RB,2019-05-28,9.1,1.4,11.1,1.7
 Dalvin Cook,MIN,RB,2019-06-04,8.8,1.6,10.9,1.7
 Dalvin Cook,MIN,RB,2019-06-11,8.7,1.8,11.1,2.2
+Dalvin Cook,MIN,RB,2019-06-18,8.9,1.8,10.7,2
 Damien Harris,FA,RB,2019-02-12,63.6,24.2,77,26
 Damien Harris,FA,RB,2019-02-19,57.7,25.8,77,26
 Damien Harris,FA,RB,2019-02-26,61.4,26.7,77,26
@@ -1689,6 +1781,7 @@ Damien Harris,NE,RB,2019-05-21,45,13.4,66.1,14.1
 Damien Harris,NE,RB,2019-05-28,43.2,8.4,65.5,14.1
 Damien Harris,NE,RB,2019-06-04,41.6,8.1,62.7,13.5
 Damien Harris,NE,RB,2019-06-11,40.9,9,60.1,13.8
+Damien Harris,NE,RB,2019-06-18,40.1,8.8,58,13
 Damien Williams,KC,RB,2019-01-22,67.6,26.5,27.2,6.3
 Damien Williams,KC,RB,2019-01-29,67.6,26.5,24.2,8.1
 Damien Williams,KC,RB,2019-02-05,42.1,18.5,23.4,7.6
@@ -1710,6 +1803,7 @@ Damien Williams,KC,RB,2019-05-21,26.5,3.7,17.4,5.9
 Damien Williams,KC,RB,2019-05-28,26.1,3.8,17.2,5.9
 Damien Williams,KC,RB,2019-06-04,25.3,4.4,16.8,6.2
 Damien Williams,KC,RB,2019-06-11,25.3,4.6,14.9,4.3
+Damien Williams,KC,RB,2019-06-18,25.5,4.9,15.2,4.7
 Darius Jackson,DAL,RB,2019-06-04,137.5,8.5,108.5,3.5
 Darrel Williams,KC,RB,2019-01-22,98.7,6.8,96,8.6
 Darrel Williams,KC,RB,2019-01-29,98.7,6.8,96.1,8
@@ -1732,6 +1826,7 @@ Darrel Williams,KC,RB,2019-05-21,114.2,13.1,102.8,10
 Darrel Williams,KC,RB,2019-05-28,114.1,13.1,103.3,10.1
 Darrel Williams,KC,RB,2019-06-04,109,10.9,102.1,9.6
 Darrel Williams,KC,RB,2019-06-11,101.4,11.5,101.5,10.6
+Darrel Williams,KC,RB,2019-06-18,109.3,9.5,103.2,12.8
 Darrell Henderson,FA,RB,2019-03-19,59,37,25.5,2.5
 Darrell Henderson,FA,RB,2019-04-09,51.2,19.8,55.3,36.6
 Darrell Henderson,FA,RB,2019-04-16,57,16.3,69.3,31
@@ -1744,6 +1839,7 @@ Darrell Henderson,LAR,RB,2019-05-21,47.2,17.6,54.5,15.7
 Darrell Henderson,LAR,RB,2019-05-28,44.2,14.7,53.3,15.9
 Darrell Henderson,LAR,RB,2019-06-04,36.1,9.5,50,13.9
 Darrell Henderson,LAR,RB,2019-06-11,35.2,10.9,44.9,14
+Darrell Henderson,LAR,RB,2019-06-18,35.1,10.5,44,11.7
 Darren Sproles,FA,RB,2019-03-19,102.5,6.5,91.9,5.6
 Darren Sproles,FA,RB,2019-04-02,112,8,91.3,5.9
 Darren Sproles,FA,RB,2019-04-09,113.3,6.8,91.7,5.5
@@ -1756,6 +1852,7 @@ Darren Sproles,FA,RB,2019-05-21,104.3,9.9,100.8,22
 Darren Sproles,FA,RB,2019-05-28,80.3,22.5,101.1,21.8
 Darren Sproles,FA,RB,2019-06-04,106.5,9.6,104.2,20.7
 Darren Sproles,FA,RB,2019-06-11,106.5,9.6,111.2,16.5
+Darren Sproles,FA,RB,2019-06-18,105.2,9,116.6,17.5
 Darren Sproles,PHI,RB,2019-03-05,102.5,6.5,91.4,4.6
 Darren Sproles,PHI,RB,2019-03-12,102.5,6.5,91.5,4.5
 Darwin Thompson,KC,RB,2019-05-07,74.5,23.9,69,5
@@ -1764,6 +1861,7 @@ Darwin Thompson,KC,RB,2019-05-21,74.5,23.5,71.2,10.8
 Darwin Thompson,KC,RB,2019-05-28,75.6,23.3,70.6,11.7
 Darwin Thompson,KC,RB,2019-06-04,75,17.8,72.3,12.7
 Darwin Thompson,KC,RB,2019-06-11,74.4,14.7,74.7,14.3
+Darwin Thompson,KC,RB,2019-06-18,75.5,16.8,79.2,18.6
 David Johnson,ARI,RB,2019-01-22,9.4,1.4,11.9,1.1
 David Johnson,ARI,RB,2019-01-29,9.4,1.4,11.7,1.1
 David Johnson,ARI,RB,2019-02-05,10.4,0.7,11.7,1
@@ -1785,6 +1883,7 @@ David Johnson,ARI,RB,2019-05-21,9.5,1.6,7.3,2
 David Johnson,ARI,RB,2019-05-28,9.4,1.6,7.3,2.2
 David Johnson,ARI,RB,2019-06-04,9,1.8,6.9,2
 David Johnson,ARI,RB,2019-06-11,9,1.6,6.4,1.7
+David Johnson,ARI,RB,2019-06-18,9,1.5,6.4,1.8
 David Montgomery,CHI,RB,2019-04-30,35.3,17.4,52.4,25
 David Montgomery,CHI,RB,2019-05-07,31.9,21.1,41.1,21
 David Montgomery,CHI,RB,2019-05-14,31.3,19.9,36.3,17.6
@@ -1792,6 +1891,7 @@ David Montgomery,CHI,RB,2019-05-21,31,19.3,30.4,8.7
 David Montgomery,CHI,RB,2019-05-28,27.7,14.4,29.5,8.6
 David Montgomery,CHI,RB,2019-06-04,24,7.1,27.7,7.3
 David Montgomery,CHI,RB,2019-06-11,23.1,6,26.4,5.9
+David Montgomery,CHI,RB,2019-06-18,21.7,5,27,7.7
 David Montgomery,FA,RB,2019-02-12,66.8,24.5,68,21
 David Montgomery,FA,RB,2019-02-19,66.8,24.5,68,21
 David Montgomery,FA,RB,2019-02-26,66,26,68,21
@@ -1842,6 +1942,7 @@ DeAndre Washington,OAK,RB,2019-05-21,106.2,10.6,102.3,12.9
 DeAndre Washington,OAK,RB,2019-05-28,106.9,10.6,103,14.1
 DeAndre Washington,OAK,RB,2019-06-04,109.2,12.2,99.3,10.1
 DeAndre Washington,OAK,RB,2019-06-11,108.2,12.3,99,9.1
+DeAndre Washington,OAK,RB,2019-06-18,108.5,11.9,104.5,11.1
 Derrick Henry,TEN,RB,2019-01-22,21.3,4.1,20.2,0.9
 Derrick Henry,TEN,RB,2019-01-29,21.1,4.1,21,1.5
 Derrick Henry,TEN,RB,2019-02-05,19.4,1.9,20.7,1.4
@@ -1863,6 +1964,7 @@ Derrick Henry,TEN,RB,2019-05-21,21.4,3.2,21.3,3.5
 Derrick Henry,TEN,RB,2019-05-28,21,3,20.7,3.5
 Derrick Henry,TEN,RB,2019-06-04,20.6,3.8,19.8,3.3
 Derrick Henry,TEN,RB,2019-06-11,20.7,3.7,18.9,3.4
+Derrick Henry,TEN,RB,2019-06-18,21.1,4,19.3,3.3
 Derrius Guice,WAS,RB,2019-01-22,16.9,1,20.8,2.4
 Derrius Guice,WAS,RB,2019-01-29,16.7,0.9,21.8,3.6
 Derrius Guice,WAS,RB,2019-02-05,16.9,0.8,21.7,3.1
@@ -1884,6 +1986,7 @@ Derrius Guice,WAS,RB,2019-05-21,17.2,3.5,28.3,5.5
 Derrius Guice,WAS,RB,2019-05-28,17.5,3.6,28.8,5.7
 Derrius Guice,WAS,RB,2019-06-04,19.6,4.8,29.9,5.2
 Derrius Guice,WAS,RB,2019-06-11,19.6,3.9,31.1,4.6
+Derrius Guice,WAS,RB,2019-06-18,19.7,4,31,5.3
 Detrez Newsome,LAC,RB,2019-03-05,110.5,13.5,108.8,11.6
 Detrez Newsome,LAC,RB,2019-03-12,110.5,13.5,108.8,11.6
 Detrez Newsome,LAC,RB,2019-03-19,110.5,13.5,107,12.5
@@ -1896,6 +1999,7 @@ Devin Singletary,BUF,RB,2019-05-21,53.2,17.7,63.8,12.1
 Devin Singletary,BUF,RB,2019-05-28,52.1,18.2,63.8,11.8
 Devin Singletary,BUF,RB,2019-06-04,48.4,16.6,62,10.4
 Devin Singletary,BUF,RB,2019-06-11,48.6,19.2,61.4,11
+Devin Singletary,BUF,RB,2019-06-18,48.8,19.4,61.9,11.7
 Devin Singletary,FA,RB,2019-03-05,80.6,19.2,47,34
 Devin Singletary,FA,RB,2019-03-12,58.3,31.8,47,34
 Devin Singletary,FA,RB,2019-03-19,54.4,30.3,47,34
@@ -1908,6 +2012,7 @@ Devine Ozigbo,NO,RB,2019-05-21,93,22.5,107.8,7.6
 Devine Ozigbo,NO,RB,2019-05-28,93.2,22.5,107.5,7.6
 Devine Ozigbo,NO,RB,2019-06-04,101.7,22.3,109.2,7.2
 Devine Ozigbo,NO,RB,2019-06-11,108.7,19.1,109.2,6.4
+Devine Ozigbo,NO,RB,2019-06-18,106.4,18.5,109.6,6.3
 Devonta Freeman,ATL,RB,2019-01-22,24,3.6,21.8,2.4
 Devonta Freeman,ATL,RB,2019-01-29,24.6,3.5,21.8,2.4
 Devonta Freeman,ATL,RB,2019-02-05,25.8,2.7,21.5,2.5
@@ -1929,6 +2034,7 @@ Devonta Freeman,ATL,RB,2019-05-21,22.3,3.8,19.2,3.5
 Devonta Freeman,ATL,RB,2019-05-28,23,3.8,18.9,3.6
 Devonta Freeman,ATL,RB,2019-06-04,22.8,3.8,18.4,3.6
 Devonta Freeman,ATL,RB,2019-06-11,22.5,3.8,18,3.1
+Devonta Freeman,ATL,RB,2019-06-18,23.2,4.4,17.4,3.1
 Devontae Booker,DEN,RB,2019-01-22,77.7,6.2,79.9,2
 Devontae Booker,DEN,RB,2019-01-29,77.7,6.2,79.6,2.1
 Devontae Booker,DEN,RB,2019-02-05,82.3,8.5,79,2
@@ -1950,6 +2056,7 @@ Devontae Booker,DEN,RB,2019-05-21,89.1,9.2,79.1,10.2
 Devontae Booker,DEN,RB,2019-05-28,89.8,9,78.5,10.2
 Devontae Booker,DEN,RB,2019-06-04,88.4,8.6,77.2,9.5
 Devontae Booker,DEN,RB,2019-06-11,88.2,9.1,77.7,9.9
+Devontae Booker,DEN,RB,2019-06-18,89.2,11.7,77.9,10.3
 Dexter Williams,GB,RB,2019-04-30,114.5,13.5,94,11.2
 Dexter Williams,GB,RB,2019-05-07,83.9,23.9,103.8,10.2
 Dexter Williams,GB,RB,2019-05-14,85.9,23.7,97.7,14.2
@@ -1957,6 +2064,7 @@ Dexter Williams,GB,RB,2019-05-21,86.4,22.8,94.1,14.7
 Dexter Williams,GB,RB,2019-05-28,85.1,22.3,91.7,15.8
 Dexter Williams,GB,RB,2019-06-04,81.5,17,86,13.6
 Dexter Williams,GB,RB,2019-06-11,75.4,13.8,86,13.3
+Dexter Williams,GB,RB,2019-06-18,77.8,19.7,86.7,11.9
 Dion Lewis,TEN,RB,2019-01-22,39.1,2.8,41.8,2.1
 Dion Lewis,TEN,RB,2019-01-29,39.4,2.7,41.5,1.8
 Dion Lewis,TEN,RB,2019-02-05,40.9,3.6,41.1,1.7
@@ -1978,6 +2086,7 @@ Dion Lewis,TEN,RB,2019-05-21,51.4,8.3,38.7,5.5
 Dion Lewis,TEN,RB,2019-05-28,52.4,9.4,38.6,5.6
 Dion Lewis,TEN,RB,2019-06-04,52.9,8.9,38.9,5.8
 Dion Lewis,TEN,RB,2019-06-11,53.1,8.7,40,6.5
+Dion Lewis,TEN,RB,2019-06-18,53.7,8.9,40.4,7
 Doug Martin,FA,RB,2019-03-19,73,6.1,56.8,6.5
 Doug Martin,FA,RB,2019-03-26,76.8,12.4,58.2,8.1
 Doug Martin,FA,RB,2019-04-02,79.3,12,58.3,8.3
@@ -1999,6 +2108,7 @@ Doug Martin,OAK,RB,2019-05-21,84.9,9.3,73.6,14.4
 Doug Martin,OAK,RB,2019-05-28,85.9,9.4,73.6,14.1
 Doug Martin,OAK,RB,2019-06-04,84.3,7,73.6,12.5
 Doug Martin,OAK,RB,2019-06-11,85.1,7.1,74.7,11.6
+Doug Martin,OAK,RB,2019-06-18,85,8.9,75.5,10.6
 Duke Johnson,CLE,RB,2019-01-22,38.4,2.3,47,3.3
 Duke Johnson,CLE,RB,2019-01-29,38.6,2.1,47.5,3.5
 Duke Johnson,CLE,RB,2019-02-05,41,5.5,46.8,3.3
@@ -2020,6 +2130,7 @@ Duke Johnson,CLE,RB,2019-05-21,47.5,6,47.8,6
 Duke Johnson,CLE,RB,2019-05-28,48.3,6,47.3,6.3
 Duke Johnson,CLE,RB,2019-06-04,49.6,5.1,47.7,6.2
 Duke Johnson,CLE,RB,2019-06-11,48.1,4.7,48.3,6.4
+Duke Johnson,CLE,RB,2019-06-18,48.1,4.5,48.3,6.6
 Dwayne Washington,NO,RB,2019-03-05,99.5,7.5,106.7,7.7
 Dwayne Washington,NO,RB,2019-03-12,99.5,7.5,106.7,7.7
 Dwayne Washington,NO,RB,2019-03-19,99.5,7.5,107.7,8.7
@@ -2029,11 +2140,13 @@ Dwayne Washington,NO,RB,2019-05-21,116.8,17.2,114.3,10.2
 Dwayne Washington,NO,RB,2019-05-28,116.8,17.2,114.3,10.2
 Dwayne Washington,NO,RB,2019-06-04,131.3,8,106,9.9
 Dwayne Washington,NO,RB,2019-06-11,132.3,9.1,111.3,11.5
+Dwayne Washington,NO,RB,2019-06-18,132.3,9.1,119.5,14.1
 Elijah Holyfield,CAR,RB,2019-05-14,92.2,11.1,115.5,2.5
 Elijah Holyfield,CAR,RB,2019-05-21,90.3,12.4,121.7,9
 Elijah Holyfield,CAR,RB,2019-05-28,90.3,12.4,121.7,9
 Elijah Holyfield,CAR,RB,2019-06-04,98.2,12.8,96.4,33.8
 Elijah Holyfield,CAR,RB,2019-06-11,98.6,13.1,96.8,34.2
+Elijah Holyfield,CAR,RB,2019-06-18,96.3,14.7,107.5,22.6
 Elijah Holyfield,FA,RB,2019-03-05,90,12.1,61,30
 Elijah Holyfield,FA,RB,2019-03-12,81.3,18.1,61,30
 Elijah Holyfield,FA,RB,2019-03-19,80.6,18.1,61,30
@@ -2061,6 +2174,7 @@ Elijah McGuire,NYJ,RB,2019-05-21,62.2,9.1,58.5,11.2
 Elijah McGuire,NYJ,RB,2019-05-28,62.8,8.9,59.1,11.2
 Elijah McGuire,NYJ,RB,2019-06-04,61.7,7.5,59.7,10.7
 Elijah McGuire,NYJ,RB,2019-06-11,60.4,7.1,62.1,9.4
+Elijah McGuire,NYJ,RB,2019-06-18,61.3,7.8,61.4,10.3
 Elijhaa Penny,NYG,RB,2019-03-05,117.5,12.5,122,6.7
 Elijhaa Penny,NYG,RB,2019-03-12,117.5,12.5,122,6.7
 Elijhaa Penny,NYG,RB,2019-03-19,117.5,12.5,123,5.7
@@ -2087,6 +2201,7 @@ Ezekiel Elliott,DAL,RB,2019-05-21,2.8,0.7,2.2,1
 Ezekiel Elliott,DAL,RB,2019-05-28,2.7,0.7,2.2,1
 Ezekiel Elliott,DAL,RB,2019-06-04,2.7,0.7,2.3,1
 Ezekiel Elliott,DAL,RB,2019-06-11,2.7,0.7,2.3,1
+Ezekiel Elliott,DAL,RB,2019-06-18,2.7,0.6,2.3,1
 Frank Gore,BUF,RB,2019-03-19,88.1,5,67.1,6.3
 Frank Gore,BUF,RB,2019-03-26,88.8,6.4,67.3,6.5
 Frank Gore,BUF,RB,2019-04-02,89.6,6.8,67.3,6.5
@@ -2100,6 +2215,7 @@ Frank Gore,BUF,RB,2019-05-21,94.4,9.4,67.9,8.9
 Frank Gore,BUF,RB,2019-05-28,95.1,9.4,68.1,8.6
 Frank Gore,BUF,RB,2019-06-04,96.4,9.5,68.8,8.1
 Frank Gore,BUF,RB,2019-06-11,96.9,6.6,69.4,7.6
+Frank Gore,BUF,RB,2019-06-18,95.4,7.3,68.9,8.1
 Frank Gore,MIA,RB,2019-01-22,84.4,3.1,69.4,6.5
 Frank Gore,MIA,RB,2019-01-29,84.4,3.1,69,6.4
 Frank Gore,MIA,RB,2019-02-05,88.1,6,68.6,5.6
@@ -2129,6 +2245,7 @@ Giovani Bernard,CIN,RB,2019-05-21,62.8,10.7,58.5,6.6
 Giovani Bernard,CIN,RB,2019-05-28,63.6,10.5,58.3,6.3
 Giovani Bernard,CIN,RB,2019-06-04,61,7.4,58.8,6
 Giovani Bernard,CIN,RB,2019-06-11,61.3,7.5,59.5,7.1
+Giovani Bernard,CIN,RB,2019-06-18,62.8,10.2,59.6,8.1
 Gus Edwards,BAL,RB,2019-01-22,50.3,2.9,39.4,2.2
 Gus Edwards,BAL,RB,2019-01-29,50.4,2.9,39.1,2.1
 Gus Edwards,BAL,RB,2019-02-05,49.3,2.8,39.1,1.8
@@ -2150,6 +2267,7 @@ Gus Edwards,BAL,RB,2019-05-21,71.2,11.1,60.4,11.5
 Gus Edwards,BAL,RB,2019-05-28,72.2,10.8,61.1,11.3
 Gus Edwards,BAL,RB,2019-06-04,73.6,10.1,63.5,11.1
 Gus Edwards,BAL,RB,2019-06-11,71.8,10.9,66.5,10.1
+Gus Edwards,BAL,RB,2019-06-18,72.3,10.4,66.4,10
 Isaiah Crowell,FA,RB,2019-03-19,53.8,5.5,53.6,7.3
 Isaiah Crowell,FA,RB,2019-03-26,57.3,8.4,55,8
 Isaiah Crowell,NYJ,RB,2019-01-22,50,3.2,49.9,4.2
@@ -2191,10 +2309,12 @@ Ito Smith,ATL,RB,2019-05-21,44.5,5.3,46.2,6.5
 Ito Smith,ATL,RB,2019-05-28,44.1,5.5,46.5,6.2
 Ito Smith,ATL,RB,2019-06-04,44.2,3.7,47,6.6
 Ito Smith,ATL,RB,2019-06-11,44.4,3.5,47.3,7.1
+Ito Smith,ATL,RB,2019-06-18,44.9,3.7,47.3,8.4
 JD McKissic,SEA,RB,2019-04-02,109,2,115.3,7.6
 JD McKissic,SEA,RB,2019-04-09,110.7,2.9,115.3,7.6
 JD McKissic,SEA,RB,2019-06-04,123.5,2.5,88.3,18.8
 JD McKissic,SEA,RB,2019-06-11,123.5,2.5,85.3,16.4
+JD McKissic,SEA,RB,2019-06-18,123.5,2.5,95.7,18.2
 Jacquizz Rodgers,FA,RB,2019-03-19,104.6,11.7,100.8,5.7
 Jacquizz Rodgers,FA,RB,2019-03-26,106.6,10.3,101.1,5.8
 Jacquizz Rodgers,FA,RB,2019-04-02,111,7.5,100.9,5.8
@@ -2208,6 +2328,7 @@ Jacquizz Rodgers,FA,RB,2019-05-21,117.1,4.1,116.8,16.2
 Jacquizz Rodgers,FA,RB,2019-05-28,117.1,4.1,117.5,16
 Jacquizz Rodgers,FA,RB,2019-06-04,114.8,8,119.7,15.4
 Jacquizz Rodgers,FA,RB,2019-06-11,115.2,7.8,120.8,15.9
+Jacquizz Rodgers,FA,RB,2019-06-18,119,5.6,123.6,15.6
 Jacquizz Rodgers,TB,RB,2019-01-22,99.6,3.1,96.2,2.3
 Jacquizz Rodgers,TB,RB,2019-01-29,99.6,3.1,96.2,2.3
 Jacquizz Rodgers,TB,RB,2019-02-05,101.4,5.3,96,2.1
@@ -2237,6 +2358,7 @@ Jalen Richard,OAK,RB,2019-05-21,67.6,9,60.3,11
 Jalen Richard,OAK,RB,2019-05-28,66.9,8.6,60.2,10.8
 Jalen Richard,OAK,RB,2019-06-04,66,7.3,60.9,10.5
 Jalen Richard,OAK,RB,2019-06-11,65.9,7.7,59.3,10.8
+Jalen Richard,OAK,RB,2019-06-18,67,7.8,59.1,10.7
 Jamaal Williams,GB,RB,2019-01-22,52.9,3.5,55.6,1.8
 Jamaal Williams,GB,RB,2019-01-29,52.9,3.5,55.5,1.9
 Jamaal Williams,GB,RB,2019-02-05,54.9,2,55.2,1.9
@@ -2258,6 +2380,7 @@ Jamaal Williams,GB,RB,2019-05-21,56.5,7,53.6,6.1
 Jamaal Williams,GB,RB,2019-05-28,57.3,7,53.6,6
 Jamaal Williams,GB,RB,2019-06-04,56.5,5.1,54,6.2
 Jamaal Williams,GB,RB,2019-06-11,58,5.3,54.6,5.9
+Jamaal Williams,GB,RB,2019-06-18,58.5,6.1,54.4,6.7
 James Conner,PIT,RB,2019-01-22,10.6,0.5,8.8,1.4
 James Conner,PIT,RB,2019-01-29,10.6,0.5,8.6,1.4
 James Conner,PIT,RB,2019-02-05,11.1,0.8,8.7,1.3
@@ -2279,6 +2402,7 @@ James Conner,PIT,RB,2019-05-21,10.9,1.6,8.9,2.1
 James Conner,PIT,RB,2019-05-28,10.8,1.7,8.9,2.2
 James Conner,PIT,RB,2019-06-04,10.8,1.6,8.8,2.2
 James Conner,PIT,RB,2019-06-11,10.8,1.4,8.4,2
+James Conner,PIT,RB,2019-06-18,11,1.6,8.6,2.1
 James White,NE,RB,2019-01-22,30.4,2,27.6,0.7
 James White,NE,RB,2019-01-29,30.6,2.1,27.4,1.3
 James White,NE,RB,2019-02-05,32.4,2.6,27.7,1.3
@@ -2300,6 +2424,8 @@ James White,NE,RB,2019-05-21,34.4,4.1,25.4,4.9
 James White,NE,RB,2019-05-28,34.8,4.3,25.1,5.3
 James White,NE,RB,2019-06-04,33.9,3.8,24.7,5.5
 James White,NE,RB,2019-06-11,33.7,3.9,24.9,5.9
+James White,NE,RB,2019-06-18,33.9,4.3,24.9,6.1
+James Williams,FA,RB,2019-06-18,93.3,21.1,98.6,19.7
 James Williams,KC,RB,2019-05-14,91.5,22.1,96,12
 James Williams,KC,RB,2019-05-21,91.5,22.1,96.8,13.3
 James Williams,KC,RB,2019-05-28,86.9,23.7,96.8,13.3
@@ -2326,6 +2452,7 @@ Javorius Allen,FA,RB,2019-05-21,96.4,11.3,104.2,20.3
 Javorius Allen,FA,RB,2019-05-28,96.8,11.5,104.8,20
 Javorius Allen,NO,RB,2019-06-04,95.3,9.9,102.8,20.4
 Javorius Allen,NO,RB,2019-06-11,93.3,8.9,102,20
+Javorius Allen,NO,RB,2019-06-18,94.2,10.5,103.6,19.5
 Jay Ajayi,FA,RB,2019-03-19,42.6,6.3,41.4,6.7
 Jay Ajayi,FA,RB,2019-03-26,47.8,14.1,41.9,7
 Jay Ajayi,FA,RB,2019-04-02,49.8,14,42,7.1
@@ -2339,6 +2466,7 @@ Jay Ajayi,FA,RB,2019-05-21,64.5,19.5,68.5,22
 Jay Ajayi,FA,RB,2019-05-28,68.1,18.1,69.4,21.6
 Jay Ajayi,FA,RB,2019-06-04,67.5,18.6,71.1,20.6
 Jay Ajayi,FA,RB,2019-06-11,65.2,16.1,75.6,19.3
+Jay Ajayi,FA,RB,2019-06-18,69,21.3,81.5,21.7
 Jay Ajayi,PHI,RB,2019-01-22,39.9,5.1,37.9,1.7
 Jay Ajayi,PHI,RB,2019-01-29,39.3,5.4,38.8,2.7
 Jay Ajayi,PHI,RB,2019-02-05,40.4,4.5,38.6,2.4
@@ -2368,6 +2496,7 @@ Jaylen Samuels,PIT,RB,2019-05-21,54.5,9.9,57.3,7.6
 Jaylen Samuels,PIT,RB,2019-05-28,57.8,15.1,57.1,7.8
 Jaylen Samuels,PIT,RB,2019-06-04,53.7,10.9,58.4,8.4
 Jaylen Samuels,PIT,RB,2019-06-11,52.7,8.2,58.3,9.7
+Jaylen Samuels,PIT,RB,2019-06-18,55.1,13.6,58.4,10.1
 Jeff Wilson,SF,RB,2019-01-22,79.4,5,77,5.6
 Jeff Wilson,SF,RB,2019-01-29,79.4,5,77.4,5.4
 Jeff Wilson,SF,RB,2019-02-05,80.7,4.4,77.9,4.7
@@ -2389,6 +2518,7 @@ Jeff Wilson,SF,RB,2019-05-21,96.4,8.5,93.4,13.8
 Jeff Wilson,SF,RB,2019-05-28,98.4,6.7,93.2,13.9
 Jeff Wilson,SF,RB,2019-06-04,93.7,7.6,92.4,12.9
 Jeff Wilson,SF,RB,2019-06-11,93.1,7.4,94.2,13.6
+Jeff Wilson,SF,RB,2019-06-18,94.6,9,97.4,16.7
 Jeremy Hill,FA,RB,2019-03-19,98.3,5,94.6,11
 Jeremy Hill,FA,RB,2019-03-26,97.6,6.7,94.9,10.9
 Jeremy Hill,FA,RB,2019-04-02,99,6.9,94.9,10.9
@@ -2402,6 +2532,7 @@ Jeremy Hill,FA,RB,2019-05-21,105.6,11.9,114.6,18
 Jeremy Hill,FA,RB,2019-05-28,108.6,10.9,115.1,17.7
 Jeremy Hill,FA,RB,2019-06-04,109.5,11.3,112.6,18.4
 Jeremy Hill,FA,RB,2019-06-11,107.8,11.3,114.1,19
+Jeremy Hill,FA,RB,2019-06-18,107.4,11.9,120.7,18.7
 Jeremy Hill,NE,RB,2019-01-22,90.1,1.9,93.8,8.8
 Jeremy Hill,NE,RB,2019-01-29,90.1,1.9,94.6,9.7
 Jeremy Hill,NE,RB,2019-02-05,94.5,4.7,94,8.8
@@ -2431,6 +2562,7 @@ Jerick McKinnon,SF,RB,2019-05-21,34.4,4.9,33.5,6.2
 Jerick McKinnon,SF,RB,2019-05-28,35,4.4,33.9,6
 Jerick McKinnon,SF,RB,2019-06-04,34.8,3.9,33.8,5.6
 Jerick McKinnon,SF,RB,2019-06-11,35.3,4.3,35.5,5.7
+Jerick McKinnon,SF,RB,2019-06-18,36,4.5,37.3,6.9
 Joe Mixon,CIN,RB,2019-01-22,6.9,0.3,9.6,1.2
 Joe Mixon,CIN,RB,2019-01-29,7,0.5,9.5,1.1
 Joe Mixon,CIN,RB,2019-02-05,6.8,0.8,9.3,1
@@ -2452,6 +2584,7 @@ Joe Mixon,CIN,RB,2019-05-21,6.5,1,9.5,1.7
 Joe Mixon,CIN,RB,2019-05-28,6.4,1.1,9.5,1.5
 Joe Mixon,CIN,RB,2019-06-04,6.8,1.5,9.5,1.7
 Joe Mixon,CIN,RB,2019-06-11,6.1,1.2,9.9,2.6
+Joe Mixon,CIN,RB,2019-06-18,6.2,1.2,9.4,2.6
 John Kelly,LAR,RB,2019-01-22,61.6,2.2,72.9,2.3
 John Kelly,LAR,RB,2019-01-29,61.1,2.2,72.9,2.1
 John Kelly,LAR,RB,2019-02-05,65.4,3.9,73,1.9
@@ -2473,6 +2606,7 @@ John Kelly,LAR,RB,2019-05-21,77.3,10.8,85.3,11.3
 John Kelly,LAR,RB,2019-05-28,78.4,10.5,85.5,11.4
 John Kelly,LAR,RB,2019-06-04,75.5,4.6,85.9,11.4
 John Kelly,LAR,RB,2019-06-11,74.5,5.5,89.1,12.6
+John Kelly,LAR,RB,2019-06-18,76.5,8.4,90.1,12.5
 Jonathan Stewart,FA,RB,2019-03-26,122,10,107,19.3
 Jonathan Stewart,FA,RB,2019-04-02,125.3,9.4,107,19.3
 Jonathan Stewart,FA,RB,2019-04-09,125.3,9.4,107,19.3
@@ -2499,12 +2633,14 @@ Jordan Howard,PHI,RB,2019-05-21,37.6,6.8,37.2,7.3
 Jordan Howard,PHI,RB,2019-05-28,39.1,7.5,37.8,7.6
 Jordan Howard,PHI,RB,2019-06-04,39.1,5.5,38.4,6.8
 Jordan Howard,PHI,RB,2019-06-11,39.2,6,40.7,6.7
+Jordan Howard,PHI,RB,2019-06-18,40.3,7.5,40.9,7.2
 Jordan Scarlett,CAR,RB,2019-05-07,97.2,17.5,92.5,6.5
 Jordan Scarlett,CAR,RB,2019-05-14,98.9,18,81,18
 Jordan Scarlett,CAR,RB,2019-05-21,95.8,19.7,101.5,14.7
 Jordan Scarlett,CAR,RB,2019-05-28,95.6,19.6,101.5,14.7
 Jordan Scarlett,CAR,RB,2019-06-04,98.1,15.4,98.9,14.6
 Jordan Scarlett,CAR,RB,2019-06-11,95.9,15.5,100.6,15.9
+Jordan Scarlett,CAR,RB,2019-06-18,95.5,19.6,97.8,19.4
 Jordan Wilkins,IND,RB,2019-01-22,63.4,1.2,70.6,2.1
 Jordan Wilkins,IND,RB,2019-01-29,63.1,1.2,70.6,1.9
 Jordan Wilkins,IND,RB,2019-02-05,65.9,5.3,70.5,1.7
@@ -2526,6 +2662,7 @@ Jordan Wilkins,IND,RB,2019-05-21,77,10.8,74.8,5.5
 Jordan Wilkins,IND,RB,2019-05-28,77,11.5,74.8,5.7
 Jordan Wilkins,IND,RB,2019-06-04,77.2,8.3,76.3,6.8
 Jordan Wilkins,IND,RB,2019-06-11,75.3,6.2,77.6,7.3
+Jordan Wilkins,IND,RB,2019-06-18,74.3,8.1,79.8,9.2
 Josh Adams,PHI,RB,2019-01-22,47.7,2.6,44.9,3.4
 Josh Adams,PHI,RB,2019-01-29,48,2.6,44.4,3.4
 Josh Adams,PHI,RB,2019-02-05,51.4,3.2,44.8,3.3
@@ -2547,6 +2684,7 @@ Josh Adams,PHI,RB,2019-05-21,68.6,12.7,73,15.5
 Josh Adams,PHI,RB,2019-05-28,69.6,13.4,73.3,15
 Josh Adams,PHI,RB,2019-06-04,70.2,12.3,75,13.1
 Josh Adams,PHI,RB,2019-06-11,67.5,10,75.9,13.7
+Josh Adams,PHI,RB,2019-06-18,68.9,10.8,77.1,14.8
 Josh Jacobs,FA,RB,2019-02-12,46.6,25.7,58.5,33.5
 Josh Jacobs,FA,RB,2019-02-19,53,27.5,58.5,33.5
 Josh Jacobs,FA,RB,2019-02-26,58.8,26.6,58.5,33.5
@@ -2565,6 +2703,7 @@ Josh Jacobs,OAK,RB,2019-05-21,20.1,6.2,24.6,15
 Josh Jacobs,OAK,RB,2019-05-28,20.3,6.4,24.1,14.1
 Josh Jacobs,OAK,RB,2019-06-04,19.9,7.2,23.3,12.6
 Josh Jacobs,OAK,RB,2019-06-11,22.9,13.7,22.4,12.6
+Josh Jacobs,OAK,RB,2019-06-18,21.8,13.2,21.5,6.2
 Justice Hill,BAL,RB,2019-04-30,59.8,24.8,71.9,15.4
 Justice Hill,BAL,RB,2019-05-07,57,19.4,70.5,16.1
 Justice Hill,BAL,RB,2019-05-14,55.2,18.5,68.7,14.8
@@ -2572,6 +2711,7 @@ Justice Hill,BAL,RB,2019-05-21,55.2,17.7,68.8,15.6
 Justice Hill,BAL,RB,2019-05-28,53.7,17.7,68.3,15.2
 Justice Hill,BAL,RB,2019-06-04,52.7,14.3,67.3,13.8
 Justice Hill,BAL,RB,2019-06-11,55.5,15.3,65,14.8
+Justice Hill,BAL,RB,2019-06-18,54.5,15.9,65.6,14.2
 Justice Hill,FA,RB,2019-04-09,54.2,17.1,78.3,22.4
 Justice Hill,FA,RB,2019-04-16,58,16.1,83.5,24.3
 Justice Hill,FA,RB,2019-04-23,65.7,16.4,83.5,24.3
@@ -2598,6 +2738,7 @@ Justin Jackson,LAC,RB,2019-05-21,80.2,10,75.7,5.7
 Justin Jackson,LAC,RB,2019-05-28,80.5,9,75.5,6.4
 Justin Jackson,LAC,RB,2019-06-04,80.4,8.7,75.1,6.5
 Justin Jackson,LAC,RB,2019-06-11,81.6,8,74.6,6.8
+Justin Jackson,LAC,RB,2019-06-18,80.5,8.1,74.6,6.8
 Kalen Ballage,MIA,RB,2019-01-22,52.3,7.5,62.6,1.6
 Kalen Ballage,MIA,RB,2019-01-29,52,7.7,61.7,3.1
 Kalen Ballage,MIA,RB,2019-02-05,52.9,6.9,61.8,2.8
@@ -2619,6 +2760,8 @@ Kalen Ballage,MIA,RB,2019-05-21,55.9,5.3,59,6.4
 Kalen Ballage,MIA,RB,2019-05-28,55.1,5.4,58.4,6.5
 Kalen Ballage,MIA,RB,2019-06-04,56.2,4.4,58.6,6.3
 Kalen Ballage,MIA,RB,2019-06-11,55.6,3.8,56.9,6.7
+Kalen Ballage,MIA,RB,2019-06-18,55.5,4.3,56.2,7.1
+Kapri Bibbs,FA,RB,2019-06-18,127,13.9,119.6,5.5
 Kapri Bibbs,GB,RB,2019-04-02,112,2,104,6.5
 Kapri Bibbs,GB,RB,2019-04-09,113.7,2.9,104,6.5
 Kapri Bibbs,GB,RB,2019-05-21,120.3,5.4,117,5.4
@@ -2631,6 +2774,7 @@ Karan Higdon,HOU,RB,2019-05-21,97.1,11.8,102,14.3
 Karan Higdon,HOU,RB,2019-05-28,97,11.7,102,14.3
 Karan Higdon,HOU,RB,2019-06-04,102.1,13.3,98.2,7.9
 Karan Higdon,HOU,RB,2019-06-11,106.6,13.3,101.6,5.5
+Karan Higdon,HOU,RB,2019-06-18,104.8,12.8,97.6,8.1
 Kareem Hunt,CLE,RB,2019-02-19,22.9,5.9,41.5,5.9
 Kareem Hunt,CLE,RB,2019-02-26,24,5.2,41.6,5.5
 Kareem Hunt,CLE,RB,2019-03-05,24.9,4.9,41.7,5.8
@@ -2648,6 +2792,7 @@ Kareem Hunt,CLE,RB,2019-05-21,27.1,5.6,49.9,9.8
 Kareem Hunt,CLE,RB,2019-05-28,27.6,5.5,49.1,7.4
 Kareem Hunt,CLE,RB,2019-06-04,29.2,6.6,49.1,7.3
 Kareem Hunt,CLE,RB,2019-06-11,29.3,6.6,51.5,7.8
+Kareem Hunt,CLE,RB,2019-06-18,28.9,6.9,52.1,8.2
 Kareem Hunt,FA,RB,2019-01-22,24.7,2.1,40.5,4
 Kareem Hunt,FA,RB,2019-01-29,24.9,2.2,40.6,5.5
 Kareem Hunt,FA,RB,2019-02-05,25.9,4.3,40.7,4.8
@@ -2673,6 +2818,7 @@ Kenneth Dixon,BAL,RB,2019-05-21,68.9,10.1,55.5,14.5
 Kenneth Dixon,BAL,RB,2019-05-28,69.1,11.2,55.6,14.2
 Kenneth Dixon,BAL,RB,2019-06-04,70.3,10.6,57.4,13.5
 Kenneth Dixon,BAL,RB,2019-06-11,68,9.9,60.7,13.5
+Kenneth Dixon,BAL,RB,2019-06-18,69.4,9.9,61.1,12.5
 Kenyan Drake,MIA,RB,2019-01-22,29.6,1.7,30.9,1.4
 Kenyan Drake,MIA,RB,2019-01-29,28.6,2,31,1.2
 Kenyan Drake,MIA,RB,2019-02-05,30.4,1.5,31.1,1.1
@@ -2694,6 +2840,7 @@ Kenyan Drake,MIA,RB,2019-05-21,31.4,5.9,25.8,4.7
 Kenyan Drake,MIA,RB,2019-05-28,30.7,4.2,25.4,4.8
 Kenyan Drake,MIA,RB,2019-06-04,30,4.5,24.5,5.6
 Kenyan Drake,MIA,RB,2019-06-11,30.4,3.9,22.7,5.4
+Kenyan Drake,MIA,RB,2019-06-18,31,4.6,22.6,5.9
 Kerryon Johnson,DET,RB,2019-01-22,15.4,1.5,20.7,1.9
 Kerryon Johnson,DET,RB,2019-01-29,15.3,1.7,19.6,2.5
 Kerryon Johnson,DET,RB,2019-02-05,14.8,1.7,19.8,2.4
@@ -2715,6 +2862,7 @@ Kerryon Johnson,DET,RB,2019-05-21,15.3,2.9,21.9,3
 Kerryon Johnson,DET,RB,2019-05-28,15.5,2.9,21.4,3.2
 Kerryon Johnson,DET,RB,2019-06-04,15.1,2.6,21.2,3.8
 Kerryon Johnson,DET,RB,2019-06-11,14.9,2.7,20.1,3.4
+Kerryon Johnson,DET,RB,2019-06-18,15,2.6,19.8,3.7
 Kyle Juszczyk,SF,RB,2019-01-22,98,2.4,100.3,5.4
 Kyle Juszczyk,SF,RB,2019-01-29,98.8,3.6,99,5.2
 Kyle Juszczyk,SF,RB,2019-02-05,99.6,6.8,99,5.2
@@ -2734,6 +2882,7 @@ Kyle Juszczyk,SF,RB,2019-05-21,112.6,10.6,98.4,6.2
 Kyle Juszczyk,SF,RB,2019-05-28,112.6,10.6,95.4,11.4
 Kyle Juszczyk,SF,RB,2019-06-04,112.7,12.5,96,12.3
 Kyle Juszczyk,SF,RB,2019-06-11,113.6,12.4,94,12.4
+Kyle Juszczyk,SF,RB,2019-06-18,112.4,11,89.9,13
 Lamar Miller,HOU,RB,2019-01-22,36.3,1.4,24.8,1
 Lamar Miller,HOU,RB,2019-01-29,36.3,1.4,25.2,1.3
 Lamar Miller,HOU,RB,2019-02-05,36,2.3,25.1,1.2
@@ -2755,6 +2904,7 @@ Lamar Miller,HOU,RB,2019-05-21,37.4,4.3,27.9,2.9
 Lamar Miller,HOU,RB,2019-05-28,37.8,5.1,28,2.8
 Lamar Miller,HOU,RB,2019-06-04,37.3,3.6,28.2,3.1
 Lamar Miller,HOU,RB,2019-06-11,37.7,3.5,28.3,3.1
+Lamar Miller,HOU,RB,2019-06-18,38.3,3.9,28.6,3.4
 Latavius Murray,MIN,RB,2019-01-22,56.4,2.5,49.8,5.3
 Latavius Murray,MIN,RB,2019-01-29,57.3,2.9,49.4,4.7
 Latavius Murray,MIN,RB,2019-02-05,59,4.8,48.9,4.2
@@ -2776,6 +2926,7 @@ Latavius Murray,NO,RB,2019-05-21,45.7,8,36.8,6.4
 Latavius Murray,NO,RB,2019-05-28,45.8,8.5,36.5,6.4
 Latavius Murray,NO,RB,2019-06-04,46.2,9,35.5,6.1
 Latavius Murray,NO,RB,2019-06-11,46.4,7.8,34.6,4.9
+Latavius Murray,NO,RB,2019-06-18,45.5,7.9,34.8,5.7
 LeVeon Bell,NYJ,RB,2019-03-19,11.2,1.9,8.8,1.9
 LeVeon Bell,NYJ,RB,2019-03-26,11.3,1.9,8.6,1.8
 LeVeon Bell,NYJ,RB,2019-04-02,11.7,1.3,8.5,1.7
@@ -2789,6 +2940,7 @@ LeVeon Bell,NYJ,RB,2019-05-21,10.8,1.5,7.6,1.7
 LeVeon Bell,NYJ,RB,2019-05-28,11,1.6,7.8,1.7
 LeVeon Bell,NYJ,RB,2019-06-04,10.8,1.6,7.9,1.9
 LeVeon Bell,NYJ,RB,2019-06-11,11,1.3,7.9,1.5
+LeVeon Bell,NYJ,RB,2019-06-18,10.8,1.5,8.1,1.8
 LeVeon Bell,PIT,RB,2019-01-22,12.4,0.5,9,1.2
 LeVeon Bell,PIT,RB,2019-01-29,12.4,0.5,9.2,1.4
 LeVeon Bell,PIT,RB,2019-02-05,12.4,0.9,9.4,1.3
@@ -2818,6 +2970,7 @@ LeGarrette Blount,FA,RB,2019-05-21,99,8.3,101.4,15.5
 LeGarrette Blount,FA,RB,2019-05-28,101.3,7.5,101.6,15.2
 LeGarrette Blount,FA,RB,2019-06-04,98.7,5.4,100.2,13.4
 LeGarrette Blount,FA,RB,2019-06-11,97.9,6.1,101.9,13.6
+LeGarrette Blount,FA,RB,2019-06-18,98.3,6.4,105.1,15.1
 LeSean McCoy,BUF,RB,2019-01-22,46.9,3.8,30.4,1.4
 LeSean McCoy,BUF,RB,2019-01-29,46.4,4.2,30.1,1.6
 LeSean McCoy,BUF,RB,2019-02-05,48.9,5.3,30.1,1.5
@@ -2839,6 +2992,7 @@ LeSean McCoy,BUF,RB,2019-05-21,53.7,6.9,35.4,5.5
 LeSean McCoy,BUF,RB,2019-05-28,55.4,7.2,35.4,5.2
 LeSean McCoy,BUF,RB,2019-06-04,55.2,8.8,35.4,5
 LeSean McCoy,BUF,RB,2019-06-11,55.1,8.7,36.7,5
+LeSean McCoy,BUF,RB,2019-06-18,55.1,8.3,36.4,4.5
 Leonard Fournette,JAC,RB,2019-01-22,16,3.3,15.1,1.4
 Leonard Fournette,JAC,RB,2019-01-29,15.9,3.1,15.4,1.6
 Leonard Fournette,JAC,RB,2019-02-05,16.9,2.6,15.1,1.4
@@ -2860,6 +3014,7 @@ Leonard Fournette,JAC,RB,2019-05-21,17.3,3.2,14.4,2.6
 Leonard Fournette,JAC,RB,2019-05-28,17.1,3.2,14.2,2.9
 Leonard Fournette,JAC,RB,2019-06-04,17.9,2.8,14.5,3.1
 Leonard Fournette,JAC,RB,2019-06-11,17.9,3.1,14.6,3
+Leonard Fournette,JAC,RB,2019-06-18,18.1,3.7,14.4,2.8
 Malcolm Brown,FA,RB,2019-03-19,79.1,5.5,71.3,5.2
 Malcolm Brown,LAR,RB,2019-01-22,74.4,6.5,70.5,3.4
 Malcolm Brown,LAR,RB,2019-01-29,74.4,6.5,70.2,3.3
@@ -2881,6 +3036,7 @@ Malcolm Brown,LAR,RB,2019-05-21,86.5,9.5,71.6,9.6
 Malcolm Brown,LAR,RB,2019-05-28,85.5,10.6,71.5,9.5
 Malcolm Brown,LAR,RB,2019-06-04,81.8,10.6,71.7,8.5
 Malcolm Brown,LAR,RB,2019-06-11,82.8,9.7,71.7,9.1
+Malcolm Brown,LAR,RB,2019-06-18,83.3,10.5,72.4,10
 Marcus Murphy,BUF,RB,2019-01-22,100.8,6.3,98,1.9
 Marcus Murphy,BUF,RB,2019-01-29,100.8,6.3,98.1,1.8
 Marcus Murphy,BUF,RB,2019-02-05,104.3,7,97.6,1.9
@@ -2902,6 +3058,7 @@ Marcus Murphy,BUF,RB,2019-05-21,111.1,10.2,101.1,11.6
 Marcus Murphy,BUF,RB,2019-05-28,111.1,10.2,101.2,11.6
 Marcus Murphy,BUF,RB,2019-06-04,110.7,8.4,100.7,10.5
 Marcus Murphy,BUF,RB,2019-06-11,110.6,8.2,101.7,11.5
+Marcus Murphy,BUF,RB,2019-06-18,112.3,8.5,104.4,14.1
 Mark Ingram,BAL,RB,2019-03-19,28.2,3.2,26.8,3.5
 Mark Ingram,BAL,RB,2019-03-26,27.3,2.3,25,3.5
 Mark Ingram,BAL,RB,2019-04-02,27.8,2.2,25,3.5
@@ -2915,6 +3072,7 @@ Mark Ingram,BAL,RB,2019-05-21,28.8,3.1,24.6,4.4
 Mark Ingram,BAL,RB,2019-05-28,29.4,3,24.7,4.3
 Mark Ingram,BAL,RB,2019-06-04,29.3,3.5,24.3,4.7
 Mark Ingram,BAL,RB,2019-06-11,29.3,3.4,24.1,3.9
+Mark Ingram,BAL,RB,2019-06-18,29.4,3.5,24.2,4
 Mark Ingram,NO,RB,2019-01-22,27.9,1.9,27.4,1.5
 Mark Ingram,NO,RB,2019-01-29,27.7,2.2,27.4,1.4
 Mark Ingram,NO,RB,2019-02-05,27.9,2.5,27.6,1.3
@@ -2944,6 +3102,7 @@ Mark Walton,MIA,RB,2019-05-21,95.5,14.2,103.8,17.8
 Mark Walton,MIA,RB,2019-05-28,96.8,13.8,103.6,16.8
 Mark Walton,MIA,RB,2019-06-04,96.2,13.6,99.2,14.3
 Mark Walton,MIA,RB,2019-06-11,89.3,10,101.3,14.5
+Mark Walton,MIA,RB,2019-06-18,91.9,12.1,101.7,14
 Marlon Mack,IND,RB,2019-01-22,22.4,2.3,16.8,1.8
 Marlon Mack,IND,RB,2019-01-29,22.4,2.3,17,1.8
 Marlon Mack,IND,RB,2019-02-05,20.5,1.7,16.8,1.6
@@ -2965,6 +3124,7 @@ Marlon Mack,IND,RB,2019-05-21,19.5,3.4,16,3.3
 Marlon Mack,IND,RB,2019-05-28,19.3,2.9,16.1,3.4
 Marlon Mack,IND,RB,2019-06-04,19.1,3.3,16.6,3.3
 Marlon Mack,IND,RB,2019-06-11,18.4,3.4,16.5,3.3
+Marlon Mack,IND,RB,2019-06-18,18.7,3.6,16.5,3.5
 Marshawn Lynch,FA,RB,2019-03-19,74,3.7,98.6,10.2
 Marshawn Lynch,FA,RB,2019-03-26,75.2,5.1,97.9,10.3
 Marshawn Lynch,FA,RB,2019-04-02,76.6,6.4,97.9,10.3
@@ -3006,6 +3166,7 @@ Matt Breida,SF,RB,2019-05-21,42.8,8.4,43.1,7.9
 Matt Breida,SF,RB,2019-05-28,43.6,8.5,43.2,7.8
 Matt Breida,SF,RB,2019-06-04,42.7,6.2,43.7,7.3
 Matt Breida,SF,RB,2019-06-11,42.1,6.5,45.3,6.9
+Matt Breida,SF,RB,2019-06-18,43.2,7.6,45.2,7
 Melvin Gordon,LAC,RB,2019-01-22,6.6,1,5.8,0.4
 Melvin Gordon,LAC,RB,2019-01-29,6.7,1.3,5.8,0.4
 Melvin Gordon,LAC,RB,2019-02-05,7,1.4,5.9,0.3
@@ -3027,6 +3188,7 @@ Melvin Gordon,LAC,RB,2019-05-21,6.6,0.9,6,1
 Melvin Gordon,LAC,RB,2019-05-28,6.5,0.9,5.9,0.9
 Melvin Gordon,LAC,RB,2019-06-04,6.6,0.8,5.8,1.1
 Melvin Gordon,LAC,RB,2019-06-11,6.4,0.9,5.9,1.1
+Melvin Gordon,LAC,RB,2019-06-18,6.3,1,6,1.1
 Mike Boone,MIN,RB,2019-01-22,96,24,101,10
 Mike Boone,MIN,RB,2019-01-29,98,26,101,10
 Mike Boone,MIN,RB,2019-02-05,98,18.4,101,10
@@ -3043,6 +3205,7 @@ Mike Boone,MIN,RB,2019-05-21,93.6,9.8,84.4,18.7
 Mike Boone,MIN,RB,2019-05-28,93.6,9.8,89.8,12.4
 Mike Boone,MIN,RB,2019-06-04,89.8,19.7,90.7,10.5
 Mike Boone,MIN,RB,2019-06-11,99.3,14.4,86.7,14.8
+Mike Boone,MIN,RB,2019-06-18,96,12.2,93.5,17.2
 Mike Davis,CHI,RB,2019-03-19,72.9,3.2,66.2,6.6
 Mike Davis,CHI,RB,2019-03-26,71.1,11.3,64.9,7.6
 Mike Davis,CHI,RB,2019-04-02,68.9,17.8,64.9,7.6
@@ -3056,6 +3219,7 @@ Mike Davis,CHI,RB,2019-05-21,61.1,9.9,59.3,8.6
 Mike Davis,CHI,RB,2019-05-28,61.7,12.1,60.1,8.6
 Mike Davis,CHI,RB,2019-06-04,61.5,10.3,61.2,7.3
 Mike Davis,CHI,RB,2019-06-11,64.8,11.8,62.2,7.5
+Mike Davis,CHI,RB,2019-06-18,64.7,11.5,60.9,7.5
 Mike Davis,SEA,RB,2019-01-22,76.7,4,69.1,3.3
 Mike Davis,SEA,RB,2019-01-29,76.7,4,67.5,4.9
 Mike Davis,SEA,RB,2019-02-05,74.5,4.1,67.1,4.4
@@ -3071,6 +3235,7 @@ Mike Weber,DAL,RB,2019-05-21,88.7,14.6,87.4,11.2
 Mike Weber,DAL,RB,2019-05-28,87.9,14.3,87.3,11.1
 Mike Weber,DAL,RB,2019-06-04,89.2,10.4,89,9.7
 Mike Weber,DAL,RB,2019-06-11,89,10.3,89.4,9.5
+Mike Weber,DAL,RB,2019-06-18,87.8,13.2,91.1,10.3
 Mike Weber,FA,RB,2019-04-09,69.4,10.9,72.7,21
 Mike Weber,FA,RB,2019-04-16,70,12.1,73,20.7
 Mike Weber,FA,RB,2019-04-23,72.5,15.5,73,20.7
@@ -3083,6 +3248,7 @@ Miles Sanders,PHI,RB,2019-05-21,28.2,10.5,36.7,10.9
 Miles Sanders,PHI,RB,2019-05-28,26.8,8.2,36.4,10.9
 Miles Sanders,PHI,RB,2019-06-04,24.9,8.3,36.1,9.1
 Miles Sanders,PHI,RB,2019-06-11,26.3,9.5,33.8,6.4
+Miles Sanders,PHI,RB,2019-06-18,25.7,9.5,36.2,9.7
 Myles Gaskin,MIA,RB,2019-04-30,80,18,100,7
 Myles Gaskin,MIA,RB,2019-05-07,94.2,21.1,100.2,8.4
 Myles Gaskin,MIA,RB,2019-05-14,92.1,19.2,94.6,9.3
@@ -3090,6 +3256,7 @@ Myles Gaskin,MIA,RB,2019-05-21,93.2,18.9,90.6,16.7
 Myles Gaskin,MIA,RB,2019-05-28,92,17.1,90.5,16.7
 Myles Gaskin,MIA,RB,2019-06-04,91.5,10,91.9,13
 Myles Gaskin,MIA,RB,2019-06-11,89.6,13.3,93.7,14.8
+Myles Gaskin,MIA,RB,2019-06-18,93.4,16.2,91.8,15.5
 Nick Chubb,CLE,RB,2019-01-22,9.1,0.6,8.3,1.1
 Nick Chubb,CLE,RB,2019-01-29,8.9,1,8.7,1.5
 Nick Chubb,CLE,RB,2019-02-05,8.6,1.1,8.3,1.5
@@ -3111,6 +3278,7 @@ Nick Chubb,CLE,RB,2019-05-21,9,1.8,12,2.7
 Nick Chubb,CLE,RB,2019-05-28,9,1.6,12.1,2.8
 Nick Chubb,CLE,RB,2019-06-04,9.3,1.7,12.4,3.5
 Nick Chubb,CLE,RB,2019-06-11,9,1.7,12.4,3.1
+Nick Chubb,CLE,RB,2019-06-18,8.8,1.8,12.4,3.2
 Nyheim Hines,IND,RB,2019-01-22,42.3,1.5,46.8,2.7
 Nyheim Hines,IND,RB,2019-01-29,41.7,2.1,45.8,2.5
 Nyheim Hines,IND,RB,2019-02-05,43.1,4.1,45.2,2.4
@@ -3132,6 +3300,7 @@ Nyheim Hines,IND,RB,2019-05-21,45,6.1,42,7.6
 Nyheim Hines,IND,RB,2019-05-28,45.1,6.4,42,7.4
 Nyheim Hines,IND,RB,2019-06-04,44.7,4.8,41.3,6
 Nyheim Hines,IND,RB,2019-06-11,43.6,3.9,41.7,6.1
+Nyheim Hines,IND,RB,2019-06-18,44.5,5.7,42.3,7.9
 Peyton Barber,FA,RB,2019-03-19,65.9,4.5,57.4,6.2
 Peyton Barber,TB,RB,2019-01-22,66.4,7.1,56.1,5.3
 Peyton Barber,TB,RB,2019-01-29,66.4,7.1,56.4,5
@@ -3153,6 +3322,7 @@ Peyton Barber,TB,RB,2019-05-21,64.9,10.4,52.5,10.8
 Peyton Barber,TB,RB,2019-05-28,64.1,11.2,51.6,11.2
 Peyton Barber,TB,RB,2019-06-04,60.2,11.9,50.3,10.1
 Peyton Barber,TB,RB,2019-06-11,62.1,10.3,51.1,12
+Peyton Barber,TB,RB,2019-06-18,63.3,10.2,51.7,11.9
 Phillip Lindsay,DEN,RB,2019-01-22,17.9,0.6,18.2,0.6
 Phillip Lindsay,DEN,RB,2019-01-29,18.1,0.6,18.3,0.9
 Phillip Lindsay,DEN,RB,2019-02-05,18.3,0.7,18.3,0.9
@@ -3174,11 +3344,13 @@ Phillip Lindsay,DEN,RB,2019-05-21,21,3.3,21.2,3.6
 Phillip Lindsay,DEN,RB,2019-05-28,20.6,3.3,21.6,3.8
 Phillip Lindsay,DEN,RB,2019-06-04,22.2,3.1,21.4,3.9
 Phillip Lindsay,DEN,RB,2019-06-11,21.9,3.1,21.5,3.6
+Phillip Lindsay,DEN,RB,2019-06-18,21.8,2.9,21.3,3.3
 Qadree Ollison,ATL,RB,2019-05-14,95.2,17.9,92,5
 Qadree Ollison,ATL,RB,2019-05-21,92.5,18.1,95.8,5.3
 Qadree Ollison,ATL,RB,2019-05-28,92.2,17.4,95.8,5.3
 Qadree Ollison,ATL,RB,2019-06-04,95.1,19,95.6,4.3
 Qadree Ollison,ATL,RB,2019-06-11,95.4,17.8,92,9.4
+Qadree Ollison,ATL,RB,2019-06-18,93.3,18.1,92.4,11.9
 Raheem Mostert,SF,RB,2019-04-02,100.5,11.5,99.2,13.5
 Raheem Mostert,SF,RB,2019-04-09,104,10.6,99.2,13.5
 Raheem Mostert,SF,RB,2019-05-07,114.5,4.5,100.5,3.5
@@ -3187,6 +3359,7 @@ Raheem Mostert,SF,RB,2019-05-21,107.3,11.9,104,4.4
 Raheem Mostert,SF,RB,2019-05-28,107.3,11.9,103.8,4.3
 Raheem Mostert,SF,RB,2019-06-04,114,15.5,108.8,4.5
 Raheem Mostert,SF,RB,2019-06-11,113,16.8,108,4.5
+Raheem Mostert,SF,RB,2019-06-18,113,16.8,109,10.3
 Rashaad Penny,SEA,RB,2019-01-22,21,1.1,33.2,1.6
 Rashaad Penny,SEA,RB,2019-01-29,21.3,1.7,34.1,2.1
 Rashaad Penny,SEA,RB,2019-02-05,22.4,2.6,33.9,1.9
@@ -3208,6 +3381,7 @@ Rashaad Penny,SEA,RB,2019-05-21,26.3,3.7,36.5,3.9
 Rashaad Penny,SEA,RB,2019-05-28,26.2,3.8,36.8,4.3
 Rashaad Penny,SEA,RB,2019-06-04,27.5,3.9,37,4
 Rashaad Penny,SEA,RB,2019-06-11,27.3,3.6,36.6,4.4
+Rashaad Penny,SEA,RB,2019-06-18,26.7,3.5,35.6,4.8
 Rex Burkhead,NE,RB,2019-01-22,54.7,3.6,46.3,4.7
 Rex Burkhead,NE,RB,2019-01-29,55.6,4.6,46.7,4.9
 Rex Burkhead,NE,RB,2019-02-05,59,4.4,45.7,4.7
@@ -3229,6 +3403,7 @@ Rex Burkhead,NE,RB,2019-05-21,71.8,9.7,52.6,9.9
 Rex Burkhead,NE,RB,2019-05-28,72.1,9.9,53,10.1
 Rex Burkhead,NE,RB,2019-06-04,71.5,9.1,55.5,10.9
 Rex Burkhead,NE,RB,2019-06-11,69.8,8.7,58.4,10.1
+Rex Burkhead,NE,RB,2019-06-18,70.5,8.9,59.2,11.1
 Robert Kelley,FA,RB,2019-03-19,104.7,8.7,99.3,5.8
 Robert Kelley,FA,RB,2019-03-26,106,7.3,101,6.2
 Robert Kelley,FA,RB,2019-04-02,109.8,7.3,101,6.2
@@ -3263,6 +3438,7 @@ Roc Thomas,MIN,RB,2019-05-21,105.7,11.8,109.3,7.7
 Roc Thomas,MIN,RB,2019-05-28,105.7,11.8,109.3,7.7
 Roc Thomas,MIN,RB,2019-06-04,114,14.8,109.3,7.7
 Roc Thomas,MIN,RB,2019-06-11,107.6,17.2,107.4,8.6
+Roc Thomas,MIN,RB,2019-06-18,108,15.7,116,10.6
 Rod Smith,DAL,RB,2019-01-22,82,2.8,78.6,2.5
 Rod Smith,DAL,RB,2019-01-29,82,2.8,78.3,2.5
 Rod Smith,DAL,RB,2019-02-05,83.4,4.5,77.8,2.3
@@ -3284,6 +3460,7 @@ Rod Smith,NYG,RB,2019-05-21,98.2,13.5,93.1,11.9
 Rod Smith,NYG,RB,2019-05-28,99.6,13.4,93.1,11.5
 Rod Smith,NYG,RB,2019-06-04,95.6,9.1,92,12.6
 Rod Smith,NYG,RB,2019-06-11,93.4,8.2,93,12.3
+Rod Smith,NYG,RB,2019-06-18,95.5,9,94.7,12.1
 Rodney Anderson,CIN,RB,2019-04-30,88,22.2,95.5,16.7
 Rodney Anderson,CIN,RB,2019-05-07,70.7,17.8,101.2,10.5
 Rodney Anderson,CIN,RB,2019-05-14,71.2,16.7,97.6,11
@@ -3291,6 +3468,7 @@ Rodney Anderson,CIN,RB,2019-05-21,71.7,15.8,92.2,13.7
 Rodney Anderson,CIN,RB,2019-05-28,72.4,17,92.6,13.6
 Rodney Anderson,CIN,RB,2019-06-04,75.4,13.9,91.5,13
 Rodney Anderson,CIN,RB,2019-06-11,77,13.9,89,10.3
+Rodney Anderson,CIN,RB,2019-06-18,75.2,17.2,84.1,8.8
 Rodney Anderson,FA,RB,2019-02-12,74.2,19.8,73,17
 Rodney Anderson,FA,RB,2019-02-19,74.4,19.5,73,17
 Rodney Anderson,FA,RB,2019-02-26,74.4,19.5,73,17
@@ -3321,6 +3499,7 @@ Ronald Jones,TB,RB,2019-05-21,41.5,6,43.1,6.8
 Ronald Jones,TB,RB,2019-05-28,41.1,5.6,43.5,7.2
 Ronald Jones,TB,RB,2019-06-04,40.2,5.3,42.1,7.7
 Ronald Jones,TB,RB,2019-06-11,40.3,4.5,42.2,8.4
+Ronald Jones,TB,RB,2019-06-18,39.9,4.6,41.9,8.4
 Royce Freeman,DEN,RB,2019-01-22,25.9,1.1,36.2,3
 Royce Freeman,DEN,RB,2019-01-29,26.3,1.2,36.7,3.5
 Royce Freeman,DEN,RB,2019-02-05,27.3,1.5,36.5,3.2
@@ -3342,6 +3521,7 @@ Royce Freeman,DEN,RB,2019-05-21,32.8,3.5,39.5,4.1
 Royce Freeman,DEN,RB,2019-05-28,33.2,4.3,39.1,3.7
 Royce Freeman,DEN,RB,2019-06-04,34.3,4.1,39.7,3.4
 Royce Freeman,DEN,RB,2019-06-11,34.7,4.1,40.1,3.8
+Royce Freeman,DEN,RB,2019-06-18,34.3,4.2,39.7,3.9
 Ryquell Armstead,JAC,RB,2019-04-30,100.7,34.6,73,18.5
 Ryquell Armstead,JAC,RB,2019-05-07,84,24.7,82.9,17.6
 Ryquell Armstead,JAC,RB,2019-05-14,81.5,23.9,77.9,15.5
@@ -3349,6 +3529,7 @@ Ryquell Armstead,JAC,RB,2019-05-21,80.1,22.6,76.1,13.9
 Ryquell Armstead,JAC,RB,2019-05-28,80.3,23,76.7,13.8
 Ryquell Armstead,JAC,RB,2019-06-04,78.7,16.8,74.5,12.6
 Ryquell Armstead,JAC,RB,2019-06-11,75.9,12.7,72.8,11.9
+Ryquell Armstead,JAC,RB,2019-06-18,76.6,18.4,73,11.1
 Samaje Perine,WAS,RB,2019-01-22,88.1,4.9,95,6.2
 Samaje Perine,WAS,RB,2019-01-29,88.1,4.9,95,6.2
 Samaje Perine,WAS,RB,2019-02-05,95.1,7.4,95,6.2
@@ -3369,6 +3550,7 @@ Samaje Perine,WAS,RB,2019-05-21,104.6,12.4,110.3,4.9
 Samaje Perine,WAS,RB,2019-05-28,105.9,12,106,13.4
 Samaje Perine,WAS,RB,2019-06-04,105.9,13.9,105.8,13.2
 Samaje Perine,WAS,RB,2019-06-11,102.5,13.4,104,14.9
+Samaje Perine,WAS,RB,2019-06-18,103.7,13.5,106.4,14.2
 Saquon Barkley,NYG,RB,2019-01-22,1.3,0.5,2.2,0.6
 Saquon Barkley,NYG,RB,2019-01-29,1.3,0.5,2,0.7
 Saquon Barkley,NYG,RB,2019-02-05,1.1,0.3,2.1,0.7
@@ -3390,6 +3572,7 @@ Saquon Barkley,NYG,RB,2019-05-21,1,0,1.5,0.7
 Saquon Barkley,NYG,RB,2019-05-28,1,0,1.5,0.7
 Saquon Barkley,NYG,RB,2019-06-04,1,0,1.5,0.7
 Saquon Barkley,NYG,RB,2019-06-11,1,0,1.4,0.6
+Saquon Barkley,NYG,RB,2019-06-18,1,0,1.4,0.6
 Sony Michel,NE,RB,2019-01-22,15,1.1,15.4,1.3
 Sony Michel,NE,RB,2019-01-29,15,1.1,15.7,1.4
 Sony Michel,NE,RB,2019-02-05,14.6,1.1,15.7,1.3
@@ -3411,6 +3594,7 @@ Sony Michel,NE,RB,2019-05-21,14.7,1.7,18.7,4.6
 Sony Michel,NE,RB,2019-05-28,14.6,2.3,19.6,4.9
 Sony Michel,NE,RB,2019-06-04,15.5,2.8,20.6,4.8
 Sony Michel,NE,RB,2019-06-11,16,2.6,22.4,4.8
+Sony Michel,NE,RB,2019-06-18,16.3,2.5,23.4,4.7
 Spencer Ware,FA,RB,2019-03-19,64.1,6.2,58.5,5.4
 Spencer Ware,FA,RB,2019-03-26,67.4,5.1,59.8,7.5
 Spencer Ware,FA,RB,2019-04-02,68,4.7,59.8,7.6
@@ -3424,6 +3608,7 @@ Spencer Ware,IND,RB,2019-05-21,73.8,8.8,73.1,15.5
 Spencer Ware,IND,RB,2019-05-28,74.7,8.6,73.3,15
 Spencer Ware,IND,RB,2019-06-04,74.3,7.5,74.7,12.4
 Spencer Ware,IND,RB,2019-06-11,75.1,7.6,76.5,12.7
+Spencer Ware,IND,RB,2019-06-18,75.1,7.9,77.3,11.9
 Spencer Ware,KC,RB,2019-01-22,61,6.3,52.5,6.6
 Spencer Ware,KC,RB,2019-01-29,61,6.3,52.7,6.2
 Spencer Ware,KC,RB,2019-02-05,63.8,5.4,53.3,5.7
@@ -3440,6 +3625,7 @@ TJ Logan,ARI,RB,2019-03-19,118.5,1.5,123,4.3
 TJ Logan,ARI,RB,2019-03-26,119,1,125,4.3
 TJ Logan,ARI,RB,2019-04-02,113,8.5,125,4.3
 TJ Logan,ARI,RB,2019-04-09,113.5,7.4,125,4.3
+TJ Logan,ARI,RB,2019-06-18,132,4,116,7.4
 TJ Yeldon,BUF,RB,2019-04-30,52.3,8.9,61.5,7.8
 TJ Yeldon,BUF,RB,2019-05-07,53.9,10.6,63.9,9.2
 TJ Yeldon,BUF,RB,2019-05-14,54.8,10.7,62.5,6.5
@@ -3447,6 +3633,7 @@ TJ Yeldon,BUF,RB,2019-05-21,56.2,11.4,62.7,7
 TJ Yeldon,BUF,RB,2019-05-28,56.7,11.3,63,6.9
 TJ Yeldon,BUF,RB,2019-06-04,58.6,12.2,65.1,7.8
 TJ Yeldon,BUF,RB,2019-06-11,56.2,11.8,65.4,8.1
+TJ Yeldon,BUF,RB,2019-06-18,56,11.4,66.3,7.8
 TJ Yeldon,FA,RB,2019-03-19,42.3,4.7,59.1,5.4
 TJ Yeldon,FA,RB,2019-03-26,44.9,8.9,58.7,5.3
 TJ Yeldon,FA,RB,2019-04-02,47.1,9.9,58.5,5.3
@@ -3487,10 +3674,12 @@ Tarik Cohen,CHI,RB,2019-05-21,25.5,3.6,23.5,3.7
 Tarik Cohen,CHI,RB,2019-05-28,25.2,3.4,23.8,3.9
 Tarik Cohen,CHI,RB,2019-06-04,25.8,2.9,24.1,3.9
 Tarik Cohen,CHI,RB,2019-06-11,26,2.7,24.7,3.7
+Tarik Cohen,CHI,RB,2019-06-18,26.4,2.7,24.3,3.5
 Tavon Austin,DAL,RB,2019-05-21,109,1,106.7,13.1
 Tavon Austin,DAL,RB,2019-05-28,109,1,106.7,13.1
 Tavon Austin,DAL,RB,2019-06-04,114.5,6.5,112.5,12.5
 Tavon Austin,DAL,RB,2019-06-11,114.5,6.5,112.5,12.5
+Tavon Austin,DAL,RB,2019-06-18,110.7,7.6,100,15.6
 Tevin Coleman,ATL,RB,2019-01-22,24.3,5.3,32.2,1.5
 Tevin Coleman,ATL,RB,2019-01-29,24.1,5.4,31.9,1.7
 Tevin Coleman,ATL,RB,2019-02-05,26.5,4.8,31.1,2.5
@@ -3512,6 +3701,7 @@ Tevin Coleman,SF,RB,2019-05-21,28.3,4.2,31.5,3.2
 Tevin Coleman,SF,RB,2019-05-28,29,4.1,31.7,3.4
 Tevin Coleman,SF,RB,2019-06-04,28.7,3.5,32.4,4.9
 Tevin Coleman,SF,RB,2019-06-11,28.1,3.3,31.9,4.9
+Tevin Coleman,SF,RB,2019-06-18,28.4,3.2,31.2,4.8
 Theo Riddick,DET,RB,2019-01-22,67.7,4.7,75.4,4.2
 Theo Riddick,DET,RB,2019-01-29,67.7,4.7,75.2,4
 Theo Riddick,DET,RB,2019-02-05,75.1,7.7,75,3.5
@@ -3533,6 +3723,7 @@ Theo Riddick,DET,RB,2019-05-21,77.5,11,65.3,10.5
 Theo Riddick,DET,RB,2019-05-28,78.4,11,64.8,11.1
 Theo Riddick,DET,RB,2019-06-04,78.3,10.3,63.7,10
 Theo Riddick,DET,RB,2019-06-11,76.6,8.4,63,10.5
+Theo Riddick,DET,RB,2019-06-18,77.5,10.2,63.4,10.9
 Todd Gurley,LAR,RB,2019-01-22,1.7,0.5,1.2,0.4
 Todd Gurley,LAR,RB,2019-01-29,1.7,0.5,1.5,0.7
 Todd Gurley,LAR,RB,2019-02-05,2,0.5,1.3,0.6
@@ -3554,11 +3745,13 @@ Todd Gurley,LAR,RB,2019-05-21,6.1,2.1,7.5,3.6
 Todd Gurley,LAR,RB,2019-05-28,6.4,2.4,7.6,3.6
 Todd Gurley,LAR,RB,2019-06-04,7.1,2.5,8.7,3.8
 Todd Gurley,LAR,RB,2019-06-11,8,2.6,10.3,4
+Todd Gurley,LAR,RB,2019-06-18,7.8,2.5,10.4,3.8
 Tony Pollard,DAL,RB,2019-05-14,94.9,15.4,85,14
 Tony Pollard,DAL,RB,2019-05-21,89.7,17.4,91,7.3
 Tony Pollard,DAL,RB,2019-05-28,90.4,16.5,83.4,9.5
 Tony Pollard,DAL,RB,2019-06-04,90.4,15.8,83.6,11.3
 Tony Pollard,DAL,RB,2019-06-11,88.1,14.2,81,14.2
+Tony Pollard,DAL,RB,2019-06-18,85.9,15.2,85.7,21.2
 Travis Homer,SEA,RB,2019-04-30,100.5,11.4,82.7,22.4
 Travis Homer,SEA,RB,2019-05-07,99.3,13.7,90.2,9
 Travis Homer,SEA,RB,2019-05-14,102,14.7,96,5.1
@@ -3566,6 +3759,7 @@ Travis Homer,SEA,RB,2019-05-21,102,14.7,97.1,13.3
 Travis Homer,SEA,RB,2019-05-28,102,14.4,97,13.3
 Travis Homer,SEA,RB,2019-06-04,107.8,11.7,102.6,11.4
 Travis Homer,SEA,RB,2019-06-11,101.5,14,103.6,12.3
+Travis Homer,SEA,RB,2019-06-18,103.5,12.2,103.2,15.8
 Trayveon Williams,CIN,RB,2019-04-30,95.6,21,71.3,22.7
 Trayveon Williams,CIN,RB,2019-05-07,80.9,15.1,93.4,12.1
 Trayveon Williams,CIN,RB,2019-05-14,78.7,15.3,93.6,11
@@ -3573,6 +3767,7 @@ Trayveon Williams,CIN,RB,2019-05-21,78.6,14.9,97.1,13.9
 Trayveon Williams,CIN,RB,2019-05-28,79.1,14.8,97.1,13.8
 Trayveon Williams,CIN,RB,2019-06-04,79.1,14,94.7,12
 Trayveon Williams,CIN,RB,2019-06-11,81.1,12.8,97.5,13.4
+Trayveon Williams,CIN,RB,2019-06-18,81.5,13.2,96.9,14.3
 Trenton Cannon,NYJ,RB,2019-01-22,90,4.5,91.6,1.8
 Trenton Cannon,NYJ,RB,2019-01-29,90,4.5,91.1,5.5
 Trenton Cannon,NYJ,RB,2019-02-05,91,5.8,91.2,5
@@ -3594,6 +3789,7 @@ Trenton Cannon,NYJ,RB,2019-05-21,98.9,11.4,94.1,10
 Trenton Cannon,NYJ,RB,2019-05-28,99.4,12.4,94.3,10.3
 Trenton Cannon,NYJ,RB,2019-06-04,101.5,9.3,95.3,8.7
 Trenton Cannon,NYJ,RB,2019-06-11,100.5,8.4,97,9.2
+Trenton Cannon,NYJ,RB,2019-06-18,102,9.5,97.7,10.5
 Ty Montgomery,BAL,RB,2019-01-22,71.1,7.3,81,2.6
 Ty Montgomery,BAL,RB,2019-01-29,71.1,7.3,80.9,2.3
 Ty Montgomery,BAL,RB,2019-02-05,75.1,7.3,81.7,2.5
@@ -3615,6 +3811,7 @@ Ty Montgomery,NYJ,RB,2019-05-21,82.7,14,84.7,9.3
 Ty Montgomery,NYJ,RB,2019-05-28,84.2,13.6,84.9,9.4
 Ty Montgomery,NYJ,RB,2019-06-04,82.2,11.7,86.3,8.7
 Ty Montgomery,NYJ,RB,2019-06-11,81.1,10.4,86.3,9
+Ty Montgomery,NYJ,RB,2019-06-18,82,12.2,87.5,10.2
 Wayne Gallman,NYG,RB,2019-01-22,76.7,2.5,84.4,3.7
 Wayne Gallman,NYG,RB,2019-01-29,76.7,2.5,84.3,3.6
 Wayne Gallman,NYG,RB,2019-02-05,83,5.7,83.9,3.2
@@ -3636,6 +3833,7 @@ Wayne Gallman,NYG,RB,2019-05-21,90.2,11.4,83.3,8.4
 Wayne Gallman,NYG,RB,2019-05-28,90.9,11.6,83.4,8.3
 Wayne Gallman,NYG,RB,2019-06-04,89.7,7.8,85.3,8.4
 Wayne Gallman,NYG,RB,2019-06-11,90.1,7,85.5,8.9
+Wayne Gallman,NYG,RB,2019-06-18,91.4,9.4,85.6,9
 Wendell Smallwood,PHI,RB,2019-01-22,80.6,3.4,76.7,4.7
 Wendell Smallwood,PHI,RB,2019-01-29,80.6,3.4,76.8,4.6
 Wendell Smallwood,PHI,RB,2019-02-05,82.3,5.8,77.2,4
@@ -3657,6 +3855,7 @@ Wendell Smallwood,PHI,RB,2019-05-21,90,9.1,81.8,6.6
 Wendell Smallwood,PHI,RB,2019-05-28,90.5,9.3,82,6.9
 Wendell Smallwood,PHI,RB,2019-06-04,89.9,8.1,83,6.2
 Wendell Smallwood,PHI,RB,2019-06-11,89.7,6.5,83.8,6.4
+Wendell Smallwood,PHI,RB,2019-06-18,91.2,7.9,84.4,5.9
 Zach Zenner,DET,RB,2019-03-05,97,9,94,7.5
 Zach Zenner,DET,RB,2019-03-12,97,9,94.2,7.3
 Zach Zenner,DET,RB,2019-03-19,97,9,94.2,7.6
@@ -3671,6 +3870,7 @@ Zach Zenner,DET,RB,2019-05-21,125.4,2.7,97.4,10.1
 Zach Zenner,DET,RB,2019-05-28,125.4,2.7,97.5,10.1
 Zach Zenner,DET,RB,2019-06-04,116.8,14,96.9,7.7
 Zach Zenner,DET,RB,2019-06-11,110,17,97.8,7.9
+Zach Zenner,DET,RB,2019-06-18,115,15.6,98.1,8.5
 AJ Brown,FA,WR,2019-04-02,58.5,26.5,39.5,25.5
 AJ Brown,FA,WR,2019-04-09,55.6,25.6,62.8,32.3
 AJ Brown,FA,WR,2019-04-16,61,23.6,72.7,19.2
@@ -3682,6 +3882,7 @@ AJ Brown,TEN,WR,2019-05-21,35.7,10.2,72.1,10.9
 AJ Brown,TEN,WR,2019-05-28,36.9,10,71.1,8.9
 AJ Brown,TEN,WR,2019-06-04,37.4,11.7,69.9,8
 AJ Brown,TEN,WR,2019-06-11,38.8,17.2,69.4,8.1
+AJ Brown,TEN,WR,2019-06-18,37.9,16.4,69.9,10.6
 AJ Green,CIN,WR,2019-01-22,13.3,0.9,9.1,1.2
 AJ Green,CIN,WR,2019-01-29,13.6,1,9.4,1.4
 AJ Green,CIN,WR,2019-02-05,13.3,1,9.3,1.2
@@ -3703,6 +3904,7 @@ AJ Green,CIN,WR,2019-05-21,14.2,2.3,10.3,2.2
 AJ Green,CIN,WR,2019-05-28,13.9,2.1,10.8,2.2
 AJ Green,CIN,WR,2019-06-04,14.9,2.2,11,2.2
 AJ Green,CIN,WR,2019-06-11,15.3,2.1,11.4,2.4
+AJ Green,CIN,WR,2019-06-18,14.9,2.3,11.5,2.4
 Adam Humphries,TB,WR,2019-01-22,74.3,10.2,47.4,3.3
 Adam Humphries,TB,WR,2019-01-29,74.1,10.1,47.5,3
 Adam Humphries,TB,WR,2019-02-05,69.1,6.6,47.4,2.7
@@ -3724,6 +3926,7 @@ Adam Humphries,TEN,WR,2019-05-21,85.5,12,56.4,10.5
 Adam Humphries,TEN,WR,2019-05-28,85.2,12.3,57.4,10.6
 Adam Humphries,TEN,WR,2019-06-04,83.3,11,59.9,15.1
 Adam Humphries,TEN,WR,2019-06-11,84.1,11.5,62.8,16.1
+Adam Humphries,TEN,WR,2019-06-18,83.9,12.4,64.1,15.3
 Adam Thielen,MIN,WR,2019-01-22,14.4,1,15,1.8
 Adam Thielen,MIN,WR,2019-01-29,14.3,1,14.6,2
 Adam Thielen,MIN,WR,2019-02-05,15,0.9,14.7,1.7
@@ -3745,6 +3948,7 @@ Adam Thielen,MIN,WR,2019-05-21,14.7,2.3,13.2,2
 Adam Thielen,MIN,WR,2019-05-28,14.7,2.1,13.1,2
 Adam Thielen,MIN,WR,2019-06-04,14,2,12.7,2.2
 Adam Thielen,MIN,WR,2019-06-11,13.9,1.9,12.7,2.4
+Adam Thielen,MIN,WR,2019-06-18,14.2,2,12.5,2.4
 Albert Wilson,MIA,WR,2019-01-22,85.7,6.8,65.4,3.7
 Albert Wilson,MIA,WR,2019-01-29,85.6,6.7,65.1,3.5
 Albert Wilson,MIA,WR,2019-02-05,83.8,8.3,65.3,3
@@ -3766,6 +3970,7 @@ Albert Wilson,MIA,WR,2019-05-21,86.4,17,69.2,11.2
 Albert Wilson,MIA,WR,2019-05-28,85,17.5,68.3,12.1
 Albert Wilson,MIA,WR,2019-06-04,83.7,13.9,68.6,11
 Albert Wilson,MIA,WR,2019-06-11,85.4,14.3,66.5,12
+Albert Wilson,MIA,WR,2019-06-18,86,15.4,66.6,13.1
 Aldrick Robinson,FA,WR,2019-03-19,139,21,128,14.8
 Aldrick Robinson,FA,WR,2019-04-02,169,9,128,14.8
 Aldrick Robinson,FA,WR,2019-04-09,170.3,7.6,128,14.8
@@ -3794,6 +3999,7 @@ Allen Hurns,DAL,WR,2019-05-21,117.7,16.3,118.8,15.5
 Allen Hurns,DAL,WR,2019-05-28,117.7,16.3,119.7,15.8
 Allen Hurns,DAL,WR,2019-06-04,115.6,9.2,118.5,19.8
 Allen Hurns,DAL,WR,2019-06-11,114.1,8.5,119.9,18.7
+Allen Hurns,DAL,WR,2019-06-18,117.1,12.3,123.3,20.5
 Allen Robinson,CHI,WR,2019-01-22,23.4,1.4,19.7,0.8
 Allen Robinson,CHI,WR,2019-01-29,23.3,1.7,19.8,1
 Allen Robinson,CHI,WR,2019-02-05,22.6,1.7,19.8,1
@@ -3815,6 +4021,7 @@ Allen Robinson,CHI,WR,2019-05-21,24.2,5,23,4.6
 Allen Robinson,CHI,WR,2019-05-28,24.3,4.8,23.9,4.9
 Allen Robinson,CHI,WR,2019-06-04,24.5,3.9,24.9,5.1
 Allen Robinson,CHI,WR,2019-06-11,25,3.8,25.9,5.5
+Allen Robinson,CHI,WR,2019-06-18,25,3.9,25.7,5.9
 Alshon Jeffery,PHI,WR,2019-01-22,26.9,2,21.9,1.9
 Alshon Jeffery,PHI,WR,2019-01-29,27.4,2.7,21.9,1.7
 Alshon Jeffery,PHI,WR,2019-02-05,27,1.7,21.5,1.7
@@ -3836,6 +4043,7 @@ Alshon Jeffery,PHI,WR,2019-05-21,32.9,5.5,22.8,2.8
 Alshon Jeffery,PHI,WR,2019-05-28,32.4,5.5,23.1,2.8
 Alshon Jeffery,PHI,WR,2019-06-04,34.1,6,23,2.7
 Alshon Jeffery,PHI,WR,2019-06-11,34.8,5.8,23.2,2.6
+Alshon Jeffery,PHI,WR,2019-06-18,33.5,5.4,22.8,2.7
 Amara Darboh,SEA,WR,2019-02-05,138,15,147.5,11.5
 Amara Darboh,SEA,WR,2019-02-12,138,15,146.3,9.1
 Amara Darboh,SEA,WR,2019-03-05,138,15,146.3,9.1
@@ -3848,6 +4056,7 @@ Amara Darboh,SEA,WR,2019-05-21,162,8.5,154,3
 Amara Darboh,SEA,WR,2019-05-28,162,8.5,154,3
 Amara Darboh,SEA,WR,2019-06-04,160.7,9.4,155.7,3.7
 Amara Darboh,SEA,WR,2019-06-11,165.5,6.5,155.3,3.8
+Amara Darboh,SEA,WR,2019-06-18,161,8.3,158.8,7.5
 Amari Cooper,DAL,WR,2019-01-22,11.9,0.6,11.3,1.6
 Amari Cooper,DAL,WR,2019-01-29,11.3,1.5,11.7,1.8
 Amari Cooper,DAL,WR,2019-02-05,9.9,1.7,12.1,1.9
@@ -3869,10 +4078,12 @@ Amari Cooper,DAL,WR,2019-05-21,8.8,1.4,11.3,2.4
 Amari Cooper,DAL,WR,2019-05-28,8.9,1.4,11.5,2.5
 Amari Cooper,DAL,WR,2019-06-04,8.9,1.6,11.9,2.4
 Amari Cooper,DAL,WR,2019-06-11,8.6,1.4,11.8,2.2
+Amari Cooper,DAL,WR,2019-06-18,8.8,1.7,12,2.4
 Andre Roberts,BUF,WR,2019-03-19,196,41,140,25.5
 Andre Roberts,BUF,WR,2019-03-26,196,41,140,25.5
 Andre Roberts,BUF,WR,2019-04-02,196,41,140,25.5
 Andre Roberts,BUF,WR,2019-04-09,196,41,140,25.5
+Andre Roberts,BUF,WR,2019-06-18,156.5,8.5,158.8,18.7
 Andy Isabella,ARI,WR,2019-04-30,51.8,7.5,84.2,18.2
 Andy Isabella,ARI,WR,2019-05-07,55.7,15.5,80.3,19.8
 Andy Isabella,ARI,WR,2019-05-14,54.9,14.6,79.9,16.6
@@ -3880,6 +4091,7 @@ Andy Isabella,ARI,WR,2019-05-21,53.4,14.6,78.3,16.6
 Andy Isabella,ARI,WR,2019-05-28,52.6,15.9,77.1,15.2
 Andy Isabella,ARI,WR,2019-06-04,54.3,18.8,76.1,12.7
 Andy Isabella,ARI,WR,2019-06-11,53.4,18.3,75.8,12.9
+Andy Isabella,ARI,WR,2019-06-18,53.3,16.8,77.3,12.9
 Andy Isabella,FA,WR,2019-04-09,52.3,6.1,78.7,31
 Andy Isabella,FA,WR,2019-04-16,48.5,3.5,79.8,26.6
 Anthony Miller,CHI,WR,2019-01-22,35.9,1.9,43.9,1.2
@@ -3903,6 +4115,7 @@ Anthony Miller,CHI,WR,2019-05-21,42.2,7.2,47.4,9.3
 Anthony Miller,CHI,WR,2019-05-28,42.5,7.5,47.3,9
 Anthony Miller,CHI,WR,2019-06-04,42.7,4.6,46.8,8.4
 Anthony Miller,CHI,WR,2019-06-11,42.6,4.7,47.4,10.5
+Anthony Miller,CHI,WR,2019-06-18,43.4,7.4,48.6,10.9
 Antonio Brown,OAK,WR,2019-03-12,10.5,2.4,6.1,1.7
 Antonio Brown,OAK,WR,2019-03-19,10.4,0.7,6.4,1.5
 Antonio Brown,OAK,WR,2019-03-26,10.5,1.2,6.3,1.4
@@ -3917,6 +4130,7 @@ Antonio Brown,OAK,WR,2019-05-21,10.2,1.4,6.6,1.2
 Antonio Brown,OAK,WR,2019-05-28,9.9,1.1,6.7,1.1
 Antonio Brown,OAK,WR,2019-06-04,10.2,1.4,6.9,1.2
 Antonio Brown,OAK,WR,2019-06-11,10.6,1.2,7.3,1.5
+Antonio Brown,OAK,WR,2019-06-18,10.5,1.1,7.4,1.5
 Antonio Brown,PIT,WR,2019-01-22,8.7,1.6,5.7,1.2
 Antonio Brown,PIT,WR,2019-01-29,8.9,1.7,5.5,1.2
 Antonio Brown,PIT,WR,2019-02-05,10,1.5,5.3,1.1
@@ -3945,6 +4159,7 @@ Antonio Callaway,CLE,WR,2019-05-21,68.6,12.6,71.2,9.5
 Antonio Callaway,CLE,WR,2019-05-28,68.7,12.6,71.3,9.1
 Antonio Callaway,CLE,WR,2019-06-04,68.9,12.2,72.9,9.7
 Antonio Callaway,CLE,WR,2019-06-11,66.6,9.6,73.5,9
+Antonio Callaway,CLE,WR,2019-06-18,66.9,9.1,74.8,8.8
 Auden Tate,CIN,WR,2019-02-05,123,10,149,0
 Auden Tate,CIN,WR,2019-02-12,123,10,155.3,4.5
 Auden Tate,CIN,WR,2019-02-19,119.5,6.5,155.3,4.5
@@ -3961,6 +4176,7 @@ Auden Tate,CIN,WR,2019-05-21,144.8,6.7,165,6.8
 Auden Tate,CIN,WR,2019-05-28,144.8,6.7,165,6.8
 Auden Tate,CIN,WR,2019-06-04,147.8,3.6,163.3,6.9
 Auden Tate,CIN,WR,2019-06-11,149,4,159.5,7.6
+Auden Tate,CIN,WR,2019-06-18,146.7,4.6,161.7,12.8
 Austin Carr,NO,WR,2019-04-02,207,18,141.7,11.7
 Austin Carr,NO,WR,2019-04-09,203,15.7,141.7,11.7
 Austin Carr,NO,WR,2019-04-16,203,15.7,135.5,3.5
@@ -3988,6 +4204,7 @@ Brandin Cooks,LAR,WR,2019-05-21,13.8,2.2,16.3,2.4
 Brandin Cooks,LAR,WR,2019-05-28,14.1,2.2,16.9,2.6
 Brandin Cooks,LAR,WR,2019-06-04,14.4,2.5,17.2,2.7
 Brandin Cooks,LAR,WR,2019-06-11,14.3,2.6,17.4,2.8
+Brandin Cooks,LAR,WR,2019-06-18,14.3,2.5,17.2,2.6
 Brandon LaFell,FA,WR,2019-03-19,148.8,12.2,144.3,12
 Brandon LaFell,FA,WR,2019-03-26,152.3,12.1,144.3,12
 Brandon LaFell,FA,WR,2019-04-02,156.3,12.5,144.3,12
@@ -4026,6 +4243,7 @@ Braxton Berrios,NE,WR,2019-05-21,141.4,16.1,142.7,10.3
 Braxton Berrios,NE,WR,2019-05-28,141.4,16.1,142.7,10.3
 Braxton Berrios,NE,WR,2019-06-04,141.8,16.9,149.8,15.4
 Braxton Berrios,NE,WR,2019-06-11,134.3,25.6,149.8,15.4
+Braxton Berrios,NE,WR,2019-06-18,150.6,18.7,165.2,14.5
 Breshad Perriman,CLE,WR,2019-01-22,149.5,0.5,97,7.5
 Breshad Perriman,CLE,WR,2019-01-29,146,4,97.7,7.2
 Breshad Perriman,CLE,WR,2019-02-05,138.5,9.1,99.5,6.6
@@ -4047,6 +4265,7 @@ Breshad Perriman,TB,WR,2019-05-21,120.3,12.9,105.1,9.4
 Breshad Perriman,TB,WR,2019-05-28,120.2,13.1,104.4,10.3
 Breshad Perriman,TB,WR,2019-06-04,120.1,11.9,104.7,8.6
 Breshad Perriman,TB,WR,2019-06-11,118.4,13,103.1,8.4
+Breshad Perriman,TB,WR,2019-06-18,113.9,14.3,102.5,11.2
 Brice Butler,MIA,WR,2019-02-05,137.5,3.5,117.3,1.3
 Brice Butler,MIA,WR,2019-02-12,137.5,3.5,124.2,9.2
 Brice Butler,MIA,WR,2019-02-19,132.5,8.5,124.2,9.2
@@ -4064,6 +4283,7 @@ Brice Butler,MIA,WR,2019-05-14,155,8.3,136.6,13.6
 Brice Butler,MIA,WR,2019-05-21,155,8.3,136.2,12.3
 Brice Butler,MIA,WR,2019-05-28,155,8.3,135.5,12.9
 Brice Butler,MIA,WR,2019-06-04,150,6,142.5,8.7
+Brice Butler,MIA,WR,2019-06-18,159.5,3.5,135,14.2
 Bruce Ellington,DET,WR,2019-02-05,125.5,2.5,127.3,5.7
 Bruce Ellington,DET,WR,2019-02-12,125.5,2.5,128.8,5
 Bruce Ellington,FA,WR,2019-03-05,125.5,2.5,128.8,5
@@ -4073,6 +4293,7 @@ Bruce Ellington,FA,WR,2019-05-21,129.6,12.7,126.9,20.3
 Bruce Ellington,FA,WR,2019-05-28,129.6,12.7,128.8,20.8
 Bruce Ellington,FA,WR,2019-06-04,120.2,14.6,129.7,24
 Bruce Ellington,FA,WR,2019-06-11,121.7,16.8,130,24
+Bruce Ellington,FA,WR,2019-06-18,130.2,19.2,131.6,25.7
 Bruce Ellington,NE,WR,2019-03-19,130,2.2,121.6,13.1
 Bruce Ellington,NE,WR,2019-03-26,122.8,13.8,121.6,13.1
 Bruce Ellington,NE,WR,2019-04-02,121,12.8,121.6,13.1
@@ -4102,6 +4323,7 @@ Calvin Ridley,ATL,WR,2019-05-21,22.5,3.2,26.5,3.3
 Calvin Ridley,ATL,WR,2019-05-28,22.8,3.2,26.5,3.1
 Calvin Ridley,ATL,WR,2019-06-04,21.9,3.5,26.7,3.9
 Calvin Ridley,ATL,WR,2019-06-11,22,3.8,26.1,3.5
+Calvin Ridley,ATL,WR,2019-06-18,22.2,3.7,26.1,3.7
 Cam Batson,TEN,WR,2019-03-05,195.5,62.5,153.3,10.5
 Cam Batson,TEN,WR,2019-03-12,195.5,62.5,153.3,10.5
 Cam Batson,TEN,WR,2019-03-19,195.5,62.5,153.3,10.5
@@ -4128,6 +4350,7 @@ Cameron Meredith,NO,WR,2019-05-21,106.2,15,104,8.3
 Cameron Meredith,NO,WR,2019-05-28,107.6,15.1,104.4,7.8
 Cameron Meredith,NO,WR,2019-06-04,103.8,8.9,104.8,12.9
 Cameron Meredith,NO,WR,2019-06-11,104.2,7.6,107,13.3
+Cameron Meredith,NO,WR,2019-06-18,109.6,14.3,109.5,14.8
 Chad Williams,ARI,WR,2019-01-22,103.7,2,117,11.2
 Chad Williams,ARI,WR,2019-01-29,103.6,2.1,117.3,11.5
 Chad Williams,ARI,WR,2019-02-05,106.5,7.2,117.3,11.5
@@ -4149,6 +4372,7 @@ Chad Williams,ARI,WR,2019-05-21,125.4,13.8,131.2,7.4
 Chad Williams,ARI,WR,2019-05-28,126.9,13.1,129.3,9.7
 Chad Williams,ARI,WR,2019-06-04,123.4,12.2,129.8,8.1
 Chad Williams,ARI,WR,2019-06-11,120.8,12.6,130.6,11.3
+Chad Williams,ARI,WR,2019-06-18,126.7,17,132,11.5
 Chester Rogers,FA,WR,2019-03-19,123.4,26.5,107.7,3.9
 Chester Rogers,FA,WR,2019-03-26,134.3,20.5,107.7,3.9
 Chester Rogers,FA,WR,2019-04-02,135.2,18.4,107.5,4.2
@@ -4170,6 +4394,7 @@ Chester Rogers,IND,WR,2019-05-21,136,9.2,112.4,8.4
 Chester Rogers,IND,WR,2019-05-28,136,9.2,113,8
 Chester Rogers,IND,WR,2019-06-04,134.8,12.6,113.7,13.2
 Chester Rogers,IND,WR,2019-06-11,126.8,9.9,114.7,12.5
+Chester Rogers,IND,WR,2019-06-18,132.5,6.2,115.8,13.6
 Chris Conley,JAC,WR,2019-03-19,102.8,7.4,89.8,5.3
 Chris Conley,JAC,WR,2019-03-26,109.2,10.8,89.4,5.5
 Chris Conley,JAC,WR,2019-04-02,109.4,10.1,89.5,5.5
@@ -4183,6 +4408,7 @@ Chris Conley,JAC,WR,2019-05-21,106.3,10.4,94.9,7.4
 Chris Conley,JAC,WR,2019-05-28,107.1,10.3,94.9,7.4
 Chris Conley,JAC,WR,2019-06-04,106.5,8.8,96.9,8.5
 Chris Conley,JAC,WR,2019-06-11,105.4,8,99.1,9.9
+Chris Conley,JAC,WR,2019-06-18,105.9,9.8,99.4,9.3
 Chris Conley,KC,WR,2019-01-22,98.7,3.3,89.5,3.4
 Chris Conley,KC,WR,2019-01-29,98.2,3.6,89.3,3.2
 Chris Conley,KC,WR,2019-02-05,98.5,5.4,89,2.8
@@ -4212,6 +4438,7 @@ Chris Godwin,TB,WR,2019-05-21,23.6,3.5,23.7,5.1
 Chris Godwin,TB,WR,2019-05-28,23,3.3,23,5
 Chris Godwin,TB,WR,2019-06-04,23.2,3.7,22.1,5.2
 Chris Godwin,TB,WR,2019-06-11,22.8,3.6,20.8,3.3
+Chris Godwin,TB,WR,2019-06-18,23.2,3.9,20.9,3.6
 Chris Hogan,CAR,WR,2019-04-16,92.2,7,90.8,6.9
 Chris Hogan,CAR,WR,2019-04-23,89.3,4,90.2,6.8
 Chris Hogan,CAR,WR,2019-04-30,90.8,12.6,93.6,7.3
@@ -4221,6 +4448,7 @@ Chris Hogan,CAR,WR,2019-05-21,99.6,14.2,95.5,9.6
 Chris Hogan,CAR,WR,2019-05-28,101.2,13.7,95.9,9.4
 Chris Hogan,CAR,WR,2019-06-04,99.3,8.8,96.1,8.8
 Chris Hogan,CAR,WR,2019-06-11,97.6,8,98.6,8.3
+Chris Hogan,CAR,WR,2019-06-18,100.5,13.5,99.5,7.6
 Chris Hogan,FA,WR,2019-03-19,88.9,5.9,86.3,5
 Chris Hogan,FA,WR,2019-03-26,90.7,9.3,86.2,4.9
 Chris Hogan,FA,WR,2019-04-02,91.2,8.9,86.2,5
@@ -4247,6 +4475,7 @@ Chris Moore,BAL,WR,2019-05-21,149.8,7.9,122,14.6
 Chris Moore,BAL,WR,2019-05-28,149.8,7.9,121.8,14.5
 Chris Moore,BAL,WR,2019-06-04,152,2.9,131.4,9.8
 Chris Moore,BAL,WR,2019-06-11,151.7,2.4,131,9
+Chris Moore,BAL,WR,2019-06-18,149.5,4.3,125.9,22.5
 Christian Kirk,ARI,WR,2019-01-22,31.6,2.6,40.3,0.9
 Christian Kirk,ARI,WR,2019-01-29,31.6,2.6,39.9,1.5
 Christian Kirk,ARI,WR,2019-02-05,31.6,3.5,39.8,1.4
@@ -4268,6 +4497,7 @@ Christian Kirk,ARI,WR,2019-05-21,33.4,4.2,39.2,5.4
 Christian Kirk,ARI,WR,2019-05-28,34,4.3,39.6,5.5
 Christian Kirk,ARI,WR,2019-06-04,33.6,4.1,40.1,7.6
 Christian Kirk,ARI,WR,2019-06-11,33.7,3.9,39.2,6.1
+Christian Kirk,ARI,WR,2019-06-18,33.9,4,38.1,5.4
 Cody Core,CIN,WR,2019-03-05,165.5,17.5,145.4,11.7
 Cody Core,CIN,WR,2019-03-12,165.5,17.5,145.4,11.7
 Cody Core,CIN,WR,2019-03-19,165.5,17.5,145.6,12.1
@@ -4290,6 +4520,7 @@ Cody Latimer,NYG,WR,2019-05-14,141.5,11.5,149.5,17.5
 Cody Latimer,NYG,WR,2019-05-21,141.5,11.5,125.4,24.6
 Cody Latimer,NYG,WR,2019-05-28,141.5,11.5,126.4,23.4
 Cody Latimer,NYG,WR,2019-06-04,145.7,2.6,122.7,21
+Cody Latimer,NYG,WR,2019-06-18,147.5,0.5,126.3,19.6
 Cole Beasley,BUF,WR,2019-03-19,105.8,4.4,94.1,5.4
 Cole Beasley,BUF,WR,2019-03-26,106.5,6.1,94,5.5
 Cole Beasley,BUF,WR,2019-04-02,106.2,6,93.8,5.6
@@ -4303,6 +4534,7 @@ Cole Beasley,BUF,WR,2019-05-21,117.2,9.2,92.5,11.5
 Cole Beasley,BUF,WR,2019-05-28,118.3,8.3,92.2,11.5
 Cole Beasley,BUF,WR,2019-06-04,113.8,7.7,91.8,11.8
 Cole Beasley,BUF,WR,2019-06-11,113.2,7.7,90.8,11.8
+Cole Beasley,BUF,WR,2019-06-18,115.4,9.4,91.3,12.2
 Cole Beasley,DAL,WR,2019-01-22,107,3.2,96.7,2.1
 Cole Beasley,DAL,WR,2019-01-29,105.7,3.8,96.4,2.1
 Cole Beasley,DAL,WR,2019-02-05,106.3,3.9,96.3,1.8
@@ -4332,6 +4564,7 @@ Cooper Kupp,LAR,WR,2019-05-21,19.7,3.1,20.1,3.1
 Cooper Kupp,LAR,WR,2019-05-28,20.1,2.9,20.7,3.1
 Cooper Kupp,LAR,WR,2019-06-04,19.3,2.6,21.1,3.1
 Cooper Kupp,LAR,WR,2019-06-11,19.3,2.6,20.9,3
+Cooper Kupp,LAR,WR,2019-06-18,19.7,2.8,21.1,2.9
 Cordarrelle Patterson,CHI,WR,2019-03-19,115.8,16.1,98.9,6.9
 Cordarrelle Patterson,CHI,WR,2019-03-26,109.3,7.7,97.7,8.1
 Cordarrelle Patterson,CHI,WR,2019-04-02,106.6,8.7,97.8,8.1
@@ -4345,6 +4578,7 @@ Cordarrelle Patterson,CHI,WR,2019-05-21,120.8,13,104.4,13
 Cordarrelle Patterson,CHI,WR,2019-05-28,120.8,13,104.8,11.5
 Cordarrelle Patterson,CHI,WR,2019-06-04,111.2,12.4,104.8,10.1
 Cordarrelle Patterson,CHI,WR,2019-06-11,114.5,11.1,106.6,11.8
+Cordarrelle Patterson,CHI,WR,2019-06-18,117.3,7.6,108.1,12.6
 Cordarrelle Patterson,NE,WR,2019-01-22,129.5,16.5,101.3,6
 Cordarrelle Patterson,NE,WR,2019-01-29,126,13,101.8,4.9
 Cordarrelle Patterson,NE,WR,2019-02-05,116.3,14.4,101.5,4.2
@@ -4374,6 +4608,7 @@ Corey Coleman,NYG,WR,2019-05-21,120.3,11.9,134.2,17
 Corey Coleman,NYG,WR,2019-05-28,120.3,11.9,136.3,16.6
 Corey Coleman,NYG,WR,2019-06-04,118.5,13.2,132.8,17
 Corey Coleman,NYG,WR,2019-06-11,117.3,12.9,135.9,15.9
+Corey Coleman,NYG,WR,2019-06-18,118.8,12.5,133.5,18.7
 Corey Davis,TEN,WR,2019-01-22,17.9,1.4,21.4,2.2
 Corey Davis,TEN,WR,2019-01-29,18.1,1.6,21.7,2.4
 Corey Davis,TEN,WR,2019-02-05,17.8,1.8,21.8,2.2
@@ -4395,6 +4630,7 @@ Corey Davis,TEN,WR,2019-05-21,21,3.8,27.7,5.7
 Corey Davis,TEN,WR,2019-05-28,21,4,28.5,6.1
 Corey Davis,TEN,WR,2019-06-04,22.2,3.4,29.6,6.1
 Corey Davis,TEN,WR,2019-06-11,21.8,3.4,31.2,6.8
+Corey Davis,TEN,WR,2019-06-18,22,3.9,30.7,5.4
 Courtland Sutton,DEN,WR,2019-01-22,25.9,3.6,36.2,0.9
 Courtland Sutton,DEN,WR,2019-01-29,26,3.7,36.5,1.2
 Courtland Sutton,DEN,WR,2019-02-05,25.5,3.1,36.4,1
@@ -4416,6 +4652,7 @@ Courtland Sutton,DEN,WR,2019-05-21,29.8,5.1,39.5,4.9
 Courtland Sutton,DEN,WR,2019-05-28,29.7,5.2,40.1,4.7
 Courtland Sutton,DEN,WR,2019-06-04,28.6,3.4,39.9,4.6
 Courtland Sutton,DEN,WR,2019-06-11,28.3,3.3,40.3,4.8
+Courtland Sutton,DEN,WR,2019-06-18,29,4.4,40.1,4.5
 Curtis Samuel,CAR,WR,2019-01-22,63.1,8.5,42.3,2.2
 Curtis Samuel,CAR,WR,2019-01-29,62.4,8.7,42.2,2
 Curtis Samuel,CAR,WR,2019-02-05,60.8,8.3,41.9,1.8
@@ -4437,6 +4674,7 @@ Curtis Samuel,CAR,WR,2019-05-21,55,6.8,45.2,5.3
 Curtis Samuel,CAR,WR,2019-05-28,54.2,7.2,45.4,5.2
 Curtis Samuel,CAR,WR,2019-06-04,52.3,6.1,44.9,6
 Curtis Samuel,CAR,WR,2019-06-11,50.9,6.5,44.3,5.2
+Curtis Samuel,CAR,WR,2019-06-18,51.5,7.4,44,6.1
 DJ Chark,JAC,WR,2019-01-22,70.6,4.2,82,2.3
 DJ Chark,JAC,WR,2019-01-29,70.4,4.1,82,2.2
 DJ Chark,JAC,WR,2019-02-05,74.3,3.2,82,1.9
@@ -4458,6 +4696,7 @@ DJ Chark,JAC,WR,2019-05-21,81.8,10.7,83.4,7.1
 DJ Chark,JAC,WR,2019-05-28,80.3,10.5,84.1,7
 DJ Chark,JAC,WR,2019-06-04,79.9,9.8,83.3,8.7
 DJ Chark,JAC,WR,2019-06-11,77,10.8,84,8.8
+DJ Chark,JAC,WR,2019-06-18,78,10.5,84.5,8.9
 DJ Moore,CAR,WR,2019-01-22,19.9,1.6,26.2,1.7
 DJ Moore,CAR,WR,2019-01-29,19.9,1.6,26.6,1.9
 DJ Moore,CAR,WR,2019-02-05,20.1,1.5,26.4,1.7
@@ -4479,6 +4718,7 @@ DJ Moore,CAR,WR,2019-05-21,18.5,2.8,25.3,3.2
 DJ Moore,CAR,WR,2019-05-28,18.4,2.9,25.4,3.2
 DJ Moore,CAR,WR,2019-06-04,18.4,3.3,25.3,3.1
 DJ Moore,CAR,WR,2019-06-11,18.3,3.5,24.8,3.1
+DJ Moore,CAR,WR,2019-06-18,18.6,3.6,24.7,3.7
 DK Metcalf,FA,WR,2019-03-05,60.7,37.8,110,4
 DK Metcalf,FA,WR,2019-03-12,48,33.4,110,4
 DK Metcalf,FA,WR,2019-03-19,44,29.7,110,4
@@ -4494,8 +4734,10 @@ DK Metcalf,SEA,WR,2019-05-21,38.5,13.6,65,15.5
 DK Metcalf,SEA,WR,2019-05-28,39.4,14.2,63.4,13.4
 DK Metcalf,SEA,WR,2019-06-04,38.7,11.9,62.1,13.7
 DK Metcalf,SEA,WR,2019-06-11,37.7,13.7,61.2,14.3
+DK Metcalf,SEA,WR,2019-06-18,39.7,18.4,61.9,13.4
 DaMarkus Lodge,TB,WR,2019-06-04,119.8,18,185,4
 DaMarkus Lodge,TB,WR,2019-06-11,115,9,185.5,3.5
+DaMarkus Lodge,TB,WR,2019-06-18,110.5,12.1,162,40.5
 DaeSean Hamilton,DEN,WR,2019-01-22,54.1,14.7,61.8,3.5
 DaeSean Hamilton,DEN,WR,2019-01-29,53.6,14.7,58.2,7.6
 DaeSean Hamilton,DEN,WR,2019-02-05,54.8,8.5,58.1,6.7
@@ -4517,6 +4759,7 @@ DaeSean Hamilton,DEN,WR,2019-05-21,59,10.2,55.1,11.5
 DaeSean Hamilton,DEN,WR,2019-05-28,57,10,53.9,11
 DaeSean Hamilton,DEN,WR,2019-06-04,59.9,10.2,52.7,8.7
 DaeSean Hamilton,DEN,WR,2019-06-11,55.7,9.2,52.5,9.8
+DaeSean Hamilton,DEN,WR,2019-06-18,55.3,10.1,52.2,9.8
 Damiere Byrd,CAR,WR,2019-02-05,163,6,148.5,5.5
 Damiere Byrd,CAR,WR,2019-02-12,163,6,148.5,5.5
 Damiere Byrd,CAR,WR,2019-03-05,163,6,148.5,5.5
@@ -4554,6 +4797,7 @@ Danny Amendola,DET,WR,2019-05-21,118.8,15.2,92.5,13
 Danny Amendola,DET,WR,2019-05-28,120,14.8,92.2,13.1
 Danny Amendola,DET,WR,2019-06-04,118.5,14.1,90.6,11.9
 Danny Amendola,DET,WR,2019-06-11,113.4,10.3,91.9,11.4
+Danny Amendola,DET,WR,2019-06-18,116,11.8,90.5,11.6
 Danny Amendola,FA,WR,2019-03-12,112,10,99.6,3.3
 Danny Amendola,MIA,WR,2019-01-22,110.5,7.6,101.4,3.4
 Danny Amendola,MIA,WR,2019-01-29,109.3,8.7,100.9,3.3
@@ -4583,8 +4827,10 @@ Dante Pettis,SF,WR,2019-05-21,34.4,5.3,36.8,5.5
 Dante Pettis,SF,WR,2019-05-28,36.2,5.9,36.8,5.5
 Dante Pettis,SF,WR,2019-06-04,34.9,6.2,36.9,5.2
 Dante Pettis,SF,WR,2019-06-11,36.1,5.9,35.8,5
+Dante Pettis,SF,WR,2019-06-18,34.9,5.2,36.6,5.9
 Darius Slayton,NYG,WR,2019-05-21,114.5,12.8,130.5,7.5
 Darius Slayton,NYG,WR,2019-05-28,114.5,12.8,130.5,7.5
+Darius Slayton,NYG,WR,2019-06-18,147.5,15.5,143.6,23.3
 Daurice Fountain,IND,WR,2019-02-05,133,17,151.5,1.5
 Daurice Fountain,IND,WR,2019-02-12,133,17,156.3,2.9
 Daurice Fountain,IND,WR,2019-03-05,133,17,156.3,2.9
@@ -4597,6 +4843,7 @@ Daurice Fountain,IND,WR,2019-05-21,157.2,18.5,182,2
 Daurice Fountain,IND,WR,2019-05-28,157.2,18.5,182,2
 Daurice Fountain,IND,WR,2019-06-04,144.7,8.2,172,13.6
 Daurice Fountain,IND,WR,2019-06-11,147.5,6.5,169.3,15.8
+Daurice Fountain,IND,WR,2019-06-18,154,10.6,169.7,16.1
 Davante Adams,GB,WR,2019-01-22,3.3,1,2.2,0.8
 Davante Adams,GB,WR,2019-01-29,3.3,1,2.3,0.7
 Davante Adams,GB,WR,2019-02-05,3.3,1.3,2.2,0.7
@@ -4618,6 +4865,7 @@ Davante Adams,GB,WR,2019-05-21,4,0.9,2.7,1.6
 Davante Adams,GB,WR,2019-05-28,4,1,2.6,1.4
 Davante Adams,GB,WR,2019-06-04,3.7,0.8,2.5,1.3
 Davante Adams,GB,WR,2019-06-11,3.7,0.9,2.7,1.3
+Davante Adams,GB,WR,2019-06-18,3.7,1,2.6,1.4
 David Moore,SEA,WR,2019-01-22,75.9,6,66.9,2.9
 David Moore,SEA,WR,2019-01-29,75.9,6,68.3,5
 David Moore,SEA,WR,2019-02-05,72.8,5,71.5,6.8
@@ -4639,6 +4887,8 @@ David Moore,SEA,WR,2019-05-21,88.6,11.7,75.2,8.9
 David Moore,SEA,WR,2019-05-28,89.3,11.5,75.8,8.9
 David Moore,SEA,WR,2019-06-04,87,11.2,74.9,8.8
 David Moore,SEA,WR,2019-06-11,84.6,11.1,72.9,8.6
+David Moore,SEA,WR,2019-06-18,85.4,11.2,74.3,8.8
+David Sills,BUF,WR,2019-06-18,99,29,143,44
 DeAndre Carter,HOU,WR,2019-04-02,206,33,141.3,13.4
 DeAndre Carter,HOU,WR,2019-04-09,199.7,28.4,141.3,13.4
 DeAndre Hopkins,HOU,WR,2019-01-22,1,0,1.3,0.5
@@ -4662,6 +4912,7 @@ DeAndre Hopkins,HOU,WR,2019-05-21,1.3,0.5,1.5,0.9
 DeAndre Hopkins,HOU,WR,2019-05-28,1.2,0.5,1.5,0.9
 DeAndre Hopkins,HOU,WR,2019-06-04,1.3,0.6,1.4,0.8
 DeAndre Hopkins,HOU,WR,2019-06-11,1.3,0.5,1.4,0.8
+DeAndre Hopkins,HOU,WR,2019-06-18,1.3,0.5,1.6,0.9
 DeSean Jackson,PHI,WR,2019-03-19,68.9,3.4,58.2,4.7
 DeSean Jackson,PHI,WR,2019-03-26,70.1,6,58.3,5
 DeSean Jackson,PHI,WR,2019-04-02,70.6,5.7,57.8,5.8
@@ -4675,6 +4926,7 @@ DeSean Jackson,PHI,WR,2019-05-21,80.2,11.4,53.2,8.2
 DeSean Jackson,PHI,WR,2019-05-28,79.5,12.1,52.6,8.5
 DeSean Jackson,PHI,WR,2019-06-04,80.2,10,51.4,6.7
 DeSean Jackson,PHI,WR,2019-06-11,81.5,10.6,51.5,6.8
+DeSean Jackson,PHI,WR,2019-06-18,80.3,11.3,51.3,6.6
 DeSean Jackson,TB,WR,2019-01-22,71.6,5.4,57.6,4.4
 DeSean Jackson,TB,WR,2019-01-29,71.6,5.4,57.8,4.3
 DeSean Jackson,TB,WR,2019-02-05,69.3,3.1,58.3,4
@@ -4704,6 +4956,7 @@ Dede Westbrook,JAC,WR,2019-05-21,48.8,6.9,42.8,5.5
 Dede Westbrook,JAC,WR,2019-05-28,47.6,5.3,42.2,6.3
 Dede Westbrook,JAC,WR,2019-06-04,46.4,4.6,41,6.6
 Dede Westbrook,JAC,WR,2019-06-11,46.1,4.7,39.3,7.3
+Dede Westbrook,JAC,WR,2019-06-18,48.1,6.8,38.8,7.9
 Deebo Samuel,SF,WR,2019-04-30,46.6,16.5,69.3,12.8
 Deebo Samuel,SF,WR,2019-05-07,46.4,16.3,74.1,17.5
 Deebo Samuel,SF,WR,2019-05-14,49.6,22.6,71.5,15.3
@@ -4711,6 +4964,7 @@ Deebo Samuel,SF,WR,2019-05-21,50.7,22.5,71.4,14.1
 Deebo Samuel,SF,WR,2019-05-28,52.7,22.6,70.6,13.9
 Deebo Samuel,SF,WR,2019-06-04,50.4,16.3,70.1,11.1
 Deebo Samuel,SF,WR,2019-06-11,50.7,15.7,68.3,10.9
+Deebo Samuel,SF,WR,2019-06-18,50,15,69.3,12.2
 Demarcus Robinson,KC,WR,2019-02-05,128,8,114.5,17.5
 Demarcus Robinson,KC,WR,2019-02-12,128,8,118.8,13.4
 Demarcus Robinson,KC,WR,2019-03-05,128,8,120.8,12.7
@@ -4728,6 +4982,7 @@ Demarcus Robinson,KC,WR,2019-05-21,105,26.9,102.5,23.6
 Demarcus Robinson,KC,WR,2019-05-28,105,26.9,100.5,23.7
 Demarcus Robinson,KC,WR,2019-06-04,102.6,23.2,90.1,20.4
 Demarcus Robinson,KC,WR,2019-06-11,102.7,19.6,87.5,18.6
+Demarcus Robinson,KC,WR,2019-06-18,103.3,18.1,90.3,19.2
 Demaryius Thomas,FA,WR,2019-02-19,69,9.7,70.4,16.4
 Demaryius Thomas,FA,WR,2019-02-26,66.8,7.8,70.6,15.2
 Demaryius Thomas,FA,WR,2019-03-05,69.2,9.2,69.9,14.2
@@ -4749,6 +5004,7 @@ Demaryius Thomas,NE,WR,2019-05-21,91.1,14,81.5,16.5
 Demaryius Thomas,NE,WR,2019-05-28,93.2,12.7,81.6,16.6
 Demaryius Thomas,NE,WR,2019-06-04,91.1,13.1,85.7,16.4
 Demaryius Thomas,NE,WR,2019-06-11,91.4,11.8,89.6,16.1
+Demaryius Thomas,NE,WR,2019-06-18,92.4,11.9,89.6,15
 Deon Cain,IND,WR,2019-01-22,88,5.4,99.5,2.8
 Deon Cain,IND,WR,2019-01-29,87.9,5.4,100.4,2.9
 Deon Cain,IND,WR,2019-02-05,85.5,5.7,100.6,2.7
@@ -4770,10 +5026,12 @@ Deon Cain,IND,WR,2019-05-21,97.6,9.1,109.9,14.4
 Deon Cain,IND,WR,2019-05-28,98,9.3,110.4,14.1
 Deon Cain,IND,WR,2019-06-04,97.6,7.8,109.6,12.6
 Deon Cain,IND,WR,2019-06-11,98.9,7.8,113.6,16.2
+Deon Cain,IND,WR,2019-06-18,99,8.5,115.1,18.1
 Deontay Burnett,NYJ,WR,2019-05-21,165.5,8.8,146,7
 Deontay Burnett,NYJ,WR,2019-05-28,165.5,8.8,146,7
 Deontay Burnett,NYJ,WR,2019-06-04,164.3,9.8,146,7
 Deontay Burnett,NYJ,WR,2019-06-11,169,8,147.7,6.2
+Deontay Burnett,NYJ,WR,2019-06-18,170,6.7,154.8,13.7
 Deonte Thompson,BUF,WR,2019-02-05,160,2,147,17.8
 Deonte Thompson,BUF,WR,2019-02-12,160,2,154.3,7.6
 Deonte Thompson,BUF,WR,2019-03-05,160,2,154,7.5
@@ -4803,6 +5061,7 @@ Devante Parker,MIA,WR,2019-05-21,67.1,11.3,63.5,8
 Devante Parker,MIA,WR,2019-05-28,66.3,11.5,64.4,8
 Devante Parker,MIA,WR,2019-06-04,67.8,9.7,64.9,8.1
 Devante Parker,MIA,WR,2019-06-11,67.9,9.3,65.9,8.1
+Devante Parker,MIA,WR,2019-06-18,68.2,10,66,8
 Devin Funchess,CAR,WR,2019-01-22,52,5.3,66.1,4.9
 Devin Funchess,CAR,WR,2019-01-29,52.3,5.4,66.2,4.8
 Devin Funchess,CAR,WR,2019-02-05,58.8,8.5,66.7,4.2
@@ -4824,6 +5083,7 @@ Devin Funchess,IND,WR,2019-05-21,57.3,6.9,54.9,9.8
 Devin Funchess,IND,WR,2019-05-28,58.5,7.2,55.5,10.3
 Devin Funchess,IND,WR,2019-06-04,57.9,6,55.6,9.4
 Devin Funchess,IND,WR,2019-06-11,57.4,6.1,55.5,9.1
+Devin Funchess,IND,WR,2019-06-18,56.9,5.4,55.1,9.7
 Dez Bryant,FA,WR,2019-03-19,99.9,4.1,89.8,10.2
 Dez Bryant,FA,WR,2019-03-26,100.3,5.8,90.3,10.2
 Dez Bryant,FA,WR,2019-04-02,102.9,6.9,90.4,10.2
@@ -4837,6 +5097,7 @@ Dez Bryant,FA,WR,2019-05-21,117.7,11.5,119.3,35
 Dez Bryant,FA,WR,2019-05-28,119.8,9.4,119.2,35.1
 Dez Bryant,FA,WR,2019-06-04,122.7,10,119,35.5
 Dez Bryant,FA,WR,2019-06-11,118.5,11.5,121.8,33.7
+Dez Bryant,FA,WR,2019-06-18,120.8,10.5,136.4,34.9
 Dez Bryant,NO,WR,2019-01-22,96.4,3.6,86.9,9.8
 Dez Bryant,NO,WR,2019-01-29,96.1,3.7,86.7,9.2
 Dez Bryant,NO,WR,2019-02-05,97.4,3.9,86.3,8
@@ -4851,6 +5112,7 @@ Diontae Johnson,PIT,WR,2019-05-21,76.1,16.3,104.4,19.6
 Diontae Johnson,PIT,WR,2019-05-28,75.8,16.8,102.9,20.1
 Diontae Johnson,PIT,WR,2019-06-04,73.8,18.6,104.1,16.8
 Diontae Johnson,PIT,WR,2019-06-11,77.7,19.3,105.5,15.4
+Diontae Johnson,PIT,WR,2019-06-18,77.9,18.7,105,18.2
 Donte Moncrief,JAC,WR,2019-01-22,61.7,4.2,70.6,2.2
 Donte Moncrief,JAC,WR,2019-01-29,62,4,70.7,2.3
 Donte Moncrief,JAC,WR,2019-02-05,61,2.7,70.8,2
@@ -4872,6 +5134,7 @@ Donte Moncrief,PIT,WR,2019-05-21,68.5,10.6,64.8,10.8
 Donte Moncrief,PIT,WR,2019-05-28,69.3,10.7,64.9,10.3
 Donte Moncrief,PIT,WR,2019-06-04,67.1,7.4,63.8,10.4
 Donte Moncrief,PIT,WR,2019-06-11,67.9,8.2,64,10.4
+Donte Moncrief,PIT,WR,2019-06-18,67.7,8.8,63,10.7
 Dontrelle Inman,FA,WR,2019-03-19,146,9.9,111.3,29.2
 Dontrelle Inman,FA,WR,2019-03-26,153.5,1.5,111.5,29.2
 Dontrelle Inman,FA,WR,2019-04-02,154,1.4,111.5,29.2
@@ -4887,10 +5150,12 @@ Dontrelle Inman,NE,WR,2019-05-21,143.2,17.2,133,32.8
 Dontrelle Inman,NE,WR,2019-05-28,143.2,17.2,129.3,32.1
 Dontrelle Inman,NE,WR,2019-06-04,140.5,5.5,116.4,28.4
 Dontrelle Inman,NE,WR,2019-06-11,140.5,5.5,120.2,23.6
+Dontrelle Inman,NE,WR,2019-06-18,132.2,12.8,122.5,23.9
 Doug Baldwin,FA,WR,2019-05-14,65.4,24.8,56.3,28.8
 Doug Baldwin,FA,WR,2019-05-21,65.4,24.8,62.8,29.7
 Doug Baldwin,FA,WR,2019-05-28,70.6,25,63.8,30.2
 Doug Baldwin,FA,WR,2019-06-04,80.4,25.7,67.2,32.4
+Doug Baldwin,FA,WR,2019-06-18,80.3,22.9,89,42
 Doug Baldwin,SEA,WR,2019-01-22,31.6,1.9,23,0.9
 Doug Baldwin,SEA,WR,2019-01-29,32.1,2.7,23.1,1
 Doug Baldwin,SEA,WR,2019-02-05,33.3,3,23.1,0.9
@@ -4920,12 +5185,14 @@ Eli Rogers,PIT,WR,2019-05-21,167.8,14.5,147,17.3
 Eli Rogers,PIT,WR,2019-05-28,167.8,14.5,148.2,17.1
 Eli Rogers,PIT,WR,2019-06-04,160,9.7,149,17
 Eli Rogers,PIT,WR,2019-06-11,168,6,148.2,15.6
+Eli Rogers,PIT,WR,2019-06-18,171.3,6.8,143.3,16.4
 Emanuel Hall,CHI,WR,2019-05-07,114.2,20.5,151,38
 Emanuel Hall,CHI,WR,2019-05-14,114.9,18.5,150.5,38.5
 Emanuel Hall,CHI,WR,2019-05-21,115.5,17.8,167.5,21.5
 Emanuel Hall,CHI,WR,2019-05-28,115.5,17.8,167.5,21.5
 Emanuel Hall,CHI,WR,2019-06-04,116.5,6,161,19.1
 Emanuel Hall,CHI,WR,2019-06-11,115,6.6,161.7,18.8
+Emanuel Hall,CHI,WR,2019-06-18,111.7,17.7,147,31.9
 Emmanuel Sanders,DEN,WR,2019-01-22,39.9,7.9,46,9.7
 Emmanuel Sanders,DEN,WR,2019-01-29,40.1,7.9,44.3,10.2
 Emmanuel Sanders,DEN,WR,2019-02-05,46.3,6.5,44,9
@@ -4947,6 +5214,7 @@ Emmanuel Sanders,DEN,WR,2019-05-21,61.6,10.6,49.6,11
 Emmanuel Sanders,DEN,WR,2019-05-28,61.3,10.2,50.6,11.1
 Emmanuel Sanders,DEN,WR,2019-06-04,61.1,9,51.5,10.8
 Emmanuel Sanders,DEN,WR,2019-06-11,60.7,7.7,53,10.3
+Emmanuel Sanders,DEN,WR,2019-06-18,61.2,9.6,53.1,10.8
 Equanimeous St BrownE S,GB,WR,2019-01-22,71.9,7.2,73.6,3.7
 Equanimeous St BrownE S,GB,WR,2019-01-29,72,7.1,73.6,3.6
 Equanimeous St BrownE S,GB,WR,2019-02-05,72.3,6.3,73.7,3.1
@@ -4968,11 +5236,13 @@ Equanimeous St BrownE S,GB,WR,2019-05-21,82.4,7.9,81.5,11.7
 Equanimeous St BrownE S,GB,WR,2019-05-28,83,7.9,82.5,12
 Equanimeous St BrownE S,GB,WR,2019-06-04,84.4,7.1,83.7,10.7
 Equanimeous St BrownE S,GB,WR,2019-06-11,84,7.3,85,11.1
+Equanimeous St BrownE S,GB,WR,2019-06-18,84.4,7.2,86.2,11.4
 Gary Jennings,SEA,WR,2019-05-14,119.5,26.3,108.5,30.5
 Gary Jennings,SEA,WR,2019-05-21,118.7,25.2,126,35.2
 Gary Jennings,SEA,WR,2019-05-28,118.7,25.2,126,35.2
 Gary Jennings,SEA,WR,2019-06-04,113.8,24.9,132.7,20
 Gary Jennings,SEA,WR,2019-06-11,107.4,18.8,131.8,22.6
+Gary Jennings,SEA,WR,2019-06-18,109.5,16.8,130.7,21.1
 Geronimo Allison,GB,WR,2019-01-22,66.4,4.6,55,7.1
 Geronimo Allison,GB,WR,2019-01-29,66.4,4.6,53.5,7.5
 Geronimo Allison,GB,WR,2019-02-05,67,4.2,53,6.7
@@ -4994,6 +5264,7 @@ Geronimo Allison,GB,WR,2019-05-21,69.2,13.5,50.5,12.5
 Geronimo Allison,GB,WR,2019-05-28,70,22.5,49.9,12.6
 Geronimo Allison,GB,WR,2019-06-04,69.3,14.4,49,11.3
 Geronimo Allison,GB,WR,2019-06-11,69.5,12.4,46.6,9.6
+Geronimo Allison,GB,WR,2019-06-18,71.4,19.7,46.9,9.2
 Golden Tate,NYG,WR,2019-03-19,41.3,3.5,37.4,3.4
 Golden Tate,NYG,WR,2019-03-26,43.1,4.9,36.7,3.4
 Golden Tate,NYG,WR,2019-04-02,42.9,4.6,36.5,3.4
@@ -5007,6 +5278,7 @@ Golden Tate,NYG,WR,2019-05-21,49.8,5.5,33.7,4.6
 Golden Tate,NYG,WR,2019-05-28,50.2,5.2,34.5,5.1
 Golden Tate,NYG,WR,2019-06-04,49.4,5.1,34.5,5
 Golden Tate,NYG,WR,2019-06-11,49.1,5.5,36.5,5.5
+Golden Tate,NYG,WR,2019-06-18,49.5,5.2,36.7,5.5
 Golden Tate,PHI,WR,2019-01-22,38.9,3,39.2,0.9
 Golden Tate,PHI,WR,2019-01-29,38.9,3,38.5,1.7
 Golden Tate,PHI,WR,2019-02-05,39.9,2,38.4,1.5
@@ -5022,6 +5294,7 @@ Hakeem Butler,ARI,WR,2019-05-21,56.5,16,86.9,11.9
 Hakeem Butler,ARI,WR,2019-05-28,55.2,15.3,86.6,11.9
 Hakeem Butler,ARI,WR,2019-06-04,64.1,17.8,85,12.5
 Hakeem Butler,ARI,WR,2019-06-11,64.9,16.5,85.2,13.2
+Hakeem Butler,ARI,WR,2019-06-18,62.6,16.5,87.9,15.8
 Hakeem Butler,FA,WR,2019-04-09,72.6,28.5,58.5,26.5
 Hakeem Butler,FA,WR,2019-04-16,78.5,26.5,78.3,5
 Hakeem Butler,FA,WR,2019-04-23,92.2,12.7,78.3,5
@@ -5029,6 +5302,7 @@ Hunter Renfrow,OAK,WR,2019-05-21,116.6,20.1,120.3,44
 Hunter Renfrow,OAK,WR,2019-05-28,118.9,19.7,120.3,44
 Hunter Renfrow,OAK,WR,2019-06-04,120.4,19.4,112,42.7
 Hunter Renfrow,OAK,WR,2019-06-11,114.1,16.1,110.8,38.2
+Hunter Renfrow,OAK,WR,2019-06-18,111.1,15.6,114.5,34.4
 Isaiah Ford,MIA,WR,2019-02-12,186.5,11.5,160,8
 Isaiah Ford,MIA,WR,2019-03-05,186.5,11.5,160,8
 Isaiah Ford,MIA,WR,2019-03-12,186.5,11.5,160,8
@@ -5040,6 +5314,7 @@ Isaiah Ford,MIA,WR,2019-05-21,180.5,9.2,171,6
 Isaiah Ford,MIA,WR,2019-05-28,180.5,9.2,171,6
 Isaiah Ford,MIA,WR,2019-06-04,173.5,6.5,170.5,6.5
 Isaiah Ford,MIA,WR,2019-06-11,172.5,7.5,169,5
+Isaiah Ford,MIA,WR,2019-06-18,176.7,8.5,169.5,5.5
 Isaiah McKenzie,BUF,WR,2019-03-05,182,63,118.6,13
 Isaiah McKenzie,BUF,WR,2019-03-12,182,63,118.6,13
 Isaiah McKenzie,BUF,WR,2019-03-19,182,63,120.8,11.3
@@ -5068,6 +5343,7 @@ JMon Moore,GB,WR,2019-05-21,107.3,8.5,118,23.1
 JMon Moore,GB,WR,2019-05-28,107.8,8.6,118,23
 JMon Moore,GB,WR,2019-06-04,108.9,9.8,115.9,22
 JMon Moore,GB,WR,2019-06-11,106.2,8.2,118.1,24
+JMon Moore,GB,WR,2019-06-18,106.4,7.6,120.2,24.2
 JJ Arcega-Whiteside,FA,WR,2019-04-09,92.4,21.9,86.5,22.5
 JJ Arcega-Whiteside,FA,WR,2019-04-16,97.3,19.8,70.3,6.9
 JJ Arcega-Whiteside,FA,WR,2019-04-23,110,10.2,70.3,6.9
@@ -5078,6 +5354,7 @@ JJ Arcega-Whiteside,PHI,WR,2019-05-21,52,14.9,91.3,14.2
 JJ Arcega-Whiteside,PHI,WR,2019-05-28,54,14.8,91.4,14.3
 JJ Arcega-Whiteside,PHI,WR,2019-06-04,52.8,14.2,93.1,12.1
 JJ Arcega-Whiteside,PHI,WR,2019-06-11,54,14.8,93.5,12.2
+JJ Arcega-Whiteside,PHI,WR,2019-06-18,53.7,13.9,94,15.9
 JJ Nelson,ARI,WR,2019-01-22,141.5,16.5,130,21
 JJ Nelson,ARI,WR,2019-01-29,138,13,128.5,21.1
 JJ Nelson,ARI,WR,2019-02-05,137,14.1,128.5,21.1
@@ -5096,6 +5373,7 @@ JJ Nelson,OAK,WR,2019-05-21,153.2,16.2,133.3,16
 JJ Nelson,OAK,WR,2019-05-28,153.2,16.2,133.2,15.9
 JJ Nelson,OAK,WR,2019-06-04,137,9.3,132,14.3
 JJ Nelson,OAK,WR,2019-06-11,139,9.4,131.6,13.5
+JJ Nelson,OAK,WR,2019-06-18,148.8,14.3,134.1,12.1
 Jake Kumerow,GB,WR,2019-04-02,118.5,14.5,102,15.8
 Jake Kumerow,GB,WR,2019-04-09,123.7,13.9,102.7,15.1
 Jake Kumerow,GB,WR,2019-04-16,123.7,13.9,101.6,9.4
@@ -5107,6 +5385,7 @@ Jake Kumerow,GB,WR,2019-05-21,136.3,25.1,111.4,17.6
 Jake Kumerow,GB,WR,2019-05-28,136.3,25.1,111.7,17.3
 Jake Kumerow,GB,WR,2019-06-04,128.2,19.7,109.2,15.4
 Jake Kumerow,GB,WR,2019-06-11,120,15.7,112.1,16.5
+Jake Kumerow,GB,WR,2019-06-18,116.3,15.1,113.8,17
 Jakeem Grant,MIA,WR,2019-01-22,117,24,108,16.5
 Jakeem Grant,MIA,WR,2019-02-05,104,11,108.3,17
 Jakeem Grant,MIA,WR,2019-02-12,104,11,109.2,13.3
@@ -5126,6 +5405,7 @@ Jakeem Grant,MIA,WR,2019-05-21,122.7,9.3,123.4,12.7
 Jakeem Grant,MIA,WR,2019-05-28,122.7,9.3,123.4,13.3
 Jakeem Grant,MIA,WR,2019-06-04,117.7,12.1,117.8,13.5
 Jakeem Grant,MIA,WR,2019-06-11,120.5,13.7,116.1,12.2
+Jakeem Grant,MIA,WR,2019-06-18,128.2,7.5,115.3,15.9
 Jaleel Scott,BAL,WR,2019-02-05,127,6,148,4
 Jaleel Scott,BAL,WR,2019-02-12,127,6,153.7,1.7
 Jaleel Scott,BAL,WR,2019-03-05,127,6,153.7,1.7
@@ -5138,12 +5418,14 @@ Jaleel Scott,BAL,WR,2019-05-21,156.6,19.5,161,13
 Jaleel Scott,BAL,WR,2019-05-28,156.6,19.5,161,13
 Jaleel Scott,BAL,WR,2019-06-04,154.3,13.1,160.5,12.5
 Jaleel Scott,BAL,WR,2019-06-11,161,10,160.5,12.5
+Jaleel Scott,BAL,WR,2019-06-18,155.7,11.1,168.3,15.1
 Jalen Hurd,SF,WR,2019-05-07,82.6,15,113.3,12.6
 Jalen Hurd,SF,WR,2019-05-14,82.6,14.4,119.6,9.1
 Jalen Hurd,SF,WR,2019-05-21,80.9,14.6,114.1,10.4
 Jalen Hurd,SF,WR,2019-05-28,83,14,112.3,10.8
 Jalen Hurd,SF,WR,2019-06-04,82.2,17.4,109.7,10.1
 Jalen Hurd,SF,WR,2019-06-11,81.8,16.8,109.6,9.5
+Jalen Hurd,SF,WR,2019-06-18,80.5,16.6,114.7,15
 James Washington,PIT,WR,2019-01-22,48.7,1.8,65.8,3.5
 James Washington,PIT,WR,2019-01-29,48.4,2.3,65.3,3.7
 James Washington,PIT,WR,2019-02-05,50.3,4.7,64.5,3.8
@@ -5165,6 +5447,7 @@ James Washington,PIT,WR,2019-05-21,46.2,5.3,52.8,9.7
 James Washington,PIT,WR,2019-05-28,46.6,5.4,53.1,12.6
 James Washington,PIT,WR,2019-06-04,46.4,5.2,55,13.6
 James Washington,PIT,WR,2019-06-11,45.3,4.9,54.6,13.1
+James Washington,PIT,WR,2019-06-18,45.9,4.9,55.6,14.8
 Jamison Crowder,NYJ,WR,2019-03-19,68.1,4.2,53.7,4.7
 Jamison Crowder,NYJ,WR,2019-03-26,67.3,7,53.9,5.4
 Jamison Crowder,NYJ,WR,2019-04-02,67,7.1,54.3,5.8
@@ -5178,6 +5461,7 @@ Jamison Crowder,NYJ,WR,2019-05-21,70,10.8,54.1,7.5
 Jamison Crowder,NYJ,WR,2019-05-28,70.7,10.7,55.7,8.9
 Jamison Crowder,NYJ,WR,2019-06-04,69.7,8.6,55.7,8.4
 Jamison Crowder,NYJ,WR,2019-06-11,70.1,8.2,56.8,8.9
+Jamison Crowder,NYJ,WR,2019-06-18,69.7,8.8,58,10.9
 Jamison Crowder,WAS,WR,2019-01-22,63.6,8.4,51,1.2
 Jamison Crowder,WAS,WR,2019-01-29,63.6,8.4,51.7,2.3
 Jamison Crowder,WAS,WR,2019-02-05,67.1,6.1,52.2,2.2
@@ -5205,6 +5489,7 @@ Jarius Wright,CAR,WR,2019-05-14,150.3,15.9,124.2,7.6
 Jarius Wright,CAR,WR,2019-05-21,150.3,15.9,121,9.6
 Jarius Wright,CAR,WR,2019-05-28,150.3,15.9,121.3,10.2
 Jarius Wright,CAR,WR,2019-06-04,144.5,5.5,124.6,10.5
+Jarius Wright,CAR,WR,2019-06-18,148.5,9.5,121,13.9
 Jaron Brown,SEA,WR,2019-02-05,121.5,7.5,115,8.8
 Jaron Brown,SEA,WR,2019-02-12,121.5,7.5,116.8,6
 Jaron Brown,SEA,WR,2019-03-05,121.5,7.5,118.5,6.7
@@ -5222,6 +5507,7 @@ Jaron Brown,SEA,WR,2019-05-21,148.3,14.5,121.3,9.9
 Jaron Brown,SEA,WR,2019-05-28,148.3,14.5,118.8,12.3
 Jaron Brown,SEA,WR,2019-06-04,142,9.8,117.1,12.5
 Jaron Brown,SEA,WR,2019-06-11,144.3,8.7,115.8,13.3
+Jaron Brown,SEA,WR,2019-06-18,139.3,11.6,117.1,12.7
 Jarvis Landry,CLE,WR,2019-01-22,23.3,2.7,23.2,0.8
 Jarvis Landry,CLE,WR,2019-01-29,23.1,2.7,23.6,1.1
 Jarvis Landry,CLE,WR,2019-02-05,24.4,1.6,23.8,1
@@ -5243,9 +5529,12 @@ Jarvis Landry,CLE,WR,2019-05-21,26.5,3.8,24.8,4.6
 Jarvis Landry,CLE,WR,2019-05-28,26.7,3.7,25.2,5
 Jarvis Landry,CLE,WR,2019-06-04,26.8,3,26,5.4
 Jarvis Landry,CLE,WR,2019-06-11,26.5,2.8,27.6,5.6
+Jarvis Landry,CLE,WR,2019-06-18,26.9,2.9,28.3,5.9
 Jehu Chesson,WAS,WR,2019-06-04,170.5,5.5,183,1
 Jehu Chesson,WAS,WR,2019-06-11,169.5,6.5,182.3,1.2
+Jehu Chesson,WAS,WR,2019-06-18,173.3,7.6,178.5,6.7
 Jermaine Kearse,DET,WR,2019-06-11,124.8,15.7,125.8,24
+Jermaine Kearse,DET,WR,2019-06-18,128.5,16.4,129.6,23.6
 Jermaine Kearse,FA,WR,2019-03-19,103.5,7.1,105.3,8.4
 Jermaine Kearse,FA,WR,2019-03-26,112,18.4,105.3,8.3
 Jermaine Kearse,FA,WR,2019-04-02,114.9,17.9,105.3,8.2
@@ -5287,6 +5576,7 @@ John Brown,BUF,WR,2019-05-21,57.8,9.5,53.2,6.9
 John Brown,BUF,WR,2019-05-28,58.4,9,53.7,6.6
 John Brown,BUF,WR,2019-06-04,59.3,8.8,53.1,6.9
 John Brown,BUF,WR,2019-06-11,58.8,8.9,54.7,7.9
+John Brown,BUF,WR,2019-06-18,58.4,8.9,55,8.2
 John Ross,CIN,WR,2019-01-22,61.6,1.8,56.5,7.8
 John Ross,CIN,WR,2019-01-29,61.9,1.9,56.7,7
 John Ross,CIN,WR,2019-02-05,58.8,5.6,56.3,6.2
@@ -5308,6 +5598,7 @@ John Ross,CIN,WR,2019-05-21,79.1,12.1,72.7,12.2
 John Ross,CIN,WR,2019-05-28,79.7,12,73.8,12
 John Ross,CIN,WR,2019-06-04,76.8,8.4,75.3,11.9
 John Ross,CIN,WR,2019-06-11,75.9,9.2,77.8,13.2
+John Ross,CIN,WR,2019-06-18,77.5,11,79.2,11.8
 Jordan Lasley,BAL,WR,2019-02-05,129,14,148.5,2.5
 Jordan Lasley,BAL,WR,2019-02-12,129,14,153.3,2.6
 Jordan Lasley,BAL,WR,2019-03-05,129,14,153.3,2.6
@@ -5320,6 +5611,7 @@ Jordan Lasley,BAL,WR,2019-05-21,156.6,17.4,160,9.4
 Jordan Lasley,BAL,WR,2019-05-28,156.6,17.4,143.8,29.3
 Jordan Lasley,BAL,WR,2019-06-04,147.8,7.2,135.2,25.6
 Jordan Lasley,BAL,WR,2019-06-11,151,2.9,142.4,28.6
+Jordan Lasley,BAL,WR,2019-06-18,150.3,2.9,148.4,28.6
 Jordan Matthews,PHI,WR,2019-01-22,107.6,1.4,105.8,10.5
 Jordan Matthews,PHI,WR,2019-01-29,107.6,1.4,108,12.6
 Jordan Matthews,PHI,WR,2019-02-05,110.3,5.2,108,12.6
@@ -5341,6 +5633,7 @@ Jordan Matthews,SF,WR,2019-05-21,122.8,11.2,119.5,17.6
 Jordan Matthews,SF,WR,2019-05-28,122.8,11.2,121.1,18.1
 Jordan Matthews,SF,WR,2019-06-04,117.3,9.9,120,18.2
 Jordan Matthews,SF,WR,2019-06-11,122.7,7.8,122.2,18.3
+Jordan Matthews,SF,WR,2019-06-18,127.6,11.5,121.9,18
 Jordy Nelson,FA,WR,2019-03-19,87.5,3.5,84.9,5
 Jordy Nelson,FA,WR,2019-03-26,85.2,3.5,85.1,5
 Jordy Nelson,FA,WR,2019-04-02,85.2,3.8,84.8,4.8
@@ -5372,6 +5665,7 @@ Josh Bellamy,NYJ,WR,2019-05-21,171,9.8,154,14.2
 Josh Bellamy,NYJ,WR,2019-05-28,171,9.8,153.6,14.5
 Josh Bellamy,NYJ,WR,2019-06-04,166.8,8.6,153.4,14.4
 Josh Bellamy,NYJ,WR,2019-06-11,170.3,5.8,150.8,15.1
+Josh Bellamy,NYJ,WR,2019-06-18,173.5,7.4,157,13.5
 Josh Doctson,WAS,WR,2019-01-22,71.9,5.5,79.3,1.7
 Josh Doctson,WAS,WR,2019-01-29,71.9,5.5,79.3,1.4
 Josh Doctson,WAS,WR,2019-02-05,71.9,5.9,79.3,1.2
@@ -5393,6 +5687,7 @@ Josh Doctson,WAS,WR,2019-05-21,81.6,11.2,82.7,7.7
 Josh Doctson,WAS,WR,2019-05-28,81.8,11.5,82.5,8.4
 Josh Doctson,WAS,WR,2019-06-04,80.3,6.3,81.5,8
 Josh Doctson,WAS,WR,2019-06-11,78.7,6.3,82,7.8
+Josh Doctson,WAS,WR,2019-06-18,80.8,10.3,82,9.2
 Josh Gordon,FA,WR,2019-03-19,79.6,10.5,93.5,6.5
 Josh Gordon,FA,WR,2019-03-26,82.4,9.8,93.5,6.5
 Josh Gordon,FA,WR,2019-04-02,83.4,9.5,93.5,6.5
@@ -5403,6 +5698,7 @@ Josh Gordon,FA,WR,2019-05-21,86.9,16.2,80.5,34
 Josh Gordon,FA,WR,2019-05-28,87.1,16,80.3,33.9
 Josh Gordon,FA,WR,2019-06-04,89.3,18.7,112.7,18.6
 Josh Gordon,FA,WR,2019-06-11,91.3,16.6,115.7,18
+Josh Gordon,FA,WR,2019-06-18,90.6,16.7,122.6,28.6
 Josh Gordon,NE,WR,2019-01-22,60.7,12.3,118.5,33.5
 Josh Gordon,NE,WR,2019-01-29,61.8,13,118.5,33.5
 Josh Gordon,NE,WR,2019-02-05,75.9,17.9,118.5,33.5
@@ -5423,6 +5719,7 @@ Josh Malone,CIN,WR,2019-05-21,165,16.3,174.5,2.5
 Josh Malone,CIN,WR,2019-05-28,165,16.3,174.5,2.5
 Josh Malone,CIN,WR,2019-06-04,155.8,10.7,165.3,12.4
 Josh Malone,CIN,WR,2019-06-11,164.5,4.5,165.7,11.3
+Josh Malone,CIN,WR,2019-06-18,169.3,7.8,161.3,12.9
 Josh Reynolds,LAR,WR,2019-01-22,76.3,8,77.1,2.7
 Josh Reynolds,LAR,WR,2019-01-29,74.4,8.4,77.2,2.3
 Josh Reynolds,LAR,WR,2019-02-05,76,6.7,77.4,2.1
@@ -5444,6 +5741,7 @@ Josh Reynolds,LAR,WR,2019-05-21,80.8,17.5,86.7,11.9
 Josh Reynolds,LAR,WR,2019-05-28,81.8,17.3,87.1,11.4
 Josh Reynolds,LAR,WR,2019-06-04,79.2,11.5,88.5,11.9
 Josh Reynolds,LAR,WR,2019-06-11,76.8,10.3,90.6,13.5
+Josh Reynolds,LAR,WR,2019-06-18,77.9,11.7,92.2,13.3
 JuJu Smith-Schuster,PIT,WR,2019-01-22,6.4,1.4,8.4,1.6
 JuJu Smith-Schuster,PIT,WR,2019-01-29,7,1.5,8.4,1.4
 JuJu Smith-Schuster,PIT,WR,2019-02-05,7,1.7,8.2,1.3
@@ -5465,6 +5763,7 @@ JuJu Smith-Schuster,PIT,WR,2019-05-21,4.9,1.4,6.1,2
 JuJu Smith-Schuster,PIT,WR,2019-05-28,4.7,1.1,6.1,1.9
 JuJu Smith-Schuster,PIT,WR,2019-06-04,4.8,1.2,6.1,1.7
 JuJu Smith-Schuster,PIT,WR,2019-06-11,4.8,1.2,5.6,1.6
+JuJu Smith-Schuster,PIT,WR,2019-06-18,5,1.4,5.4,1.7
 Julian Edelman,NE,WR,2019-01-22,53.3,4,26.6,3.7
 Julian Edelman,NE,WR,2019-01-29,53,4.1,25.6,3.9
 Julian Edelman,NE,WR,2019-02-05,51.1,3.3,25,4
@@ -5486,6 +5785,7 @@ Julian Edelman,NE,WR,2019-05-21,53,9.9,18.9,4.2
 Julian Edelman,NE,WR,2019-05-28,51.7,9.7,17.9,4.4
 Julian Edelman,NE,WR,2019-06-04,49.5,10.5,17.4,4.4
 Julian Edelman,NE,WR,2019-06-11,50.5,11.2,16.5,4.2
+Julian Edelman,NE,WR,2019-06-18,50.5,10.5,16.3,4.1
 Julio Jones,ATL,WR,2019-01-22,7.3,0.5,3,0.8
 Julio Jones,ATL,WR,2019-01-29,7.4,0.7,3,1.1
 Julio Jones,ATL,WR,2019-02-05,7.4,1.3,3.1,1
@@ -5507,10 +5807,12 @@ Julio Jones,ATL,WR,2019-05-21,7.6,1.2,3.5,1.1
 Julio Jones,ATL,WR,2019-05-28,7.3,0.9,3.5,1.2
 Julio Jones,ATL,WR,2019-06-04,7.7,1.3,3.4,1.2
 Julio Jones,ATL,WR,2019-06-11,7.7,1.3,3.3,1.3
+Julio Jones,ATL,WR,2019-06-18,7.6,1.3,3.2,1.3
 Justin Hardy,ATL,WR,2019-04-02,167.5,1.5,137.7,5
 Justin Hardy,ATL,WR,2019-04-09,168.3,1.7,137.7,5
 Justin Hardy,ATL,WR,2019-06-04,159,0,132.3,14.2
 Justin Hardy,ATL,WR,2019-06-11,159,0,134.9,12.1
+Justin Hardy,ATL,WR,2019-06-18,159,0,134.8,14.1
 Justin Hunter,FA,WR,2019-03-19,182,14,171.3,8.4
 Justin Hunter,FA,WR,2019-03-26,182,14,171.3,8.4
 Justin Hunter,FA,WR,2019-04-02,186.3,13,171.3,8.4
@@ -5538,12 +5840,14 @@ Justin Watson,TB,WR,2019-05-21,130.2,24.8,112.2,19.4
 Justin Watson,TB,WR,2019-05-28,130.2,24.8,109.2,21.4
 Justin Watson,TB,WR,2019-06-04,120.2,27.9,100.6,20.1
 Justin Watson,TB,WR,2019-06-11,106.5,19.5,99.6,19.8
+Justin Watson,TB,WR,2019-06-18,120.5,21.5,105.8,22.5
 KeeSean Johnson,ARI,WR,2019-05-07,102.7,14,153,31.8
 KeeSean Johnson,ARI,WR,2019-05-14,104.9,14.9,135.2,34.3
 KeeSean Johnson,ARI,WR,2019-05-21,104.9,14.9,136,29.8
 KeeSean Johnson,ARI,WR,2019-05-28,106.1,15,136.8,28.7
 KeeSean Johnson,ARI,WR,2019-06-04,112.1,16.9,131.3,24.2
 KeeSean Johnson,ARI,WR,2019-06-11,107.8,17.2,132.6,23.8
+KeeSean Johnson,ARI,WR,2019-06-18,105.8,18.1,135.2,22.7
 Keelan Cole,JAC,WR,2019-01-22,79.3,5,88.4,2.2
 Keelan Cole,JAC,WR,2019-01-29,79.1,5.1,88,1.9
 Keelan Cole,JAC,WR,2019-02-05,82.9,6.1,87.5,1.8
@@ -5565,6 +5869,7 @@ Keelan Cole,JAC,WR,2019-05-21,90.4,10.8,94.1,7.8
 Keelan Cole,JAC,WR,2019-05-28,91.4,10.7,94.5,7.5
 Keelan Cole,JAC,WR,2019-06-04,89.7,7.3,94,7.8
 Keelan Cole,JAC,WR,2019-06-11,89.6,6.8,93.9,8.4
+Keelan Cole,JAC,WR,2019-06-18,90.3,9.7,92.5,12.1
 Keenan Allen,LAC,WR,2019-01-22,10.3,1,12.4,0.7
 Keenan Allen,LAC,WR,2019-01-29,10.7,1,12.6,0.8
 Keenan Allen,LAC,WR,2019-02-05,11.3,1.2,12.7,0.7
@@ -5586,6 +5891,7 @@ Keenan Allen,LAC,WR,2019-05-21,9.4,2.1,10.1,2.1
 Keenan Allen,LAC,WR,2019-05-28,9.7,1.9,10,2.1
 Keenan Allen,LAC,WR,2019-06-04,9.5,1.7,10.1,2
 Keenan Allen,LAC,WR,2019-06-11,9.6,1.8,10.2,2
+Keenan Allen,LAC,WR,2019-06-18,9.3,1.9,10,2
 Keith Kirkwood,NO,WR,2019-01-22,96.3,8.1,107.8,4.4
 Keith Kirkwood,NO,WR,2019-01-29,96.7,7.8,107.7,4.1
 Keith Kirkwood,NO,WR,2019-02-05,91.1,2.9,107.9,3.6
@@ -5607,6 +5913,7 @@ Keith Kirkwood,NO,WR,2019-05-21,108.3,11.8,112.2,8.5
 Keith Kirkwood,NO,WR,2019-05-28,109.1,11.5,112.3,8.3
 Keith Kirkwood,NO,WR,2019-06-04,103.2,6.8,111.8,14.3
 Keith Kirkwood,NO,WR,2019-06-11,104.6,9,113.6,14.8
+Keith Kirkwood,NO,WR,2019-06-18,108.5,14.3,113.3,14.9
 Keke Coutee,HOU,WR,2019-01-22,45.6,4.1,43.4,3.5
 Keke Coutee,HOU,WR,2019-01-29,45.3,4.5,43.8,3.6
 Keke Coutee,HOU,WR,2019-02-05,45.1,5.1,43.6,3.2
@@ -5628,6 +5935,7 @@ Keke Coutee,HOU,WR,2019-05-21,48.3,6.5,42.4,6.3
 Keke Coutee,HOU,WR,2019-05-28,48.8,6.4,42.4,6.4
 Keke Coutee,HOU,WR,2019-06-04,47.5,5.5,41.8,6.1
 Keke Coutee,HOU,WR,2019-06-11,46.9,6,42.3,6.8
+Keke Coutee,HOU,WR,2019-06-18,47.3,7.2,42.7,6.9
 Kelvin Benjamin,FA,WR,2019-03-19,103.5,23.3,94.7,7.3
 Kelvin Benjamin,FA,WR,2019-03-26,104,21.5,95,7.3
 Kelvin Benjamin,FA,WR,2019-04-02,105.2,20.3,95.1,7.1
@@ -5641,6 +5949,7 @@ Kelvin Benjamin,FA,WR,2019-05-21,118.7,17.5,121.6,28.1
 Kelvin Benjamin,FA,WR,2019-05-28,118.6,17.6,121.5,28.2
 Kelvin Benjamin,FA,WR,2019-06-04,114,9.5,120.1,27.4
 Kelvin Benjamin,FA,WR,2019-06-11,112.1,9.5,125.2,25.6
+Kelvin Benjamin,FA,WR,2019-06-18,115.8,13,138.6,28.9
 Kelvin Benjamin,KC,WR,2019-01-22,88.6,4.3,92.9,2.8
 Kelvin Benjamin,KC,WR,2019-01-29,89,4.5,92.2,2.7
 Kelvin Benjamin,KC,WR,2019-02-05,94.4,5.8,91.4,2.7
@@ -5655,6 +5964,7 @@ Kelvin Harmon,WAS,WR,2019-05-21,76.9,16.3,122.2,8.7
 Kelvin Harmon,WAS,WR,2019-05-28,77.6,16.1,122.2,8.7
 Kelvin Harmon,WAS,WR,2019-06-04,86.2,17.2,115,16.4
 Kelvin Harmon,WAS,WR,2019-06-11,87.3,18.3,115.3,16.7
+Kelvin Harmon,WAS,WR,2019-06-18,84.9,19.2,112.6,20.9
 Kendrick Bourne,SF,WR,2019-01-22,119.7,8.7,98.7,7.7
 Kendrick Bourne,SF,WR,2019-01-29,119.7,8.7,96.8,4.5
 Kendrick Bourne,SF,WR,2019-02-05,131.7,14.3,96.8,3.9
@@ -5676,6 +5986,7 @@ Kendrick Bourne,SF,WR,2019-05-21,132.9,7.2,112.9,18.1
 Kendrick Bourne,SF,WR,2019-05-28,132.9,7.2,113.3,17.5
 Kendrick Bourne,SF,WR,2019-06-04,129.6,10.8,112.4,16
 Kendrick Bourne,SF,WR,2019-06-11,122.3,7.9,113.4,15.5
+Kendrick Bourne,SF,WR,2019-06-18,125,9,115.4,15.2
 Kenny Golladay,DET,WR,2019-01-22,17,1.2,18,0
 Kenny Golladay,DET,WR,2019-01-29,16.9,1.4,18,0
 Kenny Golladay,DET,WR,2019-02-05,16.6,1.6,17.9,0.5
@@ -5697,6 +6008,7 @@ Kenny Golladay,DET,WR,2019-05-21,14.2,2.3,18.4,4.1
 Kenny Golladay,DET,WR,2019-05-28,14.1,1.9,18.5,4.2
 Kenny Golladay,DET,WR,2019-06-04,14.5,2.1,18.5,3.9
 Kenny Golladay,DET,WR,2019-06-11,14,2.5,18.3,2.7
+Kenny Golladay,DET,WR,2019-06-18,14.6,2.8,18.4,2.8
 Kenny Stills,MIA,WR,2019-01-22,65,5.1,56.9,2.9
 Kenny Stills,MIA,WR,2019-01-29,63.6,5.5,56.7,2.6
 Kenny Stills,MIA,WR,2019-02-05,65.3,4.5,56.5,2.3
@@ -5718,6 +6030,7 @@ Kenny Stills,MIA,WR,2019-05-21,70.1,11.1,55.4,8.6
 Kenny Stills,MIA,WR,2019-05-28,70.1,10.5,54.8,8.7
 Kenny Stills,MIA,WR,2019-06-04,68.5,9.7,52.9,7.7
 Kenny Stills,MIA,WR,2019-06-11,69.8,8.3,53.9,9.6
+Kenny Stills,MIA,WR,2019-06-18,70.7,9.1,54.8,10.6
 Kevin White,ARI,WR,2019-03-19,133.7,5,152.7,15.8
 Kevin White,ARI,WR,2019-03-26,134.3,4.1,156,15.3
 Kevin White,ARI,WR,2019-04-02,135.3,3.9,156,15.3
@@ -5729,6 +6042,7 @@ Kevin White,ARI,WR,2019-05-21,142.4,23.1,149.3,27.3
 Kevin White,ARI,WR,2019-05-28,142.4,23.1,149,27.7
 Kevin White,ARI,WR,2019-06-04,141.5,4.5,149.5,26.3
 Kevin White,ARI,WR,2019-06-11,140.5,3.5,161,13.9
+Kevin White,ARI,WR,2019-06-18,127,15.3,162.7,13.4
 Kevin White,CHI,WR,2019-01-22,137,10,132.3,20.3
 Kevin White,CHI,WR,2019-01-29,133.5,6.5,147.8,25.4
 Kevin White,CHI,WR,2019-02-05,130.3,8.5,147.8,25.4
@@ -5758,6 +6072,7 @@ Laquon Treadwell,MIN,WR,2019-05-21,113.3,15.2,118.1,14.6
 Laquon Treadwell,MIN,WR,2019-05-28,115.5,14.2,119.1,14.4
 Laquon Treadwell,MIN,WR,2019-06-04,110.4,10.6,115.1,10.7
 Laquon Treadwell,MIN,WR,2019-06-11,110.2,10.3,116.2,10.7
+Laquon Treadwell,MIN,WR,2019-06-18,112.4,13.3,117.6,14.3
 Larry Fitzgerald,ARI,WR,2019-01-22,73.6,5,50.3,2.9
 Larry Fitzgerald,ARI,WR,2019-01-29,73.4,5,51,3
 Larry Fitzgerald,ARI,WR,2019-02-05,76.5,6.1,51.5,2.8
@@ -5779,6 +6094,7 @@ Larry Fitzgerald,ARI,WR,2019-05-21,75,9.2,40.9,8.9
 Larry Fitzgerald,ARI,WR,2019-05-28,74.7,9.7,40.8,9.2
 Larry Fitzgerald,ARI,WR,2019-06-04,73.1,8.6,39.9,8.1
 Larry Fitzgerald,ARI,WR,2019-06-11,73.7,8.3,40,8.1
+Larry Fitzgerald,ARI,WR,2019-06-18,74.1,9.1,40.5,8.8
 Leonte Carroo,FA,WR,2019-03-19,154,7,151,3.2
 Leonte Carroo,FA,WR,2019-03-26,154.5,6.5,151,3.2
 Leonte Carroo,FA,WR,2019-04-02,150.3,7.9,151,3.2
@@ -5787,6 +6103,7 @@ Leonte Carroo,MIA,WR,2019-02-05,153.5,6.5,145.3,11.7
 Leonte Carroo,MIA,WR,2019-02-12,153.5,6.5,150.5,3.5
 Leonte Carroo,MIA,WR,2019-03-05,153.5,6.5,150.5,3.5
 Leonte Carroo,MIA,WR,2019-03-12,153.5,6.5,150.5,3.5
+LilJordan Humphrey,NO,WR,2019-06-18,102.5,12.5,126.5,59.5
 Mack Hollins,PHI,WR,2019-01-22,111.3,1.7,136.4,12.5
 Mack Hollins,PHI,WR,2019-01-29,111.3,1.7,138.4,14.5
 Mack Hollins,PHI,WR,2019-02-05,115.5,7.4,138.4,14.5
@@ -5806,6 +6123,7 @@ Mack Hollins,PHI,WR,2019-05-21,145.8,11.6,149.1,12.5
 Mack Hollins,PHI,WR,2019-05-28,145.8,11.6,149.1,12.5
 Mack Hollins,PHI,WR,2019-06-04,145.8,13.4,150.9,13.6
 Mack Hollins,PHI,WR,2019-06-11,144.8,18.3,153.8,13.1
+Mack Hollins,PHI,WR,2019-06-18,142.8,16.8,156.6,9.4
 Marcell Ateman,OAK,WR,2019-01-22,189.5,44.5,135.3,11.6
 Marcell Ateman,OAK,WR,2019-01-29,186,48,135.7,11.9
 Marcell Ateman,OAK,WR,2019-02-05,155,46,135.7,11.9
@@ -5824,6 +6142,7 @@ Marcell Ateman,OAK,WR,2019-05-21,142.3,8.3,147.8,21.8
 Marcell Ateman,OAK,WR,2019-05-28,142.3,8.3,147.6,21.9
 Marcell Ateman,OAK,WR,2019-06-04,144,11.4,146.2,20.7
 Marcell Ateman,OAK,WR,2019-06-11,150.7,7,150.4,14.3
+Marcell Ateman,OAK,WR,2019-06-18,149.2,6.3,139.8,17.2
 Marcus Johnson,IND,WR,2019-04-02,210,8,160.5,8.5
 Marcus Johnson,IND,WR,2019-04-09,210,8,160.5,8.5
 Marqise Lee,JAC,WR,2019-01-22,66.4,5.6,65.9,5.9
@@ -5847,6 +6166,7 @@ Marqise Lee,JAC,WR,2019-05-21,74.9,8,65.6,10.2
 Marqise Lee,JAC,WR,2019-05-28,75.8,8.7,64.6,11.1
 Marqise Lee,JAC,WR,2019-06-04,77.5,7.2,64.6,10.1
 Marqise Lee,JAC,WR,2019-06-11,79,8.4,64.3,11.2
+Marqise Lee,JAC,WR,2019-06-18,79.2,8.2,65.1,10.6
 Marquez Valdes-Scantling,GB,WR,2019-01-22,52.7,6.3,59.5,6.6
 Marquez Valdes-Scantling,GB,WR,2019-01-29,52.4,6.6,58.6,6.4
 Marquez Valdes-Scantling,GB,WR,2019-02-05,53.4,6.5,58.5,5.6
@@ -5868,6 +6188,7 @@ Marquez Valdes-Scantling,GB,WR,2019-05-21,60.8,8.2,62.3,9.1
 Marquez Valdes-Scantling,GB,WR,2019-05-28,61.3,8.5,62.5,9
 Marquez Valdes-Scantling,GB,WR,2019-06-04,61.8,6.6,62.7,9.2
 Marquez Valdes-Scantling,GB,WR,2019-06-11,60.4,6.7,62.7,11.1
+Marquez Valdes-Scantling,GB,WR,2019-06-18,59.7,5.8,60.9,12.6
 Marquise Brown,BAL,WR,2019-04-30,37,5,80.8,18.4
 Marquise Brown,BAL,WR,2019-05-07,44.2,12,79.9,18.6
 Marquise Brown,BAL,WR,2019-05-14,43.7,11.6,73.4,15.7
@@ -5875,6 +6196,7 @@ Marquise Brown,BAL,WR,2019-05-21,44,11.2,71,16
 Marquise Brown,BAL,WR,2019-05-28,44.8,11.7,70.1,13.4
 Marquise Brown,BAL,WR,2019-06-04,45,9,71.7,13
 Marquise Brown,BAL,WR,2019-06-11,48.1,17,68.9,13.7
+Marquise Brown,BAL,WR,2019-06-18,45.7,17.1,68.8,14
 Marquise Brown,FA,WR,2019-04-02,73.5,26.1,82.5,25.5
 Marquise Brown,FA,WR,2019-04-09,79.7,28.6,91,26.3
 Marquise Brown,FA,WR,2019-04-16,86.7,24.8,83,24.7
@@ -5900,6 +6222,7 @@ Marquise Goodwin,SF,WR,2019-05-21,64.6,12.7,58.9,12.9
 Marquise Goodwin,SF,WR,2019-05-28,63.2,10.9,59.8,12.6
 Marquise Goodwin,SF,WR,2019-06-04,66.8,10.8,60.5,13.5
 Marquise Goodwin,SF,WR,2019-06-11,66.2,10.8,62,13.4
+Marquise Goodwin,SF,WR,2019-06-18,66.9,10.3,63.3,12.9
 Martavis Bryant,FA,WR,2019-03-19,122.5,27.6,119.3,15.9
 Martavis Bryant,FA,WR,2019-03-26,113.6,24.5,119.7,15.5
 Martavis Bryant,FA,WR,2019-04-02,115,20.7,119.3,15.9
@@ -5910,6 +6233,7 @@ Martavis Bryant,FA,WR,2019-05-21,116.3,19.4,109,25.1
 Martavis Bryant,FA,WR,2019-05-28,117.9,19.4,108.7,25
 Martavis Bryant,FA,WR,2019-06-04,118.2,10.5,110,26.2
 Martavis Bryant,FA,WR,2019-06-11,117.6,12.2,142,4
+Martavis Bryant,FA,WR,2019-06-18,117.2,11.2,142,4
 Martavis Bryant,OAK,WR,2019-01-22,95.9,5.2,108.3,9.2
 Martavis Bryant,OAK,WR,2019-01-29,95.3,5.4,113.3,15.2
 Martavis Bryant,OAK,WR,2019-02-05,105.3,8.2,113.3,15.2
@@ -5939,6 +6263,7 @@ Marvin Jones,DET,WR,2019-05-21,42.7,5.9,33.4,3.9
 Marvin Jones,DET,WR,2019-05-28,43,5.9,33,3.5
 Marvin Jones,DET,WR,2019-06-04,42.8,6.1,33.5,4.2
 Marvin Jones,DET,WR,2019-06-11,44,6.5,33.9,4
+Marvin Jones,DET,WR,2019-06-18,44.3,7.2,33.7,3.6
 Maurice Harris,NE,WR,2019-04-02,207,14,157.8,13
 Maurice Harris,NE,WR,2019-04-09,182,37.2,147.6,23.4
 Maurice Harris,NE,WR,2019-04-16,182,37.2,138,27
@@ -5950,6 +6275,7 @@ Mecole Hardman,KC,WR,2019-05-21,49.7,12,60.4,14.1
 Mecole Hardman,KC,WR,2019-05-28,50.1,12,59.8,13.9
 Mecole Hardman,KC,WR,2019-06-04,50.4,14,57.8,13.1
 Mecole Hardman,KC,WR,2019-06-11,49.6,13.3,57.5,11.7
+Mecole Hardman,KC,WR,2019-06-18,50.4,14.2,62,13
 Michael Crabtree,BAL,WR,2019-01-22,64.9,3.8,70.8,6.9
 Michael Crabtree,BAL,WR,2019-01-29,67.1,6.5,72,7
 Michael Crabtree,BAL,WR,2019-02-05,71.6,7.7,72,6
@@ -5971,6 +6297,7 @@ Michael Crabtree,FA,WR,2019-05-21,100.6,15.9,105.5,26.7
 Michael Crabtree,FA,WR,2019-05-28,103.1,15.3,105.7,26.1
 Michael Crabtree,FA,WR,2019-06-04,104,15.7,105,24
 Michael Crabtree,FA,WR,2019-06-11,103.3,15.1,107.1,23.9
+Michael Crabtree,FA,WR,2019-06-18,106.3,16.9,117.1,29.9
 Michael Floyd,FA,WR,2019-03-19,154,2,158.7,11
 Michael Floyd,FA,WR,2019-03-26,154.5,1.5,158.7,11
 Michael Floyd,FA,WR,2019-04-02,161.3,9.7,158.7,11
@@ -6000,6 +6327,7 @@ Michael Gallup,DAL,WR,2019-05-21,49.4,8.5,50.7,8.9
 Michael Gallup,DAL,WR,2019-05-28,47.8,8,50.9,8.9
 Michael Gallup,DAL,WR,2019-06-04,48.9,6.9,49.9,8
 Michael Gallup,DAL,WR,2019-06-11,48.7,6.7,50.9,8.6
+Michael Gallup,DAL,WR,2019-06-18,49.3,7.3,51.5,8.4
 Michael Thomas,NO,WR,2019-01-22,3.6,0.7,3.7,0.8
 Michael Thomas,NO,WR,2019-01-29,3.4,0.7,3.7,0.7
 Michael Thomas,NO,WR,2019-02-05,3.4,0.7,3.9,0.9
@@ -6021,6 +6349,7 @@ Michael Thomas,NO,WR,2019-05-21,3.2,0.7,4.3,1.7
 Michael Thomas,NO,WR,2019-05-28,3.1,0.7,4.3,1.4
 Michael Thomas,NO,WR,2019-06-04,3.2,0.9,4.2,1.1
 Michael Thomas,NO,WR,2019-06-11,3.3,0.8,4.3,1.3
+Michael Thomas,NO,WR,2019-06-18,3.3,0.8,4.2,1.3
 Mike Evans,TB,WR,2019-01-22,7.9,1,9.8,0.8
 Mike Evans,TB,WR,2019-01-29,7.6,1.4,9.9,0.8
 Mike Evans,TB,WR,2019-02-05,7.1,1.5,9.8,0.8
@@ -6042,6 +6371,7 @@ Mike Evans,TB,WR,2019-05-21,6,0.8,8.7,1.9
 Mike Evans,TB,WR,2019-05-28,6.1,0.8,8.7,1.7
 Mike Evans,TB,WR,2019-06-04,6,0.8,8.6,1.6
 Mike Evans,TB,WR,2019-06-11,6,0.8,8.7,1.8
+Mike Evans,TB,WR,2019-06-18,6,0.9,8.5,1.8
 Mike Wallace,FA,WR,2019-03-19,140.5,12.5,120.8,22.3
 Mike Wallace,FA,WR,2019-03-26,130,17.4,121.2,22.2
 Mike Wallace,FA,WR,2019-04-02,130.4,15.6,121,22.2
@@ -6055,6 +6385,7 @@ Mike Wallace,FA,WR,2019-05-21,147.3,16,114.3,26.5
 Mike Wallace,FA,WR,2019-05-28,147.3,16,114,26.2
 Mike Wallace,FA,WR,2019-06-04,141.5,20.5,116.3,27.4
 Mike Wallace,FA,WR,2019-06-11,141.5,20.5,137.5,11.5
+Mike Wallace,FA,WR,2019-06-18,149,19.8,137.5,11.5
 Mike Wallace,PHI,WR,2019-01-22,110.5,8.5,110.5,29.6
 Mike Wallace,PHI,WR,2019-01-29,110.5,8.5,106.8,17.1
 Mike Wallace,PHI,WR,2019-02-05,116.3,16.4,106.8,17.1
@@ -6084,11 +6415,13 @@ Mike Williams,LAC,WR,2019-05-21,28.4,4.7,31,3.7
 Mike Williams,LAC,WR,2019-05-28,27.5,4.2,31.1,4
 Mike Williams,LAC,WR,2019-06-04,28.4,4.4,31.2,3.5
 Mike Williams,LAC,WR,2019-06-11,28.1,4.2,31.3,3.5
+Mike Williams,LAC,WR,2019-06-18,27.3,4.4,31.3,3.9
 Miles Boykin,BAL,WR,2019-05-14,76.6,17.4,104.3,22.9
 Miles Boykin,BAL,WR,2019-05-21,76.9,17.3,104.4,20.1
 Miles Boykin,BAL,WR,2019-05-28,78.2,17.4,102,18.7
 Miles Boykin,BAL,WR,2019-06-04,80.4,16.4,101.8,19
 Miles Boykin,BAL,WR,2019-06-11,79.7,14.7,101.3,18.9
+Miles Boykin,BAL,WR,2019-06-18,78.5,14.5,103.8,19.7
 Mohamed Sanu,ATL,WR,2019-01-22,81.6,2.7,66.1,9.1
 Mohamed Sanu,ATL,WR,2019-01-29,81.6,2.7,66.2,8.5
 Mohamed Sanu,ATL,WR,2019-02-05,78.4,4.2,66.9,7.4
@@ -6110,6 +6443,7 @@ Mohamed Sanu,ATL,WR,2019-05-21,90.8,9.9,65.4,9.8
 Mohamed Sanu,ATL,WR,2019-05-28,91.6,9.5,65,9.7
 Mohamed Sanu,ATL,WR,2019-06-04,89.7,9.8,64.2,8.5
 Mohamed Sanu,ATL,WR,2019-06-11,91.3,10.1,64,9.2
+Mohamed Sanu,ATL,WR,2019-06-18,90.6,10.6,63.7,9.2
 NKeal Harry,FA,WR,2019-03-05,76.2,33.5,64,41
 NKeal Harry,FA,WR,2019-03-12,54,35.4,64,41
 NKeal Harry,FA,WR,2019-03-19,46.3,33.3,64,41
@@ -6125,6 +6459,7 @@ NKeal Harry,NE,WR,2019-05-21,27.5,10.5,51.8,15.8
 NKeal Harry,NE,WR,2019-05-28,28.6,10.7,49.3,11.9
 NKeal Harry,NE,WR,2019-06-04,25.2,8.3,48.3,11.9
 NKeal Harry,NE,WR,2019-06-11,25.2,8.6,46.4,12.2
+NKeal Harry,NE,WR,2019-06-18,24.8,8.3,47.9,13
 Nelson Agholor,PHI,WR,2019-01-22,63.6,7.3,73.3,5
 Nelson Agholor,PHI,WR,2019-01-29,63.7,7.1,73.2,4.7
 Nelson Agholor,PHI,WR,2019-02-05,67.1,7.8,73.2,4.1
@@ -6146,6 +6481,7 @@ Nelson Agholor,PHI,WR,2019-05-21,78.2,11.4,80.9,8.5
 Nelson Agholor,PHI,WR,2019-05-28,78.6,11.8,80.6,8.6
 Nelson Agholor,PHI,WR,2019-06-04,76.7,8.8,80.5,7.4
 Nelson Agholor,PHI,WR,2019-06-11,74.5,7.7,81.9,7.8
+Nelson Agholor,PHI,WR,2019-06-18,75.7,9.1,81.5,8
 Noah Brown,DAL,WR,2019-04-02,194,6,147.8,11.6
 Noah Brown,DAL,WR,2019-04-09,193.7,4.9,147.8,11.6
 Noah Brown,DAL,WR,2019-04-16,193.7,4.9,149.5,13.5
@@ -6162,6 +6498,7 @@ Odell Beckham,CLE,WR,2019-05-21,2.1,0.9,4.5,1.7
 Odell Beckham,CLE,WR,2019-05-28,2.3,0.8,4.5,1.7
 Odell Beckham,CLE,WR,2019-06-04,2.5,1.1,4.5,1.6
 Odell Beckham,CLE,WR,2019-06-11,2.4,0.9,4.7,1.7
+Odell Beckham,CLE,WR,2019-06-18,2.3,0.9,5,1.8
 Odell Beckham,NYG,WR,2019-01-22,2.7,0.5,5.9,0.6
 Odell Beckham,NYG,WR,2019-01-29,2.9,0.6,5.9,0.7
 Odell Beckham,NYG,WR,2019-02-05,2.8,0.7,6,0.6
@@ -6180,6 +6517,7 @@ Parris Campbell,IND,WR,2019-05-21,43.4,16.8,64,15.3
 Parris Campbell,IND,WR,2019-05-28,44.8,16.9,61.8,12.1
 Parris Campbell,IND,WR,2019-06-04,42.5,11.7,61.4,10.9
 Parris Campbell,IND,WR,2019-06-11,44,12.2,61.8,10.9
+Parris Campbell,IND,WR,2019-06-18,42.7,12.1,62.9,11
 Paul Richardson,WAS,WR,2019-01-22,79.7,4.4,75,5.6
 Paul Richardson,WAS,WR,2019-01-29,80,4.6,75.3,5.1
 Paul Richardson,WAS,WR,2019-02-05,81.6,3.2,75.5,4.4
@@ -6201,6 +6539,7 @@ Paul Richardson,WAS,WR,2019-05-21,98.3,9.1,85,8.8
 Paul Richardson,WAS,WR,2019-05-28,98.8,8.8,84.9,9.3
 Paul Richardson,WAS,WR,2019-06-04,97.1,8.4,83.5,11.1
 Paul Richardson,WAS,WR,2019-06-11,97.5,8.4,84.1,11.2
+Paul Richardson,WAS,WR,2019-06-18,97.6,8,84.5,12.1
 Phillip Dorsett,NE,WR,2019-01-22,111.9,12.4,105,3
 Phillip Dorsett,NE,WR,2019-01-29,110.3,10.4,105.3,4.4
 Phillip Dorsett,NE,WR,2019-02-05,115.4,10.8,104.5,3.9
@@ -6222,6 +6561,7 @@ Phillip Dorsett,NE,WR,2019-05-21,103.7,17.2,96.3,12
 Phillip Dorsett,NE,WR,2019-05-28,104,17.6,96.1,11.3
 Phillip Dorsett,NE,WR,2019-06-04,103.3,10.7,95.7,10.4
 Phillip Dorsett,NE,WR,2019-06-11,105.5,9.7,94.8,8.9
+Phillip Dorsett,NE,WR,2019-06-18,107.4,14.8,95.5,9.5
 Pierre Garcon,FA,WR,2019-03-19,98.5,10.8,93.9,3.6
 Pierre Garcon,FA,WR,2019-03-26,101.8,11.5,93.9,3.6
 Pierre Garcon,FA,WR,2019-04-02,102.9,11,93.9,3.6
@@ -6235,6 +6575,7 @@ Pierre Garcon,FA,WR,2019-05-21,113.6,18,122.2,29.9
 Pierre Garcon,FA,WR,2019-05-28,116.9,16.6,122.1,29.9
 Pierre Garcon,FA,WR,2019-06-04,120.8,16,119.5,29.4
 Pierre Garcon,FA,WR,2019-06-11,117.1,15.2,124.7,29.1
+Pierre Garcon,FA,WR,2019-06-18,118.9,18.8,137.5,29.2
 Pierre Garcon,SF,WR,2019-01-22,94.6,6.2,91.4,3.9
 Pierre Garcon,SF,WR,2019-01-29,94.4,6.3,91.6,3.6
 Pierre Garcon,SF,WR,2019-02-05,97.9,8.5,92.3,3.2
@@ -6247,6 +6588,7 @@ Preston Williams,MIA,WR,2019-05-21,119,30.6,155.5,13.5
 Preston Williams,MIA,WR,2019-05-28,119,30.6,155.5,13.5
 Preston Williams,MIA,WR,2019-06-04,118.8,23.5,144,19.6
 Preston Williams,MIA,WR,2019-06-11,102.5,9.5,144.7,18.9
+Preston Williams,MIA,WR,2019-06-18,90.3,28.4,148.4,18.1
 Quincy Enunwa,NYJ,WR,2019-01-22,59,5.4,61.9,7.1
 Quincy Enunwa,NYJ,WR,2019-01-29,59.3,5.5,60.7,7
 Quincy Enunwa,NYJ,WR,2019-02-05,58.8,5.2,60.4,6.2
@@ -6268,6 +6610,7 @@ Quincy Enunwa,NYJ,WR,2019-05-21,72.8,10.8,65.7,8.7
 Quincy Enunwa,NYJ,WR,2019-05-28,72,10.1,65.4,8.3
 Quincy Enunwa,NYJ,WR,2019-06-04,69.7,6.9,64.8,8.2
 Quincy Enunwa,NYJ,WR,2019-06-11,69.5,6.6,65.3,8.8
+Quincy Enunwa,NYJ,WR,2019-06-18,72.5,9.8,66,8.8
 Randall Cobb,DAL,WR,2019-03-26,84.2,10.8,82.8,5.1
 Randall Cobb,DAL,WR,2019-04-02,85,10.7,81.9,5.9
 Randall Cobb,DAL,WR,2019-04-09,85,10.5,79.6,8.7
@@ -6280,6 +6623,7 @@ Randall Cobb,DAL,WR,2019-05-21,88.5,13.6,76.2,9.6
 Randall Cobb,DAL,WR,2019-05-28,90.9,11.7,76.6,9.6
 Randall Cobb,DAL,WR,2019-06-04,86.8,9.5,78,7.6
 Randall Cobb,DAL,WR,2019-06-11,84.8,7.5,79,7.6
+Randall Cobb,DAL,WR,2019-06-18,85.6,9.5,78.9,7.8
 Randall Cobb,FA,WR,2019-03-19,85.5,10.1,83,5.1
 Randall Cobb,GB,WR,2019-01-22,78.3,6.2,81.4,2.3
 Randall Cobb,GB,WR,2019-01-29,78.3,6.2,81.3,2.2
@@ -6307,6 +6651,7 @@ Rashard Higgins,CLE,WR,2019-05-21,122.8,6.9,101.8,10
 Rashard Higgins,CLE,WR,2019-05-28,122.8,6.9,102.2,9.6
 Rashard Higgins,CLE,WR,2019-06-04,119.7,7.3,102.1,9.4
 Rashard Higgins,CLE,WR,2019-06-11,116.8,9.5,103,9.9
+Rashard Higgins,CLE,WR,2019-06-18,118.4,9.6,104.5,10.6
 Rashard Higgins,FA,WR,2019-03-19,104,16.8,92.2,9
 Rashard Higgins,FA,WR,2019-03-26,111,12.1,93,8.2
 Rashard Higgins,FA,WR,2019-04-02,112,11.1,93,8.1
@@ -6326,12 +6671,14 @@ Richie James,SF,WR,2019-05-21,127.7,10.5,150.7,16.7
 Richie James,SF,WR,2019-05-28,127.7,10.5,150.5,16.8
 Richie James,SF,WR,2019-06-04,152,10,146.6,16
 Richie James,SF,WR,2019-06-11,151,11,147.6,15.6
+Richie James,SF,WR,2019-06-18,139.7,18.4,155.1,14
 Riley Ridley,CHI,WR,2019-05-07,98.9,15,109,14.9
 Riley Ridley,CHI,WR,2019-05-14,97.5,15.6,116,14.4
 Riley Ridley,CHI,WR,2019-05-21,95.6,16.3,116.8,12.7
 Riley Ridley,CHI,WR,2019-05-28,95.7,16.7,115.1,12.3
 Riley Ridley,CHI,WR,2019-06-04,98.8,15.2,124.9,26.1
 Riley Ridley,CHI,WR,2019-06-11,95.9,15.1,124.8,26.1
+Riley Ridley,CHI,WR,2019-06-18,95.3,14.9,129.9,25.6
 Rishard Matthews,FA,WR,2019-03-19,116.1,13,106.2,3.2
 Rishard Matthews,FA,WR,2019-03-26,114.8,12,106.2,3.1
 Rishard Matthews,FA,WR,2019-04-02,117.3,11.9,106.2,3.3
@@ -6345,6 +6692,7 @@ Rishard Matthews,FA,WR,2019-05-21,131.4,20,130.1,25.5
 Rishard Matthews,FA,WR,2019-05-28,131.4,20,129.9,25.5
 Rishard Matthews,FA,WR,2019-06-04,128.4,14.5,126.9,24.8
 Rishard Matthews,FA,WR,2019-06-11,125.1,14.2,131.1,24.2
+Rishard Matthews,NO,WR,2019-06-18,129.3,16.1,144.1,25.6
 Rishard Matthews,NYJ,WR,2019-01-22,102.1,5.3,101.5,3.3
 Rishard Matthews,NYJ,WR,2019-01-29,102.5,5.6,101.7,3.1
 Rishard Matthews,NYJ,WR,2019-02-05,107.9,6.6,103.1,3.3
@@ -6374,6 +6722,7 @@ Robby Anderson,NYJ,WR,2019-05-21,41.9,10,31.3,4.8
 Robby Anderson,NYJ,WR,2019-05-28,40.3,8.9,30.4,5.4
 Robby Anderson,NYJ,WR,2019-06-04,38.8,8.2,30.6,5.6
 Robby Anderson,NYJ,WR,2019-06-11,40.9,8.4,30,5.5
+Robby Anderson,NYJ,WR,2019-06-18,40.6,8.2,29.7,5.5
 Robert Foster,BUF,WR,2019-01-22,68.2,10.2,49.1,3.4
 Robert Foster,BUF,WR,2019-01-29,65,11.4,49.1,3.1
 Robert Foster,BUF,WR,2019-02-05,57.1,4.9,49.1,2.8
@@ -6395,6 +6744,7 @@ Robert Foster,BUF,WR,2019-05-21,70,13.4,56.6,13.2
 Robert Foster,BUF,WR,2019-05-28,69.7,12.7,55.9,12.9
 Robert Foster,BUF,WR,2019-06-04,66.2,16.1,55.4,12.7
 Robert Foster,BUF,WR,2019-06-11,66.9,15.4,55.2,12.6
+Robert Foster,BUF,WR,2019-06-18,66.5,14.9,56.5,12.9
 Robert Woods,LAR,WR,2019-01-22,19.6,0.9,16.2,0.8
 Robert Woods,LAR,WR,2019-01-29,19.1,1.2,16,1.2
 Robert Woods,LAR,WR,2019-02-05,19.1,0.9,16,1.4
@@ -6416,6 +6766,7 @@ Robert Woods,LAR,WR,2019-05-21,20,4.9,17.4,3.2
 Robert Woods,LAR,WR,2019-05-28,20.1,4.8,17.2,3.1
 Robert Woods,LAR,WR,2019-06-04,19.4,3.8,17.1,3.1
 Robert Woods,LAR,WR,2019-06-11,19.8,3.8,16.6,2.5
+Robert Woods,LAR,WR,2019-06-18,20.1,4.5,16.7,2.8
 Russell Shepard,FA,WR,2019-03-19,160.7,14.8,142.3,22.8
 Russell Shepard,FA,WR,2019-03-26,171,3,142.3,22.8
 Russell Shepard,FA,WR,2019-04-02,178,10.2,142.3,22.8
@@ -6430,6 +6781,7 @@ Russell Shepard,NYG,WR,2019-05-07,179.5,1.5,116.5,2.5
 Russell Shepard,NYG,WR,2019-05-14,179.5,1.5,116.5,2.5
 Russell Shepard,NYG,WR,2019-05-21,179.5,1.5,136,27.7
 Russell Shepard,NYG,WR,2019-05-28,179.5,1.5,136,27.7
+Russell Shepard,NYG,WR,2019-06-18,165,19,167.8,23.1
 Ryan Grant,FA,WR,2019-03-19,118.9,22,94.1,8.5
 Ryan Grant,FA,WR,2019-03-26,115.8,21.2,94.1,8.4
 Ryan Grant,FA,WR,2019-04-02,116.9,19.4,94.1,8.4
@@ -6451,6 +6803,7 @@ Ryan Grant,OAK,WR,2019-05-21,121.7,16.6,102.2,11.1
 Ryan Grant,OAK,WR,2019-05-28,121.7,16.6,102.6,10.7
 Ryan Grant,OAK,WR,2019-06-04,117.9,11.7,101.3,11.6
 Ryan Grant,OAK,WR,2019-06-11,116.6,11.4,102.8,11.2
+Ryan Grant,OAK,WR,2019-06-18,120.6,15.8,104.7,11.9
 Ryan Switzer,PIT,WR,2019-01-22,115.8,10.1,121.4,17.8
 Ryan Switzer,PIT,WR,2019-01-29,115.2,9,124.6,18.1
 Ryan Switzer,PIT,WR,2019-02-05,124,11.4,124.6,18.1
@@ -6472,6 +6825,7 @@ Ryan Switzer,PIT,WR,2019-05-21,136.2,18.9,126.3,16.9
 Ryan Switzer,PIT,WR,2019-05-28,136.2,18.9,123.6,18.1
 Ryan Switzer,PIT,WR,2019-06-04,139.8,17.9,124.1,17.3
 Ryan Switzer,PIT,WR,2019-06-11,133.6,22.4,126.5,17.1
+Ryan Switzer,PIT,WR,2019-06-18,135.1,19.3,124.7,17.4
 Sammy Watkins,KC,WR,2019-01-22,31.1,3.1,29.2,2.9
 Sammy Watkins,KC,WR,2019-01-29,30.9,2.9,30.2,3.8
 Sammy Watkins,KC,WR,2019-02-05,30,3.1,30.1,3.4
@@ -6493,6 +6847,7 @@ Sammy Watkins,KC,WR,2019-05-21,27,4.7,24.8,5
 Sammy Watkins,KC,WR,2019-05-28,27.2,4.9,23.6,4.6
 Sammy Watkins,KC,WR,2019-06-04,28.4,4.4,22.9,4.9
 Sammy Watkins,KC,WR,2019-06-11,28.5,4,22.4,4.8
+Sammy Watkins,KC,WR,2019-06-18,29,4.6,24,5.1
 Seth Roberts,BAL,WR,2019-04-09,151.5,6.1,134.6,18.8
 Seth Roberts,BAL,WR,2019-05-07,147.4,7.3,129.5,18.5
 Seth Roberts,BAL,WR,2019-05-14,147.4,7.3,129.5,18.5
@@ -6500,6 +6855,7 @@ Seth Roberts,BAL,WR,2019-05-21,147.4,7.3,132.3,15.1
 Seth Roberts,BAL,WR,2019-05-28,147.4,7.3,132.3,15.1
 Seth Roberts,BAL,WR,2019-06-04,145.2,6.3,139.7,10.5
 Seth Roberts,BAL,WR,2019-06-11,143.7,6.9,139.7,10.5
+Seth Roberts,BAL,WR,2019-06-18,148.3,10,139.2,26.3
 Seth Roberts,OAK,WR,2019-02-05,145,6,123.3,11.4
 Seth Roberts,OAK,WR,2019-02-12,145,6,134.4,18.5
 Seth Roberts,OAK,WR,2019-03-05,145,6,134.4,18.5
@@ -6528,6 +6884,7 @@ Stefon Diggs,MIN,WR,2019-05-21,10,1.7,13.5,1.6
 Stefon Diggs,MIN,WR,2019-05-28,10.2,1.6,13.3,1.4
 Stefon Diggs,MIN,WR,2019-06-04,10.3,1.7,13.6,1.7
 Stefon Diggs,MIN,WR,2019-06-11,10.1,1.6,13.6,2.1
+Stefon Diggs,MIN,WR,2019-06-18,9.8,1.3,13.6,2.1
 Sterling Shepard,NYG,WR,2019-01-22,41.3,1.4,39.8,3.4
 Sterling Shepard,NYG,WR,2019-01-29,41.7,2.1,40.2,3.3
 Sterling Shepard,NYG,WR,2019-02-05,41.8,1.9,40.1,2.9
@@ -6549,6 +6906,7 @@ Sterling Shepard,NYG,WR,2019-05-21,42.2,6.6,36.1,3.9
 Sterling Shepard,NYG,WR,2019-05-28,41.3,6.2,36.3,4
 Sterling Shepard,NYG,WR,2019-06-04,41.2,5,35.9,4.2
 Sterling Shepard,NYG,WR,2019-06-11,42.1,5.3,35.8,5.8
+Sterling Shepard,NYG,WR,2019-06-18,41.9,6,36.3,5.8
 TY Hilton,IND,WR,2019-01-22,17,0,11.8,1.1
 TY Hilton,IND,WR,2019-01-29,16.9,0.3,11.7,1.2
 TY Hilton,IND,WR,2019-02-05,16.6,0.5,11.5,1.1
@@ -6570,6 +6928,7 @@ TY Hilton,IND,WR,2019-05-21,16,3.3,10.7,1.8
 TY Hilton,IND,WR,2019-05-28,15.3,2.5,10.6,1.9
 TY Hilton,IND,WR,2019-06-04,15.9,3.6,10.4,1.8
 TY Hilton,IND,WR,2019-06-11,16.1,3,10.5,2.2
+TY Hilton,IND,WR,2019-06-18,16.1,3,10.6,2.5
 TJ Jones,DET,WR,2019-01-22,179.5,27.5,116.5,2.5
 TJ Jones,DET,WR,2019-01-29,176,31,124.5,5.5
 TJ Jones,DET,WR,2019-02-05,159.7,34.3,124.5,5.5
@@ -6601,6 +6960,7 @@ Tajae Sharpe,TEN,WR,2019-05-21,133.1,14,150.3,15.9
 Tajae Sharpe,TEN,WR,2019-05-28,133.1,14,149.8,16
 Tajae Sharpe,TEN,WR,2019-06-04,134.3,12.8,149.8,15.7
 Tajae Sharpe,TEN,WR,2019-06-11,133,13.8,146.1,15.4
+Tajae Sharpe,TEN,WR,2019-06-18,136,13.4,141.7,16.6
 Tavon Austin,DAL,WR,2019-01-22,143.5,6.5,110,4
 Tavon Austin,DAL,WR,2019-01-29,140,3,110,4
 Tavon Austin,DAL,WR,2019-02-05,134.3,8.4,110,4
@@ -6619,6 +6979,7 @@ Tavon Austin,DAL,WR,2019-05-21,146.5,17.1,132.7,16.3
 Tavon Austin,DAL,WR,2019-05-28,146.5,17.1,132.3,16.4
 Tavon Austin,DAL,WR,2019-06-04,144,2.4,134.5,15.1
 Tavon Austin,DAL,WR,2019-06-11,145.5,1.5,129.8,16.6
+Tavon Austin,DAL,WR,2019-06-18,138,10.7,132.3,13.2
 Taylor Gabriel,CHI,WR,2019-01-22,75.6,2.4,63,2.5
 Taylor Gabriel,CHI,WR,2019-01-29,75.6,2.4,62.8,2.4
 Taylor Gabriel,CHI,WR,2019-02-05,72.6,5.4,62.8,2.1
@@ -6640,6 +7001,7 @@ Taylor Gabriel,CHI,WR,2019-05-21,89.6,11.4,68.1,6.5
 Taylor Gabriel,CHI,WR,2019-05-28,90.8,11.3,68.5,6.9
 Taylor Gabriel,CHI,WR,2019-06-04,88.7,10.3,68.8,7.4
 Taylor Gabriel,CHI,WR,2019-06-11,90.4,11.7,69.9,7.6
+Taylor Gabriel,CHI,WR,2019-06-18,89.5,11.4,71.2,8.1
 Taywan Taylor,TEN,WR,2019-01-22,71,5.4,73.5,2.2
 Taywan Taylor,TEN,WR,2019-01-29,70.9,5.4,73.8,2.2
 Taywan Taylor,TEN,WR,2019-02-05,74.4,4,74.1,2
@@ -6661,6 +7023,7 @@ Taywan Taylor,TEN,WR,2019-05-21,88.8,13.8,88.3,15
 Taywan Taylor,TEN,WR,2019-05-28,91.2,12.8,88.9,14.3
 Taywan Taylor,TEN,WR,2019-06-04,90.1,8.3,90,14.1
 Taywan Taylor,TEN,WR,2019-06-11,88.6,8.5,92.2,15
+Taywan Taylor,TEN,WR,2019-06-18,89.9,11.1,95.7,14.4
 Ted Ginn,NO,WR,2019-01-22,97.7,7.5,85.7,5.1
 Ted Ginn,NO,WR,2019-01-29,97.6,7.6,86.3,5.3
 Ted Ginn,NO,WR,2019-02-05,93,8.2,87.5,5
@@ -6682,6 +7045,7 @@ Ted Ginn,NO,WR,2019-05-21,109.4,13.7,84.9,10.8
 Ted Ginn,NO,WR,2019-05-28,109.4,13.7,84.3,11.2
 Ted Ginn,NO,WR,2019-06-04,100.8,10.8,85.4,11
 Ted Ginn,NO,WR,2019-06-11,102.3,12.1,84.2,10.2
+Ted Ginn,NO,WR,2019-06-18,103.1,11.9,83.2,11.6
 Terrance Williams,DAL,WR,2019-01-22,141.5,15.5,114,15
 Terrance Williams,DAL,WR,2019-01-29,138,12,140.7,33.9
 Terrance Williams,DAL,WR,2019-02-05,139.8,16.3,140.7,33.9
@@ -6712,12 +7076,14 @@ Terrelle Pryor,FA,WR,2019-03-26,117.3,12.5,159,33.2
 Terrelle Pryor,FA,WR,2019-04-02,124.5,16.3,158.7,33.7
 Terrelle Pryor,FA,WR,2019-04-09,127.6,17.2,158.7,33.7
 Terrelle Pryor,FA,WR,2019-04-16,127.6,17.2,146.5,35.5
+Terrelle Pryor,JAC,WR,2019-06-18,124.5,4,154,36
 Terry McLaurin,WAS,WR,2019-05-07,89.6,16.3,110.5,12.5
 Terry McLaurin,WAS,WR,2019-05-14,84.5,18.3,105.2,17.6
 Terry McLaurin,WAS,WR,2019-05-21,82.6,18.3,106,12
 Terry McLaurin,WAS,WR,2019-05-28,83.4,19.1,103.7,12.1
 Terry McLaurin,WAS,WR,2019-06-04,76.9,16.2,101.1,15.5
 Terry McLaurin,WAS,WR,2019-06-11,76.3,13.6,101.2,15.6
+Terry McLaurin,WAS,WR,2019-06-18,78.4,14,104.9,17.5
 Tim Patrick,DEN,WR,2019-03-05,117.5,25.5,123.6,10.1
 Tim Patrick,DEN,WR,2019-03-12,117.5,25.5,123.6,10.1
 Tim Patrick,DEN,WR,2019-03-19,120.7,21.3,118,15.5
@@ -6733,6 +7099,7 @@ Tim Patrick,DEN,WR,2019-05-21,137.5,14.8,114.4,14.9
 Tim Patrick,DEN,WR,2019-05-28,137.5,14.8,113.5,15.4
 Tim Patrick,DEN,WR,2019-06-04,128.6,16.4,111.9,7.8
 Tim Patrick,DEN,WR,2019-06-11,124.3,10.9,112.8,9.3
+Tim Patrick,DEN,WR,2019-06-18,130.2,6.7,113.7,11.6
 Torrey Smith,CAR,WR,2019-01-22,137,7,122,19.8
 Torrey Smith,CAR,WR,2019-01-29,133.5,3.5,122,19.8
 Torrey Smith,CAR,WR,2019-02-05,134.5,12,122,19.8
@@ -6751,6 +7118,7 @@ Torrey Smith,CAR,WR,2019-05-21,163.8,15.6,128.6,6.9
 Torrey Smith,CAR,WR,2019-05-28,163.8,15.6,128.2,6.3
 Torrey Smith,CAR,WR,2019-06-04,147.6,6.3,125.5,11.3
 Torrey Smith,CAR,WR,2019-06-11,150,5.7,127.8,10.5
+Torrey Smith,CAR,WR,2019-06-18,155,8.6,126.9,10.4
 Travis Benjamin,LAC,WR,2019-01-22,95,5,108.8,4.6
 Travis Benjamin,LAC,WR,2019-01-29,95,5,113,7.2
 Travis Benjamin,LAC,WR,2019-02-05,107.8,7.2,113,7.2
@@ -6772,6 +7140,7 @@ Travis Benjamin,LAC,WR,2019-05-21,121.5,13.2,112.2,18
 Travis Benjamin,LAC,WR,2019-05-28,121.5,13.2,108.6,19.6
 Travis Benjamin,LAC,WR,2019-06-04,120.5,9.9,99.8,16.8
 Travis Benjamin,LAC,WR,2019-06-11,121.8,7.3,101.3,15.5
+Travis Benjamin,LAC,WR,2019-06-18,121.1,11.5,102.1,15.5
 Travis Fulgham,DET,WR,2019-05-21,133,31.3,150.5,24.5
 Travis Fulgham,DET,WR,2019-05-28,133,31.3,150.5,24.5
 TreQuan Smith,NO,WR,2019-01-22,50.3,4.1,66.6,2.7
@@ -6795,6 +7164,7 @@ TreQuan Smith,NO,WR,2019-05-21,53.7,6.7,69.4,8.4
 TreQuan Smith,NO,WR,2019-05-28,54.6,7,69.7,8.3
 TreQuan Smith,NO,WR,2019-06-04,53.9,5.7,69.3,6.8
 TreQuan Smith,NO,WR,2019-06-11,54.1,5.1,70.1,9.1
+TreQuan Smith,NO,WR,2019-06-18,54.6,5.6,69.6,9.5
 Trent Taylor,SF,WR,2019-01-22,112,2.8,107.3,2.2
 Trent Taylor,SF,WR,2019-01-29,112,2.8,106.3,2.7
 Trent Taylor,SF,WR,2019-02-05,120,8.6,105.9,2.4
@@ -6816,6 +7186,7 @@ Trent Taylor,SF,WR,2019-05-21,144.4,11.7,123.4,23.6
 Trent Taylor,SF,WR,2019-05-28,144.4,11.7,124.5,23.7
 Trent Taylor,SF,WR,2019-06-04,131,10.7,122,23.4
 Trent Taylor,SF,WR,2019-06-11,126.5,10,121,22.2
+Trent Taylor,SF,WR,2019-06-18,135.8,15.6,124.4,22
 Trey Quinn,WAS,WR,2019-01-22,100.9,6,126.2,24.6
 Trey Quinn,WAS,WR,2019-01-29,97.9,9.4,123.5,27
 Trey Quinn,WAS,WR,2019-02-05,97.3,10.9,123.5,27
@@ -6837,6 +7208,7 @@ Trey Quinn,WAS,WR,2019-05-21,96.3,18.8,81.9,15.9
 Trey Quinn,WAS,WR,2019-05-28,97.4,19.2,80.7,16
 Trey Quinn,WAS,WR,2019-06-04,89.9,13.2,80.2,15
 Trey Quinn,WAS,WR,2019-06-11,91.5,13.3,77,15
+Trey Quinn,WAS,WR,2019-06-18,94.4,17.5,80.4,17.2
 Tyler Boyd,CIN,WR,2019-01-22,33,2,29,1.2
 Tyler Boyd,CIN,WR,2019-01-29,32.9,2.1,28.4,2.1
 Tyler Boyd,CIN,WR,2019-02-05,34.3,2.7,28.3,1.8
@@ -6858,6 +7230,7 @@ Tyler Boyd,CIN,WR,2019-05-21,31.6,5.5,30.1,6.1
 Tyler Boyd,CIN,WR,2019-05-28,31.3,5,29.2,5.2
 Tyler Boyd,CIN,WR,2019-06-04,31.1,5.5,28.6,5.1
 Tyler Boyd,CIN,WR,2019-06-11,30.1,5.1,28.7,5.4
+Tyler Boyd,CIN,WR,2019-06-18,30.7,4.5,28.3,5.7
 Tyler Lockett,SEA,WR,2019-01-22,37.7,3.1,28.9,1.3
 Tyler Lockett,SEA,WR,2019-01-29,36.7,4.4,29.3,1.7
 Tyler Lockett,SEA,WR,2019-02-05,35.9,2.1,29.2,1.5
@@ -6879,6 +7252,7 @@ Tyler Lockett,SEA,WR,2019-05-21,35,6.7,25.2,4.9
 Tyler Lockett,SEA,WR,2019-05-28,34,6.1,24.5,3.9
 Tyler Lockett,SEA,WR,2019-06-04,32.2,7.3,24.1,4
 Tyler Lockett,SEA,WR,2019-06-11,31.7,7.8,22.8,3.8
+Tyler Lockett,SEA,WR,2019-06-18,31.9,7.7,22.7,4.2
 Tyreek Hill,KC,WR,2019-01-22,5.3,1.2,6.7,0.7
 Tyreek Hill,KC,WR,2019-01-29,5.4,1.3,6.5,0.7
 Tyreek Hill,KC,WR,2019-02-05,6.1,0.9,6.5,0.7
@@ -6900,6 +7274,7 @@ Tyreek Hill,KC,WR,2019-05-21,39.7,21.3,62.2,37.9
 Tyreek Hill,KC,WR,2019-05-28,40.7,21.2,64.2,37.1
 Tyreek Hill,KC,WR,2019-06-04,42.6,22.1,70.8,36.2
 Tyreek Hill,KC,WR,2019-06-11,40.4,18.4,74.5,34.7
+Tyreek Hill,KC,WR,2019-06-18,39.6,22.2,65.7,34.9
 Tyrell Williams,LAC,WR,2019-01-22,67.9,6.7,75.6,4.9
 Tyrell Williams,LAC,WR,2019-01-29,68,6.6,75.7,4.7
 Tyrell Williams,LAC,WR,2019-02-05,64,6.5,76,4.1
@@ -6921,6 +7296,7 @@ Tyrell Williams,OAK,WR,2019-05-21,65.4,10.4,61.8,13.6
 Tyrell Williams,OAK,WR,2019-05-28,68.3,12.6,61.8,13.5
 Tyrell Williams,OAK,WR,2019-06-04,67.9,12.9,61.8,12
 Tyrell Williams,OAK,WR,2019-06-11,70,12.5,61,13
+Tyrell Williams,OAK,WR,2019-06-18,69.8,11.7,59,11.4
 Vyncint Smith,HOU,WR,2019-04-02,219,36,163.4,11
 Vyncint Smith,HOU,WR,2019-04-09,210,32,163.4,11
 Will Fuller,HOU,WR,2019-01-22,30.7,1.2,32.6,0.8
@@ -6944,6 +7320,7 @@ Will Fuller,HOU,WR,2019-05-21,33,3.4,35.2,3.7
 Will Fuller,HOU,WR,2019-05-28,32.5,3.6,35.2,3.7
 Will Fuller,HOU,WR,2019-06-04,33.8,3.5,35.7,3.7
 Will Fuller,HOU,WR,2019-06-11,33.5,3.5,35.6,4.3
+Will Fuller,HOU,WR,2019-06-18,33.3,4.2,34.5,4.4
 Willie Snead,BAL,WR,2019-01-22,86,1.8,88.5,1.8
 Willie Snead,BAL,WR,2019-01-29,85.9,1.7,88.3,1.8
 Willie Snead,BAL,WR,2019-02-05,86.3,3.4,88,1.6
@@ -6965,6 +7342,7 @@ Willie Snead,BAL,WR,2019-05-21,98.2,9.4,87.8,7.5
 Willie Snead,BAL,WR,2019-05-28,98.7,9.7,88.2,7.5
 Willie Snead,BAL,WR,2019-06-04,98.6,6.2,87.3,7.4
 Willie Snead,BAL,WR,2019-06-11,97.9,7.3,87.1,7.8
+Willie Snead,BAL,WR,2019-06-18,100.6,10.5,86.1,7.9
 Zach Pascal,IND,WR,2019-01-22,148.3,62,130.5,18.6
 Zach Pascal,IND,WR,2019-01-29,148.3,62,132.5,20.9
 Zach Pascal,IND,WR,2019-02-05,151,60.1,132.5,20.9
@@ -6984,6 +7362,7 @@ Zach Pascal,IND,WR,2019-05-14,154.8,18,138.6,18.3
 Zach Pascal,IND,WR,2019-05-21,154.8,18,142.8,15.4
 Zach Pascal,IND,WR,2019-05-28,154.8,18,141.7,17.1
 Zach Pascal,IND,WR,2019-06-04,147,4,137.8,13.5
+Zach Pascal,IND,WR,2019-06-18,150,10.2,142,14
 Zay Jones,BUF,WR,2019-01-22,76,10.1,63.9,6.9
 Zay Jones,BUF,WR,2019-01-29,76,10.1,62.7,4.8
 Zay Jones,BUF,WR,2019-02-05,79.3,7.8,63,4.2
@@ -7005,6 +7384,7 @@ Zay Jones,BUF,WR,2019-05-21,80.4,13.8,73.3,9.7
 Zay Jones,BUF,WR,2019-05-28,79.5,14,74.4,9.7
 Zay Jones,BUF,WR,2019-06-04,79.4,10.9,74,10.6
 Zay Jones,BUF,WR,2019-06-11,78.9,9.4,74,12.8
+Zay Jones,BUF,WR,2019-06-18,80,9.7,74.6,13.1
 AJ Derby,FA,TE,2019-03-19,73.7,8.7,73.3,6.9
 AJ Derby,FA,TE,2019-03-26,78.5,11.5,73.3,6.9
 AJ Derby,FA,TE,2019-04-02,81.3,10.2,73.3,6.9
@@ -7038,8 +7418,10 @@ Adam Shaheen,CHI,TE,2019-05-21,36.5,5.8,43.9,6.4
 Adam Shaheen,CHI,TE,2019-05-28,36.8,6,44.2,6.5
 Adam Shaheen,CHI,TE,2019-06-04,36.8,4.9,43.9,5.9
 Adam Shaheen,CHI,TE,2019-06-11,36.8,4.9,46.2,6.4
+Adam Shaheen,CHI,TE,2019-06-18,37.2,6.1,48.4,7.9
 Alize Mack,NO,TE,2019-06-04,44.3,7.6,101,0
 Alize Mack,NO,TE,2019-06-11,48.7,9.3,81.3,27.1
+Alize Mack,NO,TE,2019-06-18,43,11.1,79.8,27.3
 Anthony Firkser,TEN,TE,2019-01-22,52.3,8.8,64.5,7.5
 Anthony Firkser,TEN,TE,2019-01-29,52.3,8.8,65,7
 Anthony Firkser,TEN,TE,2019-02-05,56,11.8,65,7
@@ -7057,6 +7439,7 @@ Anthony Firkser,TEN,TE,2019-05-14,59.8,9.6,62,11
 Anthony Firkser,TEN,TE,2019-05-21,59.8,9.6,69.8,11
 Anthony Firkser,TEN,TE,2019-05-28,59.8,9.6,70,11.2
 Anthony Firkser,TEN,TE,2019-06-04,58.7,10.8,69.8,11.7
+Anthony Firkser,TEN,TE,2019-06-18,75.5,1.5,72,10.4
 Antonio Gates,FA,TE,2019-03-19,70.7,16.5,62.6,14
 Antonio Gates,FA,TE,2019-03-26,71.3,17.2,62.6,14
 Antonio Gates,FA,TE,2019-04-02,76.3,17.2,62.6,14
@@ -7092,6 +7475,7 @@ Austin Hooper,ATL,TE,2019-05-21,14.2,3.4,12.9,3.3
 Austin Hooper,ATL,TE,2019-05-28,14.2,3.3,12.8,3.4
 Austin Hooper,ATL,TE,2019-06-04,14.1,2.6,12.7,2.9
 Austin Hooper,ATL,TE,2019-06-11,14.6,2.8,13.2,2.8
+Austin Hooper,ATL,TE,2019-06-18,15,3.1,13,3.1
 Austin Seferian-Jenkins,FA,TE,2019-01-29,31.1,0.3,31.7,1
 Austin Seferian-Jenkins,FA,TE,2019-02-05,31.4,1.8,32.1,1
 Austin Seferian-Jenkins,FA,TE,2019-02-12,31.8,2,32.6,1.1
@@ -7104,6 +7488,7 @@ Austin Seferian-Jenkins,FA,TE,2019-03-26,34.2,5.5,34,2.8
 Austin Seferian-Jenkins,FA,TE,2019-04-02,34.2,5.7,33.7,3
 Austin Seferian-Jenkins,FA,TE,2019-04-09,33,6.4,33.3,3.2
 Austin Seferian-Jenkins,FA,TE,2019-06-11,31.4,4.1,29.4,5.7
+Austin Seferian-Jenkins,FA,TE,2019-06-18,33.3,6.1,33.3,15.3
 Austin Seferian-Jenkins,JAC,TE,2019-01-22,31.1,0.3,31.3,0.9
 Austin Seferian-Jenkins,NE,TE,2019-04-16,31.6,4.5,31.5,4.7
 Austin Seferian-Jenkins,NE,TE,2019-04-23,31,3.9,30.9,4.9
@@ -7117,6 +7502,7 @@ Benjamin Watson,NE,TE,2019-05-21,44.3,6.1,27,1
 Benjamin Watson,NE,TE,2019-05-28,41.3,3.8,28.8,2.2
 Benjamin Watson,NE,TE,2019-06-04,42.2,3.9,36.7,7.3
 Benjamin Watson,NE,TE,2019-06-11,42.2,3.9,35.4,7.5
+Benjamin Watson,NE,TE,2019-06-18,42.8,3.2,38.9,12.9
 Benjamin Watson,NO,TE,2019-01-22,44.7,6.6,34,3
 Benjamin Watson,NO,TE,2019-01-29,44.7,6.6,34,3
 Benjamin Watson,NO,TE,2019-02-05,48,5.4,34,3
@@ -7144,6 +7530,8 @@ Blake Jarwin,DAL,TE,2019-05-21,42.2,9.9,39.1,7.8
 Blake Jarwin,DAL,TE,2019-05-28,43.6,9.3,38.8,7.9
 Blake Jarwin,DAL,TE,2019-06-04,41.9,7.9,38.6,8.8
 Blake Jarwin,DAL,TE,2019-06-11,42.5,8.6,39.1,8.7
+Blake Jarwin,DAL,TE,2019-06-18,44.7,9.7,39.3,8.7
+CJ Conrad,NYG,TE,2019-06-18,54.5,4.5,77,26
 CJ Uzomah,CIN,TE,2019-01-22,43.5,10.2,41.8,10.7
 CJ Uzomah,CIN,TE,2019-01-29,43.8,10.3,40.6,10.8
 CJ Uzomah,CIN,TE,2019-02-05,45.4,7.9,40.6,10.8
@@ -7165,6 +7553,7 @@ CJ Uzomah,CIN,TE,2019-05-21,43.6,7.7,39.8,9
 CJ Uzomah,CIN,TE,2019-05-28,43.6,8,40,8.3
 CJ Uzomah,CIN,TE,2019-06-04,44.5,6.6,39.2,7.2
 CJ Uzomah,CIN,TE,2019-06-11,44.4,4,40.1,7.4
+CJ Uzomah,CIN,TE,2019-06-18,45.3,5.1,39.8,9.3
 Cameron Brate,TB,TE,2019-01-22,28.7,0.7,24.9,2.8
 Cameron Brate,TB,TE,2019-01-29,28.9,0.6,25.1,2.7
 Cameron Brate,TB,TE,2019-02-05,29,2.1,24.8,2.4
@@ -7186,6 +7575,7 @@ Cameron Brate,TB,TE,2019-05-21,32.8,3.6,28.6,4.7
 Cameron Brate,TB,TE,2019-05-28,33.6,4.8,28.9,4.7
 Cameron Brate,TB,TE,2019-06-04,32.9,5,29.6,5.3
 Cameron Brate,TB,TE,2019-06-11,32.4,3.2,29.6,5.4
+Cameron Brate,TB,TE,2019-06-18,32.1,3.3,29.6,5.1
 Charles Clay,ARI,TE,2019-02-26,39.4,4.4,36.9,4.5
 Charles Clay,ARI,TE,2019-03-05,39,4.1,36.8,4.6
 Charles Clay,ARI,TE,2019-03-12,39.6,3.8,36.8,4.6
@@ -7202,6 +7592,7 @@ Charles Clay,ARI,TE,2019-05-21,42.7,5,35.8,6.8
 Charles Clay,ARI,TE,2019-05-28,43.2,5,35.6,6.7
 Charles Clay,ARI,TE,2019-06-04,40.3,3.1,37,7.9
 Charles Clay,ARI,TE,2019-06-11,39.9,3.4,38.2,8.7
+Charles Clay,ARI,TE,2019-06-18,41.4,6.1,38.3,8.4
 Charles Clay,BUF,TE,2019-01-22,35.6,2.1,34,2.3
 Charles Clay,BUF,TE,2019-01-29,36,2,34.6,2.3
 Charles Clay,BUF,TE,2019-02-05,38.1,4.2,34.4,2.1
@@ -7228,6 +7619,7 @@ Chris Herndon,NYJ,TE,2019-05-21,13.5,2.1,14.1,3.2
 Chris Herndon,NYJ,TE,2019-05-28,13.3,1.6,14.2,3.2
 Chris Herndon,NYJ,TE,2019-06-04,13.1,1.9,14.7,3.2
 Chris Herndon,NYJ,TE,2019-06-11,13,2.2,14.6,3.2
+Chris Herndon,NYJ,TE,2019-06-18,13.3,2.4,14.6,3.1
 Dallas Goedert,PHI,TE,2019-01-22,11.9,1.8,24.7,1.2
 Dallas Goedert,PHI,TE,2019-01-29,11.7,2,24.3,1.2
 Dallas Goedert,PHI,TE,2019-02-05,12.3,1.9,24,1.2
@@ -7249,6 +7641,7 @@ Dallas Goedert,PHI,TE,2019-05-21,12.5,4,23.3,3.4
 Dallas Goedert,PHI,TE,2019-05-28,12.6,4,23.1,3.6
 Dallas Goedert,PHI,TE,2019-06-04,12.4,3.1,22.9,3.7
 Dallas Goedert,PHI,TE,2019-06-11,11.5,1.6,22.1,3.7
+Dallas Goedert,PHI,TE,2019-06-18,12.1,2.8,22.1,3.7
 Dalton Schultz,DAL,TE,2019-01-22,44.5,5.2,64.7,6.8
 Dalton Schultz,DAL,TE,2019-01-29,44.8,5.3,65.3,6.2
 Dalton Schultz,DAL,TE,2019-02-05,44.6,4.8,65.3,6.2
@@ -7265,6 +7658,7 @@ Dalton Schultz,DAL,TE,2019-05-21,57.7,6.9,70.8,4.8
 Dalton Schultz,DAL,TE,2019-05-28,57.9,6.7,71,4.8
 Dalton Schultz,DAL,TE,2019-06-04,58.2,11.7,76.8,5.5
 Dalton Schultz,DAL,TE,2019-06-11,60.4,10.6,76.2,5.1
+Dalton Schultz,DAL,TE,2019-06-18,63.7,8.4,75,5.7
 Dan Arnold,NO,TE,2019-01-22,39.5,5.2,53.4,18
 Dan Arnold,NO,TE,2019-01-29,40.3,5,46.8,17
 Dan Arnold,NO,TE,2019-02-05,40.4,1.6,46.8,17
@@ -7286,6 +7680,7 @@ Dan Arnold,NO,TE,2019-05-21,48.8,6.8,65,15.1
 Dan Arnold,NO,TE,2019-05-28,49.8,6.2,65,15.1
 Dan Arnold,NO,TE,2019-06-04,50.3,7.6,63.8,15.8
 Dan Arnold,NO,TE,2019-06-11,48.3,6.5,74.6,15.6
+Dan Arnold,NO,TE,2019-06-18,49.8,6.5,69.6,15.3
 Darren Fells,CLE,TE,2019-02-12,93,11,90.3,0.5
 Darren Fells,CLE,TE,2019-02-19,77.5,4.5,90.3,0.5
 Darren Fells,CLE,TE,2019-02-26,78,4,90,0
@@ -7298,6 +7693,7 @@ Darren Waller,OAK,TE,2019-05-21,29.7,7.6,40,6.4
 Darren Waller,OAK,TE,2019-05-28,29.7,7.6,39,5.5
 Darren Waller,OAK,TE,2019-06-04,44.4,9.9,47.8,24.8
 Darren Waller,OAK,TE,2019-06-11,45.8,11.2,42.9,23.3
+Darren Waller,OAK,TE,2019-06-18,44.5,10.7,43.5,19.5
 David Njoku,CLE,TE,2019-01-22,5.4,0.7,6.8,1
 David Njoku,CLE,TE,2019-01-29,5.3,0.9,6.8,1.2
 David Njoku,CLE,TE,2019-02-05,5.1,1.1,7.1,1.3
@@ -7319,11 +7715,13 @@ David Njoku,CLE,TE,2019-05-21,5.9,1,9.1,2
 David Njoku,CLE,TE,2019-05-28,6,1,9.3,2.2
 David Njoku,CLE,TE,2019-06-04,6.2,1.1,9.3,2.2
 David Njoku,CLE,TE,2019-06-11,6.4,1.2,9.3,2
+David Njoku,CLE,TE,2019-06-18,6.9,1.3,9.3,2.2
 Dawson Knox,BUF,TE,2019-05-14,39.6,11.1,42.5,6.5
 Dawson Knox,BUF,TE,2019-05-21,39.6,11.1,53.7,17.5
 Dawson Knox,BUF,TE,2019-05-28,39.9,11.2,51.5,13.9
 Dawson Knox,BUF,TE,2019-06-04,39.8,7.5,49.4,14.9
 Dawson Knox,BUF,TE,2019-06-11,39.1,7.2,52.9,16.7
+Dawson Knox,BUF,TE,2019-06-18,40.8,10.2,50.4,18
 Delanie Walker,TEN,TE,2019-01-22,24.7,3.5,11.6,1.3
 Delanie Walker,TEN,TE,2019-01-29,25,3.3,12.1,1.6
 Delanie Walker,TEN,TE,2019-02-05,24.3,2.7,11.8,1.5
@@ -7345,6 +7743,7 @@ Delanie Walker,TEN,TE,2019-05-21,29,4.5,12.4,3.2
 Delanie Walker,TEN,TE,2019-05-28,29.9,5.3,12.2,3.1
 Delanie Walker,TEN,TE,2019-06-04,29.5,5.8,12.1,3.2
 Delanie Walker,TEN,TE,2019-06-11,29.9,5.4,12.4,3.5
+Delanie Walker,TEN,TE,2019-06-18,29.3,5.1,12,3.3
 Demetrius Harris,CLE,TE,2019-03-19,47,10,46.6,6.1
 Demetrius Harris,CLE,TE,2019-04-02,54.5,6.5,46.6,6.1
 Demetrius Harris,CLE,TE,2019-04-09,52.7,5.9,46.6,6.1
@@ -7354,6 +7753,7 @@ Demetrius Harris,CLE,TE,2019-05-21,58.8,8,51.4,7.7
 Demetrius Harris,CLE,TE,2019-05-28,58,7.9,51.4,7.7
 Demetrius Harris,CLE,TE,2019-06-04,58.5,9.2,55.2,8.1
 Demetrius Harris,CLE,TE,2019-06-11,61,8.9,60,7.1
+Demetrius Harris,CLE,TE,2019-06-18,61.4,8,57,8.6
 Demetrius Harris,KC,TE,2019-03-05,47,10,47.2,6.4
 Demetrius Harris,KC,TE,2019-03-12,47,10,47.2,6.4
 Derek Carrier,OAK,TE,2019-04-02,79,10,78,13
@@ -7366,10 +7766,12 @@ Drew Sample,CIN,TE,2019-05-21,48.5,5.9,69.8,20
 Drew Sample,CIN,TE,2019-05-28,49.7,5.3,70,20.2
 Drew Sample,CIN,TE,2019-06-04,48.2,7.2,73.8,13.9
 Drew Sample,CIN,TE,2019-06-11,43.3,5.1,74.6,12.4
+Drew Sample,CIN,TE,2019-06-18,44.4,4.9,74.6,12.4
 Dwayne Allen,MIA,TE,2019-05-21,64.2,11.7,55.7,2.5
 Dwayne Allen,MIA,TE,2019-05-28,64.2,11.7,55.7,2.5
 Dwayne Allen,MIA,TE,2019-06-04,67.3,8.4,57,2.8
 Dwayne Allen,MIA,TE,2019-06-11,73,3,56,3
+Dwayne Allen,MIA,TE,2019-06-18,66.5,15.1,59.5,8.6
 Ed Dickson,SEA,TE,2019-01-22,52.3,3.4,51.3,9.5
 Ed Dickson,SEA,TE,2019-01-29,52.3,3.4,53,7.9
 Ed Dickson,SEA,TE,2019-02-05,53.7,2.5,53,7.9
@@ -7388,6 +7790,7 @@ Ed Dickson,SEA,TE,2019-05-21,58.6,6.9,53.6,9
 Ed Dickson,SEA,TE,2019-05-28,58.9,7,51,10.2
 Ed Dickson,SEA,TE,2019-06-04,55.8,7.6,50.3,8.8
 Ed Dickson,SEA,TE,2019-06-11,53.8,5.3,52.5,7.3
+Ed Dickson,SEA,TE,2019-06-18,60.2,4.6,54.3,7.4
 Eric Ebron,IND,TE,2019-01-22,6.6,0.7,5.9,1.5
 Eric Ebron,IND,TE,2019-01-29,6.6,0.7,5.9,1.4
 Eric Ebron,IND,TE,2019-02-05,6.5,0.7,5.9,1.3
@@ -7409,6 +7812,7 @@ Eric Ebron,IND,TE,2019-05-21,8.6,1,7.9,1.8
 Eric Ebron,IND,TE,2019-05-28,8.8,1,8,2
 Eric Ebron,IND,TE,2019-06-04,9.2,1.2,8.1,1.9
 Eric Ebron,IND,TE,2019-06-11,9.3,1.2,7.9,1.6
+Eric Ebron,IND,TE,2019-06-18,9.1,1.2,7.9,1.8
 Eric Saubert,ATL,TE,2019-04-02,72,2,74.5,1.5
 Eric Saubert,ATL,TE,2019-04-09,72.7,1.9,74.5,1.5
 Eric Saubert,ATL,TE,2019-05-21,69.5,6.5,74.5,9.5
@@ -7447,12 +7851,14 @@ Evan Engram,NYG,TE,2019-05-21,5.2,1.2,6.1,1.8
 Evan Engram,NYG,TE,2019-05-28,5.3,1.3,6.1,1.8
 Evan Engram,NYG,TE,2019-06-04,5.2,1.2,6,1.7
 Evan Engram,NYG,TE,2019-06-11,5.3,1.2,5.9,1.7
+Evan Engram,NYG,TE,2019-06-18,5.3,1.3,5.9,1.6
 Foster Moreau,OAK,TE,2019-05-07,43.7,11.5,60,6
 Foster Moreau,OAK,TE,2019-05-14,43.2,11.1,48.7,16.8
 Foster Moreau,OAK,TE,2019-05-21,43.2,11.1,64.7,16.5
 Foster Moreau,OAK,TE,2019-05-28,43.3,11.1,64.8,16.6
 Foster Moreau,OAK,TE,2019-06-04,43.6,6.2,59,21.8
 Foster Moreau,OAK,TE,2019-06-11,48.8,7.2,56.8,23
+Foster Moreau,OAK,TE,2019-06-18,48.6,11.2,57.1,19.7
 Garrett Celek,SF,TE,2019-02-05,46.5,3.5,54.3,10.1
 Garrett Celek,SF,TE,2019-02-12,46.5,3.5,57,6.5
 Garrett Celek,SF,TE,2019-02-19,55,5,57,6.5
@@ -7469,6 +7875,7 @@ Garrett Celek,SF,TE,2019-05-21,63.8,3.9,67.4,9
 Garrett Celek,SF,TE,2019-05-28,63.8,3.9,67.6,9.1
 Garrett Celek,SF,TE,2019-06-04,65,4.5,64.8,7.6
 Garrett Celek,SF,TE,2019-06-11,65.5,5.5,67.5,6.8
+Garrett Celek,SF,TE,2019-06-18,65,4.5,69.6,6.9
 Geoff Swaim,DAL,TE,2019-01-22,40.2,3.4,51,18.8
 Geoff Swaim,DAL,TE,2019-01-29,40.4,3.7,51.4,19.1
 Geoff Swaim,DAL,TE,2019-02-05,37.8,2.9,51.4,19.1
@@ -7489,6 +7896,7 @@ Geoff Swaim,JAC,TE,2019-05-21,49.7,7.7,37.6,7.3
 Geoff Swaim,JAC,TE,2019-05-28,52.1,8.8,35.8,7.9
 Geoff Swaim,JAC,TE,2019-06-04,46.5,6.6,37.8,8
 Geoff Swaim,JAC,TE,2019-06-11,44.2,6.5,38.1,10
+Geoff Swaim,JAC,TE,2019-06-18,49.7,9.2,37.2,9.9
 George Kittle,SF,TE,2019-01-22,2.4,0.5,2.8,0.4
 George Kittle,SF,TE,2019-01-29,2.4,0.5,2.8,0.4
 George Kittle,SF,TE,2019-02-05,2.4,0.5,2.9,0.3
@@ -7510,6 +7918,7 @@ George Kittle,SF,TE,2019-05-21,2,0.3,2.9,0.5
 George Kittle,SF,TE,2019-05-28,2,0.2,2.8,0.5
 George Kittle,SF,TE,2019-06-04,1.9,0.2,2.6,0.6
 George Kittle,SF,TE,2019-06-11,2,0.2,2.6,0.5
+George Kittle,SF,TE,2019-06-18,2,0.2,2.5,0.5
 Gerald Everett,LAR,TE,2019-01-22,23,2.2,22.1,0.6
 Gerald Everett,LAR,TE,2019-01-29,22.3,2.8,22.8,1.7
 Gerald Everett,LAR,TE,2019-02-05,21.6,2.4,22.6,1.5
@@ -7531,6 +7940,7 @@ Gerald Everett,LAR,TE,2019-05-21,27.5,3.2,24.7,3
 Gerald Everett,LAR,TE,2019-05-28,27.5,3.4,24.8,3.1
 Gerald Everett,LAR,TE,2019-06-04,26.9,2.9,25.4,3.2
 Gerald Everett,LAR,TE,2019-06-11,26.7,2.7,26,3
+Gerald Everett,LAR,TE,2019-06-18,27.1,3.2,26,3.2
 Greg Olsen,CAR,TE,2019-01-22,23.7,3.1,14.1,2.3
 Greg Olsen,CAR,TE,2019-01-29,24.1,2.4,14.6,2.4
 Greg Olsen,CAR,TE,2019-02-05,25.5,2.2,14.6,2.1
@@ -7552,6 +7962,7 @@ Greg Olsen,CAR,TE,2019-05-21,30.2,4.4,17.6,4.4
 Greg Olsen,CAR,TE,2019-05-28,30.2,4.6,17.6,4.4
 Greg Olsen,CAR,TE,2019-06-04,30.9,5,17.5,2.8
 Greg Olsen,CAR,TE,2019-06-11,30,4.2,17.9,3.6
+Greg Olsen,CAR,TE,2019-06-18,29.7,4.3,17.8,3.8
 Hayden Hurst,BAL,TE,2019-01-22,22.3,0.7,29.4,4.5
 Hayden Hurst,BAL,TE,2019-01-29,22.4,0.9,28.3,2.9
 Hayden Hurst,BAL,TE,2019-02-05,22,2.5,28.3,2.6
@@ -7573,6 +7984,7 @@ Hayden Hurst,BAL,TE,2019-05-21,26.5,4.6,29.6,5.6
 Hayden Hurst,BAL,TE,2019-05-28,25.7,4.6,30,5.5
 Hayden Hurst,BAL,TE,2019-06-04,27.3,4.4,29.6,4.9
 Hayden Hurst,BAL,TE,2019-06-11,26.1,4.4,30,5.3
+Hayden Hurst,BAL,TE,2019-06-18,26.2,4.7,29.8,5.3
 Hunter Henry,LAC,TE,2019-01-22,7.6,0.5,5.6,0.7
 Hunter Henry,LAC,TE,2019-01-29,7.6,0.5,5.5,0.7
 Hunter Henry,LAC,TE,2019-02-05,6.9,1.1,5.5,0.7
@@ -7594,6 +8006,7 @@ Hunter Henry,LAC,TE,2019-05-21,6.8,1,5.4,1.3
 Hunter Henry,LAC,TE,2019-05-28,6.6,1,5.5,1.4
 Hunter Henry,LAC,TE,2019-06-04,6.4,1.2,5.5,1.1
 Hunter Henry,LAC,TE,2019-06-11,6.3,1.2,5.5,1
+Hunter Henry,LAC,TE,2019-06-18,6.2,1.1,5.5,1
 Ian Thomas,CAR,TE,2019-01-22,27,4.8,30.2,1.5
 Ian Thomas,CAR,TE,2019-01-29,27.1,5,29.8,2.3
 Ian Thomas,CAR,TE,2019-02-05,26.6,4.7,30,2
@@ -7615,6 +8028,7 @@ Ian Thomas,CAR,TE,2019-05-21,22.4,5.7,30.7,5.1
 Ian Thomas,CAR,TE,2019-05-28,23.9,7,30.6,4.9
 Ian Thomas,CAR,TE,2019-06-04,22.6,5.7,31.9,5.2
 Ian Thomas,CAR,TE,2019-06-11,23.4,5.8,32.2,5.6
+Ian Thomas,CAR,TE,2019-06-18,24.4,7.3,32.1,5.7
 Irv Smith,MIN,TE,2019-04-30,21,5.5,39.3,0.9
 Irv Smith,MIN,TE,2019-05-07,20.4,6.5,38.5,3
 Irv Smith,MIN,TE,2019-05-14,19.7,6.5,37,4.4
@@ -7622,6 +8036,7 @@ Irv Smith,MIN,TE,2019-05-21,20,6.3,37.4,7.2
 Irv Smith,MIN,TE,2019-05-28,19.8,6.2,37.2,7.2
 Irv Smith,MIN,TE,2019-06-04,21.2,6.2,37.3,7
 Irv Smith,MIN,TE,2019-06-11,21.2,6.1,38,9.3
+Irv Smith,MIN,TE,2019-06-18,20.8,5.8,39.9,10.5
 Jace Sternberger,GB,TE,2019-04-30,25.3,6.8,41,8.3
 Jace Sternberger,GB,TE,2019-05-07,25.3,7.2,40.9,12
 Jace Sternberger,GB,TE,2019-05-14,24.2,7.2,38.8,10
@@ -7629,6 +8044,7 @@ Jace Sternberger,GB,TE,2019-05-21,23.7,7,40,9.6
 Jace Sternberger,GB,TE,2019-05-28,23.7,7.1,38.8,9.8
 Jace Sternberger,GB,TE,2019-06-04,24.1,6.6,37.6,8.2
 Jace Sternberger,GB,TE,2019-06-11,25.9,6.9,39.1,9.9
+Jace Sternberger,GB,TE,2019-06-18,24.8,7.1,41.7,11.3
 Jack Doyle,IND,TE,2019-01-22,18.1,2.1,11.7,1.5
 Jack Doyle,IND,TE,2019-01-29,18.4,2.3,11.6,1.4
 Jack Doyle,IND,TE,2019-02-05,17,3.6,11.7,1.3
@@ -7650,6 +8066,7 @@ Jack Doyle,IND,TE,2019-05-21,19.8,3.5,14.1,3.9
 Jack Doyle,IND,TE,2019-05-28,20.1,3.4,14.1,3.9
 Jack Doyle,IND,TE,2019-06-04,19.3,3.2,14.2,3.6
 Jack Doyle,IND,TE,2019-06-11,19.2,3,14.9,3.9
+Jack Doyle,IND,TE,2019-06-18,19.8,3.6,15.1,4.5
 Jacob Hollister,NE,TE,2019-02-05,54.5,0.5,60,8
 Jacob Hollister,NE,TE,2019-02-12,54.5,0.5,64.7,11.1
 Jacob Hollister,NE,TE,2019-03-05,54,0,64.7,11.1
@@ -7660,6 +8077,7 @@ Jacob Hollister,NE,TE,2019-04-02,57,0.8,63.3,9.4
 Jacob Hollister,NE,TE,2019-04-09,57.3,0.8,63.3,9.4
 Jacob Hollister,SEA,TE,2019-05-21,68.3,4.1,79.3,12
 Jacob Hollister,SEA,TE,2019-05-28,68.3,4.1,79.3,12
+Jacob Hollister,SEA,TE,2019-06-18,66.5,0.5,81.2,18.2
 Jake Butt,DEN,TE,2019-01-22,33.4,1,32.6,3.4
 Jake Butt,DEN,TE,2019-01-29,33.4,1,32.1,3.4
 Jake Butt,DEN,TE,2019-02-05,35,1.3,31.6,3
@@ -7681,6 +8099,7 @@ Jake Butt,DEN,TE,2019-05-21,40.9,6.8,36.3,7.1
 Jake Butt,DEN,TE,2019-05-28,41.4,7,36.4,7
 Jake Butt,DEN,TE,2019-06-04,39.8,7.7,37.4,7.2
 Jake Butt,DEN,TE,2019-06-11,38.5,4.7,38.4,7.8
+Jake Butt,DEN,TE,2019-06-18,39.2,5.6,38.1,7.4
 James OShaughnessy,FA,TE,2019-03-19,69.5,0.5,68.8,12.8
 James OShaughnessy,JAC,TE,2019-02-05,77,7,61.3,6.5
 James OShaughnessy,JAC,TE,2019-02-12,77,7,65,7.2
@@ -7703,6 +8122,7 @@ Jared Cook,NO,TE,2019-05-21,16.9,3,8.3,3.1
 Jared Cook,NO,TE,2019-05-28,16.8,3.2,8.4,3.1
 Jared Cook,NO,TE,2019-06-04,16.5,2.9,8.1,2.4
 Jared Cook,NO,TE,2019-06-11,16,2.5,8.5,2.7
+Jared Cook,NO,TE,2019-06-18,16.1,2.5,8.5,2.5
 Jared Cook,OAK,TE,2019-01-22,18.9,1.6,12.1,2.7
 Jared Cook,OAK,TE,2019-01-29,19,1.4,11.7,2.9
 Jared Cook,OAK,TE,2019-02-05,19.3,1,11.5,2.6
@@ -7730,6 +8150,7 @@ Jason Witten,DAL,TE,2019-05-21,43.4,7.1,31.5,6
 Jason Witten,DAL,TE,2019-05-28,43.4,7.1,31.1,5.9
 Jason Witten,DAL,TE,2019-06-04,42.8,5.7,29.9,4.9
 Jason Witten,DAL,TE,2019-06-11,43.1,5.6,29.8,5.3
+Jason Witten,DAL,TE,2019-06-18,44.7,7.2,30.3,4.9
 Jaylen Samuels,PIT,TE,2019-01-22,27.6,7.8,18.9,4.6
 Jaylen Samuels,PIT,TE,2019-01-29,28.2,8.4,17.4,4.7
 Jaylen Samuels,PIT,TE,2019-02-05,30.7,2.6,16.9,5.3
@@ -7749,6 +8170,7 @@ Jaylen Samuels,PIT,TE,2019-05-14,35,7.6,23.6,9.2
 Jaylen Samuels,PIT,TE,2019-05-21,35,7.6,22.7,10.8
 Jaylen Samuels,PIT,TE,2019-05-28,35,7.6,22.8,9.3
 Jaylen Samuels,PIT,TE,2019-06-11,41.5,7.5,19.5,3.5
+Jaylen Samuels,PIT,TE,2019-06-18,36.3,9.5,19.5,3.5
 Jeff Heuerman,DEN,TE,2019-01-22,54.7,6.5,51.7,9.7
 Jeff Heuerman,DEN,TE,2019-01-29,54.7,6.5,52.7,10
 Jeff Heuerman,DEN,TE,2019-02-05,58,3.7,52.7,10
@@ -7767,6 +8189,7 @@ Jeff Heuerman,DEN,TE,2019-05-21,60.1,7.5,49.6,8.6
 Jeff Heuerman,DEN,TE,2019-05-28,60,7.4,49.6,8.6
 Jeff Heuerman,DEN,TE,2019-06-04,61.2,8.7,51,7.1
 Jeff Heuerman,DEN,TE,2019-06-11,60,8.9,50.6,6.1
+Jeff Heuerman,DEN,TE,2019-06-18,60.3,8.5,50,5.9
 Jeremy Sprinkle,WAS,TE,2019-01-22,63.3,0.9,66,12
 Jeremy Sprinkle,WAS,TE,2019-01-29,63.3,0.9,66.5,11.5
 Jeremy Sprinkle,WAS,TE,2019-02-05,70.3,10.4,66.5,11.5
@@ -7806,6 +8229,7 @@ Jesse James,DET,TE,2019-05-21,41.9,5.9,42.3,6.5
 Jesse James,DET,TE,2019-05-28,42.5,5.5,42.6,6.5
 Jesse James,DET,TE,2019-06-04,42.5,6.4,43.1,4.7
 Jesse James,DET,TE,2019-06-11,42.8,5.3,44.9,3.7
+Jesse James,DET,TE,2019-06-18,43.4,5.1,46.8,4.1
 Jesse James,PIT,TE,2019-01-22,51.5,7.8,44.8,8.2
 Jesse James,PIT,TE,2019-01-29,51.8,7.8,46.2,7.8
 Jesse James,PIT,TE,2019-02-05,53.4,7.3,46.2,7.8
@@ -7835,6 +8259,7 @@ Jimmy Graham,GB,TE,2019-05-21,27.6,3,19.2,3.1
 Jimmy Graham,GB,TE,2019-05-28,28.3,3.4,19.4,3.3
 Jimmy Graham,GB,TE,2019-06-04,28.4,3.6,19.1,3
 Jimmy Graham,GB,TE,2019-06-11,27.2,3.9,19.2,3.2
+Jimmy Graham,GB,TE,2019-06-18,27.1,3.9,18.8,3.4
 Jonnu Smith,TEN,TE,2019-01-22,24,2.9,38.6,13.5
 Jonnu Smith,TEN,TE,2019-01-29,24.3,3.1,30.6,4.5
 Jonnu Smith,TEN,TE,2019-02-05,25.5,1.5,30.6,4.5
@@ -7856,6 +8281,7 @@ Jonnu Smith,TEN,TE,2019-05-21,28.9,4.4,36.7,8.7
 Jonnu Smith,TEN,TE,2019-05-28,30.1,5.4,36.7,8.8
 Jonnu Smith,TEN,TE,2019-06-04,29.5,5.4,38.4,9.3
 Jonnu Smith,TEN,TE,2019-06-11,28.7,3.6,39.8,9.9
+Jonnu Smith,TEN,TE,2019-06-18,29.4,4.2,40.4,9.7
 Jordan Akins,HOU,TE,2019-01-22,52,3.7,60,12.9
 Jordan Akins,HOU,TE,2019-01-29,52,3.7,60.5,12.5
 Jordan Akins,HOU,TE,2019-02-05,53,4.2,60.5,12.5
@@ -7874,6 +8300,7 @@ Jordan Akins,HOU,TE,2019-05-21,53.9,5.8,58.4,10.4
 Jordan Akins,HOU,TE,2019-05-28,56.1,5.4,58.4,10.4
 Jordan Akins,HOU,TE,2019-06-04,55.8,7,55,6
 Jordan Akins,HOU,TE,2019-06-11,50,7.9,56.2,6.1
+Jordan Akins,HOU,TE,2019-06-18,54.7,8.2,61,7.4
 Jordan Leggett,NYJ,TE,2019-01-22,62,2.9,59.5,9.5
 Jordan Leggett,NYJ,TE,2019-01-29,62,2.9,59.5,9.5
 Jordan Leggett,NYJ,TE,2019-02-05,64.7,5.3,59.5,9.5
@@ -7892,6 +8319,7 @@ Jordan Leggett,NYJ,TE,2019-05-21,64.8,11.6,64.3,5.8
 Jordan Leggett,TB,TE,2019-05-28,64.8,11.6,64.3,5.8
 Jordan Leggett,TB,TE,2019-06-04,64,12,65.5,4.8
 Jordan Leggett,TB,TE,2019-06-11,59.5,12.5,65.5,4.8
+Jordan Leggett,TB,TE,2019-06-18,59.5,12.5,69.8,7.3
 Jordan Reed,WAS,TE,2019-01-22,16.6,2.7,17.9,1.6
 Jordan Reed,WAS,TE,2019-01-29,16.7,3,17.4,1.8
 Jordan Reed,WAS,TE,2019-02-05,17.1,3.1,17.4,1.6
@@ -7913,6 +8341,7 @@ Jordan Reed,WAS,TE,2019-05-21,22.4,3.2,15.9,3.7
 Jordan Reed,WAS,TE,2019-05-28,22,3,15.9,3.7
 Jordan Reed,WAS,TE,2019-06-04,22.4,3,15.9,2.9
 Jordan Reed,WAS,TE,2019-06-11,21.9,2.8,16.2,3.4
+Jordan Reed,WAS,TE,2019-06-18,22,3.3,16.6,3.7
 Jordan Thomas,HOU,TE,2019-01-22,40.5,4.2,41.8,10.6
 Jordan Thomas,HOU,TE,2019-01-29,40.8,4.4,43.3,11
 Jordan Thomas,HOU,TE,2019-02-05,39.6,3.7,43.3,11
@@ -7934,6 +8363,7 @@ Jordan Thomas,HOU,TE,2019-05-21,43,5.9,47.4,6
 Jordan Thomas,HOU,TE,2019-05-28,43.8,5.4,47.8,6
 Jordan Thomas,HOU,TE,2019-06-04,43.1,4.4,45.2,11.1
 Jordan Thomas,HOU,TE,2019-06-11,43.6,5.1,44.5,11.4
+Jordan Thomas,HOU,TE,2019-06-18,42.3,5.7,43.5,12.3
 Josh Hill,NO,TE,2019-01-22,68,11,50,4.3
 Josh Hill,NO,TE,2019-01-29,68.5,10.5,51.3,4.7
 Josh Hill,NO,TE,2019-02-05,67,13.3,51.3,4.7
@@ -7955,11 +8385,13 @@ Josh Hill,NO,TE,2019-05-21,65.8,15.4,51.7,7.7
 Josh Hill,NO,TE,2019-05-28,65.8,15.4,52.3,7.8
 Josh Hill,NO,TE,2019-06-04,63,7,55.4,9.2
 Josh Hill,NO,TE,2019-06-11,63,7,58.5,10.4
+Josh Hill,NO,TE,2019-06-18,69.3,10.6,58.7,9.3
 Josh Oliver,JAC,TE,2019-05-14,34.9,10.6,43.5,19.5
 Josh Oliver,JAC,TE,2019-05-21,35.1,10,46.2,11.1
 Josh Oliver,JAC,TE,2019-05-28,35.4,9.9,44.1,11.6
 Josh Oliver,JAC,TE,2019-06-04,35.1,8,42.8,12.9
 Josh Oliver,JAC,TE,2019-06-11,35.9,8.8,43.4,13.1
+Josh Oliver,JAC,TE,2019-06-18,36.4,11.1,46.5,16.8
 Kaden Smith,SF,TE,2019-05-21,59,15.8,95,5
 Kaden Smith,SF,TE,2019-05-28,59,15.8,95,5
 Kaden Smith,SF,TE,2019-06-04,67.5,12.5,95.3,4.1
@@ -7968,6 +8400,7 @@ Kahale Warring,HOU,TE,2019-05-21,38.9,13,52.3,13.4
 Kahale Warring,HOU,TE,2019-05-28,39.4,13,51.8,13.8
 Kahale Warring,HOU,TE,2019-06-04,39,10.6,51,13.5
 Kahale Warring,HOU,TE,2019-06-11,36.6,9.5,48.1,12.8
+Kahale Warring,HOU,TE,2019-06-18,36.9,9.1,45.7,11.4
 Kyle Rudolph,MIN,TE,2019-01-22,13.3,1.9,18.6,2.3
 Kyle Rudolph,MIN,TE,2019-01-29,13.3,1.9,18.4,2.1
 Kyle Rudolph,MIN,TE,2019-02-05,13.3,2.7,18.4,1.8
@@ -7989,6 +8422,7 @@ Kyle Rudolph,MIN,TE,2019-05-21,19,4.3,18.5,3.2
 Kyle Rudolph,MIN,TE,2019-05-28,19.5,4.4,18.6,3.2
 Kyle Rudolph,MIN,TE,2019-06-04,19.2,3.5,18.4,2.4
 Kyle Rudolph,MIN,TE,2019-06-11,19,3.4,18.5,2.7
+Kyle Rudolph,MIN,TE,2019-06-18,19.2,4,18.1,2.7
 Lance Kendricks,FA,TE,2019-03-19,79.3,8.5,82,11.2
 Lance Kendricks,FA,TE,2019-03-26,84,8,82,11.2
 Lance Kendricks,FA,TE,2019-04-02,84.7,6.6,82,11.2
@@ -8022,8 +8456,10 @@ Luke Willson,OAK,TE,2019-05-21,64.4,8.2,40.1,9.2
 Luke Willson,OAK,TE,2019-05-28,66.8,6.1,39.8,9.3
 Luke Willson,OAK,TE,2019-06-04,60.6,13.7,41,10.7
 Luke Willson,OAK,TE,2019-06-11,57.6,10.9,42.6,12.1
+Luke Willson,OAK,TE,2019-06-18,62.7,6.9,43.9,12
 Marcedes Lewis,GB,TE,2019-05-21,75.7,4.8,94.3,9
 Marcedes Lewis,GB,TE,2019-05-28,75.7,4.8,94.3,9
+Marcedes Lewis,GB,TE,2019-06-18,75,6,96,7.2
 Mark Andrews,BAL,TE,2019-01-22,20.7,2.8,26.7,2.7
 Mark Andrews,BAL,TE,2019-01-29,20.7,2.8,26.6,3.3
 Mark Andrews,BAL,TE,2019-02-05,20.4,2.7,27.3,3.1
@@ -8045,6 +8481,7 @@ Mark Andrews,BAL,TE,2019-05-21,18.6,3.8,24.9,4.3
 Mark Andrews,BAL,TE,2019-05-28,18.7,3.8,24.6,4.7
 Mark Andrews,BAL,TE,2019-06-04,18.5,3.1,24.1,4.9
 Mark Andrews,BAL,TE,2019-06-11,18.8,2.8,23.2,4
+Mark Andrews,BAL,TE,2019-06-18,18.6,3,22.6,3.9
 Matt LaCosse,NE,TE,2019-04-09,59.6,24.2,55.5,18.5
 Matt LaCosse,NE,TE,2019-04-16,59.6,24.2,55.5,18.5
 Matt LaCosse,NE,TE,2019-05-07,63.8,7.7,49.5,12.5
@@ -8052,10 +8489,12 @@ Matt LaCosse,NE,TE,2019-05-21,63.8,7.7,73,6.6
 Matt LaCosse,NE,TE,2019-05-28,63.7,7.9,73.3,6.6
 Matt LaCosse,NE,TE,2019-06-04,55,7.3,74.3,5
 Matt LaCosse,NE,TE,2019-06-11,56,7.8,52.5,21.3
+Matt LaCosse,NE,TE,2019-06-18,60.8,9.5,47,20.8
 Maxx Williams,ARI,TE,2019-05-21,66.4,12.2,63.5,12.5
 Maxx Williams,ARI,TE,2019-05-28,66.6,12.1,63.8,12.9
 Maxx Williams,ARI,TE,2019-06-04,60.8,13.8,66,13.8
 Maxx Williams,ARI,TE,2019-06-11,57,11.3,69,13.4
+Maxx Williams,ARI,TE,2019-06-18,61.5,9.3,72.7,6.9
 Maxx Williams,BAL,TE,2019-01-22,61.3,6.8,58,6
 Maxx Williams,BAL,TE,2019-01-29,61.3,6.8,58.5,6.2
 Maxx Williams,BAL,TE,2019-02-05,62.7,6,58.5,6.2
@@ -8086,6 +8525,7 @@ Michael Roberts,DET,TE,2019-05-21,63.5,8.1,72,9.4
 Michael Roberts,DET,TE,2019-05-28,63.5,8.1,72,9.4
 Michael Roberts,DET,TE,2019-06-04,71.3,8.7,74.8,8.5
 Michael Roberts,DET,TE,2019-06-11,77.5,0.5,73.4,7.8
+Michael Roberts,FA,TE,2019-06-18,73.3,5.9,64.3,13.6
 Mike Gesicki,MIA,TE,2019-01-22,16.4,2.6,25.7,1
 Mike Gesicki,MIA,TE,2019-01-29,16.1,2.7,25.9,1.2
 Mike Gesicki,MIA,TE,2019-02-05,16.3,2.5,25.7,1.1
@@ -8107,6 +8547,7 @@ Mike Gesicki,MIA,TE,2019-05-21,18.2,3.3,23.2,3.6
 Mike Gesicki,MIA,TE,2019-05-28,18.6,3.2,23.1,3.8
 Mike Gesicki,MIA,TE,2019-06-04,18.2,2.7,23.2,3.8
 Mike Gesicki,MIA,TE,2019-06-11,18.4,2.3,24.1,5
+Mike Gesicki,MIA,TE,2019-06-18,18.7,2.6,24.3,5.5
 Mo Alie-Cox,IND,TE,2019-04-02,64.5,11.5,63,4.3
 Mo Alie-Cox,IND,TE,2019-04-09,65,9.4,63,4.3
 Mo Alie-Cox,IND,TE,2019-06-04,62.5,5.5,65.4,8.9
@@ -8137,6 +8578,7 @@ Nick Vannett,SEA,TE,2019-05-21,40.8,4.4,35.4,6.6
 Nick Vannett,SEA,TE,2019-05-28,41.1,4.5,35.4,6.5
 Nick Vannett,SEA,TE,2019-06-04,40.8,5.2,34.5,6
 Nick Vannett,SEA,TE,2019-06-11,40.9,4.9,34.4,6
+Nick Vannett,SEA,TE,2019-06-18,42.3,6,34.6,6.8
 Noah Fant,DEN,TE,2019-04-30,12.1,4.2,27,5
 Noah Fant,DEN,TE,2019-05-07,11.9,4.5,24.3,6.6
 Noah Fant,DEN,TE,2019-05-14,11.7,4.3,22.2,5.8
@@ -8144,6 +8586,7 @@ Noah Fant,DEN,TE,2019-05-21,11.4,4.2,21.3,5.6
 Noah Fant,DEN,TE,2019-05-28,11.4,4.3,21.2,5.6
 Noah Fant,DEN,TE,2019-06-04,11.3,4,20.7,5.2
 Noah Fant,DEN,TE,2019-06-11,10.9,3.4,21.5,5.7
+Noah Fant,DEN,TE,2019-06-18,10.6,3.2,22.6,6.1
 Noah Fant,FA,TE,2019-04-09,22.4,10.4,29.5,0.5
 Noah Fant,FA,TE,2019-04-16,25,8.9,29,2.2
 Noah Fant,FA,TE,2019-04-23,28.4,6.1,29,2.2
@@ -8168,6 +8611,7 @@ OJ Howard,TB,TE,2019-05-21,4.7,0.9,5.1,1.4
 OJ Howard,TB,TE,2019-05-28,4.7,0.9,5.1,1.4
 OJ Howard,TB,TE,2019-06-04,4.9,0.9,4.9,1.4
 OJ Howard,TB,TE,2019-06-11,4.8,0.9,4.7,1.2
+OJ Howard,TB,TE,2019-06-18,4.7,0.8,4.8,1.2
 Rhett Ellison,NYG,TE,2019-04-02,65.5,14.5,54.5,15.4
 Rhett Ellison,NYG,TE,2019-04-09,66.3,11.9,54.5,15.4
 Richard Rodgers,PHI,TE,2019-05-21,78,4,94.5,2.5
@@ -8193,6 +8637,7 @@ Ricky Seals-Jones,ARI,TE,2019-05-21,32.8,5,31.6,7.5
 Ricky Seals-Jones,ARI,TE,2019-05-28,33,5.2,31.5,7.4
 Ricky Seals-Jones,ARI,TE,2019-06-04,33.1,4.9,30.7,7.1
 Ricky Seals-Jones,ARI,TE,2019-06-11,32.5,5,31.1,7.3
+Ricky Seals-Jones,ARI,TE,2019-06-18,32.6,4.9,30.9,7.1
 Rico Gathers,DAL,TE,2019-01-22,63.7,19.3,72.3,12.2
 Rico Gathers,DAL,TE,2019-01-29,63.7,19.3,73,11.6
 Rico Gathers,DAL,TE,2019-02-05,67.3,17.6,73,11.6
@@ -8208,6 +8653,7 @@ Rico Gathers,DAL,TE,2019-04-09,68.5,5.3,77,10.3
 Rico Gathers,DAL,TE,2019-05-21,59.8,8.8,82,12
 Rico Gathers,DAL,TE,2019-05-28,59.8,8.8,82,12
 Rico Gathers,DAL,TE,2019-06-04,52.5,6.5,82,12
+Rico Gathers,DAL,TE,2019-06-18,59.5,13.5,79.8,9.4
 Rob Gronkowski,FA,TE,2019-03-26,14.4,5.4,9.6,2.9
 Rob Gronkowski,FA,TE,2019-04-02,20,7.3,10.8,4.2
 Rob Gronkowski,FA,TE,2019-04-09,18.2,8.8,10.8,3.8
@@ -8233,6 +8679,7 @@ Ryan Griffin,FA,TE,2019-05-21,66,8.6,45.4,4.4
 Ryan Griffin,FA,TE,2019-05-28,66,8.6,45.8,4.6
 Ryan Griffin,FA,TE,2019-06-04,56.5,5.5,44.6,5.2
 Ryan Griffin,FA,TE,2019-06-11,56.5,5.5,47,5
+Ryan Griffin,FA,TE,2019-06-18,56.5,5.5,45.7,4.5
 Ryan Griffin,HOU,TE,2019-01-22,59,5,41.3,5.4
 Ryan Griffin,HOU,TE,2019-01-29,59,5,43.3,2.2
 Ryan Griffin,HOU,TE,2019-02-05,62.7,8.6,43.3,2.2
@@ -8265,10 +8712,12 @@ Seth DeValve,CLE,TE,2019-04-09,62,5.4,62.3,6.9
 Seth DeValve,CLE,TE,2019-05-21,71,4.3,78,9
 Seth DeValve,CLE,TE,2019-05-28,71,4.3,78,9
 Seth DeValve,CLE,TE,2019-06-04,67.5,3.5,72.3,10.9
+Seth DeValve,CLE,TE,2019-06-18,71,7,80.8,13.5
 Stephen Anderson,NE,TE,2019-05-21,55.7,5.8,62.5,3.5
 Stephen Anderson,NE,TE,2019-05-28,56.8,5.6,62.5,3.5
 Stephen Anderson,NE,TE,2019-06-04,52.5,5.9,72,10.7
 Stephen Anderson,NE,TE,2019-06-11,47.3,9,70.3,11.8
+Stephen Anderson,NE,TE,2019-06-18,47,7.6,77.3,15.8
 TJ Hockenson,DET,TE,2019-04-30,11.6,5.1,24.6,4.9
 TJ Hockenson,DET,TE,2019-05-07,11.1,5.4,26.6,12
 TJ Hockenson,DET,TE,2019-05-14,10.9,5.1,22.3,9.4
@@ -8276,6 +8725,7 @@ TJ Hockenson,DET,TE,2019-05-21,11,4.9,20.9,8.8
 TJ Hockenson,DET,TE,2019-05-28,10.8,5,20.7,8.5
 TJ Hockenson,DET,TE,2019-06-04,9.7,4,19.8,4.5
 TJ Hockenson,DET,TE,2019-06-11,9.5,3.8,20,4.6
+TJ Hockenson,DET,TE,2019-06-18,9.2,3.7,22.1,7.7
 TJ Hockenson,FA,TE,2019-04-16,28.5,8,27.3,4.1
 TJ Hockenson,FA,TE,2019-04-23,31.6,5.1,27.3,4.1
 Travis Kelce,KC,TE,2019-01-22,1,0,1,0
@@ -8299,6 +8749,7 @@ Travis Kelce,KC,TE,2019-05-21,1,0.2,1,0
 Travis Kelce,KC,TE,2019-05-28,1,0.2,1,0
 Travis Kelce,KC,TE,2019-06-04,1.1,0.2,1,0
 Travis Kelce,KC,TE,2019-06-11,1.1,0.2,1,0
+Travis Kelce,KC,TE,2019-06-18,1,0.2,1,0
 Trey Burton,CHI,TE,2019-01-22,9.7,1,13.3,2.1
 Trey Burton,CHI,TE,2019-01-29,10,1.3,13.2,2.1
 Trey Burton,CHI,TE,2019-02-05,9.3,0.4,13.3,1.8
@@ -8320,6 +8771,7 @@ Trey Burton,CHI,TE,2019-05-21,13.1,3,13.9,3
 Trey Burton,CHI,TE,2019-05-28,13.2,2.9,14,2.9
 Trey Burton,CHI,TE,2019-06-04,12.9,2.9,13.2,2.4
 Trey Burton,CHI,TE,2019-06-11,13.1,3,12.8,2.5
+Trey Burton,CHI,TE,2019-06-18,13.1,2.9,13.3,2.6
 Troy Fumagalli,DEN,TE,2019-01-22,62.3,14.7,63,10
 Troy Fumagalli,DEN,TE,2019-01-29,62.3,14.7,63,10
 Troy Fumagalli,DEN,TE,2019-02-05,69.3,14.1,63,10
@@ -8336,6 +8788,7 @@ Troy Fumagalli,DEN,TE,2019-05-21,63.7,8.4,83.5,8.5
 Troy Fumagalli,DEN,TE,2019-05-28,63.5,8.4,83.5,8.5
 Troy Fumagalli,DEN,TE,2019-06-04,56.3,7.6,91,1
 Troy Fumagalli,DEN,TE,2019-06-11,57.3,6.8,91.5,1.5
+Troy Fumagalli,DEN,TE,2019-06-18,60.2,10.6,85,8.5
 Tyler Conklin,NE,TE,2019-04-02,65,4,68.5,6.5
 Tyler Conklin,NE,TE,2019-04-09,65.7,3.4,68.5,6.5
 Tyler Eifert,CIN,TE,2019-01-22,32.6,1.7,24.5,2.8
@@ -8359,6 +8812,7 @@ Tyler Eifert,CIN,TE,2019-05-21,34,4.8,26.8,4.3
 Tyler Eifert,CIN,TE,2019-05-28,34.8,6.7,27,4.4
 Tyler Eifert,CIN,TE,2019-06-04,33.4,4.1,26.2,4.3
 Tyler Eifert,CIN,TE,2019-06-11,32.8,4.1,26.1,4.6
+Tyler Eifert,CIN,TE,2019-06-18,33.1,3.9,26.3,4.5
 Tyler Higbee,LAR,TE,2019-01-22,43,2.2,49.8,11
 Tyler Higbee,LAR,TE,2019-01-29,43.3,1.9,50.8,11.3
 Tyler Higbee,LAR,TE,2019-02-05,46.4,7.6,50.8,11.3
@@ -8380,6 +8834,7 @@ Tyler Higbee,LAR,TE,2019-05-21,47.7,7.5,43.3,4.1
 Tyler Higbee,LAR,TE,2019-05-28,48.1,7.5,43.1,4.2
 Tyler Higbee,LAR,TE,2019-06-04,46.2,3.9,42.2,3.3
 Tyler Higbee,LAR,TE,2019-06-11,46,4.1,42.4,3.7
+Tyler Higbee,LAR,TE,2019-06-18,48.1,8.2,43.7,5.1
 Tyler Kroft,BUF,TE,2019-03-19,51.3,9.3,55,14.7
 Tyler Kroft,BUF,TE,2019-03-26,45.7,11.6,55,14.7
 Tyler Kroft,BUF,TE,2019-04-02,46.3,10.1,55,14.7
@@ -8391,6 +8846,7 @@ Tyler Kroft,BUF,TE,2019-05-21,50.1,5.1,42.6,5.1
 Tyler Kroft,BUF,TE,2019-05-28,50.2,5.1,44.3,4.2
 Tyler Kroft,BUF,TE,2019-06-04,50,3.8,43.5,4.3
 Tyler Kroft,BUF,TE,2019-06-11,49.3,2.8,45.1,4.3
+Tyler Kroft,BUF,TE,2019-06-18,50.3,3.9,47.7,8
 Tyler Kroft,CIN,TE,2019-01-22,47,2.9,50,12.5
 Tyler Kroft,CIN,TE,2019-01-29,47,2.9,45.3,11.1
 Tyler Kroft,CIN,TE,2019-02-05,49.3,4.9,45.3,11.1
@@ -8420,6 +8876,7 @@ Vance McDonald,PIT,TE,2019-05-21,18.2,4.1,14.3,4.2
 Vance McDonald,PIT,TE,2019-05-28,17.8,3.8,13.7,4.4
 Vance McDonald,PIT,TE,2019-06-04,17,3.9,12.9,4.1
 Vance McDonald,PIT,TE,2019-06-11,17.8,3.7,12.2,3.6
+Vance McDonald,PIT,TE,2019-06-18,17.4,3.8,11.8,3.3
 Vernon Davis,WAS,TE,2019-01-22,44.8,4.9,40.2,10.7
 Vernon Davis,WAS,TE,2019-01-29,45,5.2,38.6,5
 Vernon Davis,WAS,TE,2019-02-05,46.8,4.6,38.6,5
@@ -8441,6 +8898,7 @@ Vernon Davis,WAS,TE,2019-05-21,56.6,6.7,46.1,7.2
 Vernon Davis,WAS,TE,2019-05-28,56.3,6.4,46.2,7.5
 Vernon Davis,WAS,TE,2019-06-04,54.7,7.1,44,5.8
 Vernon Davis,WAS,TE,2019-06-11,52.4,5.4,42.5,7.8
+Vernon Davis,WAS,TE,2019-06-18,54,4,42,9.3
 Virgil Green,LAC,TE,2019-01-22,63.5,10.2,57.5,17.6
 Virgil Green,LAC,TE,2019-01-29,63.8,10,58.8,16.6
 Virgil Green,LAC,TE,2019-02-05,61.8,10.6,58.8,16.6
@@ -8459,6 +8917,7 @@ Virgil Green,LAC,TE,2019-05-21,66.9,10.1,67.4,7.3
 Virgil Green,LAC,TE,2019-05-28,66.6,10.2,67.6,7.6
 Virgil Green,LAC,TE,2019-06-04,63.8,10.9,68.4,6.7
 Virgil Green,LAC,TE,2019-06-11,60.6,8.6,70.8,8.2
+Virgil Green,LAC,TE,2019-06-18,63.8,7.9,68,8.5
 Will Dissly,SEA,TE,2019-01-22,35.8,4.7,43.8,19.4
 Will Dissly,SEA,TE,2019-01-29,35.8,4.7,48.4,19.7
 Will Dissly,SEA,TE,2019-02-05,38,3.1,48.4,19.7
@@ -8480,6 +8939,7 @@ Will Dissly,SEA,TE,2019-05-21,40.1,5.9,34.9,6.9
 Will Dissly,SEA,TE,2019-05-28,40,5.9,34.9,6.9
 Will Dissly,SEA,TE,2019-06-04,39.5,4.6,35.8,7.4
 Will Dissly,SEA,TE,2019-06-11,40,4.7,35.6,7.7
+Will Dissly,SEA,TE,2019-06-18,40.2,5.5,35.1,8.3
 Zach Ertz,PHI,TE,2019-01-22,2.6,0.5,2.3,0.4
 Zach Ertz,PHI,TE,2019-01-29,2.6,0.5,2.2,0.4
 Zach Ertz,PHI,TE,2019-02-05,2.6,0.5,2.1,0.3
@@ -8501,3 +8961,4 @@ Zach Ertz,PHI,TE,2019-05-21,3,0.3,2.4,0.6
 Zach Ertz,PHI,TE,2019-05-28,3,0.2,2.4,0.6
 Zach Ertz,PHI,TE,2019-06-04,3,0,2.5,0.5
 Zach Ertz,PHI,TE,2019-06-11,3,0,2.6,0.6
+Zach Ertz,PHI,TE,2019-06-18,3,0,2.6,0.6
