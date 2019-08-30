@@ -1,0 +1,39 @@
+Rank,WSID,Team DST,Bye,Best,Worst,Avg,Std Dev,ADP,vs. ADP,Notes
+&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,&nbsp
+Tier 1,
+1,,Chicago (CHI)CHI DST,6,1,5,1.1,0.3,1.0,0.0
+2,,Jacksonville (JAC)JAC DST,10,2,16,3.6,2.0,3.0,+1.0
+3,,Los Angeles (LAR)LAR DST,9,1,7,3.6,1.3,2.0,-1.0
+Tier 2,
+4,,Baltimore (BAL)BAL DST,8,2,21,5.1,2.9,4.0,0.0
+5,,Minnesota (MIN)MIN DST,12,2,13,5.3,1.9,6.0,+1.0
+6,,Los Angeles (LAC)LAC DST,12,2,28,5.5,4.2,5.0,-1.0
+7,,Houston (HOU)HOU DST,10,3,23,8.0,2.2,7.0,0.0
+Tier 3,
+8,,Cleveland (CLE)CLE DST,7,4,25,9.5,3.1,10.0,+2.0
+9,,New Orleans (NO)NO DST,9,1,16,9.7,2.3,9.0,0.0
+10,,Denver (DEN)DEN DST,10,5,18,10.5,2.1,11.0,+1.0
+11,,New England (NE)NE DST,10,1,18,11.2,2.7,8.0,-3.0
+12,,Dallas (DAL)DAL DST,8,5,23,12.6,3.1,13.0,+1.0
+13,,Buffalo (BUF)BUF DST,6,5,25,12.7,4.1,12.0,-1.0
+14,,Philadelphia (PHI)PHI DST,10,3,27,14.4,3.6,14.0,0.0
+Tier 4,
+15,,Seattle (SEA)SEA DST,11,8,26,15.8,3.3,17.0,+2.0
+16,,Pittsburgh (PIT)PIT DST,7,7,29,16.8,4.0,16.0,0.0
+17,,Indianapolis (IND)IND DST,6,4,31,17.4,4.0,20.0,+3.0
+18,,Tennessee (TEN)TEN DST,11,12,28,17.8,3.1,18.0,0.0
+19,,Kansas City (KC)KC DST,12,2,27,18.3,3.7,15.0,-4.0
+20,,Carolina (CAR)CAR DST,7,13,30,20.4,3.2,21.0,+1.0
+21,,Atlanta (ATL)ATL DST,9,10,27,20.7,3.3,24.0,+3.0
+22,,Green Bay (GB)GB DST,11,10,32,21.4,3.4,19.0,-3.0
+Tier 5,
+23,,New York (NYJ)NYJ DST,4,10,31,22.8,3.8,22.0,-1.0
+24,,Washington (WAS)WAS DST,10,8,32,23.8,3.2,26.0,+2.0
+25,,Arizona (ARI)ARI DST,12,15,29,24.4,2.3,28.0,+3.0
+26,,Detroit (DET)DET DST,5,9,28,24.3,2.7,25.0,-1.0
+27,,San Francisco (SF)SF DST,4,8,32,26.1,4.6,23.0,-4.0
+28,,New York (NYG)NYG DST,11,18,32,28.0,2.3,27.0,-1.0
+29,,Miami (MIA)MIA DST,5,15,32,28.3,2.5,30.0,+1.0
+30,,Tampa Bay (TB)TB DST,7,20,32,29.0,2.1,31.0,+1.0
+31,,Cincinnati (CIN)CIN DST,9,23,32,29.8,1.7,32.0,+1.0
+32,,Oakland (OAK)OAK DST,6,19,33,31.3,1.1,29.0,-3.0
