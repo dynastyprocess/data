@@ -1,0 +1,61 @@
+Rank,WSIT,Rookies (Team),Pos,Bye,Age,Best,Worst,Avg,Std Dev,Notes
+1,,Josh JacobsJ. Jacobs OAK,RB1,6,21,1,1,1.0,0.0
+2,,Miles SandersM. Sanders PHI,RB2,10,22,2,5,2.8,1.3
+3,,A.J. BrownA. Brown TEN,WR1,11,22,3,5,3.5,0.9
+4,,D.K. MetcalfD. Metcalf SEA,WR2,11,22,3,8,4.8,1.9
+5,,N'Keal HarryN. Harry NE,WR3,10,21,5,7,5.8,0.8
+6,,David MontgomeryD. Montgomery CHI,RB3,6,22,6,7,6.3,0.4
+7,,Marquise BrownM. Brown BAL,WR4,8,22,4,11,7.5,2.5
+8,,Devin SingletaryD. Singletary BUF,RB4,6,22,2,16,8.5,5.0
+9,,T.J. HockensonT. Hockenson DET,TE1,5,22,9,11,9.8,0.8
+10,,Deebo SamuelD. Samuel SF,WR5,4,23,4,18,10.5,5.0
+11,,Kyler MurrayK. Murray ARI,QB1,12,22,7,18,11.5,4.0
+12,,Noah FantN. Fant DEN,TE2,10,22,9,16,12.0,2.5
+13,,Mecole HardmanM. Hardman KC,WR6,12,21,12,13,12.8,0.4
+14,,Darrell HendersonD. Henderson LAR,RB5,9,22,12,15,13.3,1.3
+15,,Terry McLaurinT. McLaurin WAS,WR7,10,23,9,16,13.8,2.8
+16,,J.J. Arcega-WhitesideJ. Arcega-Whiteside PHI,WR8,10,22,13,20,16.0,2.5
+17,,Justice HillJ. Hill BAL,RB6,8,22,14,21,17.3,2.5
+18,,Andy IsabellaA. Isabella ARI,WR9,12,23,14,22,18.3,2.9
+19,,Parris CampbellP. Campbell IND,WR10,6,22,14,23,18.8,3.2
+20,,Alexander MattisonA. Mattison MIN,RB7,12,21,18,21,20.0,1.2
+21,,Irv Smith Jr.I. Smith MIN,TE3,12,21,17,24,21.3,2.7
+22,,Diontae JohnsonD. Johnson PIT,WR11,7,23,17,27,22.5,3.6
+23,,Darius SlaytonD. Slayton NYG,WR12,11,22,20,30,24.3,3.6
+24,,Tony PollardT. Pollard DAL,RB8,8,22,19,33,24.5,5.2
+25,,Preston WilliamsP. Williams MIA,WR13,5,22,22,28,25.5,2.3
+26,,Damien HarrisD. Harris NE,RB9,10,22,20,31,25.8,3.9
+27,,Miles BoykinM. Boykin BAL,WR14,8,23,25,29,26.8,1.5
+28,,Jalen HurdJ. Hurd SF,WR15,4,23,23,31,28.0,3.1
+29,,Ryquell ArmsteadR. Armstead JAC,RB10,10,23,25,33,29.8,3.1
+30,,Daniel JonesD. Jones NYG,QB2,11,22,26,36,30.3,3.6
+31,,KeeSean JohnsonK. Johnson ARI,WR16,12,23,27,40,31.5,5.1
+32,,Dwayne HaskinsD. Haskins WAS,QB3,10,22,31,36,33.0,1.9
+33,,Darwin ThompsonD. Thompson KC,RB11,12,22,25,41,33.3,5.7
+34,,Jakobi MeyersJ. Meyers NE,WR17,10,,30,38,34.0,2.8
+35,,Jace SternbergerJ. Sternberger GB,TE4,11,23,32,37,35.3,2.0
+36,,Benny Snell Jr.B. Snell PIT,RB12,7,21,28,45,35.8,6.1
+37,,Dawson KnoxD. Knox BUF,TE5,6,23,32,40,37.3,3.3
+38,,Ty JohnsonT. Johnson DET,RB13,5,22,38,39,38.5,0.5
+39,,Gardner MinshewG. Minshew JAC,QB4,10,23,35,46,39.5,4.0
+40,,Olabisi JohnsonO. Johnson MIN,WR18,12,22,36,44,40.3,2.9
+41,,Hakeem ButlerH. Butler ARI,WR19,12,23,35,41,37.7,2.5
+42,,Kelvin HarmonK. Harmon WAS,WR20,10,22,29,45,38.7,6.9
+43,,Foster MoreauF. Moreau OAK,TE6,6,,35,49,42.3,5.0
+44,,Hunter RenfrowH. Renfrow OAK,WR21,6,23,39,50,44.0,3.9
+45,,Josh OliverJ. Oliver JAC,TE7,10,22,41,50,45.0,3.2
+46,,Trayveon WilliamsT. Williams CIN,RB14,9,22,42,49,46.0,2.5
+47,,Qadree OllisonQ. Ollison ATL,RB15,9,23,43,47,45.0,1.6
+48,,Kahale WarringK. Warring HOU,TE8,10,22,43,48,46.3,2.4
+49,,Patrick LairdP. Laird MIA,RB16,5,24,42,49,45.5,3.5
+50,,Drew LockD. Lock DEN,QB5,10,23,47,50,48.3,1.2
+"50
+
+                                              googletag.cmd.push(function() { googletag.display('div-gpt-ad-1404326895972-0'); });"
+51,,Riley RidleyR. Ridley CHI,WR22,6,22,44,51,47.5,3.5
+52,,Bryce LoveB. Love WAS,RB17,10,22,46,52,49.0,3.0
+53,,Jordan ScarlettJ. Scarlett CAR,RB18,7,23,46,53,49.5,3.5
+54,,Gary JenningsG. Jennings MIA,WR23,5,22,47,54,50.5,3.5
+55,,Dexter WilliamsD. Williams GB,RB19,11,,48,55,51.5,3.5
+56,,Myles GaskinM. Gaskin MIA,RB20,5,22,49,56,52.5,3.5
+57,,Scott MillerS. Miller TB,WR24,7,22,50,57,53.5,3.5

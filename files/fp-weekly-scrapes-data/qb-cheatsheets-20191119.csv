@@ -1,0 +1,96 @@
+Rank,WSID,Quarterbacks (Team),Bye,Best,Worst,Avg,Std Dev,ADP,vs. ADP,Notes
+&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,&nbsp
+Tier 1,
+1,,Patrick MahomesP. Mahomes KC,12,1,4,1.1,0.4,1.0,0.0
+2,,Deshaun WatsonD. Watson HOU,10,1,5,2.1,0.7,2.0,0.0
+3,,Aaron RodgersA. Rodgers GB,11,1,15,3.7,1.4,3.0,0.0
+Tier 2,
+4,,Baker MayfieldB. Mayfield CLE,7,1,16,5.0,1.8,4.0,0.0
+5,,Matt RyanM. Ryan ATL,9,1,17,5.6,2.2,5.0,0.0
+6,,Carson WentzC. Wentz PHI,10,3,16,7.1,2.8,7.0,+1.0
+7,,Cam NewtonC. Newton CAR,7,2,20,7.6,2.5,10.0,+3.0
+8,,Russell WilsonR. Wilson SEA,11,3,20,9.1,3.1,8.0,0.0
+Tier 3,
+9,,Jared GoffJ. Goff LAR,9,3,19,9.7,2.9,9.0,0.0
+10,,Jameis WinstonJ. Winston TB,7,3,20,10.8,2.9,15.0,+5.0
+11,,Drew BreesD. Brees NO,9,1,23,11.0,3.2,6.0,-5.0
+12,,Lamar JacksonL. Jackson BAL,8,3,27,12.3,3.7,14.0,+2.0
+13,,Kyler MurrayK. Murray ARI,12,4,25,12.5,3.7,13.0,0.0
+14,,Dak PrescottD. Prescott DAL,8,7,24,14.0,2.9,17.0,+3.0
+15,,Ben RoethlisbergerB. Roethlisberger PIT,7,5,23,14.0,3.2,11.0,-4.0
+Tier 4,
+16,,Philip RiversP. Rivers LAC,12,8,26,16.1,2.5,16.0,0.0
+17,,Mitch TrubiskyM. Trubisky CHI,6,5,26,17.2,3.2,19.0,+2.0
+18,,Tom BradyT. Brady NE,10,7,26,17.5,3.0,12.0,-6.0
+19,,Kirk CousinsK. Cousins MIN,12,7,25,18.0,2.9,18.0,-1.0
+20,,Josh AllenJ. Allen BUF,6,6,30,18.6,3.1,21.0,+1.0
+21,,Jimmy GaroppoloJ. Garoppolo SF,4,6,26,20.7,2.6,20.0,-1.0
+22,,Sam DarnoldS. Darnold NYJ,4,11,30,21.6,2.7,25.0,+3.0
+23,,Matthew StaffordM. Stafford DET,5,15,28,23.7,1.9,23.0,0.0
+24,,Derek CarrD. Carr OAK,6,17,30,24.5,2.3,22.0,-2.0
+25,,Andy DaltonA. Dalton CIN,9,19,29,25.5,1.7,29.0,+4.0
+Tier 5,
+26,,Nick FolesN. Foles JAC,10,15,32,26.0,2.1,24.0,-2.0
+27,,Jacoby BrissettJ. Brissett IND,6,13,35,24.1,2.5,26.0,-1.0
+28,,Marcus MariotaM. Mariota TEN,11,23,32,27.8,1.7,27.0,-1.0
+29,,Joe FlaccoJ. Flacco DEN,10,22,36,29.1,1.6,28.0,-1.0
+30,,Ryan FitzpatrickR. Fitzpatrick MIA,5,19,37,31.0,2.1,33.0,+3.0
+31,,Eli ManningE. Manning NYG,11,26,36,30.7,1.6,30.0,-1.0
+32,,Dwayne HaskinsD. Haskins WAS,10,24,53,32.5,2.7,31.0,-1.0
+33,,Josh RosenJ. Rosen MIA,5,27,37,33.0,1.8,34.0,+1.0
+34,,Case KeenumC. Keenum WAS,10,29,37,33.2,1.7,35.0,+1.0
+35,,Daniel JonesD. Jones NYG,11,24,39,33.7,2.2,32.0,-3.0
+36,,Ryan TannehillR. Tannehill TEN,11,29,40,35.8,1.5,42.0,+6.0
+Tier 6,
+37,,Taysom HillT. Hill NO,9,32,51,37.7,3.1,38.0,+1.0
+38,,Blake BortlesB. Bortles LAR,9,33,57,39.5,4.0,41.0,+3.0
+39,,Nick MullensN. Mullens SF,4,33,63,40.7,5.0,125.0,+86.0
+40,,Drew LockD. Lock DEN,10,32,52,39.5,4.4,40.0,0.0
+41,,Teddy BridgewaterT. Bridgewater NO,9,34,61,41.7,4.9,54.0,+13.0
+42,,Will GrierW. Grier CAR,7,34,62,43.7,6.1,102.0,+60.0
+43,,AJ McCarronA. McCarron HOU,10,36,54,45.8,4.4,68.0,+25.0
+44,,Tyrod TaylorT. Taylor LAC,12,37,62,45.9,6.3,70.0,+26.0
+45,,Robert GriffinR. Griffin BAL,8,37,55,43.7,3.8,51.0,+6.0
+46,,Brian HoyerB. Hoyer IND,6,36,66,47.0,9.1,80.0,+34.0
+47,,Ryan FinleyR. Finley CIN,9,35,65,47.9,6.5,83.0,+36.0
+48,,Colt McCoyC. McCoy WAS,10,35,70,46.2,8.9,124.0,+76.0
+Tier 7,
+49,,Brett HundleyB. Hundley ARI,12,38,61,47.3,6.7,84.0,+35.0
+50,,Matt BarkleyM. Barkley BUF,6,41,57,48.0,3.0,43.0,-7.0
+"50
+
+                                              googletag.cmd.push(function() { googletag.display('div-gpt-ad-1404326895972-0'); });"
+51,,Josh McCownJ. McCown PHI,10,37,56,45.1,5.1,123.0,+72.0
+52,,Mason RudolphM. Rudolph PIT,7,37,64,49.3,5.9,49.0,-3.0
+53,,Chase DanielC. Daniel CHI,6,37,57,49.8,5.1,65.0,+12.0
+54,,Chad KellyC. Kelly IND,6,37,61,46.6,7.4,60.0,+6.0
+55,,Blaine GabbertB. Gabbert TB,7,38,65,53.1,6.7,98.0,+43.0
+56,,Tim BoyleT. Boyle GB,11,38,61,53.7,5.0,67.0,+11.0
+57,,Trevor SiemianT. Siemian NYJ,4,43,63,55.6,4.1,88.0,+31.0
+58,,Drew StantonD. Stanton CLE,7,46,66,56.3,4.5,63.0,+5.0
+59,,Mike GlennonM. Glennon OAK,6,47,63,58.3,1.8,95.0,+36.0
+60,,Jarrett StidhamJ. Stidham NE,10,41,73,57.4,7.9,78.0,+18.0
+61,,Gardner MinshewG. Minshew JAC,10,38,72,58.8,6.5,79.0,+18.0
+62,,DeShone KizerD. Kizer OAK,6,44,68,54.3,7.1,59.0,-3.0
+63,,Nate SudfeldN. Sudfeld PHI,10,42,68,53.4,7.4,94.0,+31.0
+64,,Cooper RushC. Rush DAL,8,46,65,58.9,4.6,64.0,0.0
+65,,C.J. BeathardC. Beathard SF,4,35,65,55.2,7.3,45.0,-20.0
+66,,Matt SchaubM. Schaub ATL,9,42,69,61.4,6.1,75.0,+9.0
+Tier 8,
+67,,Sean MannionS. Mannion MIN,12,52,67,62.5,3.6,86.0,+19.0
+68,,Matt MooreM. Moore KC,12,50,70,59.2,5.7,58.0,-10.0
+69,,Ryan GriffinR. Griffin TB,7,47,74,62.7,7.8,99.0,+30.0
+70,,Geno SmithG. Smith SEA,11,53,73,64.1,6.1,55.0,-15.0
+71,,Kyle AllenK. Allen CAR,7,42,71,61.0,7.4,87.0,+16.0
+72,,Josh JohnsonJ. Johnson FA,,43,71,60.7,9.2,69.0,-3.0
+73,,Jeff DriskelJ. Driskel DET,5,39,74,64.3,8.1,119.0,+46.0
+74,,Chad HenneC. Henne KC,12,50,72,62.8,8.7,72.0,-2.0
+75,,Joshua DobbsJ. Dobbs JAC,10,50,76,68.1,7.6,56.0,-19.0
+76,,Taylor HeinickeT. Heinicke FA,,46,77,65.4,10.8,108.0,+32.0
+77,,Tom SavageT. Savage FA,,60,75,65.6,5.6,57.0,-20.0
+78,,Kyle LaulettaK. Lauletta PHI,10,47,79,68.8,11.6,100.0,+22.0
+79,,Paxton LynchP. Lynch PIT,7,64,78,71.8,5.6,73.0,-6.0
+80,,Easton StickE. Stick LAC,12,57,82,72.8,9.4,91.0,+11.0
+81,,Tanner LeeT. Lee FA,,59,81,72.3,9.6,113.0,+32.0
+82,,Cody KesslerC. Kessler NE,10,70,80,74.0,4.3,105.0,+23.0
+83,,Davis WebbD. Webb BUF,6,74,83,78.3,3.2,120.0,+37.0

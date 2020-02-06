@@ -1,0 +1,415 @@
+Rank,WSID,Overall (Team),Pos,Bye,Best,Worst,Avg,Std Dev,Notes
+&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,&nbsp
+Tier 1,
+1,,Christian McCaffreyC. McCaffrey CAR,RB1,,1,1,1.0,0.0
+2,,Saquon BarkleyS. Barkley NYG,RB2,,2,4,2.3,0.7
+3,,Michael ThomasM. Thomas NO,WR1,,3,4,3.1,0.2
+4,,Ezekiel ElliottE. Elliott DAL,RB3,,2,6,4.4,0.8
+5,,Dalvin CookD. Cook MIN,RB4,,2,7,4.8,0.9
+Tier 2,
+6,,Alvin KamaraA. Kamara NO,RB5,,4,16,7.2,2.2
+7,,Aaron JonesA. Jones GB,RB6,,7,22,9.2,3.7
+8,,DeAndre HopkinsD. Hopkins HOU,WR2,,7,13,9.4,1.7
+9,,Derrick HenryD. Henry TEN,RB7,,4,27,10.5,3.9
+10,,Tyreek HillT. Hill KC,WR3,,6,15,11.3,2.6
+11,,Davante AdamsD. Adams GB,WR4,,6,16,11.3,1.7
+Tier 3,
+12,,Joe MixonJ. Mixon CIN,RB8,,4,27,12.5,5.8
+13,,Julio JonesJ. Jones ATL,WR5,,10,21,13.0,1.6
+14,,Chris GodwinC. Godwin TB,WR6,,7,24,13.9,1.6
+15,,Mike EvansM. Evans TB,WR7,,12,24,15.9,2.3
+16,,Leonard FournetteL. Fournette JAC,RB9,,7,42,16.9,5.2
+17,,George KittleG. Kittle SF,TE1,,9,48,17.3,0.5
+18,,Travis KelceT. Kelce KC,TE2,,9,25,17.7,0.5
+19,,Nick ChubbN. Chubb CLE,RB10,,7,29,17.8,5.4
+Tier 4,
+20,,Austin EkelerA. Ekeler LAC,RB11,,6,44,21.9,8.1
+21,,Lamar JacksonL. Jackson BAL,QB1,,19,38,22.3,6.9
+22,,Josh JacobsJ. Jacobs OAK,RB12,,14,37,22.8,2.4
+23,,Amari CooperA. Cooper DAL,WR8,,16,35,22.9,3.6
+24,,Kenny GolladayK. Golladay DET,WR9,,18,33,24.1,3.4
+25,,D.J. MooreD. Moore CAR,WR10,,16,53,27.2,3.2
+26,,Todd GurleyT. Gurley LAR,RB13,,14,51,28.4,6.5
+27,,Odell Beckham Jr.O. Beckham CLE,WR11,,15,48,29.6,4.8
+28,,Miles SandersM. Sanders PHI,RB14,,22,42,29.8,5.2
+Tier 5,
+29,,Allen RobinsonA. Robinson CHI,WR12,,24,56,31.8,2.9
+30,,Keenan AllenK. Allen LAC,WR13,,16,41,32.4,4.5
+31,,Courtland SuttonC. Sutton DEN,WR14,,25,66,33.8,5.1
+32,,A.J. BrownA. Brown TEN,WR15,,16,48,34.0,3.2
+33,,Zach ErtzZ. Ertz PHI,TE3,,26,86,34.7,12.5
+34,,DeVante ParkerD. Parker MIA,WR16,,22,62,34.8,4.8
+35,,Kenyan DrakeK. Drake ARI,RB15,,14,59,34.9,8.9
+36,,Chris CarsonC. Carson SEA,RB16,,21,57,36.4,6.2
+37,,Stefon DiggsS. Diggs MIN,WR17,,27,72,36.9,4.4
+38,,Patrick MahomesP. Mahomes KC,QB2,,19,62,39.1,8.1
+39,,JuJu Smith-SchusterJ. Smith-Schuster PIT,WR18,,25,72,39.5,10.1
+40,,Le'Veon BellL. Bell NYJ,RB17,,22,52,40.3,7.5
+41,,Melvin GordonM. Gordon LAC,RB18,,22,60,41.4,10.0
+42,,Mark IngramM. Ingram BAL,RB19,,27,71,43.8,7.7
+43,,Cooper KuppC. Kupp LAR,WR19,,32,87,44.1,6.5
+Tier 6,
+44,,Devin SingletaryD. Singletary BUF,RB20,,23,60,46.2,5.7
+45,,Mark AndrewsM. Andrews BAL,TE4,,26,53,46.5,4.1
+46,,Robert WoodsR. Woods LAR,WR20,,31,79,48.4,6.3
+47,,Calvin RidleyC. Ridley ATL,WR21,,32,79,50.1,8.7
+48,,Kerryon JohnsonK. Johnson DET,RB21,,27,80,50.8,11.4
+49,,Tyler LockettT. Lockett SEA,WR22,,36,67,50.9,6.2
+50,,D.J. CharkD. Chark JAC,WR23,,39,74,51.2,9.8
+51,,Julian EdelmanJ. Edelman NE,WR24,,37,75,51.6,8.9
+52,,Austin HooperA. Hooper ATL,TE5,,25,106,52.3,16.4
+53,,Marlon MackM. Mack IND,RB22,,40,66,53.8,7.0
+54,,T.Y. HiltonT. Hilton IND,WR25,,33,87,55.3,10.0
+55,,Deshaun WatsonD. Watson HOU,QB3,,38,84,55.8,4.8
+56,,Adam ThielenA. Thielen MIN,WR26,,39,81,57.0,9.5
+57,,James ConnerJ. Conner PIT,RB23,,28,83,57.8,11.1
+58,,D.K. MetcalfD. Metcalf SEA,WR27,,45,101,57.8,8.1
+59,,Phillip LindsayP. Lindsay DEN,RB24,,47,76,59.2,8.0
+60,,Jarvis LandryJ. Landry CLE,WR28,,45,74,59.6,7.9
+61,,Darren WallerD. Waller OAK,TE6,,26,69,60.4,6.4
+62,,Russell WilsonR. Wilson SEA,QB4,,56,95,60.7,7.7
+Tier 7,
+63,,Terry McLaurinT. McLaurin WAS,WR29,,37,76,62.6,7.3
+64,,James WhiteJ. White NE,RB25,,41,83,64.3,9.2
+65,,Dak PrescottD. Prescott DAL,QB5,,54,103,64.5,8.7
+66,,A.J. GreenA. Green CIN,WR30,,25,97,66.7,15.6
+67,,Kareem HuntK. Hunt CLE,RB26,,31,85,67.5,11.8
+68,,David MontgomeryD. Montgomery CHI,RB27,,51,84,69.4,7.9
+69,,Jameis WinstonJ. Winston TB,QB6,,56,98,70.4,7.8
+70,,John BrownJ. Brown BUF,WR31,,54,124,71.0,6.2
+71,,Deebo SamuelD. Samuel SF,WR32,,45,109,71.6,9.7
+72,,Evan EngramE. Engram NYG,TE7,,52,94,72.8,11.0
+73,,Kyler MurrayK. Murray ARI,QB7,,56,103,72.8,10.4
+74,,Michael GallupM. Gallup DAL,WR33,,50,93,73.6,6.0
+75,,Tyler BoydT. Boyd CIN,WR34,,63,97,75.6,5.4
+76,,Devonta FreemanD. Freeman ATL,RB28,,47,104,76.0,8.2
+77,,Christian KirkC. Kirk ARI,WR35,,49,110,77.4,7.8
+78,,Derrius GuiceD. Guice WAS,RB29,,51,100,77.5,9.8
+79,,Hunter HenryH. Henry LAC,TE8,,63,106,78.8,7.8
+80,,Damien WilliamsD. Williams KC,RB30,,31,93,81.4,7.0
+81,,Ronald Jones IIR. Jones TB,RB31,,52,185,81.5,10.2
+Tier 8,
+82,,Sterling ShepardS. Shepard NYG,WR36,,75,113,84.8,8.2
+83,,Marquise BrownM. Brown BAL,WR37,,65,102,85.3,7.0
+84,,Josh AllenJ. Allen BUF,QB8,,61,104,85.6,8.2
+85,,Drew BreesD. Brees NO,QB9,,61,122,87.3,13.5
+86,,Tarik CohenT. Cohen CHI,RB32,,72,177,87.3,6.8
+87,,Mike WilliamsM. Williams LAC,WR38,,79,97,87.9,5.4
+88,,David JohnsonD. Johnson ARI,RB33,,47,126,92.1,13.0
+89,,Robby AndersonR. Anderson NYJ,WR39,,79,128,92.3,5.4
+90,,Aaron RodgersA. Rodgers GB,QB10,,70,116,92.9,7.5
+91,,Matt RyanM. Ryan ATL,QB11,,77,113,95.2,9.0
+92,,Carlos HydeC. Hyde HOU,RB34,,71,132,95.9,8.6
+93,,Sony MichelS. Michel NE,RB35,,44,112,96.0,10.0
+94,,Emmanuel SandersE. Sanders SF,WR40,,79,113,96.1,7.7
+95,,Alshon JefferyA. Jeffery PHI,WR41,,75,131,96.6,9.9
+96,,Tyler HigbeeT. Higbee LAR,TE9,,69,139,96.6,12.1
+97,,Jared CookJ. Cook NO,TE10,,69,133,97.2,12.3
+98,,Carson WentzC. Wentz PHI,QB12,,70,114,98.4,9.1
+99,,Marvin JonesM. Jones DET,WR42,,74,148,99.6,8.0
+100,,Anthony MillerA. Miller CHI,WR43,,86,115,101.2,4.9
+101,,Will FullerW. Fuller HOU,WR44,,82,126,102.9,12.5
+102,,Raheem MostertR. Mostert SF,RB36,,40,110,84.0,16.8
+103,,Darius SlaytonD. Slayton NYG,WR45,,82,147,105.7,14.8
+Tier 9,
+104,,Jamaal WilliamsJ. Williams GB,RB37,,98,177,106.9,7.7
+105,,Matthew StaffordM. Stafford DET,QB13,,70,157,108.2,8.5
+106,,Duke JohnsonD. Johnson HOU,RB38,,72,144,109.1,12.2
+107,,Noah FantN. Fant DEN,TE11,,69,142,109.6,14.5
+108,,Dallas GoedertD. Goedert PHI,TE12,,94,236,110.6,11.0
+109,,Latavius MurrayL. Murray NO,RB39,,77,120,111.1,6.8
+110,,Brandin CooksB. Cooks LAR,WR46,,86,151,111.1,17.1
+111,,Curtis SamuelC. Samuel CAR,WR47,,101,137,111.8,7.3
+112,,Royce FreemanR. Freeman DEN,RB40,,99,170,114.6,5.5
+113,,Ryan TannehillR. Tannehill TEN,QB14,,87,150,115.9,7.7
+114,,Preston WilliamsP. Williams MIA,WR48,,64,148,116.2,14.0
+115,,Diontae JohnsonD. Johnson PIT,WR49,,97,138,116.4,11.2
+116,,Cam NewtonC. Newton CAR,QB15,,70,158,116.4,12.0
+117,,Tevin ColemanT. Coleman SF,RB41,,83,143,117.6,8.9
+118,,Alexander MattisonA. Mattison MIN,RB42,,91,181,119.2,10.1
+119,,Jamison CrowderJ. Crowder NYJ,WR50,,80,155,119.7,8.7
+120,,Golden TateG. Tate NYG,WR51,,81,147,122.6,10.4
+121,,Kirk CousinsK. Cousins MIN,QB16,,114,159,122.6,11.2
+122,,Matt BreidaM. Breida SF,RB43,,98,146,122.7,10.2
+123,,Mike GesickiM. Gesicki MIA,TE13,,92,163,126.6,14.2
+124,,T.J. HockensonT. Hockenson DET,TE14,,108,163,126.9,6.2
+125,,Tony PollardT. Pollard DAL,RB44,,73,227,129.3,15.3
+126,,DeSean JacksonD. Jackson PHI,WR52,,86,214,132.6,10.7
+127,,Jordan HowardJ. Howard PHI,RB45,,98,182,132.6,16.8
+128,,Ben RoethlisbergerB. Roethlisberger PIT,QB17,,105,275,133.0,18.7
+129,,Will DisslyW. Dissly SEA,TE15,,94,255,133.9,24.6
+130,,Daniel JonesD. Jones NYG,QB18,,105,167,135.9,16.2
+Tier 10,
+131,,Baker MayfieldB. Mayfield CLE,QB19,,87,167,138.6,14.8
+132,,O.J. HowardO. Howard TB,TE16,,53,173,138.7,11.0
+133,,John RossJ. Ross CIN,WR53,,107,160,138.9,7.4
+134,,Justice HillJ. Hill BAL,RB46,,104,186,139.1,17.4
+135,,Jared GoffJ. Goff LAR,QB20,,114,167,139.2,15.2
+136,,Adrian PetersonA. Peterson WAS,RB47,,112,156,139.8,10.6
+137,,Sammy WatkinsS. Watkins KC,WR54,,122,189,139.8,10.6
+138,,Jimmy GaroppoloJ. Garoppolo SF,QB21,,116,155,141.8,16.0
+139,,N'Keal HarryN. Harry NE,WR55,,99,206,141.9,15.0
+140,,David NjokuD. Njoku CLE,TE17,,108,255,142.1,10.7
+141,,Tyrell WilliamsT. Williams OAK,WR56,,102,194,143.1,10.5
+142,,Dede WestbrookD. Westbrook JAC,WR57,,100,189,143.8,12.4
+143,,Nyheim HinesN. Hines IND,RB48,,112,199,146.4,19.9
+144,,Jack DoyleJ. Doyle IND,TE18,,133,270,147.9,23.7
+145,,Corey DavisC. Davis TEN,WR58,,107,184,150.2,14.5
+146,,Jonnu SmithJ. Smith TEN,TE19,,121,260,153.6,27.3
+147,,Breshad PerrimanB. Perriman TB,WR59,,97,317,154.1,17.9
+148,,Cole BeasleyC. Beasley BUF,WR60,,122,208,154.3,8.4
+149,,Pittsburgh (PIT)PIT DST,DST1,,140,230,154.6,20.5
+150,,Darrell HendersonD. Henderson LAR,RB49,,114,257,155.3,19.9
+151,,New England (NE)NE DST,DST2,,140,207,156.5,17.0
+152,,San Francisco (SF)SF DST,DST3,,140,323,156.9,43.7
+153,,Mecole HardmanM. Hardman KC,WR61,,131,210,157.9,12.7
+154,,Eric EbronE. Ebron IND,TE20,,136,260,158.8,20.0
+155,,Baltimore (BAL)BAL DST,DST4,,145,174,158.8,6.5
+156,,Chase EdmondsC. Edmonds ARI,RB50,,106,237,162.6,28.1
+157,,Sam DarnoldS. Darnold NYJ,QB22,,125,206,164.0,20.6
+158,,Tom BradyT. Brady NE,QB23,,131,197,164.3,7.6
+159,,Kyle RudolphK. Rudolph MIN,TE21,,135,235,166.9,19.3
+160,,Los Angeles (LAR)LAR DST,DST5,,152,201,166.9,9.5
+161,,James WashingtonJ. Washington PIT,WR62,,107,189,167.7,13.9
+162,,Hunter RenfrowH. Renfrow OAK,WR63,,113,226,168.8,20.5
+163,,Buffalo (BUF)BUF DST,DST6,,159,211,170.4,15.6
+164,,Ryan FitzpatrickR. Fitzpatrick MIA,QB24,,117,275,171.0,21.7
+165,,Peyton BarberP. Barber TB,RB51,,127,376,171.0,20.3
+Tier 11,
+166,,Justin JacksonJ. Jackson LAC,RB52,,78,289,173.7,49.6
+167,,Mitch TrubiskyM. Trubisky CHI,QB25,,131,241,174.0,14.6
+168,,Larry FitzgeraldL. Fitzgerald ARI,WR64,,124,206,174.3,17.7
+169,,Parris CampbellP. Campbell IND,WR65,,147,212,175.3,13.2
+170,,Chicago (CHI)CHI DST,DST7,,140,266,176.4,26.0
+171,,Irv Smith Jr.I. Smith MIN,TE22,,161,258,177.3,13.2
+172,,Rashaad PennyR. Penny SEA,RB53,,78,187,147.8,28.4
+173,,Philip RiversP. Rivers LAC,QB26,,117,241,178.3,19.3
+174,,Ian ThomasI. Thomas CAR,TE23,,136,266,178.4,34.2
+175,,Justin TuckerJ. Tucker BAL,K1,,171,183,179.2,2.6
+176,,Minnesota (MIN)MIN DST,DST8,,164,213,181.5,13.7
+177,,Jaylen SamuelsJ. Samuels PIT,RB54,,126,238,170.3,25.9
+178,,Wil LutzW. Lutz NO,K2,,179,204,185.3,6.1
+179,,Antonio BrownA. Brown FA,WR66,,45,205,116.4,47.1
+180,,Harrison ButkerH. Butker KC,K3,,171,183,173.0,4.1
+181,,Kenny StillsK. Stills HOU,WR67,,128,218,188.9,12.9
+182,,Chris ThompsonC. Thompson WAS,RB55,,132,296,175.8,34.0
+183,,Benny Snell Jr.B. Snell PIT,RB56,,120,322,190.3,52.6
+184,,Greg ZuerleinG. Zuerlein LAR,K4,,171,221,190.7,8.8
+185,,Boston ScottB. Scott PHI,RB57,,143,289,190.8,34.3
+186,,Mohamed SanuM. Sanu NE,WR68,,151,231,191.0,17.7
+187,,Randall CobbR. Cobb DAL,WR69,,156,205,192.7,11.0
+188,,Gus EdwardsG. Edwards BAL,RB58,,156,274,196.1,26.3
+189,,Chris Herndon IVC. Herndon NYJ,TE24,,121,273,197.6,29.2
+190,,Giovani BernardG. Bernard CIN,RB59,,170,238,189.5,14.2
+191,,New Orleans (NO)NO DST,DST9,,176,213,202.3,7.9
+192,,Andy IsabellaA. Isabella ARI,WR70,,147,231,202.4,14.5
+193,,New York (NYJ)NYJ DST,DST10,,164,303,203.3,29.0
+194,,Gardner MinshewG. Minshew JAC,QB27,,158,331,204.1,32.1
+195,,Drew LockD. Lock DEN,QB28,,154,254,204.3,23.5
+196,,Kansas City (KC)KC DST,DST11,,164,279,204.6,25.6
+197,,Chris ConleyC. Conley JAC,WR71,,151,216,199.1,14.1
+198,,DeAndre WashingtonD. Washington OAK,RB60,,161,337,200.5,43.6
+199,,Albert WilsonA. Wilson MIA,WR72,,149,268,213.0,17.1
+200,,Robbie GouldR. Gould SF,K5,,187,233,213.3,10.0
+Tier 12,
+201,,Dion LewisD. Lewis TEN,RB61,,144,272,190.7,23.6
+202,,Stephen GostkowskiS. Gostkowski NE,K6,,186,228,215.9,8.8
+203,,Matt GayM. Gay TB,K7,,185,324,216.1,30.5
+204,,Denver (DEN)DEN DST,DST12,,200,248,216.1,11.2
+205,,Dawson KnoxD. Knox BUF,TE25,,108,291,206.3,46.1
+206,,Matt PraterM. Prater DET,K8,,190,249,220.3,10.2
+207,,Seattle (SEA)SEA DST,DST13,,201,293,221.2,20.9
+208,,Tre'Quan SmithT. Smith NO,WR73,,137,245,210.4,21.0
+209,,Derek CarrD. Carr OAK,QB29,,168,275,222.1,29.7
+210,,Allen LazardA. Lazard GB,WR74,,169,292,212.1,25.0
+211,,Philadelphia (PHI)PHI DST,DST14,,180,234,224.3,9.4
+212,,LeSean McCoyL. McCoy KC,RB62,,130,264,185.8,33.2
+213,,Taylor GabrielT. Gabriel CHI,WR75,,194,261,213.9,18.0
+214,,Rex BurkheadR. Burkhead NE,RB63,,156,307,214.4,36.2
+215,,Michael BadgleyM. Badgley LAC,K9,,192,287,226.7,16.5
+216,,Darwin ThompsonD. Thompson KC,RB64,,177,280,204.1,22.1
+217,,Jacob HollisterJ. Hollister SEA,TE26,,133,325,216.9,50.2
+218,,Danny AmendolaD. Amendola DET,WR76,,188,297,218.1,30.7
+219,,Los Angeles (LAC)LAC DST,DST15,,165,323,223.3,35.0
+220,,Vance McDonaldV. McDonald PIT,TE27,,127,299,235.1,36.7
+221,,Tennessee (TEN)TEN DST,DST16,,207,297,236.4,21.3
+222,,Green Bay (GB)GB DST,DST17,,214,279,236.9,17.8
+223,,Zane GonzalezZ. Gonzalez ARI,K10,,205,332,237.4,26.4
+224,,Ka'imi FairbairnK. Fairbairn HOU,K11,,188,324,238.3,24.6
+225,,Nelson AgholorN. Agholor PHI,WR77,,158,286,228.2,24.1
+226,,Devin FunchessD. Funchess IND,WR78,,202,306,228.5,31.0
+227,,Gerald EverettG. Everett LAR,TE28,,142,325,229.9,41.9
+228,,Ito SmithI. Smith ATL,RB65,,141,280,207.6,29.7
+229,,Mason CrosbyM. Crosby GB,K12,,189,309,242.8,20.5
+230,,Jalen RichardJ. Richard OAK,RB66,,168,313,222.0,37.1
+231,,Malcolm BrownM. Brown LAR,RB67,,149,296,234.7,22.5
+232,,Blake JarwinB. Jarwin DAL,TE29,,127,291,225.5,40.6
+233,,Ryquell ArmsteadR. Armstead JAC,RB68,,138,382,225.6,51.3
+234,,Jacoby BrissettJ. Brissett IND,QB30,,167,284,249.4,38.6
+235,,Jake ElliottJ. Elliott PHI,K13,,191,326,250.4,24.8
+236,,Joey SlyeJ. Slye CAR,K14,,217,326,253.6,24.5
+237,,Auden TateA. Tate CIN,WR79,,163,262,222.3,18.1
+238,,Brandon McManusB. McManus DEN,K15,,227,287,247.1,13.0
+239,,Andy DaltonA. Dalton CIN,QB31,,154,334,256.3,43.3
+240,,Dan BaileyD. Bailey MIN,K16,,221,304,258.0,16.6
+241,,Dwayne HaskinsD. Haskins WAS,QB32,,158,315,249.3,40.8
+242,,Cleveland (CLE)CLE DST,DST18,,166,307,251.4,24.2
+243,,Dallas (DAL)DAL DST,DST19,,219,278,252.3,16.2
+244,,Damien HarrisD. Harris NE,RB69,,187,313,234.3,34.4
+Tier 13,
+245,,Indianapolis (IND)IND DST,DST20,,219,296,248.9,21.2
+246,,Jakobi MeyersJ. Meyers NE,WR80,,206,290,238.2,19.8
+247,,Jordan WilkinsJ. Wilkins IND,RB70,,182,312,250.0,24.7
+248,,Houston (HOU)HOU DST,DST21,,201,303,270.2,29.1
+249,,Marquez Valdes-ScantlingM. Valdes-Scantling GB,WR81,,220,285,243.8,19.3
+250,,Jason MyersJ. Myers SEA,K17,,215,292,272.3,16.4
+251,,Lamar MillerL. Miller HOU,RB71,,110,272,201.2,60.2
+252,,DaeSean HamiltonD. Hamilton DEN,WR82,,198,390,255.8,54.3
+253,,David MooreD. Moore SEA,WR83,,220,298,256.4,26.0
+254,,Willie SneadW. Snead BAL,WR84,,216,286,248.3,18.1
+255,,Adam HumphriesA. Humphries TEN,WR85,,226,290,249.8,16.9
+256,,Keke CouteeK. Coutee HOU,WR86,,210,317,250.2,30.1
+257,,Delanie WalkerD. Walker TEN,TE30,,180,319,260.4,23.3
+258,,Kelvin HarmonK. Harmon WAS,WR87,,205,383,250.4,44.8
+259,,Cameron BrateC. Brate TB,TE31,,191,328,260.5,24.2
+260,,Demaryius ThomasD. Thomas NYJ,WR88,,229,304,260.8,24.3
+261,,Darrel WilliamsD. Williams KC,RB72,,185,327,251.2,37.3
+262,,Stephen HauschkaS. Hauschka BUF,K18,,224,339,280.7,24.7
+263,,J.J. Arcega-WhitesideJ. Arcega-Whiteside PHI,WR89,,231,326,265.4,28.2
+264,,Miles BoykinM. Boykin BAL,WR90,,203,298,265.9,20.8
+265,,Phillip DorsettP. Dorsett NE,WR91,,216,301,256.3,21.1
+266,,Mike BooneM. Boone MIN,RB73,,158,336,266.1,30.9
+267,,Greg OlsenG. Olsen CAR,TE32,,153,335,266.5,38.9
+268,,Jalen HurdJ. Hurd SF,WR92,,157,336,267.5,31.5
+269,,Chris BoswellC. Boswell PIT,K19,,234,295,278.7,11.7
+270,,T.J. YeldonT. Yeldon BUF,RB74,,237,321,262.8,18.9
+271,,Zach PascalZ. Pascal IND,WR93,,214,286,252.2,23.0
+272,,Demarcus RobinsonD. Robinson KC,WR94,,216,378,273.1,37.9
+273,,Jacksonville (JAC)JAC DST,DST22,,145,307,274.1,22.6
+274,,Trey BurtonT. Burton CHI,TE33,,191,374,275.6,32.9
+275,,Josh ReynoldsJ. Reynolds LAR,WR95,,229,330,268.9,30.6
+276,,Brett MaherB. Maher NYJ,K20,,227,300,280.6,19.7
+277,,Jimmy GrahamJ. Graham GB,TE34,,209,327,282.0,17.5
+278,,Greg WardG. Ward PHI,WR96,,196,285,241.8,30.5
+279,,Tampa Bay (TB)TB DST,DST23,,165,334,277.5,38.0
+280,,Keelan ColeK. Cole JAC,WR97,,214,315,277.6,17.4
+281,,Patrick LairdP. Laird MIA,RB75,,143,358,278.2,33.7
+282,,Brian HillB. Hill ATL,RB76,,149,351,278.7,30.6
+283,,Josh LamboJ. Lambo JAC,K21,,237,309,286.9,15.0
+284,,Bryce LoveB. Love WAS,RB77,,126,313,271.8,21.1
+285,,Atlanta (ATL)ATL DST,DST24,,222,318,298.7,23.7
+286,,Geronimo AllisonG. Allison GB,WR98,,240,346,276.7,25.9
+287,,Austin SeibertA. Seibert CLE,K22,,226,308,293.6,17.4
+288,,Kalen BallageK. Ballage MIA,RB78,,123,327,278.1,27.8
+289,,Aldrick RosasA. Rosas NYG,K23,,239,309,297.1,9.3
+290,,Wayne GallmanW. Gallman NYG,RB79,,185,382,290.0,35.0
+291,,Dare OgunbowaleD. Ogunbowale TB,RB80,,237,311,282.4,14.5
+292,,Steven SimsS. Sims WAS,WR99,,194,333,272.7,45.0
+293,,Jordan AkinsJ. Akins HOU,TE35,,232,319,277.4,21.6
+294,,Russell GageR. Gage ATL,WR100,,210,297,278.4,22.9
+295,,Carolina (CAR)CAR DST,DST25,,266,328,302.8,12.5
+296,,Ty MontgomeryT. Montgomery NYJ,RB81,,238,393,303.6,35.9
+297,,Ted GinnT. Ginn NO,WR101,,263,384,298.8,31.2
+298,,Washington (WAS)WAS DST,DST26,,223,340,311.3,11.5
+Tier 14,
+299,,Myles GaskinM. Gaskin MIA,RB82,,217,317,294.6,23.9
+300,,Younghoe KooY. Koo ATL,K24,,192,299,275.8,31.0
+301,,Adam VinatieriA. Vinatieri IND,K25,,240,342,302.8,20.4
+302,,Bo ScarbroughB. Scarbrough DET,RB83,,186,331,296.2,28.0
+303,,Frank GoreF. Gore BUF,RB84,,195,321,279.0,38.8
+304,,Bilal PowellB. Powell NYJ,RB85,,250,337,309.7,17.0
+305,,Paul RichardsonP. Richardson WAS,WR102,,268,377,303.1,27.2
+306,,Travis HomerT. Homer SEA,RB86,,144,327,296.1,33.1
+307,,Dante PettisD. Pettis SF,WR103,,151,338,296.5,23.4
+308,,Ty JohnsonT. Johnson DET,RB87,,217,386,311.5,33.0
+309,,Detroit (DET)DET DST,DST27,,283,347,318.7,9.7
+310,,Kendrick BourneK. Bourne SF,WR104,,261,307,289.6,13.6
+311,,Qadree OllisonQ. Ollison ATL,RB88,,264,322,300.0,19.1
+312,,Mike DavisM. Davis CAR,RB89,,225,353,309.7,26.8
+313,,Marquise GoodwinM. Goodwin SF,WR105,,238,377,310.0,28.1
+314,,Justin WatsonJ. Watson TB,WR106,,223,379,303.1,33.8
+315,,Zay JonesZ. Jones OAK,WR107,,259,328,298.6,15.5
+316,,Quincy EnunwaQ. Enunwa NYJ,WR108,,258,337,307.6,17.3
+317,,Daniel CarlsonD. Carlson OAK,K26,,285,327,316.6,8.9
+318,,Teddy BridgewaterT. Bridgewater NO,QB33,,267,352,318.8,14.7
+319,,Jerick McKinnonJ. McKinnon SF,RB90,,129,333,305.3,25.2
+320,,Dustin HopkinsD. Hopkins WAS,K27,,287,332,321.1,8.2
+321,,Josh GordonJ. Gordon SEA,WR109,,175,332,299.0,24.3
+322,,Oakland (OAK)OAK DST,DST28,,279,330,320.6,12.3
+323,,KeeSean JohnsonK. Johnson ARI,WR110,,214,375,313.8,34.4
+324,,Jeff WilsonJ. Wilson SF,RB91,,253,343,324.4,11.6
+325,,Dontrell HilliardD. Hilliard CLE,RB92,,232,336,318.5,17.1
+326,,Dexter WilliamsD. Williams GB,RB93,,280,374,334.3,16.3
+327,,Nick FolesN. Foles JAC,QB34,,241,343,323.9,26.3
+328,,Kai ForbathK. Forbath DAL,K28,,204,320,309.8,11.4
+329,,Tyler EifertT. Eifert CIN,TE36,,255,322,298.9,11.2
+330,,Kyle JuszczykK. Juszczyk SF,RB94,,277,334,321.2,13.0
+331,,Marcus MariotaM. Mariota TEN,QB35,,275,387,335.0,17.3
+332,,C.J. AndersonC. Anderson FA,RB95,,195,380,329.7,29.7
+333,,Darren FellsD. Fells HOU,TE37,,236,350,292.3,43.2
+334,,Jason WittenJ. Witten DAL,TE38,,167,341,294.2,30.0
+335,,Reggie BonnafonR. Bonnafon CAR,RB96,,308,387,339.8,23.1
+336,,Corey ClementC. Clement PHI,RB97,,264,380,337.1,15.1
+337,,New York (NYG)NYG DST,DST29,,303,335,325.0,5.6
+338,,Damiere ByrdD. Byrd ARI,WR111,,223,339,306.3,24.4
+339,,Allen HurnsA. Hurns MIA,WR112,,270,304,292.0,13.0
+340,,Josh OliverJ. Oliver JAC,TE39,,246,344,311.7,29.2
+Tier 15,
+341,,Rashard HigginsR. Higgins CLE,WR113,,265,361,312.2,34.5
+342,,Tajae SharpeT. Sharpe TEN,WR114,,247,344,296.8,36.8
+343,,Kerrith WhyteK. Whyte PIT,RB98,,257,364,339.9,9.6
+344,,Devontae BookerD. Booker DEN,RB99,,274,342,334.0,4.6
+345,,Trey QuinnT. Quinn WAS,WR115,,247,396,319.0,47.7
+346,,Trayveon WilliamsT. Williams CIN,RB100,,322,359,337.4,8.7
+347,,Ryan SuccopR. Succop TEN,K29,,300,316,306.0,6.0
+348,,Arizona (ARI)ARI DST,DST30,,308,345,331.6,11.1
+349,,Jordan ReedJ. Reed WAS,TE40,,260,314,291.5,19.9
+350,,Taysom HillT. Hill NO,QB36,,175,361,297.5,72.2
+351,,Riley RidleyR. Ridley CHI,WR116,,240,301,270.7,24.9
+352,,Hayden HurstH. Hurst BAL,TE41,,267,356,321.6,20.5
+353,,Jace SternbergerJ. Sternberger GB,TE42,,173,273,223.0,50.0
+354,,Ryan GriffinR. Griffin NYJ,TE43,,209,324,283.7,52.9
+355,,Scott MillerS. Miller TB,WR117,,270,299,286.3,12.1
+356,,Joe FlaccoJ. Flacco DEN,QB37,,274,353,331.6,12.2
+357,,Kaden SmithK. Smith NYG,TE44,,255,348,295.0,39.1
+358,,Jonathan WilliamsJ. Williams IND,RB101,,272,312,298.0,18.4
+359,,Drew SampleD. Sample CIN,TE45,,273,365,323.8,33.0
+360,,Marqise LeeM. Lee JAC,WR118,,290,363,324.0,29.7
+361,,Matt BryantM. Bryant FA,K30,,253,329,302.3,34.9
+362,,Tim PatrickT. Patrick DEN,WR119,,296,355,326.5,22.7
+363,,Cincinnati (CIN)CIN DST,DST31,,319,355,339.8,12.4
+364,,Josh RosenJ. Rosen MIA,QB38,,276,355,330.8,32.1
+365,,Donte MoncriefD. Moncrief FA,WR120,,220,323,271.5,51.5
+366,,Deon CainD. Cain PIT,WR121,,320,346,332.3,11.8
+367,,Rodney AndersonR. Anderson CIN,RB102,,264,295,279.5,15.5
+368,,Eli ManningE. Manning NYG,QB39,,311,354,338.5,16.5
+369,,Olabisi JohnsonO. Johnson MIN,WR122,,286,390,321.0,48.8
+370,,Cordarrelle PattersonC. Patterson CHI,WR123,,306,372,338.8,23.6
+371,,Foster MoreauF. Moreau OAK,TE46,,267,305,286.0,19.0
+372,,Hakeem ButlerH. Butler ARI,WR124,,286,345,321.7,25.6
+373,,Alex EricksonA. Erickson CIN,WR125,,285,297,291.0,6.0
+374,,Nick BoyleN. Boyle BAL,TE47,,294,352,326.0,24.1
+375,,Jakeem GrantJ. Grant MIA,WR126,,317,331,326.0,6.4
+376,,Robert FosterR. Foster BUF,WR127,,293,348,328.0,24.8
+377,,Jake KumerowJ. Kumerow GB,WR128,,310,344,331.0,15.0
+378,,Taywan TaylorT. Taylor CLE,WR129,,340,369,351.0,11.0
+379,,Case KeenumC. Keenum WAS,QB40,,281,381,337.7,41.9
+380,,C.J. UzomahC. Uzomah CIN,TE48,,260,368,314.0,54.0
+381,,Jason SandersJ. Sanders MIA,K31,,308,321,314.5,6.5
+382,,Chris HoganC. Hogan CAR,WR130,,328,349,340.3,9.0
+383,,Spencer WareS. Ware KC,RB103,,329,350,341.7,9.1
+384,,Tyrod TaylorT. Taylor LAC,QB41,,302,338,320.0,18.0
+385,,Byron PringleB. Pringle KC,WR131,,312,345,328.5,16.5
+386,,Ricky Seals-JonesR. Seals-Jones CLE,TE49,,305,354,329.5,24.5
+387,,Miami (MIA)MIA DST,DST32,,329,331,330.0,1.0
+Tier 16,
+388,,Isaiah FordI. Ford MIA,WR132,,314,349,331.5,17.5
+389,,Jarrett StidhamJ. Stidham NE,QB42,,346,358,352.3,4.9
+390,,Eddy PineiroE. Pineiro CHI,K32,,318,353,335.5,17.5
+391,,C.J. ProsiseC. Prosise SEA,RB104,,316,362,339.0,23.0
+392,,Theo RiddickT. Riddick DEN,RB105,,329,359,344.0,15.0
+393,,Nick MullensN. Mullens SF,QB43,,347,379,364.3,13.2
+394,,Josh HillJ. Hill NO,TE50,,346,360,353.0,7.0
+395,,Demetrius HarrisD. Harris CLE,TE51,,343,394,368.5,25.5
+396,,Ameer AbdullahA. Abdullah MIN,RB106,,346,392,369.0,23.0
+397,,Anthony FirkserA. Firkser TEN,TE52,,371,383,377.0,6.0

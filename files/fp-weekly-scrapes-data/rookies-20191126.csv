@@ -1,0 +1,73 @@
+Rank,WSIT,Rookies (Team),Pos,Bye,Age,Best,Worst,Avg,Std Dev,Notes
+1,,Josh JacobsJ. Jacobs OAK,RB1,6,21,1,1,1.0,0.0
+2,,Miles SandersM. Sanders PHI,RB2,10,22,2,5,2.6,0.8
+3,,A.J. BrownA. Brown TEN,WR1,11,22,3,10,3.4,0.8
+4,,D.K. MetcalfD. Metcalf SEA,WR2,11,21,3,8,4.2,1.0
+5,,David MontgomeryD. Montgomery CHI,RB3,6,22,2,6,4.8,1.5
+6,,N'Keal HarryN. Harry NE,WR3,10,21,4,12,6.8,2.8
+7,,Marquise BrownM. Brown BAL,WR4,8,22,4,9,7.2,1.2
+8,,Devin SingletaryD. Singletary BUF,RB4,6,22,2,16,7.4,3.2
+9,,Terry McLaurinT. McLaurin WAS,WR5,10,23,5,16,8.8,2.7
+10,,T.J. HockensonT. Hockenson DET,TE1,5,22,8,14,9.2,1.2
+11,,Kyler MurrayK. Murray ARI,QB1,12,22,7,18,10.6,2.9
+12,,Deebo SamuelD. Samuel SF,WR6,4,23,7,26,11.2,3.7
+13,,Mecole HardmanM. Hardman KC,WR7,12,21,11,15,11.6,0.8
+14,,Darrell HendersonD. Henderson LAR,RB5,9,22,10,17,12.6,1.6
+15,,Noah FantN. Fant DEN,TE2,10,22,9,33,12.8,3.1
+16,,J.J. Arcega-WhitesideJ. Arcega-Whiteside PHI,WR8,10,22,13,29,17.2,3.2
+17,,Justice HillJ. Hill BAL,RB6,8,22,14,24,17.4,2.7
+18,,Parris CampbellP. Campbell IND,WR9,6,22,14,23,19.4,3.2
+19,,Alexander MattisonA. Mattison MIN,RB7,12,21,15,21,19.4,1.9
+20,,Andy IsabellaA. Isabella ARI,WR10,12,23,17,30,20.4,2.1
+21,,Tony PollardT. Pollard DAL,RB8,8,22,18,33,20.4,2.2
+22,,Diontae JohnsonD. Johnson PIT,WR11,7,23,13,25,21.0,3.2
+23,,Damien HarrisD. Harris NE,RB9,10,22,16,39,21.2,4.5
+24,,Irv Smith Jr.I. Smith MIN,TE3,12,21,15,34,21.6,3.6
+25,,Preston WilliamsP. Williams MIA,WR12,5,22,20,41,23.6,3.4
+26,,Darius SlaytonD. Slayton NYG,WR13,11,22,20,70,25.2,5.0
+27,,Miles BoykinM. Boykin BAL,WR14,8,23,25,34,27.4,1.9
+28,,Jakobi MeyersJ. Meyers NE,WR15,10,,25,38,28.4,1.9
+29,,Darwin ThompsonD. Thompson KC,RB10,12,22,25,37,28.8,3.7
+30,,Daniel JonesD. Jones NYG,QB2,11,22,19,36,29.4,3.7
+31,,KeeSean JohnsonK. Johnson ARI,WR16,12,23,27,44,31.2,4.4
+32,,Jalen HurdJ. Hurd SF,WR17,4,23,23,33,31.8,1.0
+33,,Dwayne HaskinsD. Haskins WAS,QB3,10,22,27,36,33.0,2.8
+34,,Gardner MinshewG. Minshew JAC,QB4,10,23,22,41,34.4,6.5
+35,,Hakeem ButlerH. Butler ARI,WR18,12,23,23,39,34.4,5.9
+36,,Ryquell ArmsteadR. Armstead JAC,RB11,10,23,26,41,35.4,3.3
+37,,Jace SternbergerJ. Sternberger GB,TE4,11,23,31,40,37.0,2.8
+38,,Dawson KnoxD. Knox BUF,TE5,6,23,31,47,37.2,3.7
+39,,Ty JohnsonT. Johnson DET,RB12,5,22,27,42,39.4,1.4
+40,,Benny Snell Jr.B. Snell PIT,RB13,7,21,24,48,40.0,5.5
+41,,Kelvin HarmonK. Harmon WAS,WR19,10,22,29,48,41.4,6.7
+42,,Bryce LoveB. Love WAS,RB14,10,22,35,49,43.0,5.9
+43,,Josh OliverJ. Oliver JAC,TE6,10,22,38,49,44.6,3.3
+44,,Hunter RenfrowH. Renfrow OAK,WR20,6,23,43,56,45.2,2.6
+45,,Foster MoreauF. Moreau OAK,TE7,6,,28,64,45.6,11.7
+46,,Olabisi JohnsonO. Johnson MIN,WR21,12,22,32,44,39.8,4.6
+47,,Drew LockD. Lock DEN,QB5,10,23,36,52,46.4,5.5
+48,,Trayveon WilliamsT. Williams CIN,RB15,9,22,36,52,46.8,3.2
+49,,Riley RidleyR. Ridley CHI,WR22,6,22,44,53,47.6,3.4
+50,,Dexter WilliamsD. Williams GB,RB16,11,,32,52,45.8,8.1
+"50
+
+                                              googletag.cmd.push(function() { googletag.display('div-gpt-ad-1404326895972-0'); });"
+51,,Myles GaskinM. Gaskin MIA,RB17,5,22,49,59,52.4,4.0
+52,,Qadree OllisonQ. Ollison ATL,RB18,9,23,45,56,49.8,4.9
+53,,Gary JenningsG. Jennings MIA,WR23,5,22,42,61,50.0,7.1
+54,,Kahale WarringK. Warring HOU,TE8,10,22,43,74,56.0,13.6
+55,,Jordan ScarlettJ. Scarlett CAR,RB19,7,23,46,69,57.3,8.4
+56,,Rodney AndersonR. Anderson CIN,RB20,9,,43,46,44.5,1.5
+57,,Will GrierW. Grier CAR,QB6,7,24,47,50,48.5,1.5
+58,,Ryan FinleyR. Finley CIN,QB7,9,24,35,67,51.0,16.0
+59,,Mike WeberM. Weber DAL,RB21,8,22,51,57,54.0,3.0
+60,,Emanuel HallE. Hall Missouri,WR24,,22,54,58,56.0,2.0
+61,,Alex BarnesA. Barnes Kansas St.,RB22,,23,48,70,59.0,11.0
+62,,DaMarkus LodgeD. Lodge Mississippi,WR25,,22,58,62,60.0,2.0
+63,,Karan HigdonK. Higdon HOU,RB23,10,23,55,66,60.5,5.5
+64,,Bruce AndersonB. Anderson IND,RB24,6,,54,68,61.0,7.0
+65,,James WilliamsJ. Williams Washington State,RB25,,23,62,63,62.5,0.5
+66,,Elijah HolyfieldE. Holyfield CAR,RB26,7,,53,73,63.0,10.0
+67,,David SillsD. Sills NYG,WR26,11,,59,68,63.5,4.5
+68,,Caleb WilsonC. Wilson ARI,TE9,12,23,63,69,66.0,3.0
+69,,Travis HomerT. Homer SEA,RB27,11,21,64,72,68.0,4.0

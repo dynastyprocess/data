@@ -1,0 +1,39 @@
+Rank,WSID,Team DST,Bye,Best,Worst,Avg,Std Dev,Notes
+&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,&nbsp
+Tier 1,
+1,,San Francisco (SF)SF DST,,1,4,1.5,0.7
+2,,Pittsburgh (PIT)PIT DST,,1,3,2.4,0.5
+3,,New England (NE)NE DST,,1,8,3.0,1.5
+4,,Baltimore (BAL)BAL DST,,2,7,3.7,1.1
+Tier 2,
+5,,Buffalo (BUF)BUF DST,,4,12,5.5,1.1
+6,,Los Angeles (LAR)LAR DST,,4,10,6.0,1.0
+7,,Chicago (CHI)CHI DST,,3,20,7.3,1.9
+8,,Minnesota (MIN)MIN DST,,6,15,8.4,1.1
+Tier 3,
+9,,Kansas City (KC)KC DST,,5,22,9.9,2.3
+10,,New York (NYJ)NYJ DST,,5,18,10.2,2.0
+11,,New Orleans (NO)NO DST,,9,13,10.5,1.0
+12,,Denver (DEN)DEN DST,,10,18,13.5,1.4
+13,,Seattle (SEA)SEA DST,,11,22,14.1,2.4
+Tier 4,
+14,,Los Angeles (LAC)LAC DST,,7,27,14.5,5.3
+15,,Philadelphia (PHI)PHI DST,,11,17,15.5,1.4
+16,,Tennessee (TEN)TEN DST,,11,23,15.8,2.4
+17,,Green Bay (GB)GB DST,,14,20,16.4,1.4
+18,,Dallas (DAL)DAL DST,,16,20,18.5,1.4
+19,,Cleveland (CLE)CLE DST,,10,24,19.3,2.1
+20,,Indianapolis (IND)IND DST,,14,24,19.1,2.6
+21,,Houston (HOU)HOU DST,,13,25,21.2,1.9
+22,,Tampa Bay (TB)TB DST,,6,30,21.4,6.3
+Tier 5,
+23,,Jacksonville (JAC)JAC DST,,14,24,21.3,1.8
+24,,Atlanta (ATL)ATL DST,,15,27,23.5,3.0
+25,,Carolina (CAR)CAR DST,,21,28,25.0,1.7
+26,,Washington (WAS)WAS DST,,20,29,25.9,1.5
+27,,Detroit (DET)DET DST,,23,30,27.0,1.2
+28,,Oakland (OAK)OAK DST,,22,32,28.0,1.7
+29,,New York (NYG)NYG DST,,23,30,28.5,1.4
+30,,Arizona (ARI)ARI DST,,26,31,29.8,1.1
+31,,Cincinnati (CIN)CIN DST,,29,32,31.0,0.6
+32,,Miami (MIA)MIA DST,,29,32,31.8,0.4

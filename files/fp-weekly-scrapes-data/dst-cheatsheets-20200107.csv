@@ -1,0 +1,39 @@
+Rank,WSID,Team DST,Bye,Best,Worst,Avg,Std Dev,Notes
+&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,&nbsp
+Tier 1,
+1,,New England (NE)NE DST,,1,4,1.4,0.8
+2,,San Francisco (SF)SF DST,,1,4,2.0,0.6
+3,,Pittsburgh (PIT)PIT DST,,1,3,2.6,0.5
+Tier 2,
+4,,Baltimore (BAL)BAL DST,,2,7,5.2,1.2
+5,,Los Angeles (LAR)LAR DST,,4,10,5.4,1.4
+6,,Buffalo (BUF)BUF DST,,5,12,6.2,0.7
+7,,Chicago (CHI)CHI DST,,3,20,7.0,3.2
+8,,Minnesota (MIN)MIN DST,,6,15,7.0,0.9
+Tier 3,
+9,,New York (NYJ)NYJ DST,,5,15,8.4,2.1
+10,,Kansas City (KC)KC DST,,6,22,9.8,2.4
+11,,New Orleans (NO)NO DST,,9,11,10.2,1.0
+12,,Seattle (SEA)SEA DST,,11,22,12.6,0.8
+13,,Los Angeles (LAC)LAC DST,,7,27,12.8,5.6
+Tier 4,
+14,,Denver (DEN)DEN DST,,12,18,14.0,1.7
+15,,Tennessee (TEN)TEN DST,,11,23,15.4,3.0
+16,,Green Bay (GB)GB DST,,14,20,15.4,0.8
+17,,Philadelphia (PHI)PHI DST,,12,17,15.8,0.7
+18,,Indianapolis (IND)IND DST,,14,24,16.8,1.7
+19,,Dallas (DAL)DAL DST,,17,20,18.8,1.2
+20,,Cleveland (CLE)CLE DST,,10,24,20.0,2.1
+21,,Jacksonville (JAC)JAC DST,,14,21,20.0,1.3
+Tier 5,
+22,,Tampa Bay (TB)TB DST,,9,30,22.6,7.1
+23,,Houston (HOU)HOU DST,,13,25,22.8,1.3
+24,,Carolina (CAR)CAR DST,,21,24,23.8,0.4
+25,,Atlanta (ATL)ATL DST,,19,27,25.2,1.3
+26,,Washington (WAS)WAS DST,,25,28,25.6,0.5
+27,,Detroit (DET)DET DST,,23,30,27.6,1.2
+28,,Oakland (OAK)OAK DST,,22,32,28.2,2.2
+29,,New York (NYG)NYG DST,,26,30,28.2,1.3
+30,,Arizona (ARI)ARI DST,,26,31,29.4,1.9
+31,,Cincinnati (CIN)CIN DST,,29,31,30.4,0.8
+32,,Miami (MIA)MIA DST,,29,32,31.4,1.2
