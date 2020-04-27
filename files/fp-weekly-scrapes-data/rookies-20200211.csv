@@ -1,0 +1,50 @@
+Rank,WSIT,Rookies (Team),Pos,Bye,Age,Best,Worst,Avg,Std Dev,Notes
+1,,D'Andre SwiftD. Swift Georgia,RB1,,,1,1,1.0,0.0
+2,,Jonathan TaylorJ. Taylor Wisconsin,RB2,,,2,4,2.8,0.8
+3,,Jerry JeudyJ. Jeudy Alabama,WR1,,,2,5,3.3,1.3
+4,,CeeDee LambC. Lamb Oklahoma,WR2,,,3,6,4.5,1.1
+5,,J.K. DobbinsJ. Dobbins Ohio St.,RB3,,,3,12,6.8,3.3
+6,,Jalen ReagorJ. Reagor TCU,WR3,,,7,8,7.3,0.4
+7,,Clyde Edwards-HelaireC. Edwards-Helaire LSU,RB4,,,5,17,8.5,5.0
+8,,Henry Ruggs IIIH. Ruggs Alabama,WR4,,,3,13,9.5,3.9
+9,,Laviska Shenault Jr.L. Shenault Colorado,WR5,,,8,13,10.3,1.8
+10,,Cam AkersC. Akers Florida St.,RB5,,,4,23,11.5,7.1
+11,,Joe BurrowJ. Burrow LSU,QB1,,,10,21,14.3,4.1
+12,,Zack MossZ. Moss Utah,RB6,,,6,36,15.5,12.0
+13,,Tua TagovailoaT. Tagovailoa Alabama,QB2,,,14,20,17.3,2.8
+14,,Brycen HopkinsB. Hopkins Purdue,TE1,,,9,51,24.3,16.8
+15,,Hunter BryantH. Bryant Washington,TE2,,,15,52,28.5,15.0
+16,,Tee HigginsT. Higgins Clemson,WR6,,,9,14,11.5,2.5
+17,,Justin JeffersonJ. Jefferson LSU,WR7,,,9,15,12.0,3.0
+18,,Ke'Shawn VaughnK. Vaughn Vanderbilt,RB7,,,12,16,14.0,2.0
+19,,Antonio Gandy-GoldenA. Gandy-Golden Liberty,WR8,,,14,18,16.0,2.0
+20,,Bryan EdwardsB. Edwards South Carolina,WR9,,,15,17,16.0,1.0
+21,,KJ HamlerK. Hamler Penn St.,WR10,,,8,30,19.0,11.0
+22,,Michael Pittman Jr.M. Pittman USC,WR11,,,12,28,20.0,8.0
+23,,Van JeffersonV. Jefferson Florida,WR12,,,22,22,22.0,0.0
+24,,Devin DuvernayD. Duvernay Texas,WR13,,,11,34,22.5,11.5
+25,,Quintez CephusQ. Cephus Wisconsin,WR14,,,19,35,27.0,8.0
+26,,Salvon AhmedS. Ahmed Washington,RB8,,,26,28,27.0,1.0
+27,,Jake FrommJ. Fromm Georgia,QB3,,,18,56,37.0,15.5
+28,,Eno BenjaminE. Benjamin Arizona State,RB9,,,16,43,29.5,13.5
+29,,Tyler JohnsonT. Johnson Minnesota,WR15,,,19,40,29.5,10.5
+30,,Cole KmetC. Kmet Notre Dame,TE3,,,17,50,37.3,14.5
+31,,Thaddeus MossT. Moss LSU,TE4,,,21,41,31.0,10.0
+32,,Lamical PerineL. Perine Florida,RB10,,,27,38,32.5,5.5
+33,,A.J. DillonA. Dillon Boston College,RB11,,,24,42,33.0,9.0
+34,,K.J. HillK. Hill Ohio State,WR16,,,24,48,36.0,12.0
+35,,Brandon AiyukB. Aiyuk Arizona St.,WR17,,,37,39,38.0,1.0
+36,,Quartney DavisQ. Davis Texas A&M,WR18,,,25,68,46.5,21.5
+37,,Justin HerbertJ. Herbert Oregon,QB4,,,33,44,38.5,5.5
+38,,Albert OkwuegbunamA. Okwuegbunam Missouri,TE5,,,31,47,39.0,8.0
+39,,Denzel MimsD. Mims Baylor,WR19,,,38,40,39.0,1.0
+40,,J.J. TaylorJ. Taylor Arizona,RB12,,,29,71,50.0,21.0
+41,,Darrynton EvansD. Evans Appalachian State,RB13,,,30,61,45.5,15.5
+42,,Gabriel DavisG. Davis UCF,WR20,,,33,49,41.0,8.0
+43,,Collin JohnsonC. Johnson Texas,WR21,,,32,60,46.0,14.0
+44,,Omar BaylessO. Bayless Arkansas State,WR22,,,35,63,49.0,14.0
+45,,Jacob EasonJ. Eason Washington,QB5,,,42,48,45.0,3.0
+46,,Jalen HurtsJ. Hurts Oklahoma,QB6,,,44,46,45.0,1.0
+47,,Anthony McFarland Jr.A. McFarland Maryland,RB14,,,41,58,49.5,8.5
+48,,Jordan LoveJ. Love Utah St.,QB7,,,43,50,46.5,3.5
+49,,Levante BellamyL. Bellamy W Michigan,RB15,,,47,49,48.0,1.0

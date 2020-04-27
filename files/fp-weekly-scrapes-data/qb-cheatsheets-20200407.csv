@@ -1,0 +1,89 @@
+Rank,WSID,Quarterbacks (Team),Bye,Best,Worst,Avg,Std Dev,Notes
+&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,&nbsp
+Tier 1,
+1,,Lamar JacksonL. Jackson BAL,,1,2,1.2,0.4
+2,,Patrick MahomesP. Mahomes KC,,1,3,1.8,0.4
+3,,Russell WilsonR. Wilson SEA,,3,11,4.2,1.0
+Tier 2,
+4,,Kyler MurrayK. Murray ARI,,3,10,4.6,1.5
+5,,Deshaun WatsonD. Watson HOU,,3,11,5.0,1.9
+6,,Dak PrescottD. Prescott DAL,,3,12,5.2,1.2
+7,,Josh AllenJ. Allen BUF,,4,12,7.6,1.5
+8,,Aaron RodgersA. Rodgers GB,,5,15,9.8,1.9
+9,,Drew BreesD. Brees NO,,5,15,9.9,1.9
+10,,Matt RyanM. Ryan ATL,,4,16,10.0,1.7
+Tier 3,
+11,,Carson WentzC. Wentz PHI,,7,14,10.8,1.9
+12,,Matthew StaffordM. Stafford DET,,7,20,13.4,2.3
+13,,Ryan TannehillR. Tannehill TEN,,9,21,15.3,2.4
+14,,Baker MayfieldB. Mayfield CLE,,6,26,16.5,3.7
+15,,Tom BradyT. Brady TB,,5,30,17.2,5.5
+16,,Daniel JonesD. Jones NYG,,8,23,17.3,2.9
+17,,Ben RoethlisbergerB. Roethlisberger PIT,,9,31,17.4,3.2
+Tier 4,
+18,,Kirk CousinsK. Cousins MIN,,12,26,18.4,2.9
+19,,Jared GoffJ. Goff LAR,,13,28,18.5,2.5
+20,,Jimmy GaroppoloJ. Garoppolo SF,,15,28,20.6,2.9
+21,,Cam NewtonC. Newton FA,,7,34,21.2,7.1
+22,,Sam DarnoldS. Darnold NYJ,,17,32,23.1,2.1
+23,,Philip RiversP. Rivers IND,,14,32,23.4,4.0
+24,,Jameis WinstonJ. Winston FA,,2,37,20.0,11.6
+25,,Ryan FitzpatrickR. Fitzpatrick MIA,,16,32,25.3,3.4
+26,,Gardner Minshew IIG. Minshew JAC,,16,31,25.7,3.5
+27,,Drew LockD. Lock DEN,,20,32,27.1,2.3
+28,,Derek CarrD. Carr LV,,20,33,27.5,2.4
+29,,Teddy BridgewaterT. Bridgewater CAR,,17,35,26.7,5.2
+30,,Dwayne HaskinsD. Haskins WAS,,26,36,30.6,2.1
+31,,Mitch TrubiskyM. Trubisky CHI,,18,38,28.8,3.9
+Tier 5,
+32,,Nick FolesN. Foles CHI,,19,58,33.4,5.3
+33,,Andy DaltonA. Dalton CIN,,27,40,33.1,2.5
+34,,Jacoby BrissettJ. Brissett IND,,24,45,33.1,4.0
+35,,Marcus MariotaM. Mariota LV,,32,43,36.5,2.6
+36,,Tyrod TaylorT. Taylor LAC,,14,42,29.8,6.1
+Tier 6,
+37,,Jarrett StidhamJ. Stidham NE,,27,43,35.5,4.3
+38,,Joe BurrowJ. Burrow FA,,15,39,25.9,5.5
+39,,Taysom HillT. Hill NO,,33,44,37.6,3.2
+40,,Tua TagovailoaT. Tagovailoa FA,,27,41,35.4,3.1
+41,,Joe FlaccoJ. Flacco FA,,35,60,42.8,9.0
+42,,Justin HerbertJ. Herbert FA,,33,44,38.6,3.5
+43,,Case KeenumC. Keenum CLE,,37,45,41.1,1.5
+44,,Josh RosenJ. Rosen MIA,,37,54,43.3,5.1
+45,,Jalen HurtsJ. Hurts FA,,38,46,41.2,2.6
+46,,Jordan LoveJ. Love FA,,39,45,41.6,2.4
+47,,Nick MullensN. Mullens SF,,37,52,42.4,5.1
+48,,Kyle AllenK. Allen WAS,,37,54,46.2,6.1
+49,,Will GrierW. Grier CAR,,42,65,50.2,8.6
+
+50,,Jacob EasonJ. Eason FA,,37,49,45.0,4.9
+Tier 7,
+51,,Jake FrommJ. Fromm FA,,38,53,46.3,6.2
+52,,Chase DanielC. Daniel DET,,42,58,49.3,6.6
+53,,Brett HundleyB. Hundley ARI,,49,50,49.7,0.5
+54,,Brian HoyerB. Hoyer NE,,39,61,50.3,9.0
+55,,Matt MooreM. Moore FA,,43,72,53.0,13.4
+56,,Blake BortlesB. Bortles FA,,38,59,48.5,10.5
+57,,AJ McCarronA. McCarron HOU,,46,61,53.5,7.5
+58,,Jeff DriskelJ. Driskel DEN,,40,70,55.0,15.0
+59,,Anthony GordonA. Gordon FA,,47,64,55.5,8.5
+60,,Mason RudolphM. Rudolph PIT,,56,77,63.0,9.9
+61,,Matt BarkleyM. Barkley BUF,,54,63,58.5,4.5
+62,,Matt SchaubM. Schaub ATL,,45,78,61.5,16.5
+63,,Sean MannionS. Mannion MIN,,52,69,60.5,8.5
+64,,Ryan FinleyR. Finley CIN,,59,62,60.5,1.5
+65,,Cole McDonaldC. McDonald FA,,46,82,64.0,18.0
+66,,Robert GriffinR. Griffin BAL,,48,76,62.0,14.0
+67,,Ryan GriffinR. Griffin TB,,50,90,70.0,20.0
+68,,Colt McCoyC. McCoy NYG,,62,68,65.0,3.0
+69,,David BloughD. Blough DET,,55,85,70.0,15.0
+70,,Brandon AllenB. Allen DEN,,57,87,72.0,15.0
+Tier 8,
+71,,Devlin HodgesD. Hodges PIT,,60,84,72.0,12.0
+72,,Mike GlennonM. Glennon FA,,64,89,76.5,12.5
+73,,David FalesD. Fales NYJ,,68,73,70.5,2.5
+74,,Trevor SiemianT. Siemian FA,,67,79,73.0,6.0
+
+75,,Chad KellyC. Kelly IND,,70,74,72.0,2.0
+76,,Joe WebbJ. Webb FA,,72,86,79.0,7.0
+77,,Tim BoyleT. Boyle GB,,73,92,82.5,9.5
