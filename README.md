@@ -21,4 +21,4 @@ You can open an issue if you'd like to request specific data or report a bug, th
 
 The main files are updated via a script, but we are accepting pull-requests to supporting files like `missing_playerids.csv` which help fill in any gaps!
 
-Please note that there is a [Contributor Code of Conduct](https://github.com/DynastyProcess/data/blob/master/CODE_OF_CONDUCT.md)
+Please note that this project is released with a [Contributor Code of Conduct](https://github.com/DynastyProcess/data/blob/master/CODE_OF_CONDUCT.md) - by participating, you agree to abide by its terms.
