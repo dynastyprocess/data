@@ -15,10 +15,10 @@ A number of older files were moved into the `archives/` folder and are likely ou
 
 ## Contributing
 
-Many hands make light work, especially when maintaining open data! 
+Many hands make light work, especially when maintaining open data! Here are some ways you can contribute to this project:
 
-You can open an issue if you'd like to request specific data or report a bug, there are templates to help make your issue clearer.
+- You can [open an issue](https://github.com/DynastyProcess/data/issues/new/choose) if you'd like to request specific data or report a bug/error. 
 
-The main files are updated via a script, but we are accepting pull-requests to supporting files like `missing_playerids.csv` which help fill in any gaps!
+- While the main files (as listed above) are maintained by an automated script, you can also make pull requests to supporting files (i.e. `missing_playerids.csv`) which are used to help fill in any gaps.
 
-Please note that this project is released with a [Contributor Code of Conduct](https://github.com/DynastyProcess/data/blob/master/CODE_OF_CONDUCT.md) - by participating, you agree to abide by its terms.
+Please note that this project is released with a [Contributor Code of Conduct](https://github.com/DynastyProcess/data/blob/master/CODE_OF_CONDUCT.md) - by participating, you agree to abide by these terms.
