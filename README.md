@@ -17,7 +17,7 @@ A number of older files were moved into the `archives/` folder and are likely ou
 
 Many hands make light work, especially when maintaining open data! 
 
-You can open an issue if you'd like to request specific data or report a bug, there are templates to help make your issue clearer! 
+You can open an issue if you'd like to request specific data or report a bug, there are templates to help make your issue clearer.
 
 The main files are updated via a script, but we are accepting pull-requests to supporting files like `missing_playerids.csv` which help fill in any gaps!
 
