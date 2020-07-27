@@ -22,4 +22,6 @@ Many hands make light work, especially when maintaining open data! Here are some
 
 - While the main files (as listed above) are maintained by an automated script, you can also make pull requests to supporting files (i.e. `missing_playerids.csv`) which are used to help fill in any gaps.
 
+- You can [sponsor this project by donating to help with server costs](https://github.com/sponsors/tanho63)!
+
 Please note that this project is released with a [Contributor Code of Conduct](https://github.com/DynastyProcess/data/blob/master/CODE_OF_CONDUCT.md) - by participating, you agree to abide by these terms.
