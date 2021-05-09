@@ -1,18 +1,24 @@
 # DynastyProcess.com Data Repository
+This repository contains resources and data for the purpose of supporting apps and developers, and is updated via Github Actions on a weekly basis.
 
-This repository contains resources and data for the purpose of supporting apps and developers, and is updated via a script on a weekly basis.
+## Status
+[![weekly-playerids](https://github.com/dynastyprocess/db/actions/workflows/weekly-playerids.yml/badge.svg)](https://github.com/dynastyprocess/db/actions/workflows/weekly-playerids.yml)
+[![weekly-fantasypros](https://github.com/dynastyprocess/db/actions/workflows/weekly-fantasypros.yml/badge.svg)](https://github.com/dynastyprocess/db/actions/workflows/weekly-fantasypros.yml) 
 
-The old database.csv was getting a little unwieldy (80+ columns) so it's been broken down into smaller, more specific pieces.
-
+## Description
 The main files available are: 
 
 - db_playerids.csv
-- db_fpecr.csv (and db_fpecr.parquet) - use parquet for python/R, it's faster/better!
+- db_fpecr.csv.gz and db_fpecr.parquet - use parquet for python/R, it's faster/better!
 - values.csv (and sibling files values-players.csv and values-picks.csv)
 
-and a few more to come! 
+## Archived
 
-A number of older files were moved into the `archives/` folder and are likely out of date. 
+The old database.csv was getting a little unwieldy (80+ columns) so it's been broken down into smaller, more specific pieces.
+
+Other dataframes may be available (and if not, we can direct to potential sources of the data - please open an issue!)
+
+A number of older files were moved into the `archives/` folder and are out of date. 
 
 ## Contributing
 
