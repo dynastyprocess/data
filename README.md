@@ -9,8 +9,10 @@ This repository contains resources and data for the purpose of supporting apps a
 The main files available are: 
 
 - db_playerids.csv
-- db_fpecr.csv.gz and db_fpecr.parquet - use parquet for python/R, it's faster/better!
+- db_fpecr.csv.gz and db_fpecr.parquet - use parquet for python/R, it's faster/better! 
 - values.csv (and sibling files values-players.csv and values-picks.csv)
+
+**Please note: the old `db_fpecr.csv` file has been gzipped to the csv.gz file due to GitHub size restrictions.**
 
 ## Archived
 
