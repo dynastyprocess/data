@@ -4,6 +4,7 @@ This repository contains resources and data for the purpose of supporting apps a
 ## Status
 [![weekly-playerids](https://github.com/dynastyprocess/db/actions/workflows/weekly-playerids.yml/badge.svg)](https://github.com/dynastyprocess/db/actions/workflows/weekly-playerids.yml)
 [![weekly-fantasypros](https://github.com/dynastyprocess/db/actions/workflows/weekly-fantasypros.yml/badge.svg)](https://github.com/dynastyprocess/db/actions/workflows/weekly-fantasypros.yml) 
+[![weekly-playervalues](https://github.com/dynastyprocess/db/actions/workflows/weekly-playervalues.yml/badge.svg)](https://github.com/dynastyprocess/db/actions/workflows/weekly-playervalues.yml) 
 
 ## Description
 The main files available are: 
