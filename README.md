@@ -16,7 +16,9 @@ The main files available are:
 ## Archived
 
 The old database.csv was getting a little unwieldy (80+ columns) so it's been broken down into smaller, more specific pieces.
+
 Other dataframes may be available (and if not, we can direct to potential sources of the data - please open an issue!)
+
 A number of older files were moved into the `archives/` folder and are out of date. 
 
 **Please note: the old `db_fpecr.csv` file has been gzipped to the csv.gz file due to GitHub size restrictions.**
