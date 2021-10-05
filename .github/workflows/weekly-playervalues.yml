@@ -13,16 +13,16 @@ jobs:
       GITHUB_PAT: ${{ secrets.GH_PAT }}
 
     steps:
+      - name: Checkout public db repo
+        uses: actions/checkout@v2
+        with:
+          path: public
+          
       - name: Checkout private db repo
         uses: actions/checkout@v2
         with:
           path: private
-          
-      - name: Checkout public data repo
-        uses: actions/checkout@v2
-        with:
-          path: public
-          repository: dynastyprocess/data
+          repository: dynastyprocess/db
           token: ${{ secrets.GH_PAT }}
       
       - name: Install R
