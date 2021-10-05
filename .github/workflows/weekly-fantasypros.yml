@@ -65,6 +65,7 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
+          git pull
           git add data
           git commit -m "Automated FP scrape `date`" || echo "No changes to commit"
           git push origin main
@@ -74,6 +75,7 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
+          git pull
           git add files
           git commit -m "Automated FP scrape `date`" || echo "No changes to commit"
           git push origin master
