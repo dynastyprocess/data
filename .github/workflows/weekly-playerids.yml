@@ -1,0 +1,97 @@
+on:
+  schedule:
+    - cron: 23 0 * * 5
+  workflow_dispatch:
+
+name: weekly-playerids
+
+jobs:
+  weekly-playerids:
+    runs-on: ubuntu-20.04
+    env:
+      RSPM: https://packagemanager.rstudio.com/cran/__linux__/focal/latest
+      GITHUB_PAT: ${{ secrets.GH_PAT }}
+
+    steps:
+      - name: Checkout public db repo
+        uses: actions/checkout@v2
+        with:
+          path: public
+
+      - name: Checkout private data repo
+        uses: actions/checkout@v2
+        with:
+          path: private
+          repository: dynastyprocess/db
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Install R
+        uses: r-lib/actions/setup-r@v1
+        id: install-r
+
+      - name: Install pak and query dependencies
+        working-directory: ./private
+        run: |
+          install.packages("pak", repos = "https://r-lib.github.io/p/pak/dev/")
+          saveRDS(pak::pkg_deps("local::.", dependencies = TRUE), ".github/r-depends.rds")
+        shell: Rscript {0}
+
+      - name: Restore R package cache
+        uses: actions/cache@v2
+        with:
+          path: |
+            ${{ env.R_LIBS_USER }}/*
+            !${{ env.R_LIBS_USER }}/pak
+          key: dpdb-${{ hashFiles('private/DESCRIPTION') }}-${{ hashFiles('private/.github/r-depends.rds') }}
+          restore-keys: |
+            dpdb-${{ hashFiles('private/DESCRIPTION') }}
+            dpdb-
+
+      - name: Install dependencies
+        working-directory: ./private
+        run: |
+          pak::local_system_requirements(execute = TRUE)
+          pak::local_install_dev_deps(upgrade = TRUE)
+        shell: Rscript {0}
+
+      - name: Update source player ID databases
+        working-directory: ./private
+        run: |
+          source("R/player_ids/update_mfl.R", chdir = TRUE)
+          source("R/player_ids/update_sleeper.R", chdir = TRUE)
+          source("R/player_ids/update_nflfastr_rosters.R", chdir = TRUE)
+          source("R/pfr/scrape_pfrids.R", chdir = TRUE)
+        shell: Rscript {0}
+
+      - name: Build dp_playerids
+        working-directory: ./private
+        run: |
+          source("R/player_ids/build_playerids.R", chdir = TRUE)
+        shell: Rscript {0}
+
+      - name: Save private data
+        working-directory: ./private
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git pull
+          git add data
+          git commit -m "Automated Player ID pipeline scrape `date`" || echo "No changes to commit"
+          git push origin main || echo "No changes to commit"
+
+      - name: Save public data
+        working-directory: ./public
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git pull
+          git add files
+          git commit -m "Automated Player ID pipeline `date`" || echo "No changes to commit"
+          git push origin master || echo "No changes to commit"
+
+      - name: Upload log results
+        if: failure()
+        uses: actions/upload-artifact@main
+        with:
+          name: scrape-logs
+          path: ./private/scrape-log.txt
