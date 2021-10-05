@@ -2,9 +2,9 @@
 This repository contains resources and data for the purpose of supporting apps and developers, and is updated via Github Actions on a weekly basis.
 
 ## Status
-![weekly-playerids](https://github.com/dynastyprocess/db/actions/workflows/weekly-playerids.yml/badge.svg)
-![weekly-fantasypros](https://github.com/dynastyprocess/db/actions/workflows/weekly-fantasypros.yml/badge.svg)
-![weekly-playervalues](https://github.com/dynastyprocess/db/actions/workflows/weekly-playervalues.yml/badge.svg)
+![weekly-playerids](https://github.com/dynastyprocess/data/actions/workflows/weekly-playerids.yml/badge.svg)
+![weekly-fantasypros](https://github.com/dynastyprocess/data/actions/workflows/weekly-fantasypros.yml/badge.svg)
+![weekly-playervalues](https://github.com/dynastyprocess/data/actions/workflows/weekly-playervalues.yml/badge.svg)
 
 ## Description
 The main files available are: 
