@@ -6,7 +6,7 @@ on:
 name: daily-fantasypros
 
 jobs:
-  weekly-fantasypros:
+  daily-fantasypros:
     runs-on: ubuntu-20.04
     env:
       RSPM: https://packagemanager.rstudio.com/cran/__linux__/focal/latest
