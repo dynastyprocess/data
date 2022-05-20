@@ -57,9 +57,9 @@ jobs:
       - name: Build Values
         working-directory: ./private
         run: |
-          source("R/values/build_pickecr.R", chdir = TRUE)
-          source("R/values/build_playerecr.R", chdir = TRUE)
-          source("R/values/build_values.R", chdir = TRUE)
+          source("R/values/build_pickecr.R")
+          source("R/values/build_playerecr.R")
+          source("R/values/build_values.R")
         shell: Rscript {0}
       
       - name: Save private data
