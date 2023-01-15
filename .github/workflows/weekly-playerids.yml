@@ -28,31 +28,12 @@ jobs:
       - name: Install R
         uses: r-lib/actions/setup-r@v2
         id: install-r
-
-      - name: Install pak and query dependencies
-        working-directory: ./private
-        run: |
-          install.packages("pak", repos = "https://r-lib.github.io/p/pak/dev/")
-          saveRDS(pak::pkg_deps("local::.", dependencies = TRUE), ".github/r-depends.rds")
-        shell: Rscript {0}
-
-      - name: Restore R package cache
-        uses: actions/cache@v2
+        
+      - uses: r-lib/actions/setup-r-dependencies@v2
         with:
-          path: |
-            ${{ env.R_LIBS_USER }}/*
-            !${{ env.R_LIBS_USER }}/pak
-          key: dpdb-${{ hashFiles('private/DESCRIPTION') }}-${{ hashFiles('private/.github/r-depends.rds') }}
-          restore-keys: |
-            dpdb-${{ hashFiles('private/DESCRIPTION') }}
-            dpdb-
-
-      - name: Install dependencies
-        working-directory: ./private
-        run: |
-          pak::local_system_requirements(execute = TRUE)
-          pak::local_install_dev_deps(upgrade = TRUE)
-        shell: Rscript {0}
+          cache-version: 1
+          working-directory: ./private
+          extra-packages: ffverse/ffscrapr
 
       - name: Update source player ID databases
         working-directory: ./private
