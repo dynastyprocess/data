@@ -1,6 +1,6 @@
 on:
-  schedule:
-    - cron: 3 */12 * * *
+  #schedule:
+    #- cron: 3 */12 * * *
   workflow_dispatch:
 
 name: daily-fantasypros
