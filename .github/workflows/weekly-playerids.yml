@@ -33,7 +33,9 @@ jobs:
         with:
           cache-version: 1
           working-directory: ./private
-          extra-packages: ffverse/ffscrapr
+          extra-packages: |
+            ffverse/ffscrapr
+            nflverse/nflreadr
 
       - name: Update source player ID databases
         working-directory: ./private
