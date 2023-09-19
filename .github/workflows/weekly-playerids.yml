@@ -11,6 +11,7 @@ jobs:
     env:
       RSPM: https://packagemanager.rstudio.com/cran/__linux__/focal/latest
       GITHUB_PAT: ${{ secrets.GH_PAT }}
+      SCRAPEOPS_API_KEY: ${{ secrets.SCRAPEOPS_API_KEY }}
 
     steps:
       - name: Checkout public db repo
