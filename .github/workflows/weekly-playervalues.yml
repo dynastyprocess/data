@@ -7,9 +7,9 @@ name: weekly-playervalues
 
 jobs:
   weekly-playervalues:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-24.04
     env:
-      RSPM: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+      RSPM: https://packagemanager.rstudio.com/cran/__linux__/noble/latest
       GITHUB_PAT: ${{ secrets.GH_PAT }}
 
     steps:
