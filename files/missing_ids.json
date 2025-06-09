@@ -18449,5 +18449,575 @@
     "mfl_id": 16886,
     "gsis_id": "00-0039611",
     "espn_id": 4571597
+  },
+  {
+    "mfl_id": 17033,
+    "sleeper_id": 12510,
+    "fantasypros_id": 22884
+  },
+  {
+    "mfl_id": 17091,
+    "sleeper_id": 12532,
+    "fantasypros_id": 22887
+  },
+  {
+    "mfl_id": 17284,
+    "sleeper_id": 12866,
+    "fantasypros_id": 22901
+  },
+  {
+    "mfl_id": 17268,
+    "sleeper_id": 12817,
+    "fantasypros_id": 22924
+  },
+  {
+    "mfl_id": 17303,
+    "sleeper_id": 12889,
+    "fantasypros_id": 22925
+  },
+  {
+    "mfl_id": 17063,
+    "sleeper_id": 12738,
+    "fantasypros_id": 22928
+  },
+  {
+    "mfl_id": 17175,
+    "sleeper_id": 12539,
+    "fantasypros_id": 22965
+  },
+  {
+    "mfl_id": 17111,
+    "sleeper_id": 12725,
+    "fantasypros_id": 22977
+  },
+  {
+    "mfl_id": 17274,
+    "sleeper_id": 12491,
+    "fantasypros_id": 22997
+  },
+  {
+    "mfl_id": 17108,
+    "sleeper_id": 12521,
+    "fantasypros_id": 23004
+  },
+  {
+    "mfl_id": 17057,
+    "sleeper_id": 12515,
+    "fantasypros_id": 23014
+  },
+  {
+    "mfl_id": 17243,
+    "sleeper_id": 12715,
+    "fantasypros_id": 23039
+  },
+  {
+    "mfl_id": 17081,
+    "sleeper_id": 12514,
+    "fantasypros_id": 23062
+  },
+  {
+    "mfl_id": 17043,
+    "sleeper_id": 12529,
+    "fantasypros_id": 23065
+  },
+  {
+    "mfl_id": 17038,
+    "sleeper_id": 12494,
+    "fantasypros_id": 23066
+  },
+  {
+    "mfl_id": 17107,
+    "sleeper_id": 12487,
+    "fantasypros_id": 23091
+  },
+  {
+    "mfl_id": 17259,
+    "sleeper_id": 12480,
+    "fantasypros_id": 23093
+  },
+  {
+    "mfl_id": 17039,
+    "sleeper_id": 12545,
+    "fantasypros_id": 23096
+  },
+  {
+    "mfl_id": 17037,
+    "sleeper_id": 12486,
+    "fantasypros_id": 23150
+  },
+  {
+    "mfl_id": 17032,
+    "sleeper_id": 12508,
+    "fantasypros_id": 23160
+  },
+  {
+    "mfl_id": 17227,
+    "sleeper_id": 12705,
+    "fantasypros_id": 23186
+  },
+  {
+    "mfl_id": 17034,
+    "sleeper_id": 12500,
+    "fantasypros_id": 23680
+  },
+  {
+    "mfl_id": 17046,
+    "sleeper_id": 12476,
+    "fantasypros_id": 23682
+  },
+  {
+    "mfl_id": 17064,
+    "sleeper_id": 11569,
+    "fantasypros_id": 24335
+  },
+  {
+    "mfl_id": 17069,
+    "sleeper_id": 12457,
+    "fantasypros_id": 24344
+  },
+  {
+    "mfl_id": 17062,
+    "sleeper_id": 12472,
+    "fantasypros_id": 24351
+  },
+  {
+    "mfl_id": 17076,
+    "sleeper_id": 12503,
+    "fantasypros_id": 24371
+  },
+  {
+    "mfl_id": 17205,
+    "sleeper_id": 12670,
+    "fantasypros_id": 24372
+  },
+  {
+    "mfl_id": 17030,
+    "sleeper_id": 12522,
+    "fantasypros_id": 24755
+  },
+  {
+    "mfl_id": 17283,
+    "sleeper_id": 12898,
+    "fantasypros_id": 25371
+  },
+  {
+    "mfl_id": 17035,
+    "sleeper_id": 12470,
+    "fantasypros_id": 25373
+  },
+  {
+    "mfl_id": 17051,
+    "sleeper_id": 12512,
+    "fantasypros_id": 25391
+  },
+  {
+    "mfl_id": 17056,
+    "sleeper_id": 12531,
+    "fantasypros_id": 25393
+  },
+  {
+    "mfl_id": 17044,
+    "sleeper_id": 12507,
+    "fantasypros_id": 25395
+  },
+  {
+    "mfl_id": 17273,
+    "sleeper_id": 13001,
+    "fantasypros_id": 25407
+  },
+  {
+    "mfl_id": 17101,
+    "sleeper_id": 12721,
+    "fantasypros_id": 25413
+  },
+  {
+    "mfl_id": 17071,
+    "sleeper_id": 12526,
+    "fantasypros_id": 25417
+  },
+  {
+    "mfl_id": 17031,
+    "sleeper_id": 12524,
+    "fantasypros_id": 25968
+  },
+  {
+    "mfl_id": 17036,
+    "sleeper_id": 12511,
+    "fantasypros_id": 25972
+  },
+  {
+    "mfl_id": 17054,
+    "sleeper_id": 12462,
+    "fantasypros_id": 25976
+  },
+  {
+    "mfl_id": 17059,
+    "sleeper_id": 12495,
+    "fantasypros_id": 25984
+  },
+  {
+    "mfl_id": 17042,
+    "sleeper_id": 12527,
+    "fantasypros_id": 25989
+  },
+  {
+    "mfl_id": 17099,
+    "sleeper_id": 12493,
+    "fantasypros_id": 25997
+  },
+  {
+    "mfl_id": 17231,
+    "sleeper_id": 12700,
+    "fantasypros_id": 26002
+  },
+  {
+    "mfl_id": 17106,
+    "sleeper_id": 12498,
+    "fantasypros_id": 26005
+  },
+  {
+    "mfl_id": 17104,
+    "sleeper_id": 12517,
+    "fantasypros_id": 26006
+  },
+  {
+    "mfl_id": 17255,
+    "sleeper_id": 12732,
+    "fantasypros_id": 26013
+  },
+  {
+    "mfl_id": 17275,
+    "sleeper_id": 13074,
+    "fantasypros_id": 26021
+  },
+  {
+    "mfl_id": 17098,
+    "sleeper_id": 12497,
+    "fantasypros_id": 26022
+  },
+  {
+    "mfl_id": 17075,
+    "sleeper_id": 12501,
+    "fantasypros_id": 26024
+  },
+  {
+    "mfl_id": 17074,
+    "sleeper_id": 12530,
+    "fantasypros_id": 26034
+  },
+  {
+    "mfl_id": 17093,
+    "sleeper_id": 12810,
+    "fantasypros_id": 26061
+  },
+  {
+    "mfl_id": 17058,
+    "sleeper_id": 12543,
+    "fantasypros_id": 26212
+  },
+  {
+    "mfl_id": 17072,
+    "sleeper_id": 12509,
+    "fantasypros_id": 26215
+  },
+  {
+    "mfl_id": 17276,
+    "sleeper_id": 12863,
+    "fantasypros_id": 26400
+  },
+  {
+    "mfl_id": 17102,
+    "sleeper_id": 12518,
+    "fantasypros_id": 26434
+  },
+  {
+    "mfl_id": 17070,
+    "sleeper_id": 12519,
+    "fantasypros_id": 27016
+  },
+  {
+    "mfl_id": 17050,
+    "sleeper_id": 12516,
+    "fantasypros_id": 27045
+  },
+  {
+    "mfl_id": 17103,
+    "sleeper_id": 12506,
+    "fantasypros_id": 27050
+  },
+  {
+    "mfl_id": 17073,
+    "sleeper_id": 12499,
+    "fantasypros_id": 27059
+  },
+  {
+    "mfl_id": 17077,
+    "sleeper_id": 12520,
+    "fantasypros_id": 27066
+  },
+  {
+    "mfl_id": 17095,
+    "sleeper_id": 12488,
+    "fantasypros_id": 27075
+  },
+  {
+    "mfl_id": 17086,
+    "sleeper_id": 12505,
+    "fantasypros_id": 27076
+  },
+  {
+    "mfl_id": 17083,
+    "sleeper_id": 12484,
+    "fantasypros_id": 27077
+  },
+  {
+    "mfl_id": 17060,
+    "sleeper_id": 12471,
+    "fantasypros_id": 27097
+  },
+  {
+    "mfl_id": 17047,
+    "sleeper_id": 12469,
+    "fantasypros_id": 27102
+  },
+  {
+    "mfl_id": 17105,
+    "sleeper_id": 12502,
+    "fantasypros_id": 27109
+  },
+  {
+    "mfl_id": 17080,
+    "sleeper_id": 12536,
+    "fantasypros_id": 27122
+  },
+  {
+    "mfl_id": 17041,
+    "sleeper_id": 12477,
+    "fantasypros_id": 27129
+  },
+  {
+    "mfl_id": 17066,
+    "sleeper_id": 12534,
+    "fantasypros_id": 27131
+  },
+  {
+    "mfl_id": 17109,
+    "sleeper_id": 12473,
+    "fantasypros_id": 27138
+  },
+  {
+    "mfl_id": 17068,
+    "sleeper_id": 12489,
+    "fantasypros_id": 27142
+  },
+  {
+    "mfl_id": 17096,
+    "sleeper_id": 12482,
+    "fantasypros_id": 27144
+  },
+  {
+    "mfl_id": 17079,
+    "sleeper_id": 12485,
+    "fantasypros_id": 27147
+  },
+  {
+    "mfl_id": 17040,
+    "sleeper_id": 12538,
+    "fantasypros_id": 27161
+  },
+  {
+    "mfl_id": 17048,
+    "sleeper_id": 12504,
+    "fantasypros_id": 27165
+  },
+  {
+    "mfl_id": 17045,
+    "sleeper_id": 12481,
+    "fantasypros_id": 27166
+  },
+  {
+    "mfl_id": 17097,
+    "sleeper_id": 12496,
+    "fantasypros_id": 27182
+  },
+  {
+    "mfl_id": 17084,
+    "sleeper_id": 12475,
+    "fantasypros_id": 27186
+  },
+  {
+    "mfl_id": 17082,
+    "sleeper_id": 12492,
+    "fantasypros_id": 27211
+  },
+  {
+    "mfl_id": 17089,
+    "sleeper_id": 12460,
+    "fantasypros_id": 27218
+  },
+  {
+    "mfl_id": 17088,
+    "sleeper_id": 12860,
+    "fantasypros_id": 27222
+  },
+  {
+    "mfl_id": 17078,
+    "sleeper_id": 12483,
+    "fantasypros_id": 27224
+  },
+  {
+    "mfl_id": 17281,
+    "sleeper_id": 12984,
+    "fantasypros_id": 27251
+  },
+  {
+    "mfl_id": 17049,
+    "sleeper_id": 12455,
+    "fantasypros_id": 27259
+  },
+  {
+    "mfl_id": 17100,
+    "sleeper_id": 12478,
+    "fantasypros_id": 27263
+  },
+  {
+    "mfl_id": 17061,
+    "sleeper_id": 12544,
+    "fantasypros_id": 27285
+  },
+  {
+    "mfl_id": 17087,
+    "sleeper_id": 12541,
+    "fantasypros_id": 27288
+  },
+  {
+    "mfl_id": 17271,
+    "sleeper_id": 12546,
+    "fantasypros_id": 27293
+  },
+  {
+    "mfl_id": 17234,
+    "sleeper_id": 12523,
+    "fantasypros_id": 27294
+  },
+  {
+    "mfl_id": 17052,
+    "sleeper_id": 12490,
+    "fantasypros_id": 27297
+  },
+  {
+    "mfl_id": 17055,
+    "sleeper_id": 12467,
+    "fantasypros_id": 27310
+  },
+  {
+    "mfl_id": 17171,
+    "sleeper_id": 12540,
+    "fantasypros_id": 27315
+  },
+  {
+    "mfl_id": 17256,
+    "sleeper_id": 12533,
+    "fantasypros_id": 27316
+  },
+  {
+    "mfl_id": 17269,
+    "sleeper_id": 12542,
+    "fantasypros_id": 27445
+  },
+  {
+    "mfl_id": 17157,
+    "sleeper_id": 12535,
+    "fantasypros_id": 27446
+  },
+  {
+    "mfl_id": 17232,
+    "sleeper_id": 12699,
+    "fantasypros_id": 27447
+  },
+  {
+    "mfl_id": 17254,
+    "sleeper_id": 12718,
+    "fantasypros_id": 27449
+  },
+  {
+    "mfl_id": 17092,
+    "sleeper_id": 13225,
+    "fantasypros_id": 27450
+  },
+  {
+    "mfl_id": 17300,
+    "sleeper_id": 12967,
+    "fantasypros_id": 27451
+  },
+  {
+    "mfl_id": 17293,
+    "sleeper_id": 12925,
+    "fantasypros_id": 27453
+  },
+  {
+    "mfl_id": 17184,
+    "sleeper_id": 12641,
+    "fantasypros_id": 27454
+  },
+  {
+    "mfl_id": 17085,
+    "sleeper_id": 12972,
+    "fantasypros_id": 27455
+  },
+  {
+    "mfl_id": 17213,
+    "sleeper_id": 12658,
+    "fantasypros_id": 27469
+  },
+  {
+    "mfl_id": 17215,
+    "sleeper_id": 12656,
+    "fantasypros_id": 27473
+  },
+  {
+    "mfl_id": 17192,
+    "sleeper_id": 12634,
+    "fantasypros_id": 27486
+  },
+  {
+    "mfl_id": 17134,
+    "sleeper_id": 12547,
+    "fantasypros_id": 27487
+  },
+  {
+    "mfl_id": 17292,
+    "sleeper_id": 12755,
+    "fantasypros_id": 27492
+  },
+  {
+    "mfl_id": 17267,
+    "sleeper_id": 12969,
+    "fantasypros_id": 27498
+  },
+  {
+    "mfl_id": 17053,
+    "sleeper_id": 12474,
+    "fantasypros_id": 27520
+  },
+  {
+    "mfl_id": 17238,
+    "sleeper_id": 12690,
+    "fantasypros_id": 27539
+  },
+  {
+    "mfl_id": 17253,
+    "sleeper_id": 12735,
+    "fantasypros_id": 27550
+  },
+  {
+    "mfl_id": 17260,
+    "sleeper_id": 12743,
+    "fantasypros_id": 27552
+  },
+  {
+    "mfl_id": 17266,
+    "sleeper_id": 12868,
+    "fantasypros_id": 27649
   }
 ]
