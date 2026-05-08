@@ -11,7 +11,7 @@ jobs:
     env:
       RSPM: https://packagemanager.rstudio.com/cran/__linux__/noble/latest
       GITHUB_PAT: ${{ secrets.GH_PAT }}
-
+      SCRAPEOPS_API_KEY: ${{ secrets.SCRAPEOPS_API_KEY }}
     steps:
       - name: Checkout private db repo
         uses: actions/checkout@v2
