@@ -19019,5 +19019,25 @@
     "mfl_id": 17266,
     "sleeper_id": 12868,
     "fantasypros_id": 27649
+  },
+  {
+    "mfl_id": 17548,
+    "sleeper_id": 13400,
+    "sportradar_id": "014c6825-61ca-486d-9c4d-ca0968b58888"
+  },
+  {
+    "mfl_id": 17719,
+    "sleeper_id": 13946,
+    "sportradar_id": "771ff380-4afd-11f1-9d8a-8597778b0ecc"
+  },
+  {
+    "mfl_id": 17514,
+    "sleeper_id": 13417,
+    "sportradar_id": "ca6fa516-adeb-4fd2-9408-17c9c2e38798"
+  },
+  {
+    "mfl_id": 17466,
+    "sleeper_id": 13272,
+    "sportradar_id": "a67c28ce-9e03-46f1-9fb6-b5ef70eb20db"
   }
 ]
