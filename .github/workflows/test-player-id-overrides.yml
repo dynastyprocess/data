@@ -1,0 +1,43 @@
+name: test-player-id-overrides
+
+on:
+  pull_request:
+    paths:
+      - '.github/scripts/apply_player_id_overrides.R'
+      - '.github/workflows/test-player-id-overrides.yml'
+      - '.github/workflows/weekly-playerids.yml'
+      - 'files/player_id_overrides.csv'
+      - 'tests/test-player-id-overrides.R'
+  push:
+    paths:
+      - '.github/scripts/apply_player_id_overrides.R'
+      - '.github/workflows/test-player-id-overrides.yml'
+      - '.github/workflows/weekly-playerids.yml'
+      - 'files/player_id_overrides.csv'
+      - 'tests/test-player-id-overrides.R'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /.github/scripts/
+            /tests/
+            /files/player_id_overrides.csv
+            /files/db_playerids.csv
+            /files/db_playerids.rds
+      - uses: r-lib/actions/setup-r@v2
+        with:
+          use-public-rspm: true
+      - name: Install readr
+        run: install.packages("readr")
+        shell: Rscript {0}
+      - name: Test reviewed corrections and export consistency
+        run: Rscript tests/test-player-id-overrides.R

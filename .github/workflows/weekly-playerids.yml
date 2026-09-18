@@ -37,6 +37,7 @@ jobs:
           extra-packages: |
             ffverse/ffscrapr
             nflverse/nflreadr
+            readr
 
       - name: Update source player ID databases
         working-directory: ./private
@@ -51,6 +52,13 @@ jobs:
         working-directory: ./private
         run: |
           source("R/player_ids/build_playerids.R", chdir = TRUE)
+        shell: Rscript {0}
+
+      - name: Apply reviewed player-ID overrides
+        working-directory: ./public
+        run: |
+          source(".github/scripts/apply_player_id_overrides.R")
+          update_player_id_exports()
         shell: Rscript {0}
 
       - name: Save private data

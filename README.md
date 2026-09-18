@@ -27,11 +27,29 @@ A number of older files were moved into the `archives/` folder and are out of da
 
 Many hands make light work, especially when maintaining open data! Here are some ways you can contribute to this project:
 
-- You can [open an issue](https://github.com/DynastyProcess/data/issues/new/choose) if you'd like to request specific data or report a bug/error. 
+- You can [open an issue](https://github.com/DynastyProcess/data/issues/new/choose) if you'd like to request specific data or report a bug/error.
 
 - While the main files (as listed above) are maintained by an automated script, you can also make pull requests to supporting files (i.e. `missing_playerids.csv`) which are used to help fill in any gaps.
 
 - You can [buy me a coffee](https://ko-fi.com/tanho) or [sponsor this project](https://github.com/sponsors/tanho63) by donating to help with server costs!
+
+### Correcting a populated ESPN ID
+
+`files/player_id_overrides.csv` records reviewed corrections when an upstream
+source supplies an incorrect nonmissing ESPN ID. These differ from additions in
+`missing_ids.json`: the correction must take precedence after the database is
+built, rather than only filling a blank field.
+
+Each correction identifies the player by MFL ID, GSIS ID and name, records the
+known incorrect and verified replacement ESPN IDs, and links the evidence.
+The weekly player-ID workflow applies the corrections to **both** CSV and RDS
+exports before publication. It accepts the known bad value, a missing value or
+the already-correct value. A different ID, identity conflict or replacement ID
+already assigned to another player requires review and stops publication.
+Other fields, players and existing manual additions remain unchanged.
+
+Run the network-free regression checks with
+`Rscript tests/test-player-id-overrides.R` (requires `readr`).
 
 ---
 
