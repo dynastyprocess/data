@@ -712,7 +712,7 @@
     "gsis_id": "00-0032181",
     "sleeper_id": 2642,
     "yahoo_id": 29121,
-    "espn_id": 2516049,
+    "espn_id": 2511350,
     "pfr_id": "BateHo00"
   },
   {
@@ -19039,5 +19039,322 @@
     "mfl_id": 17466,
     "sleeper_id": 13272,
     "sportradar_id": "a67c28ce-9e03-46f1-9fb6-b5ef70eb20db"
+  },
+  {
+    "mfl_id": 11797,
+    "espn_id": 16904,
+    "pfr_id": "HuffMa00"
+  },
+  {
+    "mfl_id": 11855,
+    "espn_id": 17467,
+    "pfr_id": "HalxAn00"
+  },
+  {
+    "mfl_id": 11994,
+    "espn_id": 15356,
+    "pfr_id": "SmitJa01"
+  },
+  {
+    "mfl_id": 12353,
+    "espn_id": 2577467,
+    "pfr_id": "RipkAa00"
+  },
+  {
+    "mfl_id": 12816,
+    "espn_id": 2580052,
+    "pfr_id": "MorgDa01"
+  },
+  {
+    "mfl_id": 17365,
+    "sleeper_id": 12783
+  },
+  {
+    "mfl_id": 17386,
+    "sleeper_id": 13196
+  },
+  {
+    "mfl_id": 17388,
+    "sleeper_id": 12919
+  },
+  {
+    "mfl_id": 17389,
+    "sleeper_id": 11240
+  },
+  {
+    "mfl_id": 17397,
+    "sleeper_id": 12900
+  },
+  {
+    "mfl_id": 17398,
+    "sleeper_id": 13156
+  },
+  {
+    "mfl_id": 17408,
+    "sleeper_id": 13209
+  },
+  {
+    "mfl_id": 17412,
+    "sleeper_id": 13037
+  },
+  {
+    "mfl_id": 17479,
+    "sleeper_id": 13300
+  },
+  {
+    "mfl_id": 17550,
+    "sleeper_id": 13340
+  },
+  {
+    "mfl_id": 17551,
+    "sleeper_id": 13363
+  },
+  {
+    "mfl_id": 17552,
+    "sleeper_id": 13364
+  },
+  {
+    "mfl_id": 17553,
+    "sleeper_id": 13395
+  },
+  {
+    "mfl_id": 17555,
+    "sleeper_id": 13390
+  },
+  {
+    "mfl_id": 17561,
+    "sleeper_id": 13368
+  },
+  {
+    "mfl_id": 17562,
+    "sleeper_id": 13385
+  },
+  {
+    "mfl_id": 17563,
+    "sleeper_id": 13376
+  },
+  {
+    "mfl_id": 17564,
+    "sleeper_id": 13406
+  },
+  {
+    "mfl_id": 17568,
+    "sleeper_id": 13341
+  },
+  {
+    "mfl_id": 17570,
+    "sleeper_id": 13362
+  },
+  {
+    "mfl_id": 17572,
+    "sleeper_id": 13389
+  },
+  {
+    "mfl_id": 17573,
+    "sleeper_id": 13370
+  },
+  {
+    "mfl_id": 17574,
+    "sleeper_id": 13367
+  },
+  {
+    "mfl_id": 17575,
+    "sleeper_id": 13360
+  },
+  {
+    "mfl_id": 17576,
+    "sleeper_id": 13371
+  },
+  {
+    "mfl_id": 17577,
+    "sleeper_id": 13522
+  },
+  {
+    "mfl_id": 17580,
+    "sleeper_id": 13359
+  },
+  {
+    "mfl_id": 17581,
+    "sleeper_id": 13369
+  },
+  {
+    "mfl_id": 17582,
+    "sleeper_id": 13398
+  },
+  {
+    "mfl_id": 17583,
+    "sleeper_id": 13372
+  },
+  {
+    "mfl_id": 17585,
+    "sleeper_id": 13387
+  },
+  {
+    "mfl_id": 17590,
+    "sleeper_id": 13386
+  },
+  {
+    "mfl_id": 17597,
+    "sleeper_id": 13361
+  },
+  {
+    "mfl_id": 17601,
+    "sleeper_id": 13384
+  },
+  {
+    "mfl_id": 17608,
+    "sleeper_id": 13462
+  },
+  {
+    "mfl_id": 17609,
+    "sleeper_id": 13396
+  },
+  {
+    "mfl_id": 17610,
+    "sleeper_id": 13474
+  },
+  {
+    "mfl_id": 17616,
+    "sleeper_id": 13382
+  },
+  {
+    "mfl_id": 17626,
+    "sleeper_id": 13399
+  },
+  {
+    "mfl_id": 17633,
+    "sleeper_id": 13366
+  },
+  {
+    "mfl_id": 17635,
+    "sleeper_id": 13523
+  },
+  {
+    "mfl_id": 17639,
+    "sleeper_id": 13397
+  },
+  {
+    "mfl_id": 17640,
+    "sleeper_id": 13517
+  },
+  {
+    "mfl_id": 17641,
+    "sleeper_id": 13516
+  },
+  {
+    "mfl_id": 17646,
+    "sleeper_id": 13511
+  },
+  {
+    "mfl_id": 17649,
+    "sleeper_id": 13510
+  },
+  {
+    "mfl_id": 17659,
+    "sleeper_id": 13549
+  },
+  {
+    "mfl_id": 17661,
+    "sleeper_id": 13532
+  },
+  {
+    "mfl_id": 17666,
+    "sleeper_id": 13540
+  },
+  {
+    "mfl_id": 17668,
+    "sleeper_id": 13545
+  },
+  {
+    "mfl_id": 17673,
+    "sleeper_id": 13548
+  },
+  {
+    "mfl_id": 17674,
+    "sleeper_id": 13373
+  },
+  {
+    "mfl_id": 17680,
+    "sleeper_id": 13576
+  },
+  {
+    "mfl_id": 17682,
+    "sleeper_id": 13574
+  },
+  {
+    "mfl_id": 17683,
+    "sleeper_id": 13586
+  },
+  {
+    "mfl_id": 17726,
+    "sleeper_id": 13968
+  },
+  {
+    "mfl_id": 17736,
+    "sleeper_id": 13833
+  },
+  {
+    "mfl_id": 17746,
+    "sleeper_id": 13808
+  },
+  {
+    "mfl_id": 17753,
+    "sleeper_id": 13618
+  },
+  {
+    "mfl_id": 17755,
+    "sleeper_id": 13793
+  },
+  {
+    "mfl_id": 17762,
+    "sleeper_id": 13959
+  },
+  {
+    "mfl_id": 17765,
+    "sleeper_id": 13224
+  },
+  {
+    "mfl_id": 17768,
+    "sleeper_id": 13733
+  },
+  {
+    "mfl_id": 17771,
+    "sleeper_id": 14087
+  },
+  {
+    "mfl_id": 17773,
+    "sleeper_id": 12801
+  },
+  {
+    "mfl_id": 17776,
+    "sleeper_id": 13787
+  },
+  {
+    "mfl_id": 17777,
+    "sleeper_id": 13860
+  },
+  {
+    "mfl_id": 17778,
+    "sleeper_id": 14035
+  },
+  {
+    "mfl_id": 17780,
+    "sleeper_id": 12196
+  },
+  {
+    "mfl_id": 17784,
+    "sleeper_id": 14026
+  },
+  {
+    "mfl_id": 17790,
+    "sleeper_id": 13664
+  },
+  {
+    "mfl_id": 17797,
+    "sleeper_id": 13672
+  },
+  {
+    "mfl_id": 17798,
+    "sleeper_id": 12960
   }
 ]
