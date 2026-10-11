@@ -19039,5 +19039,17 @@
     "mfl_id": 17466,
     "sleeper_id": 13272,
     "sportradar_id": "a67c28ce-9e03-46f1-9fb6-b5ef70eb20db"
+  },
+  {
+    "mfl_id": 17627,
+    "sleeper_id": 13324
+  },
+  {
+    "mfl_id": 17482,
+    "gsis_id": "00-0040878"
+  },
+  {
+    "mfl_id": 17743,
+    "sleeper_id": 13602
   }
 ]
